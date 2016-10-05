@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1,Zubi DreamList V_0.05
+#EXTINF:-1,Zubi DreamList V_0.06
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png",RTP 1 
@@ -83,7 +83,7 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=especiaiscam2015
 #EXTINF:-1,SIC Caras
 
 
-#EXTINF:-1,SIC HD**
+#EXTINF:-1,SIC HD
 
 
 #EXTINF:-1,TVI FicCAo
@@ -125,7 +125,7 @@ http://213.13.26.11:1935/live/rtc_teste/KodiPortugal.pt.m3u8
 
 
 #EXTINF:-1,24 Kitchen
-
+http://giant-iptv.com:5477/live/camille/camille/8407.ts
 
 #EXTINF:-1 tvg-id="CancaoNova.PT" "tvg-logo="http://www.cancaonova.pt/wp-content/uploads/2015/11/logo_cnok.png",CANÇÃO NOVA
 http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
@@ -136,6 +136,9 @@ http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel0
 #EXTINF:-1,AXN
 
 
+#EXTINF:-1,PT:AXN-HD
+http://giant-iptv.com:5477/live/camille/camille/8406.ts
+
 #EXTINF:-1,AXN Black
 
 
@@ -145,13 +148,13 @@ http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel0
 #EXTINF:-1,Fox Portugal
 
 
-#EXTINF:-1,Fox Crime**
+#EXTINF:-1,Fox Crime
 
 
-#EXTINF:-1,Fox Life**
+#EXTINF:-1,Fox Life
 
 
-#EXTINF:-1,Fox Movies**
+#EXTINF:-1,Fox Movies
 
 
 #EXTINF:-1,FOX News
@@ -161,16 +164,19 @@ http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel0
 
 
 #EXTINF:-1,TVCine 1
-
+http://giant-iptv.com:5477/live/camille/camille/8445.ts
 
 #EXTINF:-1,TVCine 2
-
+http://giant-iptv.com:5477/live/camille/camille/8446.ts
 
 #EXTINF:-1,TVCine 3
-
+http://giant-iptv.com:5477/live/camille/camille/8447.ts
 
 #EXTINF:-1,TVCine 4
+http://giant-iptv.com:5477/live/camille/camille/8448.ts
 
+#EXTINF:-1,PT:TVCine5
+http://giant-iptv.com:5477/live/camille/camille/8449.ts
 
 #EXTINF:-1,TVSeries
 
@@ -190,7 +196,7 @@ http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel0
 #EXTINF:-1,Discovery Channel
 
 
-#EXTINF:-1,TRAVEL CHANNEL PORTUGAL**
+#EXTINF:-1,TRAVEL CHANNEL PORTUGAL
 
 
 #EXTINF:-1,Odisseia
@@ -199,25 +205,25 @@ http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel0
 #EXTINF:-1,Historia
 
 
-#EXTINF:-1,Localvisão TV**
+#EXTINF:-1,Localvisão TV
 
 
 #EXTINF:-1,Canal Panda
+http://giant-iptv.com:5477/live/camille/camille/8418.ts
+
+#EXTINF:-1,Panda Biggs
 
 
-#EXTINF:-1,Panda Biggs**
+#EXTINF:-1,Disney Junior
 
 
-#EXTINF:-1,Disney Junior**
+#EXTINF:-1,Disney Channel Portugal
 
 
-#EXTINF:-1,Disney Channel Portugal**
+#EXTINF:-1,Cartoon Network
+http://giant-iptv.com:5477/live/camille/camille/8416.ts
 
-
-#EXTINF:-1,Cartoon Network**
-
-
-#EXTINF:-1,Nickelodeon**
+#EXTINF:-1,Nickelodeon
 
 
 #EXTINF:-1,Jim Jam
@@ -227,7 +233,7 @@ http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel0
 
 
 #EXTINF:-1,Baby TV
-
+http://giant-iptv.com:5477/live/camille/camille/8417.ts
 
 #EXTINF:-1,MTV Portugal
 
@@ -235,22 +241,22 @@ http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel0
 #EXTINF:-1,E! Entertainment
 
 
-#EXTINF:-1,VH1**
+#EXTINF:-1,VH1
 
 
 #EXTINF:-1,MCM POP
 
 
-#EXTINF:-1,MCM TOP**
+#EXTINF:-1,MCM TOP
 
 
-#EXTINF:-1,C-MUSIC**
+#EXTINF:-1,C-MUSIC
 
 
-#EXTINF:-1,AFRO MUSIC**
+#EXTINF:-1,AFRO MUSIC
 
 
-#EXTINF:-1,TRACE**
+#EXTINF:-1,TRACE
 
 
 #EXTINF:-0 group-title="MUSICA TV" tvg-logo="Virgin Radio Tv.png",VIRGIN TV
@@ -263,7 +269,7 @@ http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 
 
 #EXTINF:-1,CBS REALITY
-
+http://giant-iptv.com:5477/live/camille/camille/8409.ts
 
 #EXTINF:-1,MCS LIFESTYLE
 
@@ -279,23 +285,29 @@ http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 
 #EXTINF:1,SPORT TV 1
 rtmp://31.220.0.187/privatestream/ playpath=fawergge?keys=WY2MEWvF4LkoAgE1VbOWOw&keyt=1472308204 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=fawergge  swfVfy=1 live=1 timeout=13
+#EXTINF:-1,PT:Sport TV 1 / 2
+http://giant-iptv.com:5477/live/camille/camille/8425.ts
 
 #EXTINF:-1,SPORT TV 2
-
+http://giant-iptv.com:5477/live/camille/camille/8426.ts
 
 #EXTINF:-1,SPORT TV 3
-
+http://giant-iptv.com:5477/live/camille/camille/8427.ts
 
 #EXTINF:1,SPORT TV 4*
 rtmp://31.220.40.61/privatestream/ playpath=dddd4uedifoekds?keys=Vri8Q5EwFb9Weo-FwdM8Ag&keyt=1471812541  swfUrl=http://privatestream.tv/js/jwplayer.flash.swf  pageUrl=http://privatestream.tv/player?streamname=dddd4uedifoekds  swfVfy=1 live=1 timeout=13
+#EXTINF:-1,PT:Sport TV 4 / 2
+http://giant-iptv.com:5477/live/camille/camille/8428.ts
 
 #EXTINF:-1,SPORT TV 5
+http://giant-iptv.com:5477/live/camille/camille/8429.ts
 
-
-#EXTINF:0,BTV 1
+#EXTINF:0,Benfica TV 1
 rtmp://31.220.40.61/privatestream/ playpath=gergtrg?keys=-9xSxtvS-ybNqYeR5Rklyw&keyt=1471185321 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=gergtrg  swfVfy=1 live=1 timeout=13
+#EXTINF:-1,PT:Benfica TV 1 / 2
+http://giant-iptv.com:5477/live/camille/camille/8424.ts
 
-#EXTINF:-1,BTV 2
+#EXTINF:-1,Benfica TV 2
 
 
 #EXTINF:-1,SPORTING TV
