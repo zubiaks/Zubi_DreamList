@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1,Zubi DreamList V_0.10
+#EXTINF:-1,Zubi DreamList V_0.11
 http://0.0.0.0:1234
 
 #EXTINF:-1 group-title="Generalistas" tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png",RTP 1 
@@ -49,6 +49,29 @@ http://giant-iptv.com:5477/live/camille/camille/8435.ts
 http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
 #EXTINF:-1 group-title="Generalistas" tvg-id="PortoCanal.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/medium",PORTO CANAL / 2
 http://213.13.26.13:1935/live/portocanal/KodiPortugal.pt.m3u8
+
+#EXTINF:-1 group-title="Generalistas" tvg-id="RTPAfrica.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png",RTP AFRICA
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpafrica swfVfy=1 live=1 timeout=15
+
+#EXTINF:-1 group-title="Generalistas" tvg-id="RTPAfrica.pt" tvg-logo="http://i65.tinypic.com/2552sjl.jpg",RTP INTERNACIONAL
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional swfVfy=1 live=1 timeout=15
+
+#EXTINF:-1 group-title="Generalistas",SIC Internacional HD
+
+
+#EXTINF:-1 group-title="Generalistas",TVI África
+
+
+#EXTINF:-1 group-title="Generalistas",TVI Internacional
+
+
+#EXTINF:-1 group-title="Generalistas" tvg-id="TPA" tvg-logo="http://www.thelogodb.com/images/media/logo/rsxstu1436845265.png",TPA Internacional*
+rtmp://fml.6F53.edgecastcdn.net/206F53 playpath=tpai512 swfUrl=http://www.tpai.tv/swf/jwplayer/player.swf?mag live=1 pageUrl=http://www.tpai.tv/live
+
+#EXTINF:-1 group-title="Generalistas" tvg-id="tvc.pt" tvg-logo="http://c3.quickcachr.fotos.sapo.pt/i/P1313c2ba/14950636_1qKLz.jpeg",TV CABO VERDE
+rtmp://213.13.26.11/live playpath=rtc_teste swfUrl=http://assets.web.sapo.io/sapovideo/swf/flvplayer-sapo.swf?v110713&file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24&live=rtmp://{$hostname}/live/rtc_teste&movref=http%3A%2F%2Fpt.online-television.net%2F952-rtc.html pageUrl=http://pt.online-television.net/952-rtc.html#.VImSJHu8q48 Conn=S:OK live=1
+#EXTINF:-1 tvg-id="TCV" tvg-logo="http://www.thelogodb.com/images/media/logo/squwqv1438186600.png/medium",TCV / 2
+http://213.13.26.11:1935/live/rtc_teste/KodiPortugal.pt.m3u8
 
 #EXTINF:-1 group-title="Informacao" tvg-id="rtpn.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvtqyy1461670745.png/medium",RTP3
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://kodiportugal.pt swfVfy=1 live=1 timeout=15
@@ -122,6 +145,10 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
 
 
 #EXTINF:-1 group-title="Informacao",TVC NEWS (Ingles)
+
+
+#EXTINF:-1 group-title="Informacao",FOX News (Ingles)
+
 
 #EXTINF:-1 group-title="entretenimento",SIC Mulher
 http://giant-iptv.com:5477/live/camille/camille/8442.ts
@@ -213,6 +240,9 @@ http://giant-iptv.com:5477/live/camille/camille/8409.ts
 
 #EXTINF:-1 group-title="entretenimento",Canal 180 HD
 
+
+#EXTINF:-1 group-title="entretenimento" tvg-id="n/a" tvg-logo="http://img0.rtp.pt/EPG/imgth/phpThumb.php?src=/common/img/channels/logos/gray-negative/vertical/rtparena.png&w=250&q=100&f=png",RTP Arena eSports*
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=especiaiscam2015 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://kodiportugal.pt swfVfy=1 live=1 timeout=15
 
 #EXTINF:-1 group-title="Infantil",Canal Panda
 http://giant-iptv.com:5477/live/camille/camille/8418.ts
@@ -336,6 +366,9 @@ http://giant-iptv.com:5477/live/camille/camille/8402.ts
 #EXTINF:-1 group-title="Filmes e Series",MOV
 
 
+#EXTINF:-1 group-title="Filmes e Series",Syfy
+http://giant-iptv.com:5477/live/camille/camille/8405.ts
+
 #EXTINF:-1 group-title="Musica",MTV Portugal
 
 
@@ -378,6 +411,9 @@ http://giant-iptv.com:5477/live/camille/camille/8402.ts
 #EXTINF:-1 group-title="Musica",Trace Toca (Frances)
 
 
+#EXTINF:-1 group-title="Musica",MAD TV (Greece)
+http://144.76.2.213:1935/live/livestream/chunklist_w595365199.m3u8
+
 #EXTINF:-1 group-title="MUSICA" tvg-logo="Virgin Radio Tv.png",VIRGIN TV (Ingles)
 http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 
@@ -405,32 +441,32 @@ http://giant-iptv.com:5477/live/camille/camille/8411.ts
 #EXTINF:-1 group-title="Documentarios",Odisseia
 
 
-#EXTINF:1 group-title="Desporto",SPORT TV 1
+#EXTINF:-1 group-title="Desporto",SPORT TV 1
 rtmp://31.220.0.187/privatestream/ playpath=fawergge?keys=WY2MEWvF4LkoAgE1VbOWOw&keyt=1472308204 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=fawergge  swfVfy=1 live=1 timeout=13
 #EXTINF:-1 group-title="Desporto",Sport TV 1 / 2
 http://giant-iptv.com:5477/live/camille/camille/8425.ts
 
-#EXTINF:1 group-title="Desporto",SPORT TV 1 HD
+#EXTINF:-1 group-title="Desporto",SPORT TV 1 HD
 
 
 #EXTINF:-1 group-title="Desporto",SPORT TV 2
 http://giant-iptv.com:5477/live/camille/camille/8426.ts
 
-#EXTINF:1 group-title="Desporto",SPORT TV 2 HD
+#EXTINF:-1 group-title="Desporto",SPORT TV 2 HD
 
 
 #EXTINF:-1 group-title="Desporto",SPORT TV 3
 http://giant-iptv.com:5477/live/camille/camille/8427.ts
 
-#EXTINF:1 group-title="Desporto",SPORT TV 3 HD
+#EXTINF:-1 group-title="Desporto",SPORT TV 3 HD
 
 
-#EXTINF:1 group-title="Desporto",SPORT TV 4*
+#EXTINF:-1 group-title="Desporto",SPORT TV 4*
 rtmp://31.220.40.61/privatestream/ playpath=dddd4uedifoekds?keys=Vri8Q5EwFb9Weo-FwdM8Ag&keyt=1471812541  swfUrl=http://privatestream.tv/js/jwplayer.flash.swf  pageUrl=http://privatestream.tv/player?streamname=dddd4uedifoekds  swfVfy=1 live=1 timeout=13
 #EXTINF:-1 group-title="Desporto",Sport TV 4 / 2
 http://giant-iptv.com:5477/live/camille/camille/8428.ts
 
-#EXTINF:1 group-title="Desporto",SPORT TV 4 HD
+#EXTINF:-1 group-title="Desporto",SPORT TV 4 HD
 
 
 #EXTINF:-1 group-title="Desporto",SPORT TV 5
@@ -439,12 +475,12 @@ http://giant-iptv.com:5477/live/camille/camille/8429.ts
 #EXTINF:1 group-title="Desporto",SPORT TV 5 HD
 
 
-#EXTINF:0 group-title="Desporto",Benfica TV 1
+#EXTINF:-1 group-title="Desporto",Benfica TV 1
 rtmp://31.220.40.61/privatestream/ playpath=gergtrg?keys=-9xSxtvS-ybNqYeR5Rklyw&keyt=1471185321 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=gergtrg  swfVfy=1 live=1 timeout=13
 #EXTINF:-1 group-title="Desporto",Benfica TV 1 / 2
 http://giant-iptv.com:5477/live/camille/camille/8424.ts
 
-#EXTINF:0 group-title="Desporto",Benfica TV 1 HD
+#EXTINF:-1 group-title="Desporto",Benfica TV 1 HD
 
 
 #EXTINF:-1 group-title="Desporto",Benfica TV 2
@@ -480,116 +516,75 @@ http://giant-iptv.com:5477/live/camille/camille/8421.ts
 #EXTINF:-1 group-title="Desporto",Motors TV HD
 
 
-#EXTINF:-1,PFC (Espanhol)
+#EXTINF:-1 group-title="Desporto",PFC (Espanhol)
 
 
+#EXTINF:-1 group-title="Desporto",Fuel TV
 
 
+#EXTINF:-1 group-title="Desporto",Fuel TV HD
 
 
+#EXTINF:-1 group-title="Desporto",Nautical Channel (Ingles)
 
 
-
-#EXTINF:-1 tvg-logo="http://i65.tinypic.com/2552sjl.jpg",RTP INTERNACIONAL
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional swfVfy=1 live=1 timeout=15
-
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png",RTP AFRICA
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpafrica swfVfy=1 live=1 timeout=15
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="http://img0.rtp.pt/EPG/imgth/phpThumb.php?src=/common/img/channels/logos/gray-negative/vertical/rtparena.png&w=250&q=100&f=png",RTP ARENA*
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=especiaiscam2015 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://kodiportugal.pt swfVfy=1 live=1 timeout=15
-
-#EXTINF:-1,SIC Internacional HD
+#EXTINF:-1 group-title="Desporto",Motors TV
 
 
-#EXTINF:-1,TVI África
+#EXTINF:-1 group-title="Desporto",FightBox HD (Ingles)
 
 
-#EXTINF:-1,TVI Internacional
+#EXTINF:-1 group-title="Desporto",Fast&Fun Box HD (Ingles)
 
 
-#EXTINF:0 tvg-id="TPA" tvg-logo="http://www.thelogodb.com/images/media/logo/rsxstu1436845265.png",TPA Internacional*
-rtmp://fml.6F53.edgecastcdn.net/206F53 playpath=tpai512 swfUrl=http://www.tpai.tv/swf/jwplayer/player.swf?mag live=1 pageUrl=http://www.tpai.tv/live
-
-#EXTINF:-1 tvg-id="tvc.pt" tvg-logo="http://c3.quickcachr.fotos.sapo.pt/i/P1313c2ba/14950636_1qKLz.jpeg",TV CABO VERDE
-rtmp://213.13.26.11/live playpath=rtc_teste swfUrl=http://assets.web.sapo.io/sapovideo/swf/flvplayer-sapo.swf?v110713&file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24&live=rtmp://{$hostname}/live/rtc_teste&movref=http%3A%2F%2Fpt.online-television.net%2F952-rtc.html pageUrl=http://pt.online-television.net/952-rtc.html#.VImSJHu8q48 Conn=S:OK live=1
-#EXTINF:-1 tvg-id="TCV" tvg-logo="http://www.thelogodb.com/images/media/logo/squwqv1438186600.png/medium",TCV / 2
-http://213.13.26.11:1935/live/rtc_teste/KodiPortugal.pt.m3u8
+#EXTINF:-1 group-title="Desporto",Fight Network (Ingles)
 
 
-#EXTINF:-1,EBT Portugal
-
-
-#EXTINF:-1 tvg-id="CancaoNova.PT" "tvg-logo="http://www.cancaonova.pt/wp-content/uploads/2015/11/logo_cnok.png",CANÇÃO NOVA
-http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
-
-#EXTINF:-1,FOX News
-
-
-#EXTINF:-1,Syfy
-http://giant-iptv.com:5477/live/camille/camille/8405.ts
-
-#EXTINF:-1,MCS LIFESTYLE
-
-
-#EXTINF:-1,MCS DOGTV
-
-
-#EXTINF:-1,A BOLA TV
-
-
-#EXTINF:-1,TOROTV
-
-
-#EXTINF:-1,Regiões TV
-
-
-#EXTINF:-1,SKYcom TV
-
-
-#EXTINF:-1,MVM TV
-
-
-#EXTINF:-1,Caça e Pesca
-
-
-#EXTINF:0,CBC SPORT
+#EXTINF:-1 group-title="Desporto",CBC SPORT (Ingles)
 http://94.20.74.243:4022/udp/239.254.10.28:1234
 
-#EXTINF:-1,AMC
+#EXTINF:-1 group-title="Desporto",Kombat Sport
 
 
-#EXTINF:-1,Cacavision
+#EXTINF:-1 group-title="Desporto",A BOLA TV
 
 
-#EXTINF:-1,CNBC EUROPE
+#EXTINF:-1 group-title="religioso" tvg-id="CancaoNova.PT" "tvg-logo="http://www.cancaonova.pt/wp-content/uploads/2015/11/logo_cnok.png",CANÇÃO NOVA
+http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+
+#EXTINF:-1 group-title="religioso", IGREJA ONLINE TV HD
+http://195.22.19.179:1935/igronl/igronline2/live.m3u8
+
+#EXTINF:-1 group-title="Temáticos",DOGTV (Ingles)
 
 
-#EXTINF:-1,Kombat Sport
+#EXTINF:-1 group-title="Temáticos",TOROTV (Espanhol)
 
+
+#EXTINF:-1 group-title="Temáticos",Caça e Pesca
+
+
+#EXTINF:-1 group-title="Temáticos" tvg-id="n/a" tvg-logo="http://www.thelogodb.com/images/media/logo/uyysuv1433430227.png",NASA TV PUBLIC (Ingles)
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+
+#EXTINF:-1 group-title="Temáticos" tvg-id="n/a" tvg-logo="http://www.thelogodb.com/images/media/logo/uyysuv1433430227.png",NASA TV MEDIA (Ingles)
+http://nasatv-lh.akamaihd.net/i/NASA_103@319271/master.m3u8
+
+#EXTINF:-1 group-title="regionais", agueda TV*
+http://agueda.tv:1756/stream.flv
 
 #EXTINF:-1 group-title="XXX TV",Playboy TV
 
 
 #EXTINF:-1 group-title="XXX TV",Venus
 
-#EXTINF:-0 group-title="XXX TV" tvg-logo="penhousetv.jpg",PENHOUSETV
+
+#EXTINF:-1 group-title="XXX TV" tvg-logo="penhousetv.jpg",PENHOUSETV
 rtmp://edge1.everyon.tv/etv1sb//phd10927
 
-#EXTINF:-1, agueda TV*
-http://agueda.tv:1756/stream.flv
-
-#EXTINF:-1 tvg-id="" tvg-logo="Capelinha_de_Fatima_TV_Fatima.png" group-title=PORTUGAL, CAPELINHA FATIMA
+#EXTINF:-1 group-title="WebCams" tvg-id="" tvg-logo="Capelinha_de_Fatima_TV_Fatima.png" group-title=PORTUGAL, CAPELINHA FATIMA
 rtmp://213.13.26.11/live playpath=santuario.stream swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer.swf?live=rtmp://{$hostname}/live/santuario&file=http://rd3.videos.sapo.pt/nk4p1I65eivPLPe4i1hy/mov/24 live=1 pageUrl=objectEncoding
 
-#EXTINF:-1, IGREJA ONLINE TV HD
-http://195.22.19.179:1935/igronl/igronline2/live.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="http://www.thelogodb.com/images/media/logo/uyysuv1433430227.png",NASA TV PUBLIC
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="http://www.thelogodb.com/images/media/logo/uyysuv1433430227.png",NASA TV MEDIA
-http://nasatv-lh.akamaihd.net/i/NASA_103@319271/master.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.googleusercontent.com/-UnK39Ro_n8w/Vcn2Fq2_yKI/AAAAAAAAACk/z14TsFRKmXY/w426-h427/ISSTracker_v4a.png",LIVE ISS STREAM
+#EXTINF:-1 group-title="WebCams" tvg-id="n/a" tvg-logo="https://lh3.googleusercontent.com/-UnK39Ro_n8w/Vcn2Fq2_yKI/AAAAAAAAACk/z14TsFRKmXY/w426-h427/ISSTracker_v4a.png",LIVE ISS STREAM (Ingles)
 http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
+
