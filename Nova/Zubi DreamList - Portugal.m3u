@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1,Zubi DreamList V_0.12
+#EXTINF:-1,Zubi DreamList V_0.13
 http://0.0.0.0:1234
 
 #EXTINF:-1 group-title="Generalistas" tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png",RTP 1 
@@ -150,6 +150,9 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
 
 #EXTINF:-1 group-title="Informacao",RT (Ingles)
 http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
+
+#EXTINF:-1 group-title="Informacao",ABC (Ingles)
+ http://abclive.abcnews.com/i/abc_live4@136330/index_800_av-b.m3u8
 
 #EXTINF:-1 group-title="entretenimento",SIC Mulher
 http://giant-iptv.com:5477/live/camille/camille/8442.ts
@@ -415,7 +418,10 @@ http://giant-iptv.com:5477/live/camille/camille/8402.ts
 #EXTINF:-1 group-title="Musica",MAD TV (Greece)
 http://144.76.2.213:1935/live/livestream/chunklist_w595365199.m3u8
 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="Virgin Radio Tv.png",VIRGIN TV (Ingles)
+#EXTINF:-1 group-title="Musica" tvg-logo="Virgin Radio Tv.png",VIRGIN TV (Ingles)
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+
+#EXTINF:-1 group-title="Musica" tvg-logo="Virgin Radio Tv.png",Topestrada TV (Ingles)
 http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 
 #EXTINF:-1 group-title="Documentarios",Discovery Channel
