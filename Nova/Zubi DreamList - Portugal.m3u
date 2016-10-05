@@ -1,79 +1,81 @@
 ﻿#EXTM3U
-#EXTINF:-1,Zubi DreamList V_0.07
+#EXTINF:-1,Zubi DreamList V_0.09
 http://0.0.0.0:1234
 
 #EXTINF:-1 group-title="Generalistas" tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png",RTP 1 
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtp1 swfVfy=1 live=1 timeout=15
-#EXTINF:-1 group-title="Generalistas",RTP1 / 2
+#EXTINF:-1 group-title="Generalistas" tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png",RTP1 / 2
 http://giant-iptv.com:5477/live/camille/camille/8430.ts
 
 #EXTINF:-1 group-title="Generalistas",RTP 1 HD
 
 
-#EXTINF:-1 tvg-name="rtp2.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png",RTP 2 
+#EXTINF:-1 group-title="Generalistas" tvg-name="rtp2.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png",RTP 2 
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtp2 swfVfy=1 live=1 timeout=15
-#EXTINF:-1,PT:RTP2 / 2
+#EXTINF:-1 group-title="Generalistas" tvg-name="rtp2.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png",RTP2 / 2
 http://giant-iptv.com:5477/live/camille/camille/8431.ts
 
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",SIC 
+#EXTINF:-1 group-title="Generalistas"  tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",SIC 
 http://live.impresa.pt/live/sic/sic540p.m3u8
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",SIC 
+#EXTINF:-1 group-title="Generalistas"  tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",SIC / 2
 http://giant-iptv.com:5477/live/camille/camille/8443.ts
 
-#EXTINF:-1 tvg-name="tvi.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png",TVI
+#EXTINF:-1 group-title="Generalistas"  tvg-name="tvi.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png",TVI
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png/medium",TVI / 2
+#EXTINF:-1 group-title="Generalistas"  tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png/medium",TVI / 2
 http://video-live.iol.pt:1935/live_tvi/LIVE_TVI-1/KodiPortugal.pt.m3u8
-#EXTINF:-1,PT:TVI / 3
+#EXTINF:-1 group-title="Generalistas"  tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png/medium",TVI / 3
 http://giant-iptv.com:5477/live/camille/camille/8437.ts
 
-#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvtqyy1461670745.png/medium",RTP3 / 3
+#EXTINF:-1 group-title="Generalistas"  tvg-id="rtpn.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvtqyy1461670745.png/medium",RTP3 / 3
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://kodiportugal.pt swfVfy=1 live=1 timeout=15
-#EXTINF:-1,PT:Rtp3 / 2
+#EXTINF:-1 group-title="Generalistas" tvg-id="rtpn.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvtqyy1461670745.png/medium",Rtp3 / 2
 http://giant-iptv.com:5477/live/camille/camille/8432.ts
 
-#EXTINF:-1,SIC Noticias
+#EXTINF:-1 group-title="Generalistas" tvg-logo="http://i67.tinypic.com/2n2hzb.jpg",RTP MEMORIA
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria swfVfy=1 live=1 timeout=15
+#EXTINF:-1 group-title="Generalistas" tvg-logo="http://i67.tinypic.com/2n2hzb.jpg",RTP.Memoria / 2
+http://giant-iptv.com:5477/live/camille/camille/8433.ts
+
+#EXTINF:-1 group-title="Generalistas" tvg-id="RTPMadeira.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png",RTP MADEIRA
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmadeira swfVfy=1 live=1 timeout=15
+#EXTINF:-1 group-title="Generalistas" tvg-id="RTPMadeira.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png",RTP MADEIRA / 2
+http://giant-iptv.com:5477/live/camille/camille/8434.ts
+
+#EXTINF:-1 group-title="Generalistas" tvg-id="RTPAcores.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png",RTP ACORES
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://kodiportugal.pt swfVfy=1 live=1 timeout=15
+#EXTINF:-1 group-title="Generalistas" tvg-id="RTPAcores.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png",RTP ACORES / 2
+http://giant-iptv.com:5477/live/camille/camille/8435.ts
 
 
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png/medium",TVI24
+
+
+#EXTINF:-1 group-title="Informação",SIC Noticias
+
+#EXTINF:-1 group-title="Informação" tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png/medium",TVI24
 http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/KodiPortugal.pt.m3u8
-#EXTINF:-1,PT:tvi/24 / 2
+#EXTINF:-1 group-title="Informação" tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png/medium",tvi/24 / 2
 http://giant-iptv.com:5477/live/camille/camille/8438.ts
 
-#EXTINF:-1 tvg-name="CM TV" audio-track="pt" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg", CM TV
+#EXTINF:-1 group-title="Informação" tvg-name="CM TV" audio-track="pt" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg", CM TV
 http://giant-iptv.com:5477/live/camille/camille/8444.ts
 
-#EXTINF:-1 tvg-id="EconomicaTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uuvqrt1436889894.png/medium",ECONÓMICO TV
+#EXTINF:-1 group-title="Informação" tvg-id="EconomicaTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uuvqrt1436889894.png/medium",ECONÓMICO TV
 http://wownet.ro/str/0511.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="EconomicaTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uuvqrt1436889894.png/medium",ECONÓMICO TV / 2
+#EXTINF:-1 group-title="Informação" tvg-id="EconomicaTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uuvqrt1436889894.png/medium",ECONÓMICO TV / 2
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/euronews.png", EURONEWS PORTUGAL
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
 
 
-#EXTINF:-1, CNN 
+#EXTINF:-1 group-title="Informação",CNN 
 
 
-#EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xvswvy1437956693.png/medium",CANAL PARLAMENTO
+#EXTINF:-1 group-title="Informação" tvg-id="ARTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xvswvy1437956693.png/medium",CANAL PARLAMENTO
 http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/chunklist_w782217075.m3u8
-#EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xvswvy1437956693.png/medium",CANAL PARLAMENTO / 2
+#EXTINF:-1 group-title="Informação" tvg-id="ARTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xvswvy1437956693.png/medium",CANAL PARLAMENTO / 2
 http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/KodiPortugal.pt.m3u8
-
-#EXTINF:-1 tvg-logo="http://i67.tinypic.com/2n2hzb.jpg",RTP MEMORIA
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria swfVfy=1 live=1 timeout=15
-#EXTINF:-1,PT:RTP.Memoria / 2
-http://giant-iptv.com:5477/live/camille/camille/8433.ts
-
-#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png",RTP MADEIRA
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmadeira swfVfy=1 live=1 timeout=15
-#EXTINF:-1,PT:RTP.Madeira / 2
-http://giant-iptv.com:5477/live/camille/camille/8434.ts
-
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png",RTP ACORES
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://kodiportugal.pt swfVfy=1 live=1 timeout=15
-#EXTINF:-1,PT:RTP.Acores / 2
-http://giant-iptv.com:5477/live/camille/camille/8435.ts
 
 #EXTINF:-1 tvg-logo="http://i65.tinypic.com/2552sjl.jpg",RTP INTERNACIONAL
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional swfVfy=1 live=1 timeout=15
