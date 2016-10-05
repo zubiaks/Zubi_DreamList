@@ -2,12 +2,12 @@
 #EXTINF:-1,Zubi DreamList V_0.07
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png",RTP 1 
+#EXTINF:-1 group-title="Generalistas" tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png",RTP 1 
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtp1 swfVfy=1 live=1 timeout=15
-#EXTINF:-1,PT:RTP1 / 2
+#EXTINF:-1 group-title="Generalistas",RTP1 / 2
 http://giant-iptv.com:5477/live/camille/camille/8430.ts
 
-#EXTINF:-1,RTP 1 HD
+#EXTINF:-1 group-title="Generalistas",RTP 1 HD
 
 
 #EXTINF:-1 tvg-name="rtp2.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png",RTP 2 
@@ -401,10 +401,10 @@ http://94.20.74.243:4022/udp/239.254.10.28:1234
 #EXTINF:-1,Motors TV
 
 
-#EXTINF:-1,Playboy TV
+#EXTINF:-1 group-title="XXX TV",Playboy TV
 
 
-#EXTINF:-1,Venus
+#EXTINF:-1 group-title="XXX TV",Venus
 
 #EXTINF:-0 group-title="XXX TV" tvg-logo="penhousetv.jpg",PENHOUSETV
 rtmp://edge1.everyon.tv/etv1sb//phd10927
