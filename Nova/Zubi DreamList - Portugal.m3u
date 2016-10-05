@@ -1,15 +1,19 @@
 ﻿#EXTM3U
-#EXTINF:-1,Zubi DreamList V_0.06
+#EXTINF:-1,Zubi DreamList V_0.07
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png",RTP 1 
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtp1 swfVfy=1 live=1 timeout=15
+#EXTINF:-1,PT:RTP1 / 2
+http://giant-iptv.com:5477/live/camille/camille/8430.ts
 
 #EXTINF:-1,RTP 1 HD
 
 
 #EXTINF:-1 tvg-name="rtp2.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png",RTP 2 
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtp2 swfVfy=1 live=1 timeout=15
+#EXTINF:-1,PT:RTP2 / 2
+http://giant-iptv.com:5477/live/camille/camille/8431.ts
 
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",SIC 
 http://live.impresa.pt/live/sic/sic540p.m3u8
@@ -20,18 +24,24 @@ http://giant-iptv.com:5477/live/camille/camille/8443.ts
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
 #EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png/medium",TVI / 2
 http://video-live.iol.pt:1935/live_tvi/LIVE_TVI-1/KodiPortugal.pt.m3u8
+#EXTINF:-1,PT:TVI / 3
+http://giant-iptv.com:5477/live/camille/camille/8437.ts
 
 #EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvtqyy1461670745.png/medium",RTP3 / 3
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://kodiportugal.pt swfVfy=1 live=1 timeout=15
+#EXTINF:-1,PT:Rtp3 / 2
+http://giant-iptv.com:5477/live/camille/camille/8432.ts
 
 #EXTINF:-1,SIC Noticias
 
 
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png/medium",TVI24
 http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/KodiPortugal.pt.m3u8
+#EXTINF:-1,PT:tvi/24 / 2
+http://giant-iptv.com:5477/live/camille/camille/8438.ts
 
 #EXTINF:-1 tvg-name="CM TV" audio-track="pt" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg", CM TV
-
+http://giant-iptv.com:5477/live/camille/camille/8444.ts
 
 #EXTINF:-1 tvg-id="EconomicaTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uuvqrt1436889894.png/medium",ECONÓMICO TV
 http://wownet.ro/str/0511.m3u8|X-Forwarded-For=81.17.18.50
@@ -52,12 +62,18 @@ http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/KodiPortugal.pt.m3u8
 
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/2n2hzb.jpg",RTP MEMORIA
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria swfVfy=1 live=1 timeout=15
+#EXTINF:-1,PT:RTP.Memoria / 2
+http://giant-iptv.com:5477/live/camille/camille/8433.ts
 
 #EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png",RTP MADEIRA
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmadeira swfVfy=1 live=1 timeout=15
+#EXTINF:-1,PT:RTP.Madeira / 2
+http://giant-iptv.com:5477/live/camille/camille/8434.ts
 
 #EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png",RTP ACORES
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://kodiportugal.pt swfVfy=1 live=1 timeout=15
+#EXTINF:-1,PT:RTP.Acores / 2
+http://giant-iptv.com:5477/live/camille/camille/8435.ts
 
 #EXTINF:-1 tvg-logo="http://i65.tinypic.com/2552sjl.jpg",RTP INTERNACIONAL
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional swfVfy=1 live=1 timeout=15
@@ -69,10 +85,10 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=especiaiscam2015 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://kodiportugal.pt swfVfy=1 live=1 timeout=15
 
 #EXTINF:-1,SIC Mulher
-
+http://giant-iptv.com:5477/live/camille/camille/8442.ts
 
 #EXTINF:-1,SIC Radical
-
+http://giant-iptv.com:5477/live/camille/camille/8441.ts
 
 #EXTINF:-1,SIC Radical HD
 
@@ -81,7 +97,7 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=especiaiscam2015
 
 
 #EXTINF:-1,SIC Caras
-
+http://giant-iptv.com:5477/live/camille/camille/8440.ts
 
 #EXTINF:-1,SIC HD
 
@@ -90,7 +106,7 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=especiaiscam2015
 
 
 #EXTINF:-1,TVI Reality
-
+http://giant-iptv.com:5477/live/camille/camille/8408.ts
 
 #EXTINF:-1,TVI África
 
@@ -116,7 +132,7 @@ http://213.13.26.11:1935/live/rtc_teste/KodiPortugal.pt.m3u8
 
 
 #EXTINF:-1,TV Globo Portugal
-
+http://giant-iptv.com:5477/live/camille/camille/8436.ts
 
 #EXTINF:-1,TV Record
 
@@ -148,14 +164,20 @@ http://giant-iptv.com:5477/live/camille/camille/8406.ts
 #EXTINF:-1,Fox Portugal
 
 
-#EXTINF:-1,Fox Crime
+#EXTINF:-1,PT:FoxHD
+http://giant-iptv.com:5477/live/camille/camille/8404.ts
 
+#EXTINF:-1,Fox Crime
+http://giant-iptv.com:5477/live/camille/camille/8400.ts
 
 #EXTINF:-1,Fox Life
 
 
-#EXTINF:-1,Fox Movies
+#EXTINF:-1,PT:FoxLifeHD
+http://giant-iptv.com:5477/live/camille/camille/8403.ts
 
+#EXTINF:-1,Fox Movies
+http://giant-iptv.com:5477/live/camille/camille/8401.ts
 
 #EXTINF:-1,FOX News
 
@@ -179,22 +201,28 @@ http://giant-iptv.com:5477/live/camille/camille/8448.ts
 http://giant-iptv.com:5477/live/camille/camille/8449.ts
 
 #EXTINF:-1,TVSeries
-
+http://giant-iptv.com:5477/live/camille/camille/8439.ts
 
 #EXTINF:-1,Syfy
-
+http://giant-iptv.com:5477/live/camille/camille/8405.ts
 
 #EXTINF:-1,Cinemundo
-
+http://giant-iptv.com:5477/live/camille/camille/8399.ts
 
 #EXTINF:-1,FOX Comedy
-
+http://giant-iptv.com:5477/live/camille/camille/8402.ts
 
 #EXTINF:-1,National Geographic
 
 
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1,PT:National Geographic Wild
+http://giant-iptv.com:5477/live/camille/camille/8411.ts
 
+#EXTINF:-1,Discovery Channel
+http://giant-iptv.com:5477/live/camille/camille/8410.ts
+
+#EXTINF:-1,PT:Discovery-HD
+http://giant-iptv.com:5477/live/camille/camille/8412.ts
 
 #EXTINF:-1,TRAVEL CHANNEL PORTUGAL
 
@@ -215,22 +243,22 @@ http://giant-iptv.com:5477/live/camille/camille/8418.ts
 
 
 #EXTINF:-1,Disney Junior
-
+http://giant-iptv.com:5477/live/camille/camille/8419.ts
 
 #EXTINF:-1,Disney Channel Portugal
-
+http://giant-iptv.com:5477/live/camille/camille/8420.ts
 
 #EXTINF:-1,Cartoon Network
 http://giant-iptv.com:5477/live/camille/camille/8416.ts
 
 #EXTINF:-1,Nickelodeon
-
+http://giant-iptv.com:5477/live/camille/camille/8415.ts
 
 #EXTINF:-1,Jim Jam
+http://giant-iptv.com:5477/live/camille/camille/8413.ts
 
-
-#EXTINF:-1,SIC K
-
+#EXTINF:-1,SIC Kids
+http://giant-iptv.com:5477/live/camille/camille/8414.ts
 
 #EXTINF:-1,Baby TV
 http://giant-iptv.com:5477/live/camille/camille/8417.ts
@@ -262,10 +290,10 @@ http://giant-iptv.com:5477/live/camille/camille/8417.ts
 #EXTINF:-0 group-title="MUSICA TV" tvg-logo="Virgin Radio Tv.png",VIRGIN TV
 http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 
-#EXTINF:-1,Fashion TV**
+#EXTINF:-1,Fashion TV
 
 
-#EXTINF:-1,LUXE TV HD**
+#EXTINF:-1,LUXE TV HD
 
 
 #EXTINF:-1,CBS REALITY
@@ -311,7 +339,7 @@ http://giant-iptv.com:5477/live/camille/camille/8424.ts
 
 
 #EXTINF:-1,SPORTING TV
-
+http://giant-iptv.com:5477/live/camille/camille/8423.ts
 
 #EXTINF:-1,Manchester United TV
 
@@ -320,7 +348,7 @@ http://giant-iptv.com:5477/live/camille/camille/8424.ts
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1,EUROSPORT PORTUGAL
-
+http://giant-iptv.com:5477/live/camille/camille/8421.ts
 
 #EXTINF:-1,EUROSPORT 2
 
