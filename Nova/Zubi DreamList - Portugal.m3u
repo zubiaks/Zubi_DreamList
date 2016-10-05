@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1,Zubi DreamList V_0.13
+#EXTINF:-1,Zubi DreamList V_0.14
 http://0.0.0.0:1234
 
 #EXTINF:-1 group-title="Generalistas" tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png",RTP 1 
@@ -244,6 +244,9 @@ http://giant-iptv.com:5477/live/camille/camille/8407.ts
 
 #EXTINF:-1 group-title="entretenimento",Canal 180 HD
 
+
+#EXTINF:-1 group-title="entretenimento",MegaMe TV (Ingles)
+http://live-1124.la2.edge.filmon.com/live/2687.high.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="entretenimento" tvg-id="n/a" tvg-logo="http://img0.rtp.pt/EPG/imgth/phpThumb.php?src=/common/img/channels/logos/gray-negative/vertical/rtparena.png&w=250&q=100&f=png",RTP Arena eSports*
 
@@ -556,6 +559,24 @@ http://94.20.74.243:4022/udp/239.254.10.28:1234
 #EXTINF:-1 group-title="Desporto",A BOLA TV
 
 
+#EXTINF:-1 group-title="Desporto",Versus HD (Ingles)
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:-1 group-title="Desporto",BURSA SPORT (Turkish)
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
+
+#EXTINF:-1 group-title="Desporto",SKY SPORTS 1 (Ingles)
+http://23.237.4.162:8080/Skysports1/index.m3u8
+
+#EXTINF:-1 group-title="Desporto",SKY SPORTS 2 (Ingles)
+http://23.237.4.162:8080/Skysports2/index.m3u8
+
+#EXTINF:-1 group-title="Desporto",SKY SPORTS 3 (Ingles)
+http://23.237.4.162:8080/Skysports3/index.m3u8
+
+#EXTINF:-1 group-title="Desporto",SKY SPORTS 4 (Ingles)
+http://23.237.4.162:8080/Skysports4/index.m3u8
+
 #EXTINF:-1 group-title="religioso" tvg-id="CancaoNova.PT" "tvg-logo="http://www.cancaonova.pt/wp-content/uploads/2015/11/logo_cnok.png",CANÇÃO NOVA
 http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
 
@@ -585,6 +606,9 @@ http://agueda.tv:1756/stream.flv
 
 #EXTINF:-1 group-title="XXX TV",Venus
 
+
+#EXTINF:-1 group-title="XXX TV",sexy hot
+http://192.99.148.73:8080/live/andrektaras/andrektaras/91.m3u8
 
 #EXTINF:-1 group-title="XXX TV" tvg-logo="penhousetv.jpg",PENHOUSETV
 rtmp://edge1.everyon.tv/etv1sb//phd10927
