@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1,Zubi DreamList V_0.16
+#EXTINF:-1,Zubi DreamList V_0.17
 http://0.0.0.0:1234
 
 #EXTINF:-1,Generalistas
@@ -911,6 +911,61 @@ http://195.154.182.238:5477/get.php?username=ramiz&password=ramiz&type=m3u
 #EXTINF:-1 group-title="USA",AMC
 http://46.166.162.35:9090/load/b0922f3fa8aa/4.m3u8
 
+#EXTINF:-1,ABC
+#EXTINF:-1 group-title="USA",ABC
+http://46.166.162.35:9090/load/b0922f3fa8aa/3.m3u8
+
+#EXTINF:-1,E!
+#EXTINF:-1 group-title="USA",E!
+http://46.166.162.35:9090/load/b0922f3fa8aa/6.m3u8
+
+#EXTINF:-1,LMN
+#EXTINF:-1 group-title="USA",LMN
+http://46.166.162.35:9090/load/b0922f3fa8aa/7.m3u8
+
+#EXTINF:-1,FX
+#EXTINF:-1 group-title="USA",FX
+http://46.166.162.35:9090/load/b0922f3fa8aa/8.m3u8
+
+#EXTINF:-1,SPIKE
+#EXTINF:-1 group-title="USA",SPIKE
+http://46.166.162.35:9090/load/b0922f3fa8aa/9.m3u8
+
+#EXTINF:-1,TNT
+#EXTINF:-1 group-title="USA",TNT
+http://46.166.162.35:9090/load/b0922f3fa8aa/10.m3u8
+
+#EXTINF:-1,SYFY
+#EXTINF:-1 group-title="USA",SYFY
+http://46.166.162.35:9090/load/b0922f3fa8aa/11.m3u8
+
+#EXTINF:-1,TV US
+#EXTINF:-1 group-title="USA",TV US
+http://46.166.162.35:9090/load/b0922f3fa8aa/12.m3u8
+
+#EXTINF:-1,TBS
+#EXTINF:-1 group-title="USA",FILME US
+http://46.166.162.35:9090/load/b0922f3fa8aa/13.m3u8
+
+#EXTINF:-1,COMEDY CENTRAL
+#EXTINF:-1 group-title="USA",COMEDY CENTRAL
+http://46.166.162.35:9090/load/b0922f3fa8aa/14.m3u8
+
+#EXTINF:-1,DISCOVERY
+#EXTINF:-1 group-title="USA",DISCOVERY
+http://46.166.162.35:9090/load/b0922f3fa8aa/15.m3u8
+
+#EXTINF:-1,TV US
+#EXTINF:-1 group-title="USA",TV US
+http://46.166.162.35:9090/load/b0922f3fa8aa/18.m3u8
+
+#EXTINF:-1,SHOWCASE
+#EXTINF:-1 group-title="USA",SHOWCASE
+http://46.166.162.35:9090/load/b0922f3fa8aa/28.m3u8
+
+#EXTINF:-1,FILME US
+#EXTINF:-1 group-title="USA",FILME US
+http://46.166.162.35:9090/load/b0922f3fa8aa/30.m3u8
 
 
 
