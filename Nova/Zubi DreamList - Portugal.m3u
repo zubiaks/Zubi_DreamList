@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1,Zubi DreamList V_0.19
+#EXTINF:-1,Zubi DreamList V_0.20
 http://0.0.0.0:1234
 
 #EXTINF:-1,Generalistas
@@ -564,12 +564,193 @@ http://0.0.0.0:1234
 #EXTINF:-1 group-title="Musica",Trace TV (Frances)
 
 
-#EXTINF:-1,Trace TV
-#EXTINF:-1 group-title="Musica",Trace TV (Frances)
+#EXTINF:-1 Atomic
+#EXTINF:-1 group-title="Musica",Atomic
+rtmp://5.154.185.153/live/live.flv
 
 
 #EXTINF:-1,Trace Toca
 #EXTINF:-1 group-title="Musica",Trace Toca (Frances)
+
+
+#EXTINF:-1,Capital TV (UK)
+#EXTINF:-1 group-title="Musica",Capital TV (UK)
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+
+
+#EXTINF:-1,City Radio TV
+#EXTINF:-1 group-title="Musica",City Radio TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
+
+
+#EXTINF:-1,Cool HD
+#EXTINF:-1 group-title="Musica",Cool HD
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+
+
+#EXTINF:-1,Dream TV
+#EXTINF:-1 group-title="Musica",Dream TV
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+
+#EXTINF:-1,Eska Best Music TV
+#EXTINF:-1 group-title="Musica",Eska Best Music TV
+http://stream.smcloud.net/live/eskatv/playlist.m3u8
+
+
+#EXTINF:-1,Eska Party TV
+#EXTINF:-1 group-title="Musica",Eska Party TV
+http://stream.smcloud.net/live/eska_party/playlist.m3u8
+
+
+#EXTINF:-1,Eska Rock TV
+#EXTINF:-1 group-title="Musica",Eska Rock TV
+http://stream.smcloud.net/live2/http://stream.smcloud.net/live/eska_rock/playlist.m3u8http://stream.smcloud.net/live/eska_rock/playlist.m3u8/eska_rock_480p/Eska&Rock&TV.m3u8
+
+
+#EXTINF:-1,Eska Vox TV Old Cool
+#EXTINF:-1 group-title="Musica",Eska Vox TV Old Cool
+http://stream.smcloud.net/live/vox/playlist.m3u8
+
+
+#EXTINF:-1,Exa TV
+#EXTINF:-1 group-title="Musica",Exa TV
+http://premium.exabytetv.info/cieloV2.php?token=10011000110010110110110010100100101-ExabyteTV&id=14998&exabytetv=1&f=.m3u8
+
+
+#EXTINF:-1,Hard Life
+#EXTINF:-1 group-title="Musica",Hard Life
+http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
+
+
+#EXTINF:-1,Heart TV (UK)
+#EXTINF:-1 group-title="Musica",Heart TV (UK)
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+
+#EXTINF:-1,Hit TV
+#EXTINF:-1 group-title="Musica",Hit TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
+
+
+#EXTINF:-1,HTV
+#EXTINF:-1 group-title="Musica",HTV
+http://premium.exabytetv.info/cieloV2.php?token=10011000110010110110110010100100101-ExabyteTV&id=1896&exabytetv=1&f=.m3u8
+
+
+#EXTINF:-1,m2o tv
+#EXTINF:-1 group-title="Musica",m2o tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1,M6 Music
+#EXTINF:-1 group-title="Musica",M6 Music
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+
+
+#EXTINF:-1,Melody Channel
+#EXTINF:-1 group-title="Musica",Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+
+
+#EXTINF:-1,Movistar Music
+#EXTINF:-1 group-title="Musica",Movistar Music
+http://B36642.cdn.telefonica.com/36642/ch09/3.m3u8
+
+
+#EXTINF:-1,MTV Base
+#EXTINF:-1 group-title="Musica",MTV Base
+http://premium.exabytetv.info/xtc/10011000110010110110110010100100101-ExabyteTV/1596/exabytetv.m3u8
+
+
+#EXTINF:-1,MTV Hits (Op2)
+#EXTINF:-1 group-title="Musica",MTV Hits (Op2)
+http://premium.exabytetv.info/cieloV2.php?token=10011000110010110110110010100100101-ExabyteTV&id=3050&exabytetv=1&f=.m3u8
+
+
+#EXTINF:-1,MTV Latino (Op2)
+#EXTINF:-1 group-title="Musica",MTV Latino (Op2)
+http://premium.exabytetv.info/cieloV2.php?token=10011000110010110110110010100100101-ExabyteTV&id=4046&exabytetv=1&f=.m3u8
+
+
+#EXTINF:-1,MTV Rocks
+#EXTINF:-1 group-title="Musica",MTV Rocks
+http://94.74.65.100:19123/ott/68:1122
+
+
+#EXTINF:-1,OneTV Arg
+#EXTINF:-1 group-title="Musica",OneTV Arg
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+
+
+#EXTINF:-1,Retro TV
+#EXTINF:-1 group-title="Musica",Retro TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+
+#EXTINF:-1,Rock & Pop
+#EXTINF:-1 group-title="Musica",Rock & Pop
+http://premium.exabytetv.info/cable/10011000110010110110110010100100101-ExabyteTV/1476/exabytetv.m3u8
+
+
+#EXTINF:-1,Rock TV
+#EXTINF:-1 group-title="Musica",Rock TV
+http://212.96.163.139:8020/1-tv-pc/924.m3u8
+
+
+#EXTINF:-1,The Soundtrack Channel
+#EXTINF:-1 group-title="Musica",The Soundtrack Channel
+http://premium.exabytetv.info/tokener/10011000110010110110110010100100101-ExabyteTV/1351/exabytetv.m3u8
+
+
+#EXTINF:-1,Urban Music Network
+#EXTINF:-1 group-title="Musica",Urban Music Network
+http://premium.exabytetv.info/tokener/10011000110010110110110010100100101-ExabyteTV/1352/exabytetv.m3u8
+
+
+#EXTINF:-1,Vevo 1
+#EXTINF:-1 group-title="Musica",Vevo 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
+
+#EXTINF:-1,Vevo 2
+#EXTINF:-1 group-title="Musica",Vevo 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+
+
+#EXTINF:-1,Vevo 3
+#EXTINF:-1 group-title="Musica",Vevo 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+
+#EXTINF:-1,VH1 Classic (Op2)
+#EXTINF:-1 group-title="Musica",VH1 Classic (Op2)
+http://premium.exabytetv.info/cieloV2.php?token=10011000110010110110110010100100101-ExabyteTV&id=1970&exabytetv=1&f=.m3u8
+
+
+#EXTINF:-1,VH1 Classic (Argentino)
+#EXTINF:-1 group-title="Musica",VH1 Classic (Argentino)
+http://premium.exabytetv.info/cable/10011000110010110110110010100100101-ExabyteTV/1319/exabytetv.m3u8
+
+
+#EXTINF:-1,VH1 Latino
+#EXTINF:-1 group-title="Musica",VH1 Latino
+http://premium.exabytetv.info/cieloV2.php?token=10011000110010110110110010100100101-ExabyteTV&id=2038&exabytetv=1&f=.m3u8
+
+
+#EXTINF:-1,VH1 USA
+#EXTINF:-1 group-title="Musica",VH1 USA
+http://premium.exabytetv.info/gc/10011000110010110110110010100100101-ExabyteTV/1706/exabytetv.m3u8
+
+
+#EXTINF:-1,Vibee
+#EXTINF:-1 group-title="Musica",Vibee
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+
+
+#EXTINF:-1,Videorola
+#EXTINF:-1 group-title="Musica",Videorola
+http://premium.exabytetv.info/cieloV2.php?token=10011000110010110110110010100100101-ExabyteTV&id=14999&exabytetv=1&f=.m3u8
 
 
 #EXTINF:-1,MAD TV
@@ -1023,6 +1204,25 @@ http://gourl.su/xi?mp4?1kanal
 #EXTINF:-1,mostvideo.tv 
 #EXTINF:-1 group-title="Russia",mostvideo.tv
 rtmp://wow.mostvideo.tv/tv/ch1
+
+
+
+
+#EXTINF:-1,PUERTO RICO 
+#EXTINF:-1,Telemundo PR
+#EXTINF:-1 group-title="Russia",Telemundo PR
+http://cdnh1.iblups.com/hls/33hssQ13ID.m3u8
+
+
+#EXTINF:-1,Univisión PR
+#EXTINF:-1 group-title="Russia",Univisión PR
+http://cdnh1.iblups.com/hls/TzMLT5VhhH.m3u8
+
+
+#EXTINF:-1,WIPR
+#EXTINF:-1 group-title="Russia",WIPR
+http://premium.exabytetv.info/livestream.php?acc=16550960&eve=4589741&token=10011000110010110110110010100100101-ExabyteTV&f=.m3u8
+
 
 
 
