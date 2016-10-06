@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1,Zubi DreamList V_0.14
+#EXTINF:-1,Zubi DreamList V_0.15
 http://0.0.0.0:1234
 
 #EXTINF:-1 group-title="Generalistas" tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png",RTP 1 
@@ -133,10 +133,10 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
 #EXTINF:-1 group-title="Informacao",Deutche Welle (Ingles)
 
 
-#EXTINF:-1 group-title="Informacao",France 24 Eng (Ingles)
+#EXTINF:-1 group-title="Informacao",France 24 (Ingles)
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_250.m3u8
 
-
-#EXTINF:-1 group-title="Informacao",France 24 Fr (Frances)
+#EXTINF:-1 group-title="Informacao",France 24 (Frances)
 
 
 #EXTINF:-1 group-title="Informacao",Record News
@@ -152,7 +152,10 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
 http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
 
 #EXTINF:-1 group-title="Informacao",ABC (Ingles)
- http://abclive.abcnews.com/i/abc_live4@136330/index_800_av-b.m3u8
+http://abclive.abcnews.com/i/abc_live4@136330/index_800_av-b.m3u8
+
+#EXTINF:-1 group-title="Informacao",WGN-TV, virtual channel 9 (Ingles)
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 
 #EXTINF:-1 group-title="entretenimento",SIC Mulher
 http://giant-iptv.com:5477/live/camille/camille/8442.ts
@@ -244,9 +247,6 @@ http://giant-iptv.com:5477/live/camille/camille/8407.ts
 
 #EXTINF:-1 group-title="entretenimento",Canal 180 HD
 
-
-#EXTINF:-1 group-title="entretenimento",MegaMe TV (Ingles)
-http://live-1124.la2.edge.filmon.com/live/2687.high.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="entretenimento" tvg-id="n/a" tvg-logo="http://img0.rtp.pt/EPG/imgth/phpThumb.php?src=/common/img/channels/logos/gray-negative/vertical/rtparena.png&w=250&q=100&f=png",RTP Arena eSports*
 
@@ -597,6 +597,12 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 
 #EXTINF:-1 group-title="Temáticos" tvg-id="n/a" tvg-logo="http://www.thelogodb.com/images/media/logo/uyysuv1433430227.png",NASA TV MEDIA (Ingles)
 http://nasatv-lh.akamaihd.net/i/NASA_103@319271/master.m3u8
+
+#EXTINF:-1 group-title="Podcasts",TWiT.tv
+http://bglive-a.bitgravity.com/twit/live/high
+
+#EXTINF:-1 group-title="FILMON9and10",MegaMe TV
+http://live-1124.la2.edge.filmon.com/live/2687.high.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="regionais", agueda TV
 http://agueda.tv:1756/stream.flv
