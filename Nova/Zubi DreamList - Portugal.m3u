@@ -2,9 +2,12 @@
 #EXTINF:-1,Zubi DreamList V_0.15
 http://0.0.0.0:1234
 
+#EXTINF:-1,Generalistas
+#EXTINF:-1,RTP 1
 #EXTINF:-1 group-title="Generalistas" tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png",RTP 1 
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtp1 swfVfy=1 live=1 timeout=15
 
+#EXTINF:-1,RTP 1 HD
 #EXTINF:-1 group-title="Generalistas",RTP 1 HD
 
 
