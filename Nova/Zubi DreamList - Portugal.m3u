@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1,Zubi DreamList V_0.20
+#EXTINF:-1,Zubi DreamList V_0.20a
 http://0.0.0.0:1234
 
 #EXTINF:-1,Generalistas
@@ -355,6 +355,8 @@ http://giant-iptv.com:5477/live/camille/camille/8418.ts
 #EXTINF:-1,Disney Channel
 #EXTINF:-1 group-title="Infantil",Disney Channel
 http://giant-iptv.com:5477/live/camille/camille/8420.ts
+#EXTINF:-1 group-title="Infantil",Disney Channel / 2
+http://giant-iptv.com:5477/live/camille/camille/8412.ts
 
 #EXTINF:-1,Cartoon Network
 #EXTINF:-1 group-title="Infantil",Cartoon Network
@@ -514,7 +516,7 @@ http://giant-iptv.com:5477/live/camille/camille/8402.ts
 
 
 
-#EXTINF:-1,Musica
+#EXTINF:-1,[B][COLOR yellow]== Musica ==[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,MTV Portugal
 #EXTINF:-1 group-title="Musica",MTV Portugal
@@ -628,16 +630,6 @@ http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
 
-#EXTINF:-1,Hit TV
-#EXTINF:-1 group-title="Musica",Hit TV
-http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
-
-
-#EXTINF:-1,HTV
-#EXTINF:-1 group-title="Musica",HTV
-http://premium.exabytetv.info/cieloV2.php?token=10011000110010110110110010100100101-ExabyteTV&id=1896&exabytetv=1&f=.m3u8
-
-
 #EXTINF:-1,m2o tv
 #EXTINF:-1 group-title="Musica",m2o tv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
@@ -653,31 +645,6 @@ http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 
 
-#EXTINF:-1,Movistar Music
-#EXTINF:-1 group-title="Musica",Movistar Music
-http://B36642.cdn.telefonica.com/36642/ch09/3.m3u8
-
-
-#EXTINF:-1,MTV Base
-#EXTINF:-1 group-title="Musica",MTV Base
-http://premium.exabytetv.info/xtc/10011000110010110110110010100100101-ExabyteTV/1596/exabytetv.m3u8
-
-
-#EXTINF:-1,MTV Hits (Op2)
-#EXTINF:-1 group-title="Musica",MTV Hits (Op2)
-http://premium.exabytetv.info/cieloV2.php?token=10011000110010110110110010100100101-ExabyteTV&id=3050&exabytetv=1&f=.m3u8
-
-
-#EXTINF:-1,MTV Latino (Op2)
-#EXTINF:-1 group-title="Musica",MTV Latino (Op2)
-http://premium.exabytetv.info/cieloV2.php?token=10011000110010110110110010100100101-ExabyteTV&id=4046&exabytetv=1&f=.m3u8
-
-
-#EXTINF:-1,MTV Rocks
-#EXTINF:-1 group-title="Musica",MTV Rocks
-http://94.74.65.100:19123/ott/68:1122
-
-
 #EXTINF:-1,OneTV Arg
 #EXTINF:-1 group-title="Musica",OneTV Arg
 http://server5.stweb.tv/radioone/live/playlist.m3u8
@@ -688,69 +655,9 @@ http://server5.stweb.tv/radioone/live/playlist.m3u8
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 
-#EXTINF:-1,Rock & Pop
-#EXTINF:-1 group-title="Musica",Rock & Pop
-http://premium.exabytetv.info/cable/10011000110010110110110010100100101-ExabyteTV/1476/exabytetv.m3u8
-
-
-#EXTINF:-1,Rock TV
-#EXTINF:-1 group-title="Musica",Rock TV
-http://212.96.163.139:8020/1-tv-pc/924.m3u8
-
-
-#EXTINF:-1,The Soundtrack Channel
-#EXTINF:-1 group-title="Musica",The Soundtrack Channel
-http://premium.exabytetv.info/tokener/10011000110010110110110010100100101-ExabyteTV/1351/exabytetv.m3u8
-
-
-#EXTINF:-1,Urban Music Network
-#EXTINF:-1 group-title="Musica",Urban Music Network
-http://premium.exabytetv.info/tokener/10011000110010110110110010100100101-ExabyteTV/1352/exabytetv.m3u8
-
-
-#EXTINF:-1,Vevo 1
-#EXTINF:-1 group-title="Musica",Vevo 1
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-
-
-#EXTINF:-1,Vevo 2
-#EXTINF:-1 group-title="Musica",Vevo 2
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-
-
-#EXTINF:-1,Vevo 3
-#EXTINF:-1 group-title="Musica",Vevo 3
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-
-
-#EXTINF:-1,VH1 Classic (Op2)
-#EXTINF:-1 group-title="Musica",VH1 Classic (Op2)
-http://premium.exabytetv.info/cieloV2.php?token=10011000110010110110110010100100101-ExabyteTV&id=1970&exabytetv=1&f=.m3u8
-
-
-#EXTINF:-1,VH1 Classic (Argentino)
-#EXTINF:-1 group-title="Musica",VH1 Classic (Argentino)
-http://premium.exabytetv.info/cable/10011000110010110110110010100100101-ExabyteTV/1319/exabytetv.m3u8
-
-
-#EXTINF:-1,VH1 Latino
-#EXTINF:-1 group-title="Musica",VH1 Latino
-http://premium.exabytetv.info/cieloV2.php?token=10011000110010110110110010100100101-ExabyteTV&id=2038&exabytetv=1&f=.m3u8
-
-
-#EXTINF:-1,VH1 USA
-#EXTINF:-1 group-title="Musica",VH1 USA
-http://premium.exabytetv.info/gc/10011000110010110110110010100100101-ExabyteTV/1706/exabytetv.m3u8
-
-
 #EXTINF:-1,Vibee
 #EXTINF:-1 group-title="Musica",Vibee
 http://46.101.21.42:8081/live/live2/playlist.m3u8
-
-
-#EXTINF:-1,Videorola
-#EXTINF:-1 group-title="Musica",Videorola
-http://premium.exabytetv.info/cieloV2.php?token=10011000110010110110110010100100101-ExabyteTV&id=14999&exabytetv=1&f=.m3u8
 
 
 #EXTINF:-1,MAD TV
@@ -763,12 +670,12 @@ http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 
 #EXTINF:-1,Topestrada TV (Ingles)
 #EXTINF:-1 group-title="Musica" tvg-logo="Virgin Radio Tv.png",Topestrada TV (Ingles)
-http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 
 
 
 
-#EXTINF:-1,Documentarios
+
+#EXTINF:-1,[B][COLOR yellow]== Documentarios ==[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,ANIMAL PLANET
 #EXTINF:-1 group-title="Documentarios",ANIMAL PLANET
@@ -780,7 +687,7 @@ http://giant-iptv.com:5477/live/camille/camille/8410.ts
 
 #EXTINF:-1,Discovery HD (Ingles)
 #EXTINF:-1 group-title="Documentarios",Discovery HD (Ingles)
-http://giant-iptv.com:5477/live/camille/camille/8412.ts
+
 
 #EXTINF:-1,National Geographic
 #EXTINF:-1 group-title="Documentarios",National Geographic (Ingles)
@@ -815,7 +722,7 @@ http://46.166.162.35:9090/load/b0922f3fa8aa/41.m3u8
 
 
 
-#EXTINF:-1,Desporto
+#EXTINF:-1,[B][COLOR yellow]== Desporto ==[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,SPORT TV 1
 #EXTINF:-1 group-title="Desporto",SPORT TV 1
@@ -1010,7 +917,7 @@ http://46.166.162.35:9090/load/b0922f3fa8aa/58.m3u8
 
 
 
-#EXTINF:-1,Religioso
+#EXTINF:-1,[B][COLOR yellow]== Religioso ==[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,Cancao Nova
 #EXTINF:-1 group-title="Religioso" tvg-id="CancaoNova.PT" "tvg-logo="http://www.cancaonova.pt/wp-content/uploads/2015/11/logo_cnok.png",Cancao Nova
@@ -1023,7 +930,7 @@ http://195.22.19.179:1935/igronl/igronline2/live.m3u8
 
 
 
-#EXTINF:-1,Temáticos
+#EXTINF:-1,[B][COLOR yellow]== Temáticos ==[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,DOGTV (Ingles)
 #EXTINF:-1 group-title="Temáticos",DOGTV (Ingles)
@@ -1048,16 +955,16 @@ http://nasatv-lh.akamaihd.net/i/NASA_103@319271/master.m3u8
 
 
 
-#EXTINF:-1,Podcasts
+#EXTINF:-1,[B][COLOR yellow]== Podcasts ==[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,TWiT.tv
 #EXTINF:-1 group-title="Podcasts",TWiT.tv
-http://bglive-a.bitgravity.com/twit/live/high
 
 
 
 
-#EXTINF:-1,FILMON9and10
+
+#EXTINF:-1,[B][COLOR yellow]== FILMON9and10 ==[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,MegaMe TV
 #EXTINF:-1 group-title="FILMON9and10",MegaMe TV
@@ -1074,7 +981,7 @@ http://live-1124.la2.edge.filmon.com/live/2678.high.stream/playlist.m3u8
 
 
 
-#EXTINF:-1,Regionais
+#EXTINF:-1,[B][COLOR yellow]== Regionais ==[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,Agueda TV
 #EXTINF:-1 group-title="Regionais",Agueda TV
@@ -1083,7 +990,7 @@ http://agueda.tv:1756/stream.flv
 
 
 
-#EXTINF:-1,Adulto
+#EXTINF:-1,[B][COLOR yellow]== Adulto ==[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,Playboy TV
 #EXTINF:-1 group-title="Adulto",Playboy TV
@@ -1108,7 +1015,7 @@ http://93.87.85.71/PLTV/88888888/224/3221225908/04.m3u8
 
 
 
-#EXTINF:-1,WebCams Potugal
+#EXTINF:-1,[B][COLOR yellow]== WebCams Potugal ==[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,Capelinha Fatima
 #EXTINF:-1 group-title=WebCams Potugal" tvg-id="" tvg-logo="Capelinha_de_Fatima_TV_Fatima.png" group-title=PORTUGAL,Capelinha Fatima
@@ -1117,7 +1024,7 @@ rtmp://213.13.26.11/live playpath=santuario.stream swfUrl=http://imgs.sapo.pt/sa
 
 
 
-#EXTINF:-1,WebCams
+#EXTINF:-1,[B][COLOR yellow]== WebCams ==[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,LIVE ISS STREAM
 #EXTINF:-1 group-title="WebCams" tvg-id="n/a" tvg-logo="https://lh3.googleusercontent.com/-UnK39Ro_n8w/Vcn2Fq2_yKI/AAAAAAAAACk/z14TsFRKmXY/w426-h427/ISSTracker_v4a.png",LIVE ISS STREAM
@@ -1128,6 +1035,7 @@ http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
 
 #EXTINF:-1,[B][COLOR yellow]== ASIATICOS - ASIAN ==[/COLOR][/B]
 
+http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://0.viki.io/carousel/-uploads/content_owners/256co/arirang_jpg.jpg?x=b&s=340x170&q=h&cb=1" group-title="ASIATICOS - ASIAN",Arirang
 
@@ -1136,12 +1044,14 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/150px-Fuji_TV_logo.svg.png" group-title="ASIATICOS - ASIAN",Fuji TV
 
-http://premium.exabytetv.info/gc/10011000110010110110110010100100101-ExabyteTV/1513/exabytetv.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img1.ak.crunchyroll.com/i/spire4/0a12100d45f5fca99f877434aa98331d1230584768_large.jpg" group-title="ASIATICOS - ASIAN",TV Tokyo
 
-http://premium.exabytetv.info/gc/10011000110010110110110010100100101-ExabyteTV/1540/exabytetv.m3u8
+
 
 
 
@@ -1150,20 +1060,21 @@ http://premium.exabytetv.info/gc/10011000110010110110110010100100101-ExabyteTV/1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BOLIVIA",Unitel Santa Cruz (no transmite 24h)
 
-http://premium.exabytetv.info/livestream.php?acc=8665913&eve=4253600&token=10011000110010110110110010100100101-ExabyteTV&f=.m3u8
 
 
 
 
 
-#EXTINF:-1,Eslovênia
+#EXTINF:-1,[B][COLOR yellow]<== Eslovênia ==>[/COLOR][/B]
+http://0.0.0.0:1234
 #EXTINF:-1 group-title="Eslovênia",planet v zivo (Eslovênia)
 http://pcdn-07.sdn.si/22ba7f2471e9f5e894f3c50f4f16ea68/planettv/planettv.isml/planettv-video=2500000-audio101=128000.m3u8
 
 
 
 
-#EXTINF:-1,Middle East
+#EXTINF:-1,[B][COLOR yellow]<== Middle East ==>[/COLOR][/B]
+http://0.0.0.0:1234
 #EXTINF:-1,MBC 1 (Arabic)
 #EXTINF:-1 group-title="Middle East",MBC 1 (Arabic)
 http://195.154.182.238:5477/get.php?username=ramiz&password=ramiz&type=m3u
@@ -1171,8 +1082,9 @@ http://195.154.182.238:5477/get.php?username=ramiz&password=ramiz&type=m3u
 
 
 
-#EXTINF:-1,PARAGUAY
-#EXTINF:-1,MBC 1
+#EXTINF:-1,[B][COLOR yellow]<== PARAGUAY ==>[/COLOR][/B]
+#http://0.0.0.0:1234
+EXTINF:-1,MBC 1
 #EXTINF:-1 group-title="Middle East",MBC 1 (Arabic)
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_de_RPC_2016.png/200px-Logo_de_RPC_2016.png" group-title="PARAGUAY",Canal 13 RPC
 
@@ -1186,7 +1098,8 @@ http://xtelefuturohdx.api.channel.livestream.com/3.0/playlist.m3u8
 
 
 
-#EXTINF:-1,Russia
+#EXTINF:-1,[B][COLOR yellow]<== Russia ==>[/COLOR][/B]
+http://0.0.0.0:1234
 #EXTINF:-1,rossia24 
 #EXTINF:-1 group-title="Russia",rossia24
 http://gourl.su/12r?rossia24
@@ -1208,26 +1121,24 @@ rtmp://wow.mostvideo.tv/tv/ch1
 
 
 
-#EXTINF:-1,PUERTO RICO 
+#EXTINF:-1,[B][COLOR yellow]<== PUERTO RICO ==>[/COLOR][/B]
 #EXTINF:-1,Telemundo PR
-#EXTINF:-1 group-title="Russia",Telemundo PR
-http://cdnh1.iblups.com/hls/33hssQ13ID.m3u8
+#EXTINF:-1 group-title="PUERTO RICO",Telemundo PR
 
 
 #EXTINF:-1,Univisión PR
-#EXTINF:-1 group-title="Russia",Univisión PR
-http://cdnh1.iblups.com/hls/TzMLT5VhhH.m3u8
+#EXTINF:-1 group-title="PUERTO RICO",Univisión PR
 
 
 #EXTINF:-1,WIPR
-#EXTINF:-1 group-title="Russia",WIPR
-http://premium.exabytetv.info/livestream.php?acc=16550960&eve=4589741&token=10011000110010110110110010100100101-ExabyteTV&f=.m3u8
+#EXTINF:-1 group-title="PUERTO RICO",WIPR
 
 
 
 
 
-#EXTINF:-1,USA
+#EXTINF:-1,[B][COLOR yellow]<== USA ==>[/COLOR][/B]
+http://0.0.0.0:1234
 #EXTINF:-1,AMC
 #EXTINF:-1 group-title="USA",AMC
 http://46.166.162.35:9090/load/b0922f3fa8aa/4.m3u8
@@ -1264,7 +1175,6 @@ http://46.166.162.35:9090/load/b0922f3fa8aa/11.m3u8
 #EXTINF:-1 group-title="USA",TV US
 http://46.166.162.35:9090/load/b0922f3fa8aa/12.m3u8
 
-#EXTINF:-1,TBS
 #EXTINF:-1 group-title="USA",FILME US
 http://46.166.162.35:9090/load/b0922f3fa8aa/13.m3u8
 
@@ -1291,7 +1201,8 @@ http://46.166.162.35:9090/load/b0922f3fa8aa/30.m3u8
 
 
 
-#EXTINF:-1,VENEZUELA
+#EXTINF:-1,[B][COLOR yellow]<== VENEZUELA ==>[/COLOR][/B]
+http://0.0.0.0:1234
 #EXTINF:-1,Anzoátegui
 #EXTINF:-1 group-title="VENEZUELA",Anzoátegui
 http://edge.wms28.lorini.net/anzoateguitv/anzoateguitv/playlist.m3u8
@@ -1310,12 +1221,10 @@ http://edge.wms28.lorini.net/clarettv/clarettv/playlist.m3u8
 
 #EXTINF:-1,Globovisión
 #EXTINF:-1 group-title="VENEZUELA",Globovisión
-http://stream-ec2.vty.dailymotion.com/46/dm/1/xio7e2/live.isml/events(live-1472790617)/live-audio=64000-video=400000.m3u8
 
 
 #EXTINF:-1,Isla TV
 #EXTINF:-1 group-title="VENEZUELA",Isla TV
-http://edge.wms28.lorini.net/islatv/islatv/playlist.m3u8
 
 
 #EXTINF:-1,Oasis
@@ -1340,7 +1249,6 @@ http://edge.wms28.lorini.net/telecolor/telecolor/playlist.m3u8
 
 #EXTINF:-1,Telemax Música
 #EXTINF:-1 group-title="VENEZUELA",Telemax Música
-http://edge.wms28.lorini.net/telemax/telemax/playlist.m3u8
 
 
 #EXTINF:-1,TeleSUR 31
@@ -1355,7 +1263,6 @@ http://stream.telearagua.com/telet/telet/index.m3u8
 
 #EXTINF:-1,Tic
 #EXTINF:-1 group-title="VENEZUELA",Tic
-http://edge.wms28.lorini.net/tictv/tictv/playlist.m3u8
 
 
 #EXTINF:-1,TRT
@@ -1365,7 +1272,6 @@ http://edge.wms28.lorini.net/trttv/trttv/playlist.m3u8
 
 #EXTINF:-1,TVes
 #EXTINF:-1 group-title="VENEZUELA",TVes
-rtmp://cast.streamingconnect.tv/tves2/tves2
 
 
 #EXTINF:-1,TVO
@@ -1376,7 +1282,6 @@ ateguitv/anzoateguitv/playlist.m3u8
 
 #EXTINF:-1,TV Plus
 #EXTINF:-1 group-title="VENEZUELA",TV Plus
-http://iphone-streaming.ustream.tv/uhls/18110205/streams/live/iphone/playlist.m3u8
 
 
 #EXTINF:-1,TV Venezuela
@@ -1401,10 +1306,9 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 
 #EXTINF:-1,VPI TV
 #EXTINF:-1 group-title="VENEZUELA",VPI TV
-http://premium.exabytetv.info/gc/10011000110010110110110010100100101-ExabyteTV/1503/exabytetv.m3u8
 
 
-#EXTINF:-1,AMC
+#EXTINF:-1,VTV 8
 #EXTINF:-1 group-title="VENEZUELA",VTV 8
 rtmp://cast.streamingconnect.com:1935/vtvweb3/vtvweb3
 
