@@ -1,8 +1,8 @@
 ﻿#EXTM3U
-#EXTINF:-1,Zubi DreamList V_0.20a
+#EXTINF:-1,Zubi DreamList V_0.20b
 http://0.0.0.0:1234
 
-#EXTINF:-1,Generalistas
+#EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,RTP 1
 #EXTINF:-1 group-title="Generalistas" tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png",RTP 1 
@@ -91,7 +91,7 @@ http://213.13.26.11:1935/live/rtc_teste/KodiPortugal.pt.m3u8
 
 
 
-#EXTINF:-1,Informacao
+#EXTINF:-1,[B][COLOR yellow]<== Informacao ==>[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,RTP 3
 #EXTINF:-1 group-title="Informacao" tvg-id="rtpn.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvtqyy1461670745.png/medium",RTP 3
@@ -206,13 +206,13 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 
 
 
-#EXTINF:-1,Entretenimento
+#EXTINF:-1,[B][COLOR yellow]<== Entretenimento ==>[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,SIC Mulher
 #EXTINF:-1 group-title="Entretenimento",SIC Mulher
 http://giant-iptv.com:5477/live/camille/camille/8442.ts
 
-#EXTINF:-1,SIC Caras
+#EXTINF:-1,SIC Caras*
 #EXTINF:-1 group-title="Entretenimento",SIC Caras
 http://giant-iptv.com:5477/live/camille/camille/8440.ts
 
@@ -338,7 +338,7 @@ http://giant-iptv.com:5477/live/camille/camille/8407.ts
 
 
 
-#EXTINF:-1,Infantil
+#EXTINF:-1,[B][COLOR yellow]<== Infantil ==>[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,Canal Panda
 #EXTINF:-1 group-title="Infantil",Canal Panda
@@ -368,7 +368,7 @@ http://giant-iptv.com:5477/live/camille/camille/8415.ts
 
 #EXTINF:-1,Jim Jam
 #EXTINF:-1 group-title="Infantil",Jim Jam
-http://giant-iptv.com:5477/live/camille/camille/8413.ts
+
 
 #EXTINF:-1,SIC Kids
 #EXTINF:-1 group-title="Infantil",SIC Kids
@@ -376,7 +376,7 @@ http://giant-iptv.com:5477/live/camille/camille/8414.ts
 
 #EXTINF:-1,Baby TV*
 #EXTINF:-1 group-title="Infantil",Baby TV
-http://giant-iptv.com:5477/live/camille/camille/8417.ts
+
 
 #EXTINF:-1,Super RTL
 #EXTINF:-1 group-title="Infantil",Super RTL (Alemao)
@@ -385,7 +385,7 @@ http://giant-iptv.com:5477/live/camille/camille/8417.ts
 
 
 
-#EXTINF:-1,Filmes e Series
+#EXTINF:-1,[B][COLOR yellow]<== Filmes e Series ==>[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,TVCine 1
 #EXTINF:-1 group-title="Filmes e Series",TVCine 1
@@ -463,7 +463,7 @@ http://giant-iptv.com:5477/live/camille/camille/8404.ts
 
 #EXTINF:-1,AXN HD
 #EXTINF:-1 group-title="Filmes e Series",AXN HD
-http://giant-iptv.com:5477/live/camille/camille/8406.ts
+
 
 #EXTINF:-1,Fox Life
 #EXTINF:-1 group-title="Filmes e Series",Fox Life
@@ -484,6 +484,8 @@ http://giant-iptv.com:5477/live/camille/camille/8400.ts
 #EXTINF:-1,FOX Comedy
 #EXTINF:-1 group-title="Filmes e Series",FOX Comedy
 http://giant-iptv.com:5477/live/camille/camille/8402.ts
+#EXTINF:-1 group-title="Filmes e Series",FOX Comedy / 2
+http://giant-iptv.com:5477/live/camille/camille/8417.ts
 
 #EXTINF:-1,FOX Comedy HD
 #EXTINF:-1 group-title="Filmes e Series",FOX Comedy HD
@@ -516,7 +518,7 @@ http://giant-iptv.com:5477/live/camille/camille/8402.ts
 
 
 
-#EXTINF:-1,[B][COLOR yellow]== Musica ==[/COLOR][/B]
+#EXTINF:-1,[B][COLOR yellow]<== Musica ==>[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,MTV Portugal
 #EXTINF:-1 group-title="Musica",MTV Portugal
@@ -605,24 +607,9 @@ http://stream.smcloud.net/live/eskatv/playlist.m3u8
 http://stream.smcloud.net/live/eska_party/playlist.m3u8
 
 
-#EXTINF:-1,Eska Rock TV
-#EXTINF:-1 group-title="Musica",Eska Rock TV
-http://stream.smcloud.net/live2/http://stream.smcloud.net/live/eska_rock/playlist.m3u8http://stream.smcloud.net/live/eska_rock/playlist.m3u8/eska_rock_480p/Eska&Rock&TV.m3u8
-
-
 #EXTINF:-1,Eska Vox TV Old Cool
 #EXTINF:-1 group-title="Musica",Eska Vox TV Old Cool
 http://stream.smcloud.net/live/vox/playlist.m3u8
-
-
-#EXTINF:-1,Exa TV
-#EXTINF:-1 group-title="Musica",Exa TV
-http://premium.exabytetv.info/cieloV2.php?token=10011000110010110110110010100100101-ExabyteTV&id=14998&exabytetv=1&f=.m3u8
-
-
-#EXTINF:-1,Hard Life
-#EXTINF:-1 group-title="Musica",Hard Life
-http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
 
 
 #EXTINF:-1,Heart TV (UK)
@@ -675,7 +662,7 @@ http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 
 
 
-#EXTINF:-1,[B][COLOR yellow]== Documentarios ==[/COLOR][/B]
+#EXTINF:-1,[B][COLOR yellow]<== Documentarios ==>[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,ANIMAL PLANET
 #EXTINF:-1 group-title="Documentarios",ANIMAL PLANET
@@ -722,7 +709,7 @@ http://46.166.162.35:9090/load/b0922f3fa8aa/41.m3u8
 
 
 
-#EXTINF:-1,[B][COLOR yellow]== Desporto ==[/COLOR][/B]
+#EXTINF:-1,[B][COLOR yellow]<== Desporto ==>[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,SPORT TV 1
 #EXTINF:-1 group-title="Desporto",SPORT TV 1
@@ -917,7 +904,7 @@ http://46.166.162.35:9090/load/b0922f3fa8aa/58.m3u8
 
 
 
-#EXTINF:-1,[B][COLOR yellow]== Religioso ==[/COLOR][/B]
+#EXTINF:-1,[B][COLOR yellow]<== Religioso ==>[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,Cancao Nova
 #EXTINF:-1 group-title="Religioso" tvg-id="CancaoNova.PT" "tvg-logo="http://www.cancaonova.pt/wp-content/uploads/2015/11/logo_cnok.png",Cancao Nova
@@ -930,7 +917,7 @@ http://195.22.19.179:1935/igronl/igronline2/live.m3u8
 
 
 
-#EXTINF:-1,[B][COLOR yellow]== Temáticos ==[/COLOR][/B]
+#EXTINF:-1,[B][COLOR yellow]<== Temáticos ==>[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,DOGTV (Ingles)
 #EXTINF:-1 group-title="Temáticos",DOGTV (Ingles)
@@ -955,7 +942,7 @@ http://nasatv-lh.akamaihd.net/i/NASA_103@319271/master.m3u8
 
 
 
-#EXTINF:-1,[B][COLOR yellow]== Podcasts ==[/COLOR][/B]
+#EXTINF:-1,[B][COLOR yellow]<== Podcasts ==>[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,TWiT.tv
 #EXTINF:-1 group-title="Podcasts",TWiT.tv
@@ -964,7 +951,7 @@ http://0.0.0.0:1234
 
 
 
-#EXTINF:-1,[B][COLOR yellow]== FILMON9and10 ==[/COLOR][/B]
+#EXTINF:-1,[B][COLOR yellow]<== FILMON9and10 ==>[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,MegaMe TV
 #EXTINF:-1 group-title="FILMON9and10",MegaMe TV
@@ -981,7 +968,7 @@ http://live-1124.la2.edge.filmon.com/live/2678.high.stream/playlist.m3u8
 
 
 
-#EXTINF:-1,[B][COLOR yellow]== Regionais ==[/COLOR][/B]
+#EXTINF:-1,[B][COLOR yellow]<== Regionais ==>[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,Agueda TV
 #EXTINF:-1 group-title="Regionais",Agueda TV
@@ -990,7 +977,7 @@ http://agueda.tv:1756/stream.flv
 
 
 
-#EXTINF:-1,[B][COLOR yellow]== Adulto ==[/COLOR][/B]
+#EXTINF:-1,[B][COLOR yellow]<== Adulto ==>[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,Playboy TV
 #EXTINF:-1 group-title="Adulto",Playboy TV
@@ -1015,7 +1002,7 @@ http://93.87.85.71/PLTV/88888888/224/3221225908/04.m3u8
 
 
 
-#EXTINF:-1,[B][COLOR yellow]== WebCams Potugal ==[/COLOR][/B]
+#EXTINF:-1,[B][COLOR yellow]<== WebCams Potugal ==>[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,Capelinha Fatima
 #EXTINF:-1 group-title=WebCams Potugal" tvg-id="" tvg-logo="Capelinha_de_Fatima_TV_Fatima.png" group-title=PORTUGAL,Capelinha Fatima
@@ -1024,7 +1011,7 @@ rtmp://213.13.26.11/live playpath=santuario.stream swfUrl=http://imgs.sapo.pt/sa
 
 
 
-#EXTINF:-1,[B][COLOR yellow]== WebCams ==[/COLOR][/B]
+#EXTINF:-1,[B][COLOR yellow]<== WebCams ==>[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,LIVE ISS STREAM
 #EXTINF:-1 group-title="WebCams" tvg-id="n/a" tvg-logo="https://lh3.googleusercontent.com/-UnK39Ro_n8w/Vcn2Fq2_yKI/AAAAAAAAACk/z14TsFRKmXY/w426-h427/ISSTracker_v4a.png",LIVE ISS STREAM
@@ -1033,7 +1020,7 @@ http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
 
 
 
-#EXTINF:-1,[B][COLOR yellow]== ASIATICOS - ASIAN ==[/COLOR][/B]
+#EXTINF:-1,[B][COLOR yellow]<== ASIATICOS - ASIAN ==>[/COLOR][/B]
 
 http://0.0.0.0:1234
 
@@ -1056,7 +1043,7 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 
 
 
-#EXTINF:-1,[B][COLOR yellow]== BOLIVIA ==[/COLOR][/B]
+#EXTINF:-1,[B][COLOR yellow]<== BOLIVIA ==>[/COLOR][/B]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BOLIVIA",Unitel Santa Cruz (no transmite 24h)
 
