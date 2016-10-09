@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1,Zubi DreamList V_0.20b
+#EXTINF:-1,Zubi DreamList V_0.21b
 http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
@@ -7,6 +7,8 @@ http://0.0.0.0:1234
 #EXTINF:-1,RTP 1
 #EXTINF:-1 group-title="Generalistas" tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png",RTP 1 
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtp1 swfVfy=1 live=1 timeout=15
+#EXTINF:-1 group-title="Generalistas" tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png",RTP 1 / 2
+http://ksportiptv.com:1557/live/idou/idou/2166.ts
 
 #EXTINF:-1,RTP 1 HD
 #EXTINF:-1 group-title="Generalistas",RTP 1 HD
@@ -17,12 +19,16 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtp2 swfVfy=1 live=1 timeout=15
 #EXTINF:-1 group-title="Generalistas" tvg-name="rtp2.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png",RTP2 / 2
 http://giant-iptv.com:5477/live/camille/camille/8431.ts
+#EXTINF:-1 group-title="Generalistas" tvg-name="rtp2.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png",RTP2 / 3
+http://ksportiptv.com:1557/live/idou/idou/2167.ts
 
 #EXTINF:-1,SIC
 #EXTINF:-1 group-title="Generalistas" tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",SIC 
 http://live.impresa.pt/live/sic/sic540p.m3u8
 #EXTINF:-1 group-title="Generalistas"  tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",SIC / 2
 http://giant-iptv.com:5477/live/camille/camille/8443.ts
+#EXTINF:-1 group-title="Generalistas"  tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",SIC / 3
+http://ksportiptv.com:1557/live/idou/idou/2173.ts
 
 #EXTINF:-1,SIC HD
 #EXTINF:-1 group-title="Generalistas",SIC HD
@@ -41,18 +47,24 @@ http://giant-iptv.com:5477/live/camille/camille/8437.ts
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria swfVfy=1 live=1 timeout=15
 #EXTINF:-1 group-title="Generalistas" tvg-logo="http://i67.tinypic.com/2n2hzb.jpg",RTP Memoria / 2
 http://giant-iptv.com:5477/live/camille/camille/8433.ts
+#EXTINF:-1 group-title="Generalistas" tvg-logo="http://i67.tinypic.com/2n2hzb.jpg",RTP Memoria / 2
+http://ksportiptv.com:1557/live/idou/idou/2169.ts
 
 #EXTINF:-1,RTP Madeira
 #EXTINF:-1 group-title="Generalistas" tvg-id="RTPMadeira.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png",RTP Madeira
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmadeira swfVfy=1 live=1 timeout=15
 #EXTINF:-1 group-title="Generalistas" tvg-id="RTPMadeira.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png",RTP Madeira / 2
 http://giant-iptv.com:5477/live/camille/camille/8434.ts
+#EXTINF:-1 group-title="Generalistas" tvg-id="RTPMadeira.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png",RTP Madeira / 3
+http://ksportiptv.com:1557/live/idou/idou/2170.ts
 
 #EXTINF:-1,RTP Acores
 #EXTINF:-1 group-title="Generalistas" tvg-id="RTPAcores.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png",RTP Acores
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://kodiportugal.pt swfVfy=1 live=1 timeout=15
 #EXTINF:-1 group-title="Generalistas" tvg-id="RTPAcores.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png",RTP Acores / 2
 http://giant-iptv.com:5477/live/camille/camille/8435.ts
+#EXTINF:-1 group-title="Generalistas" tvg-id="RTPAcores.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png",RTP Acores / 3
+http://ksportiptv.com:1557/live/idou/idou/2172.ts
 
 #EXTINF:-1,PORTO Canal*
 #EXTINF:-1 group-title="Generalistas" tvg-id="PortoCanal.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/medium",PORTO Canal
@@ -61,6 +73,8 @@ http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
 #EXTINF:-1,RTP Africa
 #EXTINF:-1 group-title="Generalistas" tvg-id="RTPAfrica.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png",RTP Africa
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpafrica swfVfy=1 live=1 timeout=15
+#EXTINF:-1 group-title="Generalistas" tvg-id="RTPAfrica.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png",RTP Africa / 2
+http://ksportiptv.com:1557/live/idou/idou/2171.ts
 
 #EXTINF:-1,RTP Internacional
 #EXTINF:-1 group-title="Generalistas" tvg-id="RTPInternacional.pt" tvg-logo="http://i65.tinypic.com/2552sjl.jpg",RTP Internacional
@@ -96,10 +110,12 @@ http://0.0.0.0:1234
 #EXTINF:-1,RTP 3
 #EXTINF:-1 group-title="Informacao" tvg-id="rtpn.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvtqyy1461670745.png/medium",RTP 3
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://kodiportugal.pt swfVfy=1 live=1 timeout=15
+#EXTINF:-1 group-title="Informacao" tvg-id="rtpn.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvtqyy1461670745.png/medium",RTP 3 / 2
+http://ksportiptv.com:1557/live/idou/idou/2168.ts
 
 #EXTINF:-1,SIC Noticias
 #EXTINF:-1 group-title="Informacao",SIC Noticias
-
+http://ksportiptv.com:1557/live/idou/idou/2174.ts
 
 #EXTINF:-1,TVI 24
 #EXTINF:-1 group-title="Informacao" tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png/medium",TVI 24
@@ -132,6 +148,8 @@ http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/KodiPortugal.pt.m3u8
 #EXTINF:-1,Euronews
 #EXTINF:-1 group-title="Informacao" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/euronews.png", Euronews
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
+#EXTINF:-1 group-title="Informacao" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/euronews.png", Euronews / 2
+http://ksportiptv.com:1557/live/idou/idou/2177.ts
 
 #EXTINF:-1,Bloomberg
 #EXTINF:-1 group-title="Informacao",Bloomberg (Ingles)
@@ -211,6 +229,8 @@ http://0.0.0.0:1234
 #EXTINF:-1,SIC Mulher
 #EXTINF:-1 group-title="Entretenimento",SIC Mulher
 http://giant-iptv.com:5477/live/camille/camille/8442.ts
+#EXTINF:-1 group-title="Entretenimento",SIC Mulher / 2
+http://ksportiptv.com:1557/live/idou/idou/2175.ts
 
 #EXTINF:-1,SIC Caras*
 #EXTINF:-1 group-title="Entretenimento",SIC Caras
@@ -229,7 +249,8 @@ http://giant-iptv.com:5477/live/camille/camille/8441.ts
 http://giant-iptv.com:5477/live/camille/camille/8408.ts
 #EXTINF:-1 group-title="Entretenimento",TVI Reality / 2
 http://giant-iptv.com:5477/live/camille/camille/8409.ts
-
+#EXTINF:-1 group-title="Entretenimento",TVI Reality / 3
+http://ksportiptv.com:1557/live/idou/idou/2968.ts
 
 #EXTINF:-1,Canal Q
 #EXTINF:-1 group-title="Entretenimento",Canal Q
@@ -257,7 +278,7 @@ http://giant-iptv.com:5477/live/camille/camille/8407.ts
 
 #EXTINF:-1,TLC
 #EXTINF:-1 group-title="Entretenimento",TLC
-
+http://ksportiptv.com:1557/live/idou/idou/2962.ts
 
 #EXTINF:-1,E! Entertainment
 #EXTINF:-1 group-title="Entretenimento",E! Entertainment
@@ -269,7 +290,7 @@ http://giant-iptv.com:5477/live/camille/camille/8407.ts
 
 #EXTINF:-1,Travel Channel
 #EXTINF:-1 group-title="Entretenimento",Travel Channel
-
+http://ksportiptv.com:1557/live/idou/idou/2971.ts
 
 #EXTINF:-1,Fashion TV
 #EXTINF:-1 group-title="Entretenimento",Fashion TV
@@ -343,6 +364,8 @@ http://0.0.0.0:1234
 #EXTINF:-1,Canal Panda
 #EXTINF:-1 group-title="Infantil",Canal Panda
 http://giant-iptv.com:5477/live/camille/camille/8418.ts
+#EXTINF:-1 group-title="Infantil",Canal Panda / 2
+http://ksportiptv.com:1557/live/idou/idou/2202.ts
 
 #EXTINF:-1,Panda Biggs
 #EXTINF:-1 group-title="Infantil",Panda Biggs
@@ -365,6 +388,8 @@ http://giant-iptv.com:5477/live/camille/camille/8416.ts
 #EXTINF:-1,Nickelodeon
 #EXTINF:-1 group-title="Infantil",Nickelodeon
 http://giant-iptv.com:5477/live/camille/camille/8415.ts
+#EXTINF:-1 group-title="Infantil",Nickelodeon / 2
+http://ksportiptv.com:1557/live/idou/idou/2198.ts
 
 #EXTINF:-1,Jim Jam
 #EXTINF:-1 group-title="Infantil",Jim Jam
@@ -425,9 +450,13 @@ http://giant-iptv.com:5477/live/camille/camille/8449.ts
 #EXTINF:-1 group-title="Filmes e Series",TVCine Series / 2
 http://giant-iptv.com:5477/live/camille/camille/8439.ts
 
-#EXTINF:-1,TVSeries HD
-#EXTINF:-1 group-title="Filmes e Series",TVSeries HD
+#EXTINF:-1,TVSeries
+#EXTINF:-1 group-title="Filmes e Series",TVSeries 
+http://ksportiptv.com:1557/live/idou/idou/2970.ts
 
+#EXTINF:-1,TVSeries
+#EXTINF:-1 group-title="Filmes e Series",TVSeries HD
+http://ksportiptv.com:1557/live/idou/idou/2969.ts
 
 #EXTINF:-1,Hollywood
 #EXTINF:-1 group-title="Filmes e Series",Hollywood
@@ -436,6 +465,8 @@ http://giant-iptv.com:5477/live/camille/camille/8439.ts
 #EXTINF:-1,Cinemundo
 #EXTINF:-1 group-title="Filmes e Series",Cinemundo
 http://giant-iptv.com:5477/live/camille/camille/8399.ts
+#EXTINF:-1 group-title="Filmes e Series",Cinemundo / 2
+http://ksportiptv.com:1557/live/idou/idou/2183.ts
 
 #EXTINF:-1,Cinemundo HD
 #EXTINF:-1 group-title="Filmes e Series",Cinemundo HD
@@ -463,7 +494,7 @@ http://giant-iptv.com:5477/live/camille/camille/8404.ts
 
 #EXTINF:-1,AXN HD
 #EXTINF:-1 group-title="Filmes e Series",AXN HD
-
+http://ksportiptv.com:1557/live/idou/idou/2191.ts
 
 #EXTINF:-1,Fox Life
 #EXTINF:-1 group-title="Filmes e Series",Fox Life
@@ -476,6 +507,8 @@ http://giant-iptv.com:5477/live/camille/camille/8403.ts
 #EXTINF:-1,Fox Crime*
 #EXTINF:-1 group-title="Filmes e Series",Fox Crime
 http://giant-iptv.com:5477/live/camille/camille/8400.ts
+#EXTINF:-1 group-title="Filmes e Series",Fox Crime / 2
+http://ksportiptv.com:1557/live/idou/idou/2195.ts
 
 #EXTINF:-1,Fox Crime HD
 #EXTINF:-1 group-title="Filmes e Series",Fox Crime HD
@@ -505,7 +538,7 @@ http://giant-iptv.com:5477/live/camille/camille/8417.ts
 
 #EXTINF:-1,AXN White HD
 #EXTINF:-1 group-title="Filmes e Series",AXN White HD
-
+http://ksportiptv.com:1557/live/idou/idou/2192.ts
 
 #EXTINF:-1,MOV
 #EXTINF:-1 group-title="Filmes e Series",MOV
@@ -513,7 +546,7 @@ http://giant-iptv.com:5477/live/camille/camille/8417.ts
 
 #EXTINF:-1,Syfy
 #EXTINF:-1 group-title="Filmes e Series",Syfy
-
+http://ksportiptv.com:1557/live/idou/idou/2992.ts
 
 
 
@@ -527,6 +560,10 @@ http://0.0.0.0:1234
 #EXTINF:-1,MTV Portugal HD
 #EXTINF:-1 group-title="Musica",MTV Portugal HD
 
+
+#EXTINF:-1,VH1 CLASSIC
+#EXTINF:-1 group-title="Musica",VH1 CLASSIC
+http://ksportiptv.com:1557/live/idou/idou/3018.ts
 
 #EXTINF:-1,VH1 Europe
 #EXTINF:-1 group-title="Musica",VH1 Europe (Ingles)
@@ -568,6 +605,10 @@ http://0.0.0.0:1234
 #EXTINF:-1 group-title="Musica",Trace TV (Frances)
 
 
+#EXTINF:-1,PT:TRACE URBAN
+#EXTINF:-1 group-title="Musica",TRACE URBAN
+http://ksportiptv.com:1557/live/idou/idou/2972.ts
+
 #EXTINF:-1 Atomic
 #EXTINF:-1 group-title="Musica",Atomic
 rtmp://5.154.185.153/live/live.flv
@@ -576,6 +617,15 @@ rtmp://5.154.185.153/live/live.flv
 #EXTINF:-1,Trace Toca
 #EXTINF:-1 group-title="Musica",Trace Toca (Frances)
 
+
+#EXTINF:-1 group-title="Musica",PT:VEVO 3 HD
+http://ksportiptv.com:1557/live/idou/idou/3017.ts
+
+#EXTINF:-1 group-title="Musica",PT:VEVO 2 HD
+http://ksportiptv.com:1557/live/idou/idou/3008.ts
+
+#EXTINF:-1 group-title="Musica",PT:VEVO 1 HD
+http://ksportiptv.com:1557/live/idou/idou/3009.ts
 
 #EXTINF:-1,Capital TV (UK)
 #EXTINF:-1 group-title="Musica",Capital TV (UK)
@@ -689,6 +739,8 @@ http://46.166.162.35:9090/load/b0922f3fa8aa/39.m3u8
 http://giant-iptv.com:5477/live/camille/camille/8411.ts
 #EXTINF:-1 group-title="Documentarios",National Geographic Wild (Ingles) 2
 http://46.166.162.35:9090/load/b0922f3fa8aa/40.m3u8
+#EXTINF:-1 group-title="Documentarios",National Geographic Wild (Ingles) 3
+http://ksportiptv.com:1557/live/idou/idou/2196.ts
 
 #EXTINF:-1,National Geographic Wild HD (Ingles)*
 #EXTINF:-1 group-title="Documentarios",PT:National Geographic Wild HD (Ingles)
@@ -696,7 +748,7 @@ http://46.166.162.35:9090/load/b0922f3fa8aa/40.m3u8
 
 #EXTINF:-1,Historia
 #EXTINF:-1 group-title="Documentarios",Historia
-
+http://ksportiptv.com:1557/live/idou/idou/2190.ts
 
 #EXTINF:-1,Odisseia
 #EXTINF:-1 group-title="Documentarios",Odisseia
@@ -760,6 +812,8 @@ http://giant-iptv.com:5477/live/camille/camille/8429.ts
 rtmp://31.220.40.61/privatestream/ playpath=gergtrg?keys=-9xSxtvS-ybNqYeR5Rklyw&keyt=1471185321 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=gergtrg  swfVfy=1 live=1 timeout=13
 #EXTINF:-1 group-title="Desporto",Benfica TV 1 / 2
 http://giant-iptv.com:5477/live/camille/camille/8424.ts
+#EXTINF:-1 group-title="Desporto",Benfica TV 1 / 3
+http://ksportiptv.com:1557/live/idou/idou/2187.ts
 
 #EXTINF:-1,Benfica TV 1 HD
 #EXTINF:-1 group-title="Desporto",Benfica TV 1 HD
@@ -767,11 +821,13 @@ http://giant-iptv.com:5477/live/camille/camille/8424.ts
 
 #EXTINF:-1,Benfica TV 2
 #EXTINF:-1 group-title="Desporto",Benfica TV 2
-
+http://ksportiptv.com:1557/live/idou/idou/2188.ts
 
 #EXTINF:-1,SPORTING TV*
 #EXTINF:-1 group-title="Desporto",SPORTING TV
 http://giant-iptv.com:5477/live/camille/camille/8423.ts
+#EXTINF:-1 group-title="Desporto",SPORTING TV / 2
+http://ksportiptv.com:1557/live/idou/idou/2973.ts
 
 #EXTINF:-1,Manchester United TV
 #EXTINF:-1 group-title="Desporto",Manchester United TV
@@ -985,7 +1041,7 @@ http://0.0.0.0:1234
 
 #EXTINF:-1,Venus
 #EXTINF:-1 group-title="Adulto",Venus
-
+http://ksportiptv.com:1557/live/idou/idou/2961.ts
 
 #EXTINF:-1,sexy hot
 #EXTINF:-1 group-title="Adulto",sexy hot
