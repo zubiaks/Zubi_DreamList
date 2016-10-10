@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1,Zubi DreamList V_0.21b
+#EXTINF:-1,Zubi DreamList V_0.22
 http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
@@ -18,16 +18,12 @@ http://ksportiptv.com:1557/live/idou/idou/2166.ts
 #EXTINF:-1 group-title="Generalistas" tvg-name="rtp2.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png",RTP 2 
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtp2 swfVfy=1 live=1 timeout=15
 #EXTINF:-1 group-title="Generalistas" tvg-name="rtp2.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png",RTP2 / 2
-http://giant-iptv.com:5477/live/camille/camille/8431.ts
-#EXTINF:-1 group-title="Generalistas" tvg-name="rtp2.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png",RTP2 / 3
 http://ksportiptv.com:1557/live/idou/idou/2167.ts
 
 #EXTINF:-1,SIC
 #EXTINF:-1 group-title="Generalistas" tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",SIC 
 http://live.impresa.pt/live/sic/sic540p.m3u8
 #EXTINF:-1 group-title="Generalistas"  tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",SIC / 2
-http://giant-iptv.com:5477/live/camille/camille/8443.ts
-#EXTINF:-1 group-title="Generalistas"  tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",SIC / 3
 http://ksportiptv.com:1557/live/idou/idou/2173.ts
 
 #EXTINF:-1,SIC HD
@@ -39,18 +35,14 @@ http://ksportiptv.com:1557/live/idou/idou/2173.ts
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
 #EXTINF:-1 group-title="Generalistas"  tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png/medium",TVI / 2
 http://video-live.iol.pt:1935/live_tvi/LIVE_TVI-1/KodiPortugal.pt.m3u8
-#EXTINF:-1 group-title="Generalistas"  tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png/medium",TVI / 3
-http://giant-iptv.com:5477/live/camille/camille/8437.ts
 
 #EXTINF:-1,RTP Memoria
 #EXTINF:-1 group-title="Generalistas" tvg-logo="http://i67.tinypic.com/2n2hzb.jpg",RTP Memoria
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria swfVfy=1 live=1 timeout=15
 #EXTINF:-1 group-title="Generalistas" tvg-logo="http://i67.tinypic.com/2n2hzb.jpg",RTP Memoria / 2
-http://giant-iptv.com:5477/live/camille/camille/8433.ts
-#EXTINF:-1 group-title="Generalistas" tvg-logo="http://i67.tinypic.com/2n2hzb.jpg",RTP Memoria / 2
 http://ksportiptv.com:1557/live/idou/idou/2169.ts
 
-#EXTINF:-1,RTP Madeira
+#EXTINF:-1,RTP Madeira*
 #EXTINF:-1 group-title="Generalistas" tvg-id="RTPMadeira.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png",RTP Madeira
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmadeira swfVfy=1 live=1 timeout=15
 #EXTINF:-1 group-title="Generalistas" tvg-id="RTPMadeira.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png",RTP Madeira / 2
@@ -58,15 +50,13 @@ http://giant-iptv.com:5477/live/camille/camille/8434.ts
 #EXTINF:-1 group-title="Generalistas" tvg-id="RTPMadeira.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png",RTP Madeira / 3
 http://ksportiptv.com:1557/live/idou/idou/2170.ts
 
-#EXTINF:-1,RTP Acores
+#EXTINF:-1,RTP Acores*
 #EXTINF:-1 group-title="Generalistas" tvg-id="RTPAcores.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png",RTP Acores
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://kodiportugal.pt swfVfy=1 live=1 timeout=15
 #EXTINF:-1 group-title="Generalistas" tvg-id="RTPAcores.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png",RTP Acores / 2
 http://giant-iptv.com:5477/live/camille/camille/8435.ts
-#EXTINF:-1 group-title="Generalistas" tvg-id="RTPAcores.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png",RTP Acores / 3
-http://ksportiptv.com:1557/live/idou/idou/2172.ts
 
-#EXTINF:-1,PORTO Canal*
+#EXTINF:-1,PORTO Canal
 #EXTINF:-1 group-title="Generalistas" tvg-id="PortoCanal.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/medium",PORTO Canal
 http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
 
@@ -121,7 +111,7 @@ http://ksportiptv.com:1557/live/idou/idou/2174.ts
 #EXTINF:-1 group-title="Informacao" tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png/medium",TVI 24
 http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/KodiPortugal.pt.m3u8
 
-#EXTINF:-1,CM TV
+#EXTINF:-1,CM TV*
 #EXTINF:-1 group-title="Informacao" tvg-name="CM TV" audio-track="pt" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg", CM TV
 http://giant-iptv.com:5477/live/camille/camille/8444.ts
 
@@ -226,7 +216,7 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 
 #EXTINF:-1,[B][COLOR yellow]<== Entretenimento ==>[/COLOR][/B]
 http://0.0.0.0:1234
-#EXTINF:-1,SIC Mulher
+#EXTINF:-1,SIC Mulher*
 #EXTINF:-1 group-title="Entretenimento",SIC Mulher
 http://giant-iptv.com:5477/live/camille/camille/8442.ts
 #EXTINF:-1 group-title="Entretenimento",SIC Mulher / 2
@@ -234,9 +224,9 @@ http://ksportiptv.com:1557/live/idou/idou/2175.ts
 
 #EXTINF:-1,SIC Caras*
 #EXTINF:-1 group-title="Entretenimento",SIC Caras
-http://giant-iptv.com:5477/live/camille/camille/8440.ts
 
-#EXTINF:-1,SIC Radical
+
+#EXTINF:-1,SIC Radical*
 #EXTINF:-1 group-title="Entretenimento",SIC Radical
 http://giant-iptv.com:5477/live/camille/camille/8441.ts
 
@@ -244,7 +234,7 @@ http://giant-iptv.com:5477/live/camille/camille/8441.ts
 #EXTINF:-1 group-title="Entretenimento",TVI Ficcao
 
 
-#EXTINF:-1,TVI Reality
+#EXTINF:-1,TVI Reality*
 #EXTINF:-1 group-title="Entretenimento",TVI Reality
 http://giant-iptv.com:5477/live/camille/camille/8408.ts
 #EXTINF:-1 group-title="Entretenimento",TVI Reality / 2
@@ -260,7 +250,7 @@ http://ksportiptv.com:1557/live/idou/idou/2968.ts
 #EXTINF:-1 group-title="Entretenimento",TV Globo
 
 
-#EXTINF:-1,24 Kitchen
+#EXTINF:-1,24 Kitchen*
 #EXTINF:-1 group-title="Entretenimento",24 Kitchen
 http://giant-iptv.com:5477/live/camille/camille/8407.ts
 
@@ -276,7 +266,7 @@ http://giant-iptv.com:5477/live/camille/camille/8407.ts
 #EXTINF:-1 group-title="Entretenimento",Funbox 4K (Ingles)
 
 
-#EXTINF:-1,TLC
+#EXTINF:-1,TLC*
 #EXTINF:-1 group-title="Entretenimento",TLC
 http://ksportiptv.com:1557/live/idou/idou/2962.ts
 
@@ -288,7 +278,7 @@ http://ksportiptv.com:1557/live/idou/idou/2962.ts
 #EXTINF:-1 group-title="Entretenimento",E! Entertainment HD
 
 
-#EXTINF:-1,Travel Channel
+#EXTINF:-1,Travel Channel*
 #EXTINF:-1 group-title="Entretenimento",Travel Channel
 http://ksportiptv.com:1557/live/idou/idou/2971.ts
 
@@ -361,7 +351,7 @@ http://ksportiptv.com:1557/live/idou/idou/2971.ts
 
 #EXTINF:-1,[B][COLOR yellow]<== Infantil ==>[/COLOR][/B]
 http://0.0.0.0:1234
-#EXTINF:-1,Canal Panda
+#EXTINF:-1,Canal Panda*
 #EXTINF:-1 group-title="Infantil",Canal Panda
 http://giant-iptv.com:5477/live/camille/camille/8418.ts
 #EXTINF:-1 group-title="Infantil",Canal Panda / 2
@@ -375,17 +365,17 @@ http://ksportiptv.com:1557/live/idou/idou/2202.ts
 #EXTINF:-1 group-title="Infantil",Disney Junior
 
 
-#EXTINF:-1,Disney Channel
+#EXTINF:-1,Disney Channel*
 #EXTINF:-1 group-title="Infantil",Disney Channel
 http://giant-iptv.com:5477/live/camille/camille/8420.ts
 #EXTINF:-1 group-title="Infantil",Disney Channel / 2
 http://giant-iptv.com:5477/live/camille/camille/8412.ts
 
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1,Cartoon Network*
 #EXTINF:-1 group-title="Infantil",Cartoon Network
 http://giant-iptv.com:5477/live/camille/camille/8416.ts
 
-#EXTINF:-1,Nickelodeon
+#EXTINF:-1,Nickelodeon*
 #EXTINF:-1 group-title="Infantil",Nickelodeon
 http://giant-iptv.com:5477/live/camille/camille/8415.ts
 #EXTINF:-1 group-title="Infantil",Nickelodeon / 2
@@ -395,9 +385,12 @@ http://ksportiptv.com:1557/live/idou/idou/2198.ts
 #EXTINF:-1 group-title="Infantil",Jim Jam
 
 
-#EXTINF:-1,SIC Kids
+#EXTINF:-1,SIC Kids*
 #EXTINF:-1 group-title="Infantil",SIC Kids
 http://giant-iptv.com:5477/live/camille/camille/8414.ts
+#EXTINF:-1 group-title="Infantil",SIC Kids / 2
+http://ksportiptv.com:1557/live/idou/idou/2172.ts
+
 
 #EXTINF:-1,Baby TV*
 #EXTINF:-1 group-title="Infantil",Baby TV
@@ -412,7 +405,7 @@ http://giant-iptv.com:5477/live/camille/camille/8414.ts
 
 #EXTINF:-1,[B][COLOR yellow]<== Filmes e Series ==>[/COLOR][/B]
 http://0.0.0.0:1234
-#EXTINF:-1,TVCine 1
+#EXTINF:-1,TVCine 1*
 #EXTINF:-1 group-title="Filmes e Series",TVCine 1
 http://giant-iptv.com:5477/live/camille/camille/8445.ts
 
@@ -420,7 +413,7 @@ http://giant-iptv.com:5477/live/camille/camille/8445.ts
 #EXTINF:-1 group-title="Filmes e Series",TVCine 1 HD
 
 
-#EXTINF:-1,TVCine 2
+#EXTINF:-1,TVCine 2*
 #EXTINF:-1 group-title="Filmes e Series",TVCine 2
 http://giant-iptv.com:5477/live/camille/camille/8446.ts
 
@@ -428,7 +421,7 @@ http://giant-iptv.com:5477/live/camille/camille/8446.ts
 #EXTINF:-1 group-title="Filmes e Series",TVCine 2 HD
 
 
-#EXTINF:-1,TVCine 3
+#EXTINF:-1,TVCine 3*
 #EXTINF:-1 group-title="Filmes e Series",TVCine 3
 http://giant-iptv.com:5477/live/camille/camille/8447.ts
 
@@ -436,7 +429,7 @@ http://giant-iptv.com:5477/live/camille/camille/8447.ts
 #EXTINF:-1 group-title="Filmes e Series",TVCine 3 HD
 
 
-#EXTINF:-1,TVCine 4
+#EXTINF:-1,TVCine 4*
 #EXTINF:-1 group-title="Filmes e Series",TVCine 4
 http://giant-iptv.com:5477/live/camille/camille/8448.ts
 
@@ -444,17 +437,17 @@ http://giant-iptv.com:5477/live/camille/camille/8448.ts
 #EXTINF:-1 group-title="Filmes e Series",TVCine 4 HD
 
 
-#EXTINF:-1,TVCine Series
+#EXTINF:-1,TVCine Series*
 #EXTINF:-1 group-title="Filmes e Series",TVCine Series
 http://giant-iptv.com:5477/live/camille/camille/8449.ts
 #EXTINF:-1 group-title="Filmes e Series",TVCine Series / 2
 http://giant-iptv.com:5477/live/camille/camille/8439.ts
 
-#EXTINF:-1,TVSeries
+#EXTINF:-1,TVSeries*
 #EXTINF:-1 group-title="Filmes e Series",TVSeries 
 http://ksportiptv.com:1557/live/idou/idou/2970.ts
 
-#EXTINF:-1,TVSeries
+#EXTINF:-1,TVSeries HD
 #EXTINF:-1 group-title="Filmes e Series",TVSeries HD
 http://ksportiptv.com:1557/live/idou/idou/2969.ts
 
@@ -462,7 +455,7 @@ http://ksportiptv.com:1557/live/idou/idou/2969.ts
 #EXTINF:-1 group-title="Filmes e Series",Hollywood
 
 
-#EXTINF:-1,Cinemundo
+#EXTINF:-1,Cinemundo*
 #EXTINF:-1 group-title="Filmes e Series",Cinemundo
 http://giant-iptv.com:5477/live/camille/camille/8399.ts
 #EXTINF:-1 group-title="Filmes e Series",Cinemundo / 2
@@ -472,9 +465,9 @@ http://ksportiptv.com:1557/live/idou/idou/2183.ts
 #EXTINF:-1 group-title="Filmes e Series",Cinemundo HD
 
 
-#EXTINF:-1,Fox Movies*
+#EXTINF:-1,Fox Movies
 #EXTINF:-1 group-title="Filmes e Series",Fox Movies
-http://giant-iptv.com:5477/live/camille/camille/8401.ts
+
 
 #EXTINF:-1,Fox Movies HD
 #EXTINF:-1 group-title="Filmes e Series",Fox Movies HD
@@ -486,7 +479,7 @@ http://giant-iptv.com:5477/live/camille/camille/8401.ts
 
 #EXTINF:-1,Fox HD
 #EXTINF:-1 group-title="Filmes e Series",Fox HD
-http://giant-iptv.com:5477/live/camille/camille/8404.ts
+
 
 #EXTINF:-1,AXN
 #EXTINF:-1 group-title="Filmes e Series",AXN
@@ -500,21 +493,19 @@ http://ksportiptv.com:1557/live/idou/idou/2191.ts
 #EXTINF:-1 group-title="Filmes e Series",Fox Life
 
 
-#EXTINF:-1,Fox Life HD
+#EXTINF:-1,Fox Life HD*
 #EXTINF:-1 group-title="Filmes e Series",Fox Life HD
 http://giant-iptv.com:5477/live/camille/camille/8403.ts
 
-#EXTINF:-1,Fox Crime*
+#EXTINF:-1,Fox Crime
 #EXTINF:-1 group-title="Filmes e Series",Fox Crime
-http://giant-iptv.com:5477/live/camille/camille/8400.ts
-#EXTINF:-1 group-title="Filmes e Series",Fox Crime / 2
 http://ksportiptv.com:1557/live/idou/idou/2195.ts
 
 #EXTINF:-1,Fox Crime HD
 #EXTINF:-1 group-title="Filmes e Series",Fox Crime HD
 
 
-#EXTINF:-1,FOX Comedy
+#EXTINF:-1,FOX Comedy*
 #EXTINF:-1 group-title="Filmes e Series",FOX Comedy
 http://giant-iptv.com:5477/live/camille/camille/8402.ts
 #EXTINF:-1 group-title="Filmes e Series",FOX Comedy / 2
@@ -605,7 +596,7 @@ http://ksportiptv.com:1557/live/idou/idou/3018.ts
 #EXTINF:-1 group-title="Musica",Trace TV (Frances)
 
 
-#EXTINF:-1,PT:TRACE URBAN
+#EXTINF:-1,PT:TRACE URBAN*
 #EXTINF:-1 group-title="Musica",TRACE URBAN
 http://ksportiptv.com:1557/live/idou/idou/2972.ts
 
@@ -617,15 +608,6 @@ rtmp://5.154.185.153/live/live.flv
 #EXTINF:-1,Trace Toca
 #EXTINF:-1 group-title="Musica",Trace Toca (Frances)
 
-
-#EXTINF:-1 group-title="Musica",PT:VEVO 3 HD
-http://ksportiptv.com:1557/live/idou/idou/3017.ts
-
-#EXTINF:-1 group-title="Musica",PT:VEVO 2 HD
-http://ksportiptv.com:1557/live/idou/idou/3008.ts
-
-#EXTINF:-1 group-title="Musica",PT:VEVO 1 HD
-http://ksportiptv.com:1557/live/idou/idou/3009.ts
 
 #EXTINF:-1,Capital TV (UK)
 #EXTINF:-1 group-title="Musica",Capital TV (UK)
@@ -672,11 +654,6 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1,M6 Music
-#EXTINF:-1 group-title="Musica",M6 Music
-http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-
-
 #EXTINF:-1,Melody Channel
 #EXTINF:-1 group-title="Musica",Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
@@ -714,11 +691,11 @@ http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 
 #EXTINF:-1,[B][COLOR yellow]<== Documentarios ==>[/COLOR][/B]
 http://0.0.0.0:1234
-#EXTINF:-1,ANIMAL PLANET
+#EXTINF:-1,ANIMAL PLANET*
 #EXTINF:-1 group-title="Documentarios",ANIMAL PLANET
 http://46.166.162.35:9090/load/b0922f3fa8aa/37.m3u8
 
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1,Discovery Channel*
 #EXTINF:-1 group-title="Documentarios",Discovery Channel
 http://giant-iptv.com:5477/live/camille/camille/8410.ts
 
@@ -734,12 +711,10 @@ http://46.166.162.35:9090/load/b0922f3fa8aa/39.m3u8
 #EXTINF:-1 group-title="Documentarios",National Geographic HD
 
 
-#EXTINF:-1,National Geographic Wild (Ingles)
+#EXTINF:-1,National Geographic Wild
 #EXTINF:-1 group-title="Documentarios",National Geographic Wild (Ingles)
-http://giant-iptv.com:5477/live/camille/camille/8411.ts
-#EXTINF:-1 group-title="Documentarios",National Geographic Wild (Ingles) 2
 http://46.166.162.35:9090/load/b0922f3fa8aa/40.m3u8
-#EXTINF:-1 group-title="Documentarios",National Geographic Wild (Ingles) 3
+#EXTINF:-1 group-title="Documentarios",National Geographic Wild
 http://ksportiptv.com:1557/live/idou/idou/2196.ts
 
 #EXTINF:-1,National Geographic Wild HD (Ingles)*
@@ -747,7 +722,7 @@ http://ksportiptv.com:1557/live/idou/idou/2196.ts
 
 
 #EXTINF:-1,Historia
-#EXTINF:-1 group-title="Documentarios",Historia
+#EXTINF:-1 group-title="Documentarios",Historia 
 http://ksportiptv.com:1557/live/idou/idou/2190.ts
 
 #EXTINF:-1,Odisseia
@@ -756,14 +731,14 @@ http://ksportiptv.com:1557/live/idou/idou/2190.ts
 
 #EXTINF:-1,Investigation Discovery (Ingles)
 #EXTINF:-1 group-title="Documentarios",Investigation Discovery (Ingles)
-http://46.166.162.35:9090/load/b0922f3fa8aa/41.m3u8
+
 
 
 
 
 #EXTINF:-1,[B][COLOR yellow]<== Desporto ==>[/COLOR][/B]
 http://0.0.0.0:1234
-#EXTINF:-1,SPORT TV 1
+#EXTINF:-1,SPORT TV 1*
 #EXTINF:-1 group-title="Desporto",SPORT TV 1
 rtmp://31.220.0.187/privatestream/ playpath=fawergge?keys=WY2MEWvF4LkoAgE1VbOWOw&keyt=1472308204 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=fawergge  swfVfy=1 live=1 timeout=13
 #EXTINF:-1 group-title="Desporto",Sport TV 1 / 2
@@ -773,7 +748,7 @@ http://giant-iptv.com:5477/live/camille/camille/8425.ts
 #EXTINF:-1 group-title="Desporto",SPORT TV 1 HD
 
 
-#EXTINF:-1,SPORT TV 2
+#EXTINF:-1,SPORT TV 2*
 #EXTINF:-1 group-title="Desporto",SPORT TV 2
 http://giant-iptv.com:5477/live/camille/camille/8426.ts
 
@@ -781,7 +756,7 @@ http://giant-iptv.com:5477/live/camille/camille/8426.ts
 #EXTINF:-1 group-title="Desporto",SPORT TV 2 HD
 
 
-#EXTINF:-1,SPORT TV 3
+#EXTINF:-1,SPORT TV 3*
 #EXTINF:-1 group-title="Desporto",SPORT TV 3
 http://giant-iptv.com:5477/live/camille/camille/8427.ts
 
@@ -789,7 +764,7 @@ http://giant-iptv.com:5477/live/camille/camille/8427.ts
 #EXTINF:-1 group-title="Desporto",SPORT TV 3 HD
 
 
-#EXTINF:-1,SPORT TV 4
+#EXTINF:-1,SPORT TV 4*
 #EXTINF:-1 group-title="Desporto",SPORT TV 4
 rtmp://31.220.40.61/privatestream/ playpath=dddd4uedifoekds?keys=Vri8Q5EwFb9Weo-FwdM8Ag&keyt=1471812541  swfUrl=http://privatestream.tv/js/jwplayer.flash.swf  pageUrl=http://privatestream.tv/player?streamname=dddd4uedifoekds  swfVfy=1 live=1 timeout=13
 #EXTINF:-1 group-title="Desporto",Sport TV 4 / 2
@@ -801,13 +776,13 @@ http://giant-iptv.com:5477/live/camille/camille/8428.ts
 
 #EXTINF:-1,SPORT TV 5*
 #EXTINF:-1 group-title="Desporto",SPORT TV 5
-http://giant-iptv.com:5477/live/camille/camille/8429.ts
+
 
 #EXTINF:-1,SPORT TV 5 HD
 #EXTINF:1 group-title="Desporto",SPORT TV 5 HD
 
 
-#EXTINF:-1,Benfica TV 1
+#EXTINF:-1,Benfica TV 1*
 #EXTINF:-1 group-title="Desporto",Benfica TV 1
 rtmp://31.220.40.61/privatestream/ playpath=gergtrg?keys=-9xSxtvS-ybNqYeR5Rklyw&keyt=1471185321 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=gergtrg  swfVfy=1 live=1 timeout=13
 #EXTINF:-1 group-title="Desporto",Benfica TV 1 / 2
@@ -833,7 +808,7 @@ http://ksportiptv.com:1557/live/idou/idou/2973.ts
 #EXTINF:-1 group-title="Desporto",Manchester United TV
 
 
-#EXTINF:-1,Real Madrid TV*
+#EXTINF:-1,Real Madrid TV
 #EXTINF:-1 group-title="Desporto" tvg-id="RMTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xqwpww1436887616.png/medium",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
 
@@ -897,7 +872,7 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 #EXTINF:-1 group-title="Desporto",Fight Network (Ingles)
 
 
-#EXTINF:-1,CBC SPORT (Ingles)
+#EXTINF:-1,CBC SPORT (Ingles)*
 #EXTINF:-1 group-title="Desporto",CBC SPORT (Ingles)
 http://94.20.74.243:4022/udp/239.254.10.28:1234
 
@@ -1041,7 +1016,7 @@ http://0.0.0.0:1234
 
 #EXTINF:-1,Venus
 #EXTINF:-1 group-title="Adulto",Venus
-http://ksportiptv.com:1557/live/idou/idou/2961.ts
+
 
 #EXTINF:-1,sexy hot
 #EXTINF:-1 group-title="Adulto",sexy hot
@@ -1058,38 +1033,26 @@ http://93.87.85.71/PLTV/88888888/224/3221225908/04.m3u8
 
 
 
-#EXTINF:-1,[B][COLOR yellow]<== WebCams Potugal ==>[/COLOR][/B]
-http://0.0.0.0:1234
-#EXTINF:-1,Capelinha Fatima
-#EXTINF:-1 group-title=WebCams Potugal" tvg-id="" tvg-logo="Capelinha_de_Fatima_TV_Fatima.png" group-title=PORTUGAL,Capelinha Fatima
-rtmp://213.13.26.11/live playpath=santuario.stream swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer.swf?live=rtmp://{$hostname}/live/santuario&file=http://rd3.videos.sapo.pt/nk4p1I65eivPLPe4i1hy/mov/24 live=1 pageUrl=objectEncoding
-
-
-
-
-#EXTINF:-1,[B][COLOR yellow]<== WebCams ==>[/COLOR][/B]
-http://0.0.0.0:1234
-#EXTINF:-1,LIVE ISS STREAM
-#EXTINF:-1 group-title="WebCams" tvg-id="n/a" tvg-logo="https://lh3.googleusercontent.com/-UnK39Ro_n8w/Vcn2Fq2_yKI/AAAAAAAAACk/z14TsFRKmXY/w426-h427/ISSTracker_v4a.png",LIVE ISS STREAM
-http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
-
-
-
 
 #EXTINF:-1,[B][COLOR yellow]<== ASIATICOS - ASIAN ==>[/COLOR][/B]
 
 http://0.0.0.0:1234
+
+#EXTINF:-1,Arirang
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://0.viki.io/carousel/-uploads/content_owners/256co/arirang_jpg.jpg?x=b&s=340x170&q=h&cb=1" group-title="ASIATICOS - ASIAN",Arirang
 
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 
+#EXTINF:-1,Fuji TV
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/150px-Fuji_TV_logo.svg.png" group-title="ASIATICOS - ASIAN",Fuji TV
 
 
 
 
+#EXTINF:-1,TV Tokyo
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img1.ak.crunchyroll.com/i/spire4/0a12100d45f5fca99f877434aa98331d1230584768_large.jpg" group-title="ASIATICOS - ASIAN",TV Tokyo
@@ -1101,7 +1064,8 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 
 #EXTINF:-1,[B][COLOR yellow]<== BOLIVIA ==>[/COLOR][/B]
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BOLIVIA",Unitel Santa Cruz (no transmite 24h)
+
+#EXTINF:-1,
 
 
 
@@ -1109,29 +1073,21 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 
 
 #EXTINF:-1,[B][COLOR yellow]<== Eslovênia ==>[/COLOR][/B]
-http://0.0.0.0:1234
-#EXTINF:-1 group-title="Eslovênia",planet v zivo (Eslovênia)
-http://pcdn-07.sdn.si/22ba7f2471e9f5e894f3c50f4f16ea68/planettv/planettv.isml/planettv-video=2500000-audio101=128000.m3u8
+
 
 
 
 
 #EXTINF:-1,[B][COLOR yellow]<== Middle East ==>[/COLOR][/B]
-http://0.0.0.0:1234
-#EXTINF:-1,MBC 1 (Arabic)
-#EXTINF:-1 group-title="Middle East",MBC 1 (Arabic)
-http://195.154.182.238:5477/get.php?username=ramiz&password=ramiz&type=m3u
+
+
 
 
 
 
 #EXTINF:-1,[B][COLOR yellow]<== PARAGUAY ==>[/COLOR][/B]
 #http://0.0.0.0:1234
-EXTINF:-1,MBC 1
-#EXTINF:-1 group-title="Middle East",MBC 1 (Arabic)
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_de_RPC_2016.png/200px-Logo_de_RPC_2016.png" group-title="PARAGUAY",Canal 13 RPC
-
-http://70.36.100.38:1935/live/_definst_/canal13_lq.stream/playlist.m3u8
+#EXTINF:-1,Telefuturo
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PARAGUAY",Telefuturo
 
@@ -1165,16 +1121,6 @@ rtmp://wow.mostvideo.tv/tv/ch1
 
 
 #EXTINF:-1,[B][COLOR yellow]<== PUERTO RICO ==>[/COLOR][/B]
-#EXTINF:-1,Telemundo PR
-#EXTINF:-1 group-title="PUERTO RICO",Telemundo PR
-
-
-#EXTINF:-1,Univisión PR
-#EXTINF:-1 group-title="PUERTO RICO",Univisión PR
-
-
-#EXTINF:-1,WIPR
-#EXTINF:-1 group-title="PUERTO RICO",WIPR
 
 
 
@@ -1198,28 +1144,9 @@ http://46.166.162.35:9090/load/b0922f3fa8aa/6.m3u8
 #EXTINF:-1 group-title="USA",LMN
 http://46.166.162.35:9090/load/b0922f3fa8aa/7.m3u8
 
-#EXTINF:-1,FX
-#EXTINF:-1 group-title="USA",FX
-http://46.166.162.35:9090/load/b0922f3fa8aa/8.m3u8
-
-#EXTINF:-1,SPIKE
-#EXTINF:-1 group-title="USA",SPIKE
-http://46.166.162.35:9090/load/b0922f3fa8aa/9.m3u8
-
 #EXTINF:-1,TNT
 #EXTINF:-1 group-title="USA",TNT
 http://46.166.162.35:9090/load/b0922f3fa8aa/10.m3u8
-
-#EXTINF:-1,SYFY
-#EXTINF:-1 group-title="USA",SYFY
-http://46.166.162.35:9090/load/b0922f3fa8aa/11.m3u8
-
-#EXTINF:-1,TV US
-#EXTINF:-1 group-title="USA",TV US
-http://46.166.162.35:9090/load/b0922f3fa8aa/12.m3u8
-
-#EXTINF:-1 group-title="USA",FILME US
-http://46.166.162.35:9090/load/b0922f3fa8aa/13.m3u8
 
 #EXTINF:-1,COMEDY CENTRAL
 #EXTINF:-1 group-title="USA",COMEDY CENTRAL
@@ -1246,11 +1173,6 @@ http://46.166.162.35:9090/load/b0922f3fa8aa/30.m3u8
 
 #EXTINF:-1,[B][COLOR yellow]<== VENEZUELA ==>[/COLOR][/B]
 http://0.0.0.0:1234
-#EXTINF:-1,Anzoátegui
-#EXTINF:-1 group-title="VENEZUELA",Anzoátegui
-http://edge.wms28.lorini.net/anzoateguitv/anzoateguitv/playlist.m3u8
-
-
 #EXTINF:-1,Canal i
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_1163_2_27037.png" group-title="VENEZUELA",Canal i
 
@@ -1260,19 +1182,6 @@ http://edge.wms28.lorini.net/canal-i/canal-i/playlist.m3u8
 #EXTINF:-1,ClaretTV
 #EXTINF:-1 group-title="VENEZUELA",ClaretTV
 http://edge.wms28.lorini.net/clarettv/clarettv/playlist.m3u8
-
-
-#EXTINF:-1,Globovisión
-#EXTINF:-1 group-title="VENEZUELA",Globovisión
-
-
-#EXTINF:-1,Isla TV
-#EXTINF:-1 group-title="VENEZUELA",Isla TV
-
-
-#EXTINF:-1,Oasis
-#EXTINF:-1 group-title="VENEZUELA",Oasis
-http://edge.wms28.lorini.net/oasistv/oasistv/playlist.m3u8
 
 
 #EXTINF:-1,Promar
@@ -1290,22 +1199,9 @@ http://stream.telearagua.com/telearagua/telearagua/index.m3u8
 http://edge.wms28.lorini.net/telecolor/telecolor/playlist.m3u8
 
 
-#EXTINF:-1,Telemax Música
-#EXTINF:-1 group-title="VENEZUELA",Telemax Música
-
-
 #EXTINF:-1,TeleSUR 31
 #EXTINF:-1 group-title="VENEZUELA",TeleSUR 31
 http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
-
-
-#EXTINF:-1,Telet (Venezuela)
-#EXTINF:-1 group-title="VENEZUELA",Anzoátegui
-http://stream.telearagua.com/telet/telet/index.m3u8
-
-
-#EXTINF:-1,Tic
-#EXTINF:-1 group-title="VENEZUELA",Tic
 
 
 #EXTINF:-1,TRT
@@ -1313,23 +1209,10 @@ http://stream.telearagua.com/telet/telet/index.m3u8
 http://edge.wms28.lorini.net/trttv/trttv/playlist.m3u8
 
 
-#EXTINF:-1,TVes
-#EXTINF:-1 group-title="VENEZUELA",TVes
-
-
 #EXTINF:-1,TVO
 #EXTINF:-1 group-title="VENEZUELA",TVO
 http://edge.wms28.lorini.net/anzohttp://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8
 ateguitv/anzoateguitv/playlist.m3u8
-
-
-#EXTINF:-1,TV Plus
-#EXTINF:-1 group-title="VENEZUELA",TV Plus
-
-
-#EXTINF:-1,TV Venezuela
-#EXTINF:-1 group-title="VENEZUELA",TV Venezuela
-http://38.105.14.194/tvvenezuela/smil:PC.smil/playlist.m3u8
 
 
 #EXTINF:-1,ValeTV
@@ -1354,6 +1237,181 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 #EXTINF:-1,VTV 8
 #EXTINF:-1 group-title="VENEZUELA",VTV 8
 rtmp://cast.streamingconnect.com:1935/vtvweb3/vtvweb3
+
+
+
+
+
+#EXTINF:-1,[B][COLOR yellow]<== WebCams Potugal ==>[/COLOR][/B]
+http://0.0.0.0:1234
+#EXTINF:-1,Capelinha Fatima
+#EXTINF:-1 group-title=WebCams Potugal" tvg-id="" tvg-logo="Capelinha_de_Fatima_TV_Fatima.png" group-title=PORTUGAL,Capelinha Fatima
+rtmp://213.13.26.11/live playpath=santuario.stream swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer.swf?live=rtmp://{$hostname}/live/santuario&file=http://rd3.videos.sapo.pt/nk4p1I65eivPLPe4i1hy/mov/24 live=1 pageUrl=objectEncoding
+
+
+
+
+#EXTINF:-1,[B][COLOR yellow]<== WebCams ==>[/COLOR][/B]
+http://0.0.0.0:1234
+#EXTINF:-1,LIVE ISS STREAM
+#EXTINF:-1 group-title="WebCams" tvg-id="n/a" tvg-logo="https://lh3.googleusercontent.com/-UnK39Ro_n8w/Vcn2Fq2_yKI/AAAAAAAAACk/z14TsFRKmXY/w426-h427/ISSTracker_v4a.png",LIVE ISS STREAM
+http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
+
+
+
+
+#EXTINF:-1,[COLOR yellow] PRAIAS DE PORTUGAL [/COLOR] [COLOR green][Atualizado][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1, PRAIA DO NORTE 
+rtmp://213.13.26.12/live playpath=norte.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/oCjzVigYoFkJHSjgTbkl/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA DE CARCAVELOS 
+rtmp://213.13.26.43/live playpath=carcavelos.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/N1ZOaY48idM6hNTjL7qC/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA DO CARVALHAL
+rtmp://213.13.26.43/live playpath=carvalhal.stream swfUrl=https://js.sapo.pt/Projects/Video/150825R1/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/C612sSyb7aOKWFjSF0m4/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, LAGIDE E BAIA - PENICHE 
+rtmp://213.13.26.41/live playpath=peniche.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/gf8BDWe7fWzQO92jHbBk/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA DA BARRA
+rtmp://213.13.26.13/live playpath=aveiro.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/FbTjYSaI4blfYhgTprsl/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA DA LUZ - ALGARVE 
+rtmp://213.13.26.43/live playpath=luz.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/TH7M3zfHJ32rqRpZnV2l/mov/24&autoStart=1&showlogo=false&showShare=false&live=rtmp://{$hostname}/live/luz.stream
+
+#EXTINF:-1, DUNA BEACH 
+rtmp://213.13.26.43/live playpath=meiapraia.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/zaAQDbEMWBsCP0TZAubG/mov/24&autoStart=1
+
+#EXTINF:-1, LECA DA PALMEIRA 
+rtmp://213.13.26.41/live playpath=leca.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/OF4ntVhaeSihG8JIWV8n/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, JARDIM DO MAR - MADEIRA 
+rtmp://213.13.26.41/live playpath=jardim.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/zpUGwd4ZUrfvFIDb0Vco/mov/24&autoStart=1&showlogo=false&showShare=false&live=rtmp://{$hostname}/live/bordeira.stream
+
+#EXTINF:-1, PRAIA DA ERICEIRA 
+rtmp://213.13.26.43/live playpath=ericeira.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/DTlId9ym9TZc7rOhKECF/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA COSTA DE CAPARICA 
+rtmp://213.13.26.13/live playpath=costa.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/mQFYGs9wRn2H30nvzQbd/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA COSTA DE CAPARICA - SAO JOAO
+rtmp://213.13.26.13/live playpath=costasjoao.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/vh8yWLHqVjIDPEz9fuwF/mov/24&autoStart=1
+
+#EXTINF:-1, PRAIA DE ESPINHO 
+rtmp://213.13.26.13/live playpath=espinho.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/MkomIV8Fr0pEGnMRJCr1/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA DE SAO TORPES 
+rtmp://213.13.26.13/live playpath=saotorpes.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/zzodtq8OUtUfIeLHTjvC/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA DO GUINCHO DO SUL
+rtmp://213.13.26.41/live playpath=guincho.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/lhla7bAtgyT97RZYZrER/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA DO GUINCHO DO NORTE
+rtmp://213.13.26.13/live playpath=guinchonorte.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/IFi2dpFlqJvt7hElSgFM/mov/24&autoStart=1
+
+#EXTINF:-1, PRAIA DO EVARISTO
+rtmp://213.13.26.13/live playpath=evaristo.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/igGN5w5wQ9MZayZneSEq/mov/24&autoStart=1
+
+#EXTINF:-1, PRAIA DE SAO PEDRO 
+rtmp://213.13.26.12/live playpath=saopedro.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/jenFJoJ9B0cZqIEylUvI/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA MATOSINHOS 
+rtmp://213.13.26.13/live playpath=matosinhos.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/es8j5Fy9uPz4IHG0jDsb/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, RIBEIRA D Ilhas
+rtmp://213.13.26.13/live playpath=ribeira.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/JBVNouMY9PAovZa1dpLU/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA SAO PEDRO E BAFUREIRA 
+http://213.13.26.12:1936/live/saopedro.stream/livestream.m3u8
+
+#EXTINF:-1, PRAIA GRANDE 
+rtmp://213.13.26.13/live playpath=grande.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/grfBgAQdvMI3zCGZzPrF/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA SUPER TUBOS 
+rtmp://213.13.26.41/live playpath=supertubos.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/cj18gCcQce1w7DBykbof/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA DA TORREIRA
+rtmp://213.13.26.13/live playpath=torreira.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/o2CeOrbYOwlPRcPa0SdW/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, FONTE DA TELHA
+rtmp://213.13.26.13/live playpath=fontetelha.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/QLSeZzJddnWp7KSNs63n/mov/24&relatedVideos=none&autoStart=1
+
+#EXTINF:-1, SANTA CRUZ
+rtmp://213.13.26.13/live playpath=santacruz.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/2qs77WWaNsGO8kC47ArQ/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, SAO PEDRO DO ESTORIL
+rtmp://213.13.26.13:1936/live/saopedro.stream/livestream.m3u8
+
+#EXTINF:-1, VAGUEIRA 
+rtmp://213.13.26.41/live playpath=vagueira.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/cZokTZuTANNQ2vC57fnS/mov/24&autoStart=1
+
+#EXTINF:-1, VILAMOURA
+rtmp://213.13.26.43/live playpath=vilamoura.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/Pfow3TrYaVCoyND8bjGL/mov/24&autoStart=1
+
+
+
+
+#EXTINF:-1,[COLOR red][I][B]-------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,[COLOR yellow] RADIOS PORTUGUESAS [/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,Mais Kizomba
+http://109.71.41.250:8123/
+
+#EXTINF:-1,RFM CLUBBING
+http://7719.live.streamtheworld.com:80/RFMCLUBBINGAAC_SC
+
+#EXTINF:-1,M80
+http://7719.live.streamtheworld.com:80/GR80SRFMAAC_SC
+
+#EXTINF:-1,NOVA ERA
+http://stream.radio.com.pt:9478/stream
+
+#EXTINF:-1,94 FM
+http://195.8.58.150:35022/;stream.nsv
+
+#EXTINF:-1,SUPER FM
+http://94.23.76.235:9956/
+
+#EXTINF:-1,HIPER FM
+http://85.25.73.243:10460/
+
+#EXTINF:0,Radio Antena 1
+mms://195.245.168.21/antena1
+ 
+#EXTINF:0,Radio Antena 2
+mms://195.245.168.21/antena2
+ 
+#EXTINF:0,Radio Antena3
+mms://195.245.168.21/antena3
+ 
+#EXTINF:0,Radio Comercial
+mmsh://195.23.102.196/comercialcbr96?referrer=http://radiocomercial.clix.pt/asx/dynamic_channel.aspigrekrndigual80706&MSWMExt=.asf
+ 
+#EXTINF:0,Radio RFM
+http://7719.live.streamtheworld.com/RFM_SC
+
+#EXTINF:0,Radio Orbital
+mms://stream.radio.com.pt/ROLI-ENC-401
+ 
+#EXTINF:0, Radio Cidade FM
+mms://195.23.102.196/cidadecbr96
+ 
+#EXTINF:0, Radio Renascença
+http://7709.live.streamtheworld.com:3690/RADIO_RENASCENCA_SC?.wma
+ 
+#EXTINF:0, Radio MegaFM
+http://7719.live.streamtheworld.com:3690/MEGA_HITS_SC?.wma
+ 
+#EXTINF:0, Radio TSF
+mmsh://emdirecto.m3u8f.pt/tsfdirecto?MSWMExt=.asf
+ 
+#EXTINF:0, Radio Vodafone FM
+rtmp://195.23.102.206/autometadata5/ playpath=vodafone.sdp swfUrl=http://www.vodafone.fm/flash/soundmanager2_flash9.swf?ts=1425470563156 live=1 pageUrl=http://www.vodafone.fm/
 
 
 
