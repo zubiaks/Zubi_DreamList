@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1,Zubi DreamList V_0.22b
+#EXTINF:-1,Zubi DreamList V_0.23a
 http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
@@ -779,28 +779,12 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 #EXTINF:-1 group-title="Desporto",Eurosport 2 Xtra HD
 
 
-#EXTINF:-1,Motors TV HD
-#EXTINF:-1 group-title="Desporto",Motors TV HD
-
-
 #EXTINF:-1,PFC (Espanhol)
 #EXTINF:-1 group-title="Desporto",PFC (Espanhol)
 
 
-#EXTINF:-1,Fuel TV
-#EXTINF:-1 group-title="Desporto",Fuel TV
-
-
-#EXTINF:-1,Fuel TV HD
-#EXTINF:-1 group-title="Desporto",Fuel TV HD
-
-
 #EXTINF:-1,Nautical Channel (Ingles)
 #EXTINF:-1 group-title="Desporto",Nautical Channel (Ingles)
-
-
-#EXTINF:-1,Motors TV
-#EXTINF:-1 group-title="Desporto",Motors TV
 
 
 #EXTINF:-1,FightBox HD (Ingles)
@@ -873,6 +857,60 @@ http://23.237.4.162:8080/Skysports4/index.m3u8
 
 #EXTINF:-1,FOX SPORTS (Ingles)
 #EXTINF:-1 group-title="Desporto",FOX SPORTS (Ingles)
+
+
+
+
+
+#EXTINF:-1,[B][COLOR yellow]<== CARS & AUTO ==>[/COLOR][/B]
+http://0.0.0.0:1234
+#EXTINF:-1,Fuel TV
+#EXTINF:-1 group-title="CARS & AUTO",Fuel TV
+
+
+#EXTINF:-1,Fuel TV HD
+#EXTINF:-1 group-title="CARS & AUTO",Fuel TV HD
+
+
+#EXTINF:-1,Motors TV
+#EXTINF:-1 group-title="CARS & AUTO",Motors TV
+
+
+#EXTINF:-1,Motors TV HD
+#EXTINF:-1 group-title="CARS & AUTO",Motors TV HD
+
+
+#EXTINF:-1,Race Central TV
+#EXTINF:-1 group-title="CARS & AUTO",Race Central TV
+http://live-1264.la2.edge.filmon.com/live/4382.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe5f6a743308935b0225ffe4a442d539045d004c91c3530171316ed669d1a1e9a75bc14790aa8cdc53f189e1212ff1670027f1cec53bacfb26e2ac8af92296798f99abc13a8af9a8214712b6de0462fb8cd98cc65a45994148c1c9dbd5563b1d56dec46a2dbc470bc4a7e7f2d27f59bc6fff4e173dfdf2281d542723da86460990c287a1e30c9880fad43da1b7dcf329ff2fdf28cdcb4b23461f46f642f476c250b467b620de34630b971d0276a84f22e6e6d1b10195ac8115
+
+#EXTINF:-1,Honda HPD
+#EXTINF:-1 group-title="CARS & AUTO",Honda HPD
+http://live-1264.la2.edge.filmon.com/live/4709.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe03ee411b17ae679444fd2245318e3798f97eae61b284c8a388164e653578ca28b1b960e8f19c7bcf831bc26f186275f483028a3c48e8bd65738aae77d30ace08bc02d3cf12d4afb6b2156f400b1f0b23f86bbbd3d3da1c1b4197c82167e291daae98d44154124353a315627d50532f24d39f60d8531acc3b5f3666b5e4c5fb18b303dabff46b4dcf20f7a5484d3b2c7f49f370145aebed36915ae5c6aae911bd056c0bea94a9a700e78f6729280a5749ffc70ccf4b574cec
+
+#EXTINF:-1,Auto TV
+#EXTINF:-1 group-title="CARS & AUTO",Auto TV
+http://live-823.gv2.edge.filmon.com/live/2945.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe9e11b4b55199284a5dd33f2dc896198f92e4608d7c1f2997cf15c7752b072b4d3528788329bc24d9fcd8d57ec565df17a54c4678c64be80fd25982d0b6668bb2a65adac9d280f7107063ddc1200a6d60951b017a74f3a9a18a9ce6b9819fd6692b8fa8b725c38c006ff40cae5d1eae209687718d3f0a52bcb1f2b385b3d3cf9bf4b9a7f9c15ec2501e7e599c7f4e2062f4e48d8a55595fbc292b2051e38645c7130e64f1b4ba0f6a031bb50aa5de5c836efec5b7406530e7
+
+#EXTINF:-1,Raceline
+#EXTINF:-1 group-title="CARS & AUTO",1,Raceline
+http://live-1112.la2.edge.filmon.com/live/3641.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe5429c9084ad6678e3c6c5f3533d1eba846968a3aebf71d70b11fc4e7d025df03be9279c6e56f366bf62768edb4f7129a15c258d448793d2b74640eadb3f61c8c15e5304af08e3ec37d688a0ce68b691fe212659b2bce33dbc29f4e2ddacd5798a1a05bc94f04364fb2391b67400bf2f02a21362025a53cc614e72b4b472930b5308ba982e41be50d191227073869028d1076ff14908b030c59a68c7a633c3ceed36a6ede40ce0b18b14cd6a9235f548481498887b3f44dad
+
+#EXTINF:-1,Torque and Tush
+#EXTINF:-1 group-title="CARS & AUTO",Torque and Tush
+http://live-1264.la2.edge.filmon.com/live/3187.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe68646c90cb5a1e7f4eddf688295e778c599facf226ac8142c5626345b285c05114e02b8f3f498d4d9d22de9287b63dbe4cc15b4f2c345a597375b561d1da38f9cdafc1d02a8880c84a693321c71cdbe75bdad906436bf46727750b90f97795244608ef1982e9b311a2aa157350f59b12b7e62a34421c0b8cdec54e55af2c281cf634fb72e7685bb8956d807f08d793c0def43ccf754732b702c3e57a3b6529e0458e203f295ea29521497be71108a73852d57fcadb96196f
+
+#EXTINF:-1,Motorz
+#EXTINF:-1 group-title="CARS & AUTO",Motorz
+http://live-823.gv2.edge.filmon.com/live/262.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe7d91fb559272bdf626d510a0192aa673fae7d09d4ed1765349b1ed1f75b26186d5827f14c31ad3e4bec7ced0d80f9682883ddeddaddc4bddaf7eeff7f2b46a94debcd8e156f7fcfb26cc12a059c7179614832a520e5cf8c3f2e2e5860dc13479632a7473deb152326508e32a542139ff511046fc8f62c4bea7bcd6cfb1f119a3a0ff21d5124636a1c3286f0b8e2d8942963409c8318c62e4fc8b981e00f580732d0ac275f2887a16170d513462711823af0f3588c09d04c9
+
+#EXTINF:-1,Steel Dreams
+#EXTINF:-1 group-title="CARS & AUTO",Steel Dreams
+http://live-1124.la2.edge.filmon.com/live/784.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe144e8ad8f820469babeba8f1ed786d895bdff6a30af28a261bf328a3af5c2f65a7feafe0f8663b1acf72c4b6a2627303aeb3ea10c40ba5d9c73d3b1a2a6eb1dde7d750a58dd285f06a5ce8f86407974662e4e4b224bb4cc3589d1dd10e87523fed1463cd4866b5e35f63e61807f7805fa57822db203dbf77a50ed92e6696e21246c17fb37b44fd75ed8444bc2ada2da6eb3cf818054c9b866ae07c9e8fa42f0d4f4e39222acd5b730be3ecd9b2bead83
+
+#EXTINF:-1,Distant Roads
+#EXTINF:-1 group-title="CARS & AUTO",Distant Roads
+http://live-1124.la2.edge.filmon.com/live/787.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe49205f0766220edf0f323545782fdf04384f20ffc24088ee17df8136936c60c4d565bf3accf08755d0ae53189f01d8d545282d2ca3b46fdd754936c6b51b2e25135c39c440354ab449ef4cd691d7800c693820c3be9ef965514d82fd14639681ebb2a09a52515742818ae48c03ed97331c6bdcfe30f4d20582bd5bbed97225e0034f3d66976ed99382404009cd44d47282784792eb3ad372489a585e4c1e0d37661e2c4fdf32259896da70607e87612c
 
 
 
@@ -974,7 +1012,7 @@ rtmp://edge1.everyon.tv/etv1sb//phd10927
 http://93.87.85.71/PLTV/88888888/224/3221225908/04.m3u8
 
 #EXTINF:-1,Nubiles-Casting.com
-#EXTINF:-1 group-title="Adulto" tvg-logo="penhousetv.jpg",Nubiles-Casting.com
+#EXTINF:-1 group-title="Adulto",Nubiles-Casting.com
 http://23.237.4.162:8080/Skysports1/index.m3u8
 
 
@@ -1022,6 +1060,15 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 
 #EXTINF:-1,[B][COLOR yellow]<== Eslovênia ==>[/COLOR][/B]
 
+
+
+
+
+#EXTINF:-1,[B][COLOR yellow]<== Kazakhstan ==>[/COLOR][/B]
+http://0.0.0.0:1234
+#EXTINF:-1,Kazak TV
+#EXTINF:-1 group-title="Kazakhstan",Kazakh TV
+http://live-1130.la2.edge.filmon.com/live/2674.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe462811ad35125e6f81f06e342085d9c6a9ac5b939e6c7739c33d33fadc69ec030a16408c5ccc89417cfea89c740299b5ffb5f17b4f9fd11d537a3e5a0bb68c49d3c48eff11c1f66817ab31ee39a9949de4a9eb2bf8e7e408891f0f2e85ebcfa3dd3028ff85fc4bb79ffe196001d2723effe17c8f7b049d9023994ec3a22bf77bab89a2da469a02142312b86014bdc0115176d165d994507e0d13168a6d093441f5aeac9cfc59e266e73f208d619a4e5f9af78902cff116a7
 
 
 
