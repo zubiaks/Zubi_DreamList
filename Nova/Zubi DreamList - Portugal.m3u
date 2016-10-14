@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1,Zubi DreamList V_0.23a
+#EXTINF:-1,Zubi DreamList V_0.23b
 http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
@@ -145,6 +145,10 @@ http://ksportiptv.com:1557/live/idou/idou/2177.ts
 #EXTINF:-1,BBC World News
 #EXTINF:-1 group-title="Informacao",BBC World News (Ingles)
 
+
+#EXTINF:-1,BBC News
+#EXTINF:-1 group-title="Informacao",BBC World News (Ingles)
+http://live-1192.gv2.edge.filmon.com/live/27.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe8c2cc3f225e48fbd6bff404cc06c8ff3c8cc354c21929b3b02c1a6e137f6d3e3e23740c6ac033ad0ee710e324856ea3ce72af819b5874fc6a832ce7ede429f0e27aed80513164598cd44eaf37d8f86b089a455ef1c9f93458240c4d4e03b712682d560799ddb9bedfaddabdd87bb43d1ffd51d8aec64f82b7f9ee32479903e1375432c7e8db863658b309a6c5668aab236501af32c83cbce41870729598ec84f5381d2eeca5d098ae6fc1e5e36818744
 
 #EXTINF:-1,CNBC
 #EXTINF:-1 group-title="Informacao",CNBC (Ingles)
@@ -336,6 +340,179 @@ http://ksportiptv.com:1557/live/idou/idou/2968.ts
 
 
 
+#EXTINF:-1,[B][COLOR yellow]<== Desporto ==>[/COLOR][/B]
+http://0.0.0.0:1234
+#EXTINF:-1,SPORT TV 1
+#EXTINF:-1 group-title="Desporto",SPORT TV 1
+rtmp://31.220.0.187/privatestream/ playpath=fawergge?keys=WY2MEWvF4LkoAgE1VbOWOw&keyt=1472308204 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=fawergge  swfVfy=1 live=1 timeout=13
+
+#EXTINF:-1,SPORT TV 1 HD
+#EXTINF:-1 group-title="Desporto",SPORT TV 1 HD
+
+
+#EXTINF:-1,SPORT TV 2
+#EXTINF:-1 group-title="Desporto",SPORT TV 2
+
+
+#EXTINF:-1,SPORT TV 2 HD
+#EXTINF:-1 group-title="Desporto",SPORT TV 2 HD
+
+
+#EXTINF:-1,SPORT TV 3
+#EXTINF:-1 group-title="Desporto",SPORT TV 3
+
+
+#EXTINF:-1,SPORT TV 3 HD
+#EXTINF:-1 group-title="Desporto",SPORT TV 3 HD
+
+
+#EXTINF:-1,SPORT TV 4
+#EXTINF:-1 group-title="Desporto",SPORT TV 4
+rtmp://31.220.40.61/privatestream/ playpath=dddd4uedifoekds?keys=Vri8Q5EwFb9Weo-FwdM8Ag&keyt=1471812541  swfUrl=http://privatestream.tv/js/jwplayer.flash.swf  pageUrl=http://privatestream.tv/player?streamname=dddd4uedifoekds  swfVfy=1 live=1 timeout=13
+
+#EXTINF:-1,SPORT TV 4 HD
+#EXTINF:-1 group-title="Desporto",SPORT TV 4 HD
+
+
+#EXTINF:-1,SPORT TV 5*
+#EXTINF:-1 group-title="Desporto",SPORT TV 5
+
+
+#EXTINF:-1,SPORT TV 5 HD
+#EXTINF:1 group-title="Desporto",SPORT TV 5 HD
+
+
+#EXTINF:-1,Benfica TV 1
+#EXTINF:-1 group-title="Desporto",Benfica TV 1
+
+
+#EXTINF:-1,Benfica TV 1 HD
+#EXTINF:-1 group-title="Desporto",Benfica TV 1 HD
+
+
+#EXTINF:-1,Benfica TV 2
+#EXTINF:-1 group-title="Desporto",Benfica TV 2
+http://ksportiptv.com:1557/live/idou/idou/2188.ts
+
+#EXTINF:-1,SPORTING TV
+#EXTINF:-1 group-title="Desporto",SPORTING TV
+
+
+#EXTINF:-1,Manchester United TV
+#EXTINF:-1 group-title="Desporto",Manchester United TV
+
+
+#EXTINF:-1,Real Madrid TV
+#EXTINF:-1 group-title="Desporto" tvg-id="RMTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xqwpww1436887616.png/medium",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Eurosport
+#EXTINF:-1 group-title="Desporto",Eurosport
+
+
+#EXTINF:-1,Eurosport HD
+#EXTINF:-1 group-title="Desporto",Eurosport HD
+
+
+#EXTINF:-1,Eurosport 2 (Ingles)
+#EXTINF:-1 group-title="Desporto",Eurosport 2 (Ingles)
+
+
+#EXTINF:-1,EuroSport News (Ingles)
+#EXTINF:-1 group-title="Desporto",EuroSport News (Ingles)
+
+
+#EXTINF:-1,Eurosport 2 Xtra
+#EXTINF:-1 group-title="Desporto",Eurosport 2 Xtra
+
+
+#EXTINF:-1,Eurosport 2 Xtra HD
+#EXTINF:-1 group-title="Desporto",Eurosport 2 Xtra HD
+
+
+#EXTINF:-1,PFC (Espanhol)
+#EXTINF:-1 group-title="Desporto",PFC (Espanhol)
+
+
+#EXTINF:-1,Nautical Channel (Ingles)
+#EXTINF:-1 group-title="Desporto",Nautical Channel (Ingles)
+
+
+#EXTINF:-1,FightBox HD (Ingles)
+#EXTINF:-1 group-title="Desporto",FightBox HD (Ingles)
+
+
+#EXTINF:-1,Fast&Fun Box HD (Ingles)
+#EXTINF:-1 group-title="Desporto",Fast&Fun Box HD (Ingles)
+
+
+#EXTINF:-1,Fight Network (Ingles)
+#EXTINF:-1 group-title="Desporto",Fight Network (Ingles)
+
+
+#EXTINF:-1,CBC SPORT (Ingles)
+#EXTINF:-1 group-title="Desporto",CBC SPORT (Ingles)
+
+
+#EXTINF:-1,Kombat Sport
+#EXTINF:-1 group-title="Desporto",Kombat Sport
+
+
+#EXTINF:-1,A Bola TV
+#EXTINF:-1 group-title="Desporto",A Bola TV
+
+
+#EXTINF:-1,TSN 1 (Ingles)
+#EXTINF:-1 group-title="Desporto",TSN 1 (Ingles)
+
+
+#EXTINF:-1,TSN 2 (Ingles)
+#EXTINF:-1 group-title="Desporto",TSN 2 (Ingles)
+
+
+#EXTINF:-1,TSN 3 (Ingles)
+#EXTINF:-1 group-title="Desporto",TSN 3 (Ingles)
+
+
+#EXTINF:-1,TSN 4 (Ingles)
+#EXTINF:-1 group-title="Desporto",TSN 4 (Ingles)
+
+
+#EXTINF:-1,TSN 5 (Ingles)
+#EXTINF:-1 group-title="Desporto",TSN 5 (Ingles)
+
+
+#EXTINF:-1,Versus HD (Ingles)
+#EXTINF:-1 group-title="Desporto",Versus HD (Ingles)
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:-1,BURSA SPORT (Turkish)
+#EXTINF:-1 group-title="Desporto",BURSA SPORT (Turkish)
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
+
+#EXTINF:-1,SKY SPORTS 1 (Ingles)
+#EXTINF:-1 group-title="Desporto",SKY SPORTS 1 (Ingles)
+
+
+#EXTINF:-1,SKY SPORTS 2 (Ingles)
+#EXTINF:-1 group-title="Desporto",SKY SPORTS 2 (Ingles)
+
+
+#EXTINF:-1,SKY SPORTS 3 (Ingles)
+#EXTINF:-1 group-title="Desporto",SKY SPORTS 3 (Ingles)
+http://23.237.4.162:8080/Skysports3/index.m3u8
+
+#EXTINF:-1,SKY SPORTS 4 (Ingles)
+#EXTINF:-1 group-title="Desporto",SKY SPORTS 4 (Ingles)
+http://23.237.4.162:8080/Skysports4/index.m3u8
+
+#EXTINF:-1,FOX SPORTS (Ingles)
+#EXTINF:-1 group-title="Desporto",FOX SPORTS (Ingles)
+
+
+
+
+
 #EXTINF:-1,[B][COLOR yellow]<== Infantil ==>[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,Canal Panda
@@ -378,6 +555,94 @@ http://ksportiptv.com:1557/live/idou/idou/2172.ts
 #EXTINF:-1,Super RTL
 #EXTINF:-1 group-title="Infantil",Super RTL (Alemao)
 
+
+#EXTINF:-1,The Angels from the Attic ComicFlix
+#EXTINF:-1 group-title="Infantil",The Angels from the Attic ComicFlix
+http://live-1264.la2.edge.filmon.com/live/4268.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe9532619f34273ae7e00b2375a23adb58d2213b32bc72ec5a5984d947c3abfbc32542127bf84db02c9ff9a3d2c4d08fdd7abe37090a6bcb86ad1e28044f76adc084357e3cdd0dd6a922d7edd8174bce681ad8e71fd79f29fb7fd3bc79335a56f3e7914670dc32bfca9efdc7c5ab0a573a21542226f9de82c150dc8d4195a10a054f6079b2b7f13051501b2322b664d9736513e208a3e3b542da04235783b79597c4d635c291f6cd90dadbee2b10b1408bb1beb46d9f7126c5
+
+#EXTINF:-1,Kix!
+#EXTINF:-1 group-title="Infantil",Kix!
+http://live-1192.gv2.edge.filmon.com/live/316.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe32a33e9371c2c3b08052e679e094aed52777a601f1ed2b7cef5172f93afcb34783613d383586d39afe4c8bf5fa24bfe9c512797070d1de859a4524e760a0f720db458af4dd7eab62ff612669805e31a06beaf1ded796c671aa9d2f4cd3cffa3963707988f627f4ad6526da8556e76d99479d2c9124a96a0e5b5eec13d3e396d9dbf7f87b38d453235909cc13491f2ee6cb1324691d8be9ddf5e00c33ab67238feb31c49064fd39ea002bf6b1d92db15447c516208c43ab8a
+
+#EXTINF:-1,The Angels from the Attic Featuretles
+#EXTINF:-1 group-title="Infantil",The Angels from the Attic Featuretles
+http://live-1264.la2.edge.filmon.com/live/4271.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe166543bdc2446fd438fa9383bbef8c6b9cbaf88bb68c39926675bcf8691e76b8918a2005c88d324c9eadcf0c261a99522680b5f7682d87de8b62881d1a586944b54c9cf64487fa3f328e24f173a21e31ec095ca639f92f84aa09cbc53962bf17a223990a7108b60f1ea1fc088d63118e624a9a698201390a42ff0864bcac76353405e41b08046b17888e51ed19b174d4f3caa29b30eb92daa77eceed32d8369fd07f3a946a50d1d94ba5fdd72ca9e5199e0dc7f14d3f5b0a
+
+#EXTINF:-1,Tiny Pop
+#EXTINF:-1 group-title="Infantil",Tiny Pop
+http://live-1192.gv2.edge.filmon.com/live/318.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe376369eb7cfea057c479728544fe8badb76d734f2cab1b82956ec1916c3f1fc83d28b70ab8297b24662a5ddd1a4e74122b5b2e2c3d9c408fa0e34d49106178b1fcb837767ba7ad72a927e7a88fa01ae75de92c10a7baadb9914fe357b468410b3d01bac5f71adbf4cc24c840afa917f35f13d6aa180a05b57edadf6f3439931a88ca005cd7ed318082c3fc7c0c053ee0711a4d6be38850b54686ca7580822b04ab22d9d672c29fd720c83718cc1ea9313c81fdae1cd3ceda
+
+#EXTINF:-1,Funny Company TV
+#EXTINF:-1 group-title="Infantil",Funny Company TV
+http://live-1264.la2.edge.filmon.com/live/4613.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeb2823111249bc15e14a5129ee1d0199f28c3a36df29c3250f7d29e3877a45efa0449a337dec3209c5640db261599c7bd39d1ab1c6a4edee63339026e1e3ff943a2f09923211df46331283062a2c8edb2b6bde087c4f02e098a646d820644a5f1cd1d4a6f20fdaad1e6abbc4261f317d0c97a5e1396c61c16c21c04d7bc81511882b374f786662a04d1c8e9145c2d13540b81d62701b4d04c140b10d1c839ce0b5f9c66dc264b2e9bd91ec5224141ebe120ff00875780de89
+
+#EXTINF:-1,POP
+#EXTINF:-1 group-title="Infantil",POP
+http://live-1192.gv2.edge.filmon.com/live/320.high.stream/playlist.m3u8?id=0ad5aac39bb13fbea37d18e645a2848acc32d2644bb9e3151c870a00d2d099bb549199392f03f3eff1082c0ec8c0e6bc7a4d392d1565ca06b096b64669b4d01d98a48b985d396cc5794b771ed134eabf7b8ce22e323fa7ddd462ceb485f0ba1ff958478baea6b1993745636c648eafcbf28a3e646982f6c5eea3457f33008f048d6c0cfa0a571db67d27ac1689e5e3d5b17b49938293f30dabf5d61f4875e872ed5b5111bb20aae10707e99666a4ce64607b366d69a08381911e732185f34dc2
+
+#EXTINF:-1,Kid's Rock TV
+#EXTINF:-1 group-title="Infantil",Kid's Rock TV
+http://live-1112.la2.edge.filmon.com/live/3677.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe7c095ea57ca2256515d546c2a02098e4db66b743f8afcccd3ec24ef196e51a58bae54db824f3a112c3588bfd756c5874ffb3c71e02885e7a6b4ec7710098c172982e77724b7a960725a5a3e5342ac9fa898ee6bdd074511665e5ce6b362096c419b6c77e9d707f327ae58410c1104ed2e4190b08e4dcf1e46ef00d60f7c07691588415e4bc1a3bf6def52f124aadf877f4f4124b79aebc34b758a119cb344f575bf73feae3394942bc7b784b543c47d2aa7300cac48c7c37
+
+#EXTINF:-1,Kids Zone
+#EXTINF:-1 group-title="Infantil",Kids Zone
+http://live-1112.la2.edge.filmon.com/live/3794.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe2e3cd4de744317700f31ba915d53fd4d7cbda3efa415b24f8930b642c240607dfadeeab92fceed4f8954cf2aeef91f44865bbe2cb7f434ee52e9c381d138e739cecd5ee4d87c0ca3138ec48a8f2933059226b779dd78e3f436c9463f8ce48be2ed8da0e94066fdbedda9eed86f800f2ee58770509cf93813214c689f2f6132b0342df0084ff4ac3175f19d278296aa7d041566c01e8ce5a2e33d7dcb15314694ca105312f2c3c875c9d67e3dcfa09b7de3f1ac41be19253c
+
+#EXTINF:-1,Om Nom
+#EXTINF:-1 group-title="Infantil",Om Nom
+http://live-1112.la2.edge.filmon.com/live/3824.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe70bdc0996a9811ceb88aa3cbf39b6c8e63d21775d20e1d4bcad2ba973322b1a86f19f15e887dfbf40994ab71be02178866901f0ab05891d540a38c9eae6a08d2d7dda72cc81dfba3e25dcd20b67ef452b137062ab69f98fa80c7430c445bf017880197b6b2c6894f353ae940e00fd066f7ea0169384ce47124fe50ed990a2efb9c41bf1b4120ee67bfbb54137fe9b461096ac7732c38ba71fee9dc6959454fea616cfc9f9456420aa6695fcce8c691786027e71d8ede8417
+
+#EXTINF:-1,Children's Reading Channel
+#EXTINF:-1 group-title="Infantil",Children's Reading Channel
+http://live-1264.la2.edge.filmon.com/live/4160.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe8b902460744b524aceaa44aa9eca1886f3e9686d76997e5f1ade8ecdb13654d0a15bc4603a48e42f6569f70b7cfb5e8d923cf1175f1f64b457386276e088239d895281b0af1a178c41f8b26f8a016db86d3436d003d95621aaf4c60eb284463023289ebe56257ccdca9641545e0b7b5b63fae43c99820631838e005e311da16d125defddc3ba586de34bbd8663d6b26c20475a7f0f9df0e2cb5c517a2e0dd2af1ecd3e6dfd24456754aa7eb05c8e203a6c87521f9ac40019
+
+#EXTINF:-1,Tails TV
+#EXTINF:-1 group-title="Infantil",Tails TV
+http://live-1264.la2.edge.filmon.com/live/4169.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe9df08bb03c7c018beeb17f5fdea314827b6058a9c1bdf35c5d8e78f28e9cc2afb97f855f899a32f86ff95eb848d00d8b852552b9c48f1d4e406ea87dbd8351f95acef0e18d6652adafb13170b2a3c3f79f14ab0d4f5ec10a478390f7f5ba3bc7ee958d5ba5f71126728ffdca12648ffcdb33cc577325d4114146deb29904e4937789f2654cfb09c822d1ba7c32682f39ed18f3cc2c564515883147c17d0d754cd7915722154b9b14bd0fcb4ea88d93cdfd210816d6e3143b
+
+#EXTINF:-1,The Angels from the Attic Create-Alongs
+#EXTINF:-1 group-title="Infantil",The Angels from the Attic Create-Alongs
+http://live-1264.la2.edge.filmon.com/live/4265.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe9780df29eee702760fc42b1e59f606a309a169a229eb06cefb2ee0fd141e99ee6ca5a32a76cb18f9155bac8c0718a441258b6256afc19ad8f36ab5ce2e2290c9768be2e0de0f83e26c88d4205d7c95372645a53e8b0f323002c5acef01636566c9446d6217f3861dccf8fc00b988ca9e7ffa756209123841669c462ac3ef8996709fdf62c0f44e14941e939d909cbe5703249a38f51a9b89c7399824bb01ce0393af0fcc4bdd3ab968ca75a7642636acbbb39eda28d0ba6e
+
+#EXTINF:-1,Cat TV
+#EXTINF:-1 group-title="Infantil",Cat TV
+http://live-1124.la2.edge.filmon.com/live/3614.low.stream/playlist.m3u8?id=0ad5aac39bb13fbea2259d70ec5977de59f1c7d9cd0eacaa1447e1db86e7b13406cd5b1375ad3b34e754e0af6fe6e0fc1b91fbeafc1107f92aaa194823a90aee77026e2a46706bf8a89b5b0c7a076320ef7fa1a13523853913dd96a511a768aefa41cad84b849833087327fe977eadc535401eec9957aa116d830f799f7475e1ca35af5e456c23891e30809397afdc9724fd5eb6610cc03e55a5da2db4088726644781b00e2d714e2dd437b9c062bc8aed91df8e2339f043ee0c26d772dcbf5c
+
+#EXTINF:-1,CBeebies
+#EXTINF:-1 group-title="Infantil",CBeebies
+http://130.117.88.236/live/3191.low.stream/playlist.m3u8?id=0ad5aac39bb13fbec66ad9a6204d6e656a6e819a69bcb2db171050f8744e387a7e9a79875e4458ef8830672c8b83afa4e4fa4df55707e28d0fcfaed1a1fc5d978d6e6ad1b88eafecd6412a9046975fedb207a5ab17555586837008e2983aba4a9d1a8641cedea2c90ffd61315c6956037304a82613942ae9fbaf53bf56245efbb4ef7f0888a59688a046bae8dc1868a577b47a8d4fe25f8978fd1637d72639f2b7abe80ad2fe2d7e1e86360dba4cec6d6473f856ba581d4a475ab21fe08e05db
+
+#EXTINF:-1,CBBC
+#EXTINF:-1 group-title="Infantil",CBBC
+http://live-823.gv2.edge.filmon.com/live/29.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeebe28d7f233e8167ee873d712444b6883a5bfbf84cc0e63213a9e23ae8386a470f0f380b0267c498ae785baed53ec92f4c2b5433d283ee39262043d6a0261bce74b918ed9363a26a858a0053c4508e34acdc221b1cf602958cb01c998a4a968a5dac4f5056aef4a19df4f48d87d628a3931f36bacefefb483285bbc762e462371a7a768115f5a3dde65880078d9ae6478e7da3b319ce2994c57f3adef37696a43052be94655888f2d48c459330a17284
+
+#EXTINF:-1,Tayla's Toddler Toy Review
+#EXTINF:-1 group-title="Infantil",Tayla's Toddler Toy Review
+http://live-1112.la2.edge.filmon.com/live/3263.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe4c0d698155b76f0e3b44bc92fc1241016f8e215675def0568169defbdfccf699ce474b5402e50e972f6d582ab47d1437411199189f55df4802f81f3d86800a0366b70547aa08cb5721997151ab5e23120d7d59eff291b1602cc724c0af3c7f403b988852761fda9f7f3c81a7aeae59a8475aea5a0ed70d5a9f17ee49ddd9ae99ee388a26bf5ed097e52cb5ec71331e03654299706f0f79236a69790de0b222616b0708a810f4cdec7694e2eb3386856c81872a7d45cb9544
+
+#EXTINF:-1,Kartoon Klassics
+#EXTINF:-1 group-title="Infantil",Kartoon Klassics
+http://live-1124.la2.edge.filmon.com/live/793.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe0a66255d4f41d6bdb68ec612478ee63267fd842ad889043b668d5c7b8950964a070871f11e240c14c05c663446843c434c9bbed8654085fdc6ccf7419520be43f6127ad1746d8d73b0e65bf347feb9b9035f26c6c5a69bc005832f45385e34f1f641f01e9d3222869477bfcdac40188a6aed069d08226c86a8443af38a21611e049d71d46e73078bc7d98e7ed6726b68ebfd848e185190c8ff328027d34ac232148b6b9554fdfe5569d4fc7c2d952c22
+
+#EXTINF:-1,Fun Little Kids
+#EXTINF:-1 group-title="Infantil",Fun Little Kids
+http://live-1124.la2.edge.filmon.com/live/1861.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeff7910f2358d172ead719dc1508cf6edffc3437dc28336110dec1cb968fad22953cf0f45185d6fb9931f81b2c44527e93ba38556668b91f6e3cc013b7b4a9779117997d638a22a90a36c5ce16a6cb15f3d0b84e9e51d5dbeb138ab60e4402697018412c587ef8502718743cd71d8ae32c0473d57d036d695af8ab5bc4cd073296f5eeee300f52a9be499c07eecfc593d684d7a746bd7d2fe382a723b93342167106d48115b7571af4b3f73eeba2dcb49c811c7c8c57fb1ea
+
+#EXTINF:-1,Tea Time with Tayla
+#EXTINF:-1 group-title="Infantil",Tea Time with Tayla
+http://live-1124.la2.edge.filmon.com/live/2993.low.stream/playlist.m3u8?id=0ad5aac39bb13fbedc0d2f415f4c64dd5bd77a25f2b65ee9785103c63fc652034a0f6811c72c23fe3117ac647c87545f9d6452d2fe9f4ae2fa43d99002fa5f460810b9485205764f3a4b6b10c36123c67762575e05e559bbc19bc47de1ca0c883acca0ecaf4452529b00eb6f2825459ad48ea0e66a0d6053630ec251a873692af7fa744cf2d4925ec0ba0d3cd6970aa9674ca31e4b82ac4fab5ed3469f615be6f79bc32cece906da9f263e3b35956df8862d0662e58a1b7dbc6be5251852d4c6
+
+#EXTINF:-1,Wild About Animals
+#EXTINF:-1 group-title="Infantil",Wild About Animals
+http://live-1124.la2.edge.filmon.com/live/3146.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe01953e523e0cbdfe5a85d01155cb16cd97adb15e68e10dcf664aae48fe25b7bda4957272d788e45a2b5b0ec2a75ec832b287cf9447f1f1da810efa76d675e67c8ace81b582bb0e66c022ceb4ee90c50fc565edd78758939ee74732e5a8e7323724bf279085642ea356757d4910bcc505c079f0aa9ac15bfbc144dee9e61c7660cc5b7c0bb85c68443e601384fae8e4f077ff858ed07631acc9d4d60abaeb38655f419234ff288bb7f93b7fdbbb8f46c55f704288c95f21c8
+
+#EXTINF:-1,FilmOn Kids
+#EXTINF:-1 group-title="Infantil",FilmOn Kids
+http://live-1112.la2.edge.filmon.com/live/7.high.stream/playlist.m3u8?id=0ad5aac39bb13fbebfea897773d3792d4a63085895c34b7a989678be730e03285c6c0d86010db80f67aa9bb916fe9bb9e63ae93efe405d9882a6adac00fb2c6a755cc773aa4e7de5888561a0a5e5024b27d8ffcc134b2c8bf26ba559b55a48341c000e672f5455fc1c9a66d37be207adea9e0fca6d650e3907e3c429babfcdffa868451ae5d46ddd585e21ff72b1d152adc6c2b5bdfe0ef91227101f9a88024f484e8d87ff3330189ca5f503449b9bf44961aaed2bd2e3f5
+
+#EXTINF:-1,Smile of a Child
+#EXTINF:-1 group-title="Infantil",Smile of a Child
+http://live-1130.la2.edge.filmon.com/live/401.high.stream/playlist.m3u8?id=0ad5aac39bb13fbecb149be050065c9a07d159a3d593aed188f4a22cb73e146b87f18eec46867668636429f4cea4a7f3d9b2713d1feb6ab6124d7ddfe2f29dc43789097471125899903aa44cef9a87458793af5540452e2e8f223c49b2270e3d07f3d5c2abca5cf82bdd885beabc70514a098735b1a241a9ab7c28bd59a49a7126537ee397eecbb60605d7da8efcde7f9eb8e1c9fe14a78f2aa215de4ba2f69cde1efe7620bc0d1d50af9dfe312cbf6e9731b623a8a273291c43403f442588bc
 
 
 
@@ -689,179 +954,6 @@ http://ksportiptv.com:1557/live/idou/idou/2196.ts
 
 
 
-#EXTINF:-1,[B][COLOR yellow]<== Desporto ==>[/COLOR][/B]
-http://0.0.0.0:1234
-#EXTINF:-1,SPORT TV 1
-#EXTINF:-1 group-title="Desporto",SPORT TV 1
-rtmp://31.220.0.187/privatestream/ playpath=fawergge?keys=WY2MEWvF4LkoAgE1VbOWOw&keyt=1472308204 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=fawergge  swfVfy=1 live=1 timeout=13
-
-#EXTINF:-1,SPORT TV 1 HD
-#EXTINF:-1 group-title="Desporto",SPORT TV 1 HD
-
-
-#EXTINF:-1,SPORT TV 2
-#EXTINF:-1 group-title="Desporto",SPORT TV 2
-
-
-#EXTINF:-1,SPORT TV 2 HD
-#EXTINF:-1 group-title="Desporto",SPORT TV 2 HD
-
-
-#EXTINF:-1,SPORT TV 3
-#EXTINF:-1 group-title="Desporto",SPORT TV 3
-
-
-#EXTINF:-1,SPORT TV 3 HD
-#EXTINF:-1 group-title="Desporto",SPORT TV 3 HD
-
-
-#EXTINF:-1,SPORT TV 4
-#EXTINF:-1 group-title="Desporto",SPORT TV 4
-rtmp://31.220.40.61/privatestream/ playpath=dddd4uedifoekds?keys=Vri8Q5EwFb9Weo-FwdM8Ag&keyt=1471812541  swfUrl=http://privatestream.tv/js/jwplayer.flash.swf  pageUrl=http://privatestream.tv/player?streamname=dddd4uedifoekds  swfVfy=1 live=1 timeout=13
-
-#EXTINF:-1,SPORT TV 4 HD
-#EXTINF:-1 group-title="Desporto",SPORT TV 4 HD
-
-
-#EXTINF:-1,SPORT TV 5*
-#EXTINF:-1 group-title="Desporto",SPORT TV 5
-
-
-#EXTINF:-1,SPORT TV 5 HD
-#EXTINF:1 group-title="Desporto",SPORT TV 5 HD
-
-
-#EXTINF:-1,Benfica TV 1
-#EXTINF:-1 group-title="Desporto",Benfica TV 1
-
-
-#EXTINF:-1,Benfica TV 1 HD
-#EXTINF:-1 group-title="Desporto",Benfica TV 1 HD
-
-
-#EXTINF:-1,Benfica TV 2
-#EXTINF:-1 group-title="Desporto",Benfica TV 2
-http://ksportiptv.com:1557/live/idou/idou/2188.ts
-
-#EXTINF:-1,SPORTING TV
-#EXTINF:-1 group-title="Desporto",SPORTING TV
-
-
-#EXTINF:-1,Manchester United TV
-#EXTINF:-1 group-title="Desporto",Manchester United TV
-
-
-#EXTINF:-1,Real Madrid TV
-#EXTINF:-1 group-title="Desporto" tvg-id="RMTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xqwpww1436887616.png/medium",Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,Eurosport
-#EXTINF:-1 group-title="Desporto",Eurosport
-
-
-#EXTINF:-1,Eurosport HD
-#EXTINF:-1 group-title="Desporto",Eurosport HD
-
-
-#EXTINF:-1,Eurosport 2 (Ingles)
-#EXTINF:-1 group-title="Desporto",Eurosport 2 (Ingles)
-
-
-#EXTINF:-1,EuroSport News (Ingles)
-#EXTINF:-1 group-title="Desporto",EuroSport News (Ingles)
-
-
-#EXTINF:-1,Eurosport 2 Xtra
-#EXTINF:-1 group-title="Desporto",Eurosport 2 Xtra
-
-
-#EXTINF:-1,Eurosport 2 Xtra HD
-#EXTINF:-1 group-title="Desporto",Eurosport 2 Xtra HD
-
-
-#EXTINF:-1,PFC (Espanhol)
-#EXTINF:-1 group-title="Desporto",PFC (Espanhol)
-
-
-#EXTINF:-1,Nautical Channel (Ingles)
-#EXTINF:-1 group-title="Desporto",Nautical Channel (Ingles)
-
-
-#EXTINF:-1,FightBox HD (Ingles)
-#EXTINF:-1 group-title="Desporto",FightBox HD (Ingles)
-
-
-#EXTINF:-1,Fast&Fun Box HD (Ingles)
-#EXTINF:-1 group-title="Desporto",Fast&Fun Box HD (Ingles)
-
-
-#EXTINF:-1,Fight Network (Ingles)
-#EXTINF:-1 group-title="Desporto",Fight Network (Ingles)
-
-
-#EXTINF:-1,CBC SPORT (Ingles)
-#EXTINF:-1 group-title="Desporto",CBC SPORT (Ingles)
-
-
-#EXTINF:-1,Kombat Sport
-#EXTINF:-1 group-title="Desporto",Kombat Sport
-
-
-#EXTINF:-1,A Bola TV
-#EXTINF:-1 group-title="Desporto",A Bola TV
-
-
-#EXTINF:-1,TSN 1 (Ingles)
-#EXTINF:-1 group-title="Desporto",TSN 1 (Ingles)
-
-
-#EXTINF:-1,TSN 2 (Ingles)
-#EXTINF:-1 group-title="Desporto",TSN 2 (Ingles)
-
-
-#EXTINF:-1,TSN 3 (Ingles)
-#EXTINF:-1 group-title="Desporto",TSN 3 (Ingles)
-
-
-#EXTINF:-1,TSN 4 (Ingles)
-#EXTINF:-1 group-title="Desporto",TSN 4 (Ingles)
-
-
-#EXTINF:-1,TSN 5 (Ingles)
-#EXTINF:-1 group-title="Desporto",TSN 5 (Ingles)
-
-
-#EXTINF:-1,Versus HD (Ingles)
-#EXTINF:-1 group-title="Desporto",Versus HD (Ingles)
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-
-#EXTINF:-1,BURSA SPORT (Turkish)
-#EXTINF:-1 group-title="Desporto",BURSA SPORT (Turkish)
-http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
-
-#EXTINF:-1,SKY SPORTS 1 (Ingles)
-#EXTINF:-1 group-title="Desporto",SKY SPORTS 1 (Ingles)
-
-
-#EXTINF:-1,SKY SPORTS 2 (Ingles)
-#EXTINF:-1 group-title="Desporto",SKY SPORTS 2 (Ingles)
-
-
-#EXTINF:-1,SKY SPORTS 3 (Ingles)
-#EXTINF:-1 group-title="Desporto",SKY SPORTS 3 (Ingles)
-http://23.237.4.162:8080/Skysports3/index.m3u8
-
-#EXTINF:-1,SKY SPORTS 4 (Ingles)
-#EXTINF:-1 group-title="Desporto",SKY SPORTS 4 (Ingles)
-http://23.237.4.162:8080/Skysports4/index.m3u8
-
-#EXTINF:-1,FOX SPORTS (Ingles)
-#EXTINF:-1 group-title="Desporto",FOX SPORTS (Ingles)
-
-
-
-
-
 #EXTINF:-1,[B][COLOR yellow]<== CARS & AUTO ==>[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,Fuel TV
@@ -916,19 +1008,6 @@ http://live-1124.la2.edge.filmon.com/live/787.low.stream/playlist.m3u8?id=0ad5aa
 
 
 
-#EXTINF:-1,[B][COLOR yellow]<== Religioso ==>[/COLOR][/B]
-http://0.0.0.0:1234
-#EXTINF:-1,Cancao Nova
-#EXTINF:-1 group-title="Religioso" tvg-id="CancaoNova.PT" "tvg-logo="http://www.cancaonova.pt/wp-content/uploads/2015/11/logo_cnok.png",Cancao Nova
-http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
-
-#EXTINF:-1,Igreja Online TV HD
-#EXTINF:-1 group-title="Religioso",Igreja Online TV HD
-http://195.22.19.179:1935/igronl/igronline2/live.m3u8
-
-
-
-
 #EXTINF:-1,[B][COLOR yellow]<== Temáticos ==>[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,DOGTV (Ingles)
@@ -950,6 +1029,66 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 #EXTINF:-1,NASA TV MEDIA (Ingles)
 #EXTINF:-1 group-title="Temáticos" tvg-id="n/a" tvg-logo="http://www.thelogodb.com/images/media/logo/uyysuv1433430227.png",NASA TV MEDIA (Ingles)
 http://nasatv-lh.akamaihd.net/i/NASA_103@319271/master.m3u8
+
+
+
+
+#EXTINF:-1,[B][COLOR yellow]<== Regionais ==>[/COLOR][/B]
+http://0.0.0.0:1234
+#EXTINF:-1,Agueda TV
+#EXTINF:-1 group-title="Regionais",Agueda TV
+http://agueda.tv:1756/stream.flv
+
+
+
+
+#EXTINF:-1,[B][COLOR yellow]<== Shopping TV ==>[/COLOR][/B]
+http://0.0.0.0:1234
+#EXTINF:-1,Jewelry TV
+#EXTINF:-1 group-title="Shopping TV",Jewelry TV
+http://live-1130.la2.edge.filmon.com/live/306.high.stream/playlist.m3u8?id=0ad5aac39bb13fbebd687895d39ecf0f4a8847f7ce0b618a24282e5e01e415a131b99ab760655b9c8f0be673097f6d8b3003768769a0555be12ad8e5e77703146a2d50c698eb77fe68a83482682ff37307a5fbbd24f097d95722317aa56802e35fce39fc387ff78aff5b9b2163e76699881f113654a326c75cbd86319a22e227c116a7c05b224d6f7f606e7f0c9207795252555ca010a3bc70f32ed839167f7221cf34fa7e07261a32f849c8dd15d66f7d8239cd9fea6bb10368135888bc7644
+
+#EXTINF:-1,QVC
+#EXTINF:-1 group-title="Shopping TV",QVC
+http://live-1130.la2.edge.filmon.com/live/413.high.stream/playlist.m3u8?id=0ad5aac39bb13fbebe29e7ba2d90780e18771ef826efc9ba2312fdc3458b8189a5e5e08ee73b58dbbf525bc809f31348c7bfb07f3c2c62bc1c58db2888a79ddd8a0d0011f6646a5b00fddfe9fc2d131d89744f1ae34d35e7eb682121bebc3ce19de31366753f50fd31fd8c3909906b6e26bb2886b0bb100ac932a5624e1f04cc8d47102058dd1da28f03ab443fc2e2f91c16717ba64bec03c2f0a84120bed33b9ac9ae1b3299e03c9510c610628e1b345507fb52d5983293e5873814a6349b51
+
+#EXTINF:-1,Shop N Give
+#EXTINF:-1 group-title="Shopping TV",Shop N Give
+http://live-1136.la2.edge.filmon.com/live/4376.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe5ed7378d2eb0775a78c64224bd7d55faa30d5f958c812d6caa4901c202f1c3b6fa24d86477c4f0ffdba88d07f53076380743e22caadf78c8215ad7978c40c916e8f990c835d5d7cf40db9ab5f235444f03c5f38d727f405b4ab336e25f2740fe60a1dcafbd037039ac2f22d9eca20baa957eeb70c84b200ba3d5a1592008707cdda6704eaf7d331b3829f832c86f0651b7b66acff0cd6ab584c58953ce886578e7bbced2ae6f4fc65427db717dc75e0ad8592920e97eeb56http://live-1264.la2.edge.filmon.com/live/4414.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe314543b22a5ee924b52336b23056983ce606ecfc66cdcd710122fbb963bc5197e22f36346ea9d8b2b43b403f4b667bb79f4af219a542c756ca3df5021bd7b0e77cfc837b711ce32f01dd62103f92d9dd945792e008a196da1a4c9d20b04a09b3d85145df5a9a61d11683706fd1d06e2c45548c5316ac5984cd03818ae2534f1ee9d8bbf4782cd0ca16d99e28a1aece5394bd5a3e933dd81f3bbb9f406101d9b94810a9d670789c88f4a0f55ee92837a34a272dc0f447010f
+
+#EXTINF:-1,Deals TV
+#EXTINF:-1 group-title="Shopping TV",Deals TV
+http://live-1264.la2.edge.filmon.com/live/4414.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe314543b22a5ee924b52336b23056983ce606ecfc66cdcd710122fbb963bc5197e22f36346ea9d8b2b43b403f4b667bb79f4af219a542c756ca3df5021bd7b0e77cfc837b711ce32f01dd62103f92d9dd945792e008a196da1a4c9d20b04a09b3d85145df5a9a61d11683706fd1d06e2c45548c5316ac5984cd03818ae2534f1ee9d8bbf4782cd0ca16d99e28a1aece5394bd5a3e933dd81f3bbb9f406101d9b94810a9d670789c88f4a0f55ee92837a34a272dc0f447010f
+
+#EXTINF:-1,QVC Plus
+#EXTINF:-1 group-title="Shopping TV",QVC Plus
+http://live-1136.la2.edge.filmon.com/live/2701.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeac1c98e536bfd80b21b22a6d5ce887a23183a8c6b636bbb04bd63cc70c5d6001e8417c8ce70a2dcfca127de9ffa8bc0efd2b8e3884d4e25a46ee47852cc28c84b15b605c3fdde0d8872a94a9b30466f5b8e330f883f38117751b3271bd86338d0662389c6e95a279ce8f8eb5df100f8bc468c745cb981e95b9fb0c72167229a437fedede59443e8606dc32fc19b2a3e79396245ea2fef12089e4f91a0743eae897f72b484d1eb0db8a7083caca9bbc4cf541e6bfe7c3a4e4
+
+#EXTINF:-1,America's Auction Network
+#EXTINF:-1 group-title="Shopping TV",America's Auction Network
+http://live-1130.la2.edge.filmon.com/live/2252.high.stream/playlist.m3u8?id=0ad5aac39bb13fbefec10a74f516b0f40e10daeaafa2f137574bb98892b51018c03db5858a333f3df650f67ec048371c20bf1e1429abfb8122204ec5675a6efef00c94b8a48e5b97c6a6ee7f9548d3f59fedfdf7dfaafb011f8a9ddc9c24fd4ecfda60b01e46ba3479a380112f3178016bb63ba3defc231166d034d2881ec52a49fd9ac73c3b6a6899dff4ebcd25f8159c732fdbc7f7edc7e26f7f3a1cde6cae5883beeebc4a74571460ac98293f3d0448330378cf4333fbd79a211f571f027d
+
+#EXTINF:-1,Caribbean Shopping Channel
+#EXTINF:-1 group-title="Shopping TV",Caribbean Shopping Channel
+http://live-1112.la2.edge.filmon.com/live/2066.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe3b469aa8a58dbaf9d8115f93c2a5049b97bc2c3577daa0598e20a1a0071101d019eb862366f45941b0df429c10e45ee09ff2fd610614df8f5221163116137197b76a20f37267d595d88171b930ff9dc201e327e79572d0b931c3f840a0fb32254fbb12a90098837bd5b2bb3467f34d60b8eb2d6413066219bca9a387868a7d038f4ac8e8b579e780bb801c2e49e03bd9e4ffe2e0b70fa15e58a37a91e281eeb5a33988096ef093f1d5122c797e2f43e88b181620ea1f5f20
+
+#EXTINF:-1,Product Showcase Network
+#EXTINF:-1 group-title="Shopping TV",Showcase Network
+http://live-1124.la2.edge.filmon.com/live/2704.low.stream/playlist.m3u8?id=0ad5aac39bb13fbefe0f2582f856807268d3226fcfdc277d29082ef7517d4a5f96efbed306fb3f11b2d01957740cab2fef5b89fb350bb0c64a9a1703a3a5fdfe4860614c7d87ae79ce15721078d1d942d474b611f2e6e8f6c33a619ab5874f18a72ef7fc8bf3239626a0ea9d68099d24ecf3a2fcfa6f339f110becc51ed0c914f649f74fe5b2c05ccd3111b5f4c578d93023080e442aee5f33b1deecf6261abd0af7c532cab5f452437881f3c0f8d72119ba2f76a14a3366efd5671ac6511529
+
+
+
+
+
+#EXTINF:-1,[B][COLOR yellow]<== Religioso ==>[/COLOR][/B]
+http://0.0.0.0:1234
+#EXTINF:-1,Cancao Nova
+#EXTINF:-1 group-title="Religioso" tvg-id="CancaoNova.PT" "tvg-logo="http://www.cancaonova.pt/wp-content/uploads/2015/11/logo_cnok.png",Cancao Nova
+http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+
+#EXTINF:-1,Igreja Online TV HD
+#EXTINF:-1 group-title="Religioso",Igreja Online TV HD
+http://195.22.19.179:1935/igronl/igronline2/live.m3u8
 
 
 
@@ -976,15 +1115,6 @@ http://live-1124.la2.edge.filmon.com/live/2684.high.stream/playlist.m3u8
 #EXTINF:-1,Mega Destinations
 #EXTINF:-1 group-title="FILMON9and10",Mega Destinations
 http://live-1124.la2.edge.filmon.com/live/2678.high.stream/playlist.m3u8
-
-
-
-
-#EXTINF:-1,[B][COLOR yellow]<== Regionais ==>[/COLOR][/B]
-http://0.0.0.0:1234
-#EXTINF:-1,Agueda TV
-#EXTINF:-1 group-title="Regionais",Agueda TV
-http://agueda.tv:1756/stream.flv
 
 
 
@@ -1020,6 +1150,28 @@ http://23.237.4.162:8080/Skysports1/index.m3u8
 
 
 
+#EXTINF:-1,[B][COLOR yellow]<== African TV ==>[/COLOR][/B]
+
+#EXTINF:-1,Eri TV
+#EXTINF:-1 group-title="African TV",Eri TV
+http://213.200.110.120/live/1793.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe2b466a6dabca096c5356805aa30673157d6f24ca94c8aeda62c8673d9fb1e2cae1e99bc833820bd58abe23472458a00387278398accd353f6ec94d6091f70b3654499d03ef4a16f79e46784b0920398fca396afe6c0f696686d6497fd4814d84312d7b4d93f36200fed9cb6e3cc465a396ecbc63af3280fe9b5eaf92e2add5a2c3645d1c541bc9c9ef2498e17b291aa99b9aeebbfa07c636e361667d462cb937e12276ead8d7908cdae00a435795e6c251601ae996bb5000
+
+#EXTINF:-1,Nollywood
+#EXTINF:-1 group-title="African TV",Nollywood
+http://live-1264.la2.edge.filmon.com/live/3617.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe9b253adfa51c7f1876b7c7fa7822a093db744b0308c03b1cf116a04bc684c10f54950409f1eaab644899e9a22d8b8e6238d8c433e1ff7665e5e3c3d27149d8215dea39860ab2e2c20d2e8ea54fcb86d50c93a3b24314a17d4bde570f9609f22e09d883e17b621053cb170b3ca98f8ebdcc8d52591da782009cfff34b01947f00e723030dd3e3dad6510bd73321a6149d30a077161444554186dc5522f16cf0c509e966118b894d6c56bf86149ed8582e9ea7fa5898160b3b
+
+#EXTINF:-1,Lgboro TV
+#EXTINF:-1 group-title="African TV",Lgboro TV
+http://live-1264.la2.edge.filmon.com/live/3449.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe907f9a6ac68e24543791e5d5ef444b802e1d354f48885335de817e2fe0df33e28e55e9edc3e446530958ddbb0fec469189304deef99e2c0d2ccc4afa39982bbe5d2216e80ff9010c8cf57135e8d3d7cb92ee1391d90743067e4f268cb58f3de3dc0fe5f6685b602abcef8db03754f621c6055fc59436368618f2511138e0f9e052ba656e38939788137f5806fc31e7f30dcb9ad08c5b8fd3566e92975698060be75fc8680544f5c8e3a1d4957fb89d8cf739d7d4617d73e8
+
+#EXTINF:-1,Smash TV
+#EXTINF:-1 group-title="African TV",Smash TV
+http://live-1264.la2.edge.filmon.com/live/3449.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe907f9a6ac68e24543791e5d5ef444b802e1d354f48885335de817e2fe0df33e28e55e9edc3e446530958ddbb0fec469189304deef99e2c0d2ccc4afa39982bbe5d2216e80ff9010c8cf57135e8d3d7cb92ee1391d90743067e4f268cb58f3de3dc0fe5f6685b602abcef8db03754f621c6055fc59436368618f2511138e0f9e052ba656e38939788137f5806fc31e7f30dcb9ad08c5b8fd3566e92975698060be75fc8680544f5c8e3a1d4957fb89d8cf739d7d4617d73e8
+
+
+
+
+
 #EXTINF:-1,[B][COLOR yellow]<== ASIATICOS - ASIAN ==>[/COLOR][/B]
 
 http://0.0.0.0:1234
@@ -1044,6 +1196,14 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img1.ak.crunchyroll.com/i/spire4/0a12100d45f5fca99f877434aa98331d1230584768_large.jpg" group-title="ASIATICOS - ASIAN",TV Tokyo
 
 
+#EXTINF:-1,netviet
+#EXTINF:-1 group-title="ASIATICOS - ASIAN TV",netviet
+http://live-1130.la2.edge.filmon.com/live/2936.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe36df5b09bc0ad513fc17eb6534ad7d29a56451a95e10bccb56143f11e9dd4f127681d381c48d64987701934377e1951805bb42f3b1e14cfa7f98f8f174c666afc76b2243685f34f949222f682530516d1098c36f7af3b5fe0b1ea50a718331c1a1791d566cf328aebdf8dc248fd565d47527c16b754e84cc644567bd115e25bc5ce2d35676a6aa2d04f38b95b5de46e9bfb586703dcd13b23dc93ff1229537986e4d8358b08f96b8d64a733da44365201f0e33ad2fa25694
+
+#EXTINF:-1,VOA Weishi
+#EXTINF:-1 group-title="ASIATICOS - ASIAN TV",VOA Weishi
+http://live-1136.la2.edge.filmon.com/live/4411.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe38acfab7492414d3a53747bd5faa57c0cddcd1cab490eda15ac615e6338bb1934a1614f9566d9c9358fc5aac33cd38fe87935843cb7908789386729d3dd566e30a6fa3487f70c98bfc4c2269e914e3e47303ea9e3aed1168f6093cbce914413420af20d935ba4d57af209612db87e8f04cf401f580de28eec199d4f69b3ee9887e458c3aff74991deb8f0826d69d4918bcaa1c02dceab9a4308e326345e67b9673235d793c81ca0342ba2cfb719b7e69bb944c932d28c822
+
 
 
 
@@ -1052,8 +1212,59 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 
 
 #EXTINF:-1,
+#EXTINF:-1 group-title="BOLIVIA",
 
 
+
+
+
+#EXTINF:-1,[B][COLOR yellow]<== Canadian TV ==>[/COLOR][/B]
+http://0.0.0.0:1234
+#EXTINF:-1,CFRN CTV Edmonton
+#EXTINF:-1 group-title="Canadian TV",CFRN CTV Edmonton
+http://live-1130.la2.edge.filmon.com/live/2053.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeba3ffcde85e701fd5c931c3c46718430cacb6c0276435304d679894b198645b3a3c279bf056524d4ebe27c31f52cf61e72be9d693b685d2d891a50162e11e12b11d8d533907638e6714faf1c46eca626468390ca85346e9babc105b6a1ab792a58a9155e97103304db433834c2e8d7fa527b82b5d38f5e7268f96802e65081e35b702b155f027bb9fa842aba73ffcfc5803da4cee0f434cbb4ea6ae8519af29fd7430a79bd6b504fe65bff94fb6da02470675b209d3f5eea
+
+#EXTINF:-1,CFRN CTV Regina
+#EXTINF:-1 group-title="Canadian TV",CFRN CTV Regina
+http://live-1130.la2.edge.filmon.com/live/2056.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe14442721c380966e4f423587bfce49fb20625efdf9621a1861b12b44e20315f4ad69f1088c12af1313015023b43352f59c1fb0a1ba8e5c45303e6bc88830636d1c25ac4b599ea97754cdb6cf0ecb61be128654aab43f6aaf09fbb2a2a76d7966c7490c600403598cf69ddfa227ad298d7a98ce09ecefb4b8be7a9ef5595aba621e8da6ac0dcc2a094b4dfd496ccd6111e7fd284b51fb3279c5a7283ebc9bf940af3cc9795601012350e37af17baabcf4f6d234c3a22db225
+
+#EXTINF:-1,CFCN-5 CTV Lethbridge
+#EXTINF:-1 group-title="Canadian TV",CFCN-5 CTV Lethbridge
+http://live-1130.la2.edge.filmon.com/live/2059.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe5b39111c37a9053ffcc6d09aa6cf618442c69bc5d8327078cfc4ce95032e95b360d2e2810889ca27a6e2732452c8b1aefae0cfda7336599d7f503194ddcfcf34ad55ff1d0d6ce0bc235ce7e3abb20bbef19face86bed2ed22ca72c81adc3c00f019faecda29a81cb76ef10a081aded6ca90585b50e95a3a1aea2bce92d59870c4eb86d54e18b389e007b92c74c07c4602c3e416613c086edfe11d065aaa0fe465a7c4b4e1dd2bcad60ae5becd0624483f6b8935eb5881c31
+
+#EXTINF:-1,CICC CTV Yorkton
+#EXTINF:-1 group-title="Canadian TV",CICC CTV Yorkton
+http://live-1130.la2.edge.filmon.com/live/2062.low.stream/playlist.m3u8?id=0ad5aac39bb13fbed38fcd8bd23cdaf97848a9834e63588c7ed29d00bbdcfe070a0b58878d8fe07f38d534133a46e725dd8932002676afc18560e039eae435b4ec8048989bc36c6d6c9594ccb7fd88bf90a581507d7ba0308936c54227de505a6b8c63b1578ff9f7782b8b27ce212172fe58471a2aaefcbce747e1908e5f893ba87c5ea69c51485fffd8b0fddb73100d2e960472bddb0f0852458068f88b3ec6786e31ad249947c6fa71be83a07d57856ea02c83d5e1aac503cd92ac55d2f23a
+
+
+
+
+#EXTINF:-1,[B][COLOR yellow]<== Caribbean TV ==>[/COLOR][/B]
+
+http://0.0.0.0:1234
+#EXTINF:-1,Cinestrean TV
+#EXTINF:-1 group-title="Caribbean TV",Cinestrean TV
+http://live-1136.la2.edge.filmon.com/live/3175.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe7715c35760aa8435ac0a0802385ab56f0b31c8668c67abbeb969da5907bc6b173c30b63ec165f145ea8a65c42db3c5144358d03398d99903a7b2e83d51f0c282c255352545d4ebfca102bc15d341c727ad7a8ad6a48033bf90237a4a9e3e57f6edb96acf3048387f28cad7eb741305d22a6e4a50f488827159908c733e4335d18e4359e7c8249aee87614b1f674f7a723e3b65fbc2410b1b594f83b745a1b56f58b81f523714b65a70ea2e4da29ef712740f19f8e55143c2
+
+#EXTINF:-1,Scruffy TV
+#EXTINF:-1 group-title="Caribbean TV",Scruffy TV
+http://live-1136.la2.edge.filmon.com/live/3328.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe478c611ceb0fabcbe4381f09dd89791d1a07cf888b8d5fc8e5d46cec0e665e128668b32ec13f65490505ffadc36ef25ae4bef513215dda567695435a8dc36b11852a6016409cde1ecfa708764290abcc79d1d9fb532b916baf56b7f7dddb56623cc9656824cb21fd2fe91eeb289a6efb60107827fb0b3cb1478012cf67ca3372adb538deac070e59ef38211a0ea73cca8ac03a9e3b7b6937c8539dba36ab52f0bdccd64202af05b2ba1fd84ef5f03beecacdc19e788661e7
+
+#EXTINF:-1,Kajou TV
+#EXTINF:-1 group-title="Caribbean TV",Kajou TV
+http://live-1136.la2.edge.filmon.com/live/3728.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe61b66fc3a9a44938edc9a0e6bc55c49f2f5eb95892dc9920fd401ea593b5d60e458cab3847bbc5453d9fbe8810d90f7762627a96a986b36fe9fc581cfa432e864b1ff98f0b763c4565ba8e7b1b02311c903e2904821e1d00cf75ff990dba481786dd9324fe7e65f09b9d575e4c5682a7a4b60f5046265a53d6f9a17254a2b653f2058e493fc183f6f6e6cf5b89a3e16956ef1ea198192f6c26e45d4bf62e938ffb09fc4b9aad8898065dcdb8708b83424ca620eb94c334d5
+
+#EXTINF:-1,Calabash TV
+#EXTINF:-1 group-title="Caribbean TV",Calabash TV
+http://live-1136.la2.edge.filmon.com/live/4145.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe65e08670c6b9c38b4cd1b6f584b6939931385dbab6fb5e2ae42d02826fa855680e65a7a32a29679b0749f9ac47d610625e0c2fa7e2b5fdb2e0edd31d5a575b67988d0cdf9942acf181ee91d9f55407e492a418ea06cc75133debcc973b4a2acc63536cdb0da17764da63421e0b7525523e391c476563fdf79bc7007b3df3eef37cbaafd2d7143aa5def94add2b5a889d79086a58ad6fbbe48e04907e676f714785dfd8ff9447f475e214b53f003f32dce274e7489a986789
+
+#EXTINF:-1,Caribbean Shine
+#EXTINF:-1 group-title="Caribbean TV",Caribbean Shine
+http://live-1244.la2.edge.filmon.com/live/4559.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe00f044348da1584ea2e53cc4ca860937db4f022a736f60aba94d188922606bff37b84e9e60903b2dc8c28164fb5f04f54c331a58f10a44548366d8fb2ea9d31f3c0ec5a4aa1ffd35bd8786f274a82434a15cd5cec7c526a7614587f885dcbe7966c852b0620d34f264dcffbfc17af2313d6aa3c3d92fb7b58e23fa2b2836f5b2042afead04216abc1a69a706a07d457826e77a86fbaaeb357d53475c6b19bcc1a7f12930ac5a94fae4c6f06f6adb945e6e9a75729883d82c
+
+#EXTINF:-1,Caribbean Lifestyle Channel
+#EXTINF:-1 group-title="Caribbean TV",Caribbean Lifestyle Channel
+http://live-1124.la2.edge.filmon.com/live/1946.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeaa247e8fd77b5cf51d28a17cd3d2e78adb874a5ace1e5a6ffab18fb2922c9c7a5a2218db276119e7744c102e7d8bafdd7878bcb083ddaff7a096ad078a10a338072505d670f02af384b87095dcba8e2247feeee4807456b4bbb7c77b5d3b9208272eaf825cf647c61a6cca5acba8237c86118cf9dc5f1e81e541061ce606b948fa3bcfd2ad378171ca3bc3b0df54ab6d77e40153c98e9d33b2ed8ce93bcf88680e804c1d9444b82d28e1ae6d0142dd2d72b24a1828c79892
 
 
 
@@ -1092,6 +1303,16 @@ http://xtelefuturohdx.api.channel.livestream.com/3.0/playlist.m3u8
 
 
 
+#EXTINF:-1,[B][COLOR yellow]<== PUERTO RICO ==>[/COLOR][/B]
+
+#EXTINF:-1,
+#EXTINF:-1 group-title="USA",
+
+
+
+
+
+
 #EXTINF:-1,[B][COLOR yellow]<== Russia ==>[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,rossia24 
@@ -1115,14 +1336,170 @@ rtmp://wow.mostvideo.tv/tv/ch1
 
 
 
-#EXTINF:-1,[B][COLOR yellow]<== PUERTO RICO ==>[/COLOR][/B]
+#EXTINF:-1,[B][COLOR yellow]<== UK Live TV ==>[/COLOR][/B]
+
+#EXTINF:-1,BBC One
+#EXTINF:-1 group-title="UK Live TV",BBC One
+http://130.117.88.236/live/14.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe8f6fcead7601b4a4d68110dbcc0bf15a63d84ae9790f10828ee2b41e6d0fb25177620067f0af2d23e8584f22b24b6b4ea514a53d0f3f8afbbd893aa332af170c073d43d5c6934d5289006ed820ca0a15f0b3faa7bff58d9c0858f36299984e9cd7a135afa35c77ef886a76b3314f7c1532cb5d560090cd10b069b4d82685988fd76847bd434401b860e1e67d9c5acbbd55fc2af6a47b1c5916d419d74002a5470aec044d0bcbb33a95766b333ab79992
+
+#EXTINF:-1,Britnox
+#EXTINF:-1 group-title="UK Live TV",Britnox
+http://live-1112.la2.edge.filmon.com/live/3698.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe5166f7d3c6e135264da564e010a223210172b94a40fdea36df518d95ca2351534692136376ca47525c3fef4440ba5462bcb8191a4118225fd7141839dd10abf94767af81aa84562708173fd99402db5336d4c13b84ea778156db99b3cd3a9ee0d2a2dda90ab3ed5392c8217abc448bc924c49902454bed4608b2d54ee4221670a75bbae79089b1579e8cf7e3ecd3f5930ba787c25ed8c607daf12a1881c7ce68b2d5807bdcce4438084f8613be4c25cbc712e6c81c2fb220
+
+#EXTINF:-1,Dr. Fab Show
+#EXTINF:-1 group-title="UK Live TV",Dr. Fab Show
+http://live-1264.la2.edge.filmon.com/live/4100.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe5ccc74fda0dc660de0b384652612f3f0d58f7e351fff392caf5494775dc54003cd99071b43813eafaa43e3715497c0279f8180a477a1ebee0fb0a5e100c5ac91d3ec011ec9269045659b38909c072c0317e379c12f76f11bfaffc5bace07e07f82a69b29f379db9d91fd8b51524eb6d6e9ca278015c518ac44bd7ebcda72a9d0784afeabcbc74e2e6095718059c4601065547994348d6a0b560889fe1b1fe04766451a72264813b0c1c07bf7aaf7bba41229c2a0864ca248
+
+#EXTINF:-1,My Face My Body
+#EXTINF:-1 group-title="UK Live TV",My Face My Body
+http://live-1264.la2.edge.filmon.com/live/4154.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe0f30523a86ce56051276cf35760f345454b01991512601ece33153f82a410bc2ae93f81094a365d3539682f6075c923947f3400adbd5c1f337545eefa77a1c5ad98b61dd37a01769602485b80e00fa17a2f23e3e33d7b782576ff48ed092a027ea136ab9e8d9ef778ef401bd69d2cb309dec0a65d805861faf1d8c72666ee1b34fcf5cce23dc50ba7beef2c826d223b1ba039a4b55c0a2f82d8f4e03dbfef606827f41434a16def2c6b08521c5aefc47a3ff6ba0c774e8b2
+
+#EXTINF:-1,V Channel
+#EXTINF:-1 group-title="UK Live TV",V Channel
+http://live-1183.gv2.edge.filmon.com/live/4307.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeac86e7f5599eb38d8a7d05ded94ace073216018294ba3e45ca2f8180a0592ddacab34a47b1d0358586f46945fc583c6e6838a0b7ff51f7b2f601b54e58ba973ac6775f99002bae99dcfeb8c753b0e710c80cfdb3a7842e4a04857cb95211bd2c61c42fd570f4230ce787f17e0af0a4688c932bbc6d2c93e9271cd28780f1e6e4eee1acb1f46c012eda5fac366e3cc6623c7c5b8f1015f15ed42eb7f81fde33fd52096dd2ed06568a7a8f0820370aa54a90d4b41bb4d62d1b
+
+#EXTINF:-1,Reality TV
+#EXTINF:-1 group-title="UK Live TV",Reality TV
+http://live-1192.gv2.edge.filmon.com/live/2798.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe624ed9b765d26771c8d260eb8512e0532512c40336662e8c131d28693a7d65dc492e4c804c091c86ba15fdbdff18b53b9f98796dd67de737f0faa029f807dd8511f882498eced90bbe5a612c2152f6b558a142f4b52b63a7af172d1f3444f3b011a86302236f3bdddae85ff5be83cd3d993fc1c77e14ed56c22fb46f11e7ce89b206eb7b88e28562988280797bdf36bb4f00cd72c4535cf7f7e8fdf3046f9b01e719377a93b3ffb3d6cc50688091db1b969ddae945de91be
+
+#EXTINF:-1,Ireland's Country TV
+#EXTINF:-1 group-title="UK Live TV",Ireland's Country TV
+http://live-1124.la2.edge.filmon.com/live/3683.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe73fcc5e272454deaa28bad139e670fb7c84bba081b5c90deab6a7afef649aa7f22f7437e03865e1a538e9cbef6c6dbc298c7ffa20a1968e30268979c30e62cd667130b55eb383e97b396ea02dd10b72c3ab0b6fe04b0d3bfcb7396c9b92727bed2b3b52d77ec0d6beda5df573622238f07d64c8c146e49bb04bec8714c138a75ec9b485e23e7b728b87d22d931a7a156b16d62b0d27cce7c250e731de86430649ca13004aca04dcac4a5a00c28683666f3c25a10391209e4
+
+#EXTINF:-1,BBC 1 Wales
+#EXTINF:-1 group-title="UK Live TV",BBC 1 Wales
+http://live-1273.fra.edge.filmon.com/live/3227.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe1fb3e796eb6361a786d646a94dadc46b1831ec2deef89c9d0f5bdd00d9e9f5cc7640eff3dbcca55f1b4353f7e8ec021821f69f0dc353e292077fff811694eed2de991c5c58725b955c257dde3fd2dfe0b269893ee83035797448a6f786d1a765f0bf9d7ae479523e3ef3bb600a1c69643fe9563d0977461f35b012fc85c7ba2df0f8b8843ec99a13e8f496c816cfc365c33edf60cfb4387712cb9093469991f4ef98a975411d2b960d25fc6b88eb5705f56213060c3c70bd
+
+#EXTINF:-1,BBC 1 Scotland
+#EXTINF:-1 group-title="UK Live TV",BBC 1 Scotland
+http://live-1192.gv2.edge.filmon.com/live/3166.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef284e6282968a6ee6be56311739ba0072dc7ea920e963e512d071753ad750917ac03f71ca669261d5c3a7a134a8ca7eac9c232e5ba496eb97d435099f803539a4cfe426e6c2a63712bbbe0b42af09624ebf26d8f9cec0f5b167a6dda1004725e26450b6815926ce7f08fdc22c27780c7aa667efc0c800df3bf38f1f4e60937a6e433bc04197e95a60cfb2019f34e33393a329365f21973b462e857151117301a7b14a3f3fdb809af2ee35121144240bf6ecb2651588de550
+
+#EXTINF:-1,BBC 1 North Ireland
+#EXTINF:-1 group-title="UK Live TV",BBC 1 North Ireland
+http://130.117.88.235/live/361.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe9ada8526432326cb9e50ffc37e2497e08bb673a38ffc554c2d490228acf1c2a61ec597dca42f825810869e745e91dd063b20809e503eb274ab5b07a8080313bf1d87c150265a2ad807dc9d99f131074f43ab5975026a2f592161cd0cb2dee8b8d6db62cc39e79cdd006774301a059d7180156a7ca5e6f2071102a2c7ddf62b481837432256b0a339d159e49adbff7c058e17fee2a5f30a9990a994d2878428081c449cfca92a9998d886ed7fb55bc502
+
+#EXTINF:-1,BBC Two
+#EXTINF:-1 group-title="UK Live TV",BBC Two
+http://130.117.88.236/live/25.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe15de8d2da5ad2922728686abd613f56c24917a6999433e73fbc28b8d7ca7ee88366157d3780f136f25dce8ef447c47ad5737006372d08987f1c36bee3fca1997ea940b1da64242854e37dbfc19daa82c5f53a8563c2a7c61878923f62a4447aa19bb8cb4fc833f6a7dd8e03f9691de4bd5c9adf27e717bbca35c4d263ef9bb2df8a2f6ba08f43b5f1ebb15d48215f3d4adf683bc3da8ce322cab47030e14443f853c252b594c58028840694350c34102
+
+#EXTINF:-1,BBC Parliament
+#EXTINF:-1 group-title="UK Live TV",BBC Parliament
+http://130.117.88.236/live/1666.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeeb8de04225101c6525a084ee0fa764f3e74bab4df568ab87a2978698f1d8e68116755aa693bba5c7d6f27b4c5941a7733ce2082afc66447f202fe16a371b17a10db34cdfb1848a4f1a82afd16e4bc423058697ddfb7629646814a70d804e81a712c1ca039828509c1750560257371f71a4f88d4b38913745229ae2f1c4af92384bd8f4072a9306970d6943f4fa8c81b6a15b7787e73806a0e34de0e75750de43e071000d7d50f40028640b3ee7a5a5233e097c3b61f52628
+
+#EXTINF:-1,BBC Four
+#EXTINF:-1 group-title="UK Live TV",BBC Four
+http://130.117.88.236/live/103.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe809c23c89069b0cafbc56e800fb5c285448f66528994d03bb844faccd27f9090bb3405a5132a9c97c602aff16fbbd1dd648764ad23ac26bc435c909271b49a2fb4743e8e9af6e4c94c0c24cbdb27761e2965e9a6fbd2c536d6b6dda3260960f15138b9a978623b3cbdd12480a7b56bd04a6f342e8096473a6bc23417a9c1df5acde51c4dc1ff475695448179ef63bf78e33a718cc6b74c0554117591f28c6e56dd77afe73bd2493115fbbb26b3cb3710
+
+#EXTINF:-1,ITV
+#EXTINF:-1 group-title="UK Live TV",ITV
+http://130.117.88.235/live/11.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe4e26896ef37958d4b2af77cd84ed07689a2e5d28e611803e7be19b8d074675fbf0f35dbbda176aa13b531009d9dd46cba675572f32bc6eeb675315bf5b60404ba262964a5997d766255932d22a93556ea47c52a6df9af92ae4394ff33e956bd2111d84af601f195dacc39f953a10082bc6831a0a9301f9fccbf55a8530f4e8f7b7a384ae78febcff12cc00760f57d539d5ded469ec78a6ca68b7b2b6c95aa52f5dac13e23a8a8e787647d1308466e78f
+
+#EXTINF:-1,ITV+1
+#EXTINF:-1 group-title="UK Live TV",ITV+1
+http://130.117.88.236/live/1817.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe036d5aad30f4206a729d28670d26b1afcc674b7919626dcb0fca226a8b182798ea11cbd7f257da29687098424a7f4a60a0164b5ed03879c4703d4dd1edffd79c1974c812be90afef9d482147d8976e3707ca8c839799add3e3d00e77dffa27aa4fff3df1a6ad428ca6e7527bfd2aec73a7b153ed44257f3ce17893f65e863eac562b3f7114e4a1431330606f0c935dacd46ae3ad04a99fca453e4b6ada9c668ca5bbcb878eaf9b8f9ead6b00834a7e666f138eaf22cea49f
+
+#EXTINF:-1,ITV2
+#EXTINF:-1 group-title="UK Live TV",ITV2
+http://130.117.88.235/live/67.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe70276cdb5800e9f8f42e040d25c9ec05b0a2a64d8197346b53aa622c22460805d7b3bc7d9f4d88437b7251a61e89e50689d1e50372985db5046c54b56af1c44e109f3d20878e962f22dd052968836a464e89915bc5a976314d7e2a40f573d21113a4e22d92e3c5cf116b54c832bbbc5ee7d278aa002cdd96b1025251ef34c2ac4616a555fb559f72b19fab79e8dc08725e366abb1972704e9ae5bcb047d84fea7a6ac0db23deb0417e6f30e3f7dfa890
+
+#EXTINF:-1,ITV2+1
+#EXTINF:-1 group-title="UK Live TV",ITV2+1
+http://130.117.88.236/live/1820.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe6a079674335e1d774660523849f70858aee739f7a33e1f2470a23b03a8823bec9ac037c791ef6bbc8deaf02b0e6d1231674e8f590776ce073e7466d35a7dd959a8cd1d40a310c772fe247e59d69b9eb5b5ff831dcc3fd5cb1bdcd90cec89ec36c2556de1d21a639964cd0b34b097e947638088f37b3011542a185878c0eb9515c52d47aac6e320342b7fb3b4a10c16b0497f6fe31b29b74e03dcfd215f749e807bedd96d0bfe5bfb6270b4bb857dfc33c3e64d8b0aedcb07
+
+#EXTINF:-1,ITV3
+#EXTINF:-1 group-title="UK Live TV",ITV3
+http://130.117.88.235/live/26.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe331f88d2972f3970f31e43926dc0e166b697ff2d9f5c340672716a131f4416e275440101d5554b3f96cf96123f6e8918e23dec70239ebc5c64a61f97be3f1da5d358e4ae37d80c9a9d727a02419371a0cec0beb4367eacf7d3c5ffae8d4e7232872a9d56355e4ca217b7b3c55c27e31874d71b6a372e597d74dbb5332d063f7bf71e52e753a3be87dcf2c72a32447eac058f9e148ace67541a2fa0d365cbf017ea0180e0b971a8b3eeaa35f2e88e7c4b
+
+#EXTINF:-1,ITV3+1
+#EXTINF:-1 group-title="UK Live TV",ITV3+1
+http://130.117.88.236/live/1823.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe4720e89a90f1202dd60d318dabc5430d6e3dcaec28e81805f2576a14015e74d56eeae83f91c40d63a0d3916ab1943376be064012077704083b6cfa30663f4f83517ebaa9042dcd830235d5139b2e5614f17a97ef76c893113d0565bd3b544c9bc663c889d76687247d438f66004adfde88be81b54f88b6da75640f8b8fe9581760c09c60ad728da6e021d4a6f2544700a731168c7d6831bd94e7885f7fcf31095db0dd0107c2952b3b0507c403ddb57dca18b8521852da48
+
+#EXTINF:-1,ITV4
+#EXTINF:-1 group-title="UK Live TV",ITV4
+http://130.117.88.235/live/101.low.stream/playlist.m3u8?id=0ad5aac39bb13fbedd3bd405e73a7e0d59ec9c35855419fdcbf6b3bd1561de6f4c83470dd5e56213da94d95da796cc562a6e0a3088f38d5ea869b68259ccd3ad306fa1c4e7cdb30c8e4dba059410a033366b07b83ab40b01d1fb794fb787c5c54ef7418542558109c7f7a3e395b8be3e3a95b5be5cf401495329fae33c61e4bb5017b68125bb41fad8fc67102430b4625dcf87c391fc9a588d6d9b545eb6020ddce845d0fd170b18919b80996080e0bbc562bfc859c28a23
+
+#EXTINF:-1,ITV4+1
+#EXTINF:-1 group-title="UK Live TV",ITV4+1
+http://130.117.88.236/live/1826.low.stream/playlist.m3u8?id=0ad5aac39bb13fbed802c7d3c3e65855d962b656f253b60c67a13fa162350eaf39e991a58c42906fd1fcba2031bb45177b8f804811e699be9e947d94ce14ffc94a5693dcd910f70be0daeb2c383d8b8916e45193d6b456b033e84d13d2ab2e919abe1fb7545a8ac44398815c3cde2dcd208a5eea45810ef007a4d928155df1f6baff5b5fe46356c6e32140194dcf5f1699e0db4c1e8d8f7fa5400a1b2f75e2b32f727d92135c3b477a861e9b735574ae6f2ae40cff7138e902a78c448070c9a6
+
+#EXTINF:-1,ITVBe
+#EXTINF:-1 group-title="UK Live TV",ITVBe
+http://live-823.gv2.edge.filmon.com/live/3211.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe1123e631579b46c2ba37b5b6799be392233e99c78598a6a5ff52a4d837dedb86c5f6570ab36baa2d4fa1e25a394a2016e23c8647eafa88ebd0a351a6af2b7a0b71d7bc4386df4cb50f04e3cbddfc2e457236663025a47a49c0c3a26f1031d3517a0630d08258e5916e29b8b1a51d13152efd35cc129f553abe12da9377259b3035af2464f04d87beab90b3d7a1aa69c8021eedc622725cab7b3bc941d46c266552bcce02e0357a764ff8ad7754e693e1150c0a7a7c707781
+
+#EXTINF:-1,Channel 4
+#EXTINF:-1 group-title="UK Live TV",Channel 4
+http://130.117.88.236/live/2.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe0b73b2f6b28d438f8cbe54537a65e541067e1f3c3d032b25921978b7e5d0845b588f3623ee8a5ebd09c45339e3195b2f809c52a1cf48f7ef0e3949ec3d9e808acfd2df64df360f93f83a3b29dbc8ae798bbf631718425ac232ce587ef33dd568ac58c3f7e395b8e22c00d4d95faa25c38fe62e41b6cf25be81aca01e4951bfae51480c9bf8da6685f6d8b80f97a1bef7a9287f2a97b20dd5f2c0719f2c1c728073ed932df37fdcbec57a18bac8c0101c
+
+#EXTINF:-1,E4
+#EXTINF:-1 group-title="UK Live TV",E4
+http://live-1180.gv2.edge.filmon.com/live/65.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe9d6319e5b2bd437902702f8372c262d6293690e3a4a564f07a785ac67382836dea24f6feaaa6ab1e675d372ad3eaed2f25b15156dfb06e448444044bb307669be3455cb7a483059591033104fc9b2c8208b58684fc058e43a4072f552c3f36c9ca287b0c3a700e7411f0af3579501ececaa79e7b64f0af7d2230cadd50442df54c01f8fad0925b59dae57c4f9e486548bb48f6b6156b28482445b3df904084072c15561d04904f96dc70ff7c4641af62
+
+#EXTINF:-1,More 4
+#EXTINF:-1 group-title="UK Live TV",More 4
+http://live-1180.gv2.edge.filmon.com/live/97.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe86470d3322fe53da28f98d7368391d4bf6cfa69bfff5e7d48d9e4daee9d40c99a4f87508c5b8709bfbd846268d1bb2d100fc9a53f18bf69cf77ab810b0d5c2939331158736625e4ae1dcf1c1ddb155c23146782e7814139ebd96d4e1cda82c20d2ff8632415a3d71afd6236a00ced0b3100d73d1de53c54d5a2d0af06e5a6e6b6efbd22da73575655f788b47d51cfb1e45d563af704e3b10d558abe768b4512cc3541583f7d16e8b03267c239a95915f
+
+#EXTINF:-1,Channel 5
+#EXTINF:-1 group-title="UK Live TV",Channel 5
+http://130.117.88.235/live/22.low.stream/playlist.m3u8?id=0ad5aac39bb13fbef7f2316fdbc2b185feeab357d560ddfa6bf834d826605a857674f502e00370a8094fadb9a824dd4eb8d0145f9f97ae9ef578192dadd84a0ec458305a34ad06a1a6171ccc08251dbc3731e763a5b88afda3a71e9b1eea6e7b4f344deccdefe57760ff8c3ca8c49fccc69ba8837dd5c4b600507e4766943045a8e31d5ac3e55f6ffca4b61555f0e6ffba6716e163b84930e4c8d9eccf83d7bf5db3e8267bb6305d9885a68760330a679a7a1526f0cdf4a0
+
+#EXTINF:-1,5*
+#EXTINF:-1 group-title="UK Live TV",5*
+http://live-823.gv2.edge.filmon.com/live/851.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe73f2f255ec8722ef498966b432114d95eeae8747ce8b06498dc3b7d17827b330767814f15116fb9da7765951d0285a6a942f8f2d40e999810571915dd8168e28245f771e7cf9c751b64df4ab6500bf7c3d0a40269e2d04e972d1cf957fd4ffd02096c05d429fe3105eadca6adfc323acc987c0dd25c3f94926e4baa036fbe8def0726e21112be9834e61636a35899b4c097c91a31c707630396be27655140a24cc1098a6e3bc9c35e19fcfbf390901964db00025b9104d70
+
+#EXTINF:-1,5 USA
+#EXTINF:-1 group-title="UK Live TV",5 USA
+http://130.117.88.236/live/845.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeca6cfb03aeb726a7c33ea5c79ea091966760f3e4a7ac1f0d2c6837dbbf7ca12c7bc32b3bdbdf3bfa4071d9d06a4a5a27e093bc15d5319ea17a1ac577f10841b07acafd99637a0e36306bab802512407bc366e94775382091a38e6d89192f90c8f2e349882b0c9414f0c89485f27775c0888a30c16fe9131e2cb57a309874f8074355662a9cb382e8a3e80ae071ab07307afa7caf211cf657a883ef0ec803c21dfdc6234fa7c7321940a8253c8a68bf69
+
+#EXTINF:-1,Quest
+#EXTINF:-1 group-title="UK Live TV",Quest
+http://live-1183.gv2.edge.filmon.com/live/2707.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe36006c74f34abed46d3937819557313b39f33765b36fa5c099df3a4faedaf438f8a9c0551933fcce5eceb9a0a8f7b7ea5c7f0d8c7722147826b60bfc76e4ced4d47e7afd21ab76cb7df7a3e94f77443ea585243f7899b88ecad5ffb96d370fc2d44158234452cd06c7c3cc285e456069bc48d562062383753c04d10eeb6ee63b3f999246a6a074e728d8f2cadc8023722ec46f309ee26f5e6c5cc68c995e67e24d5f1dbae9bee0a0fcc7b0bf647b1e8abec9bb2ee27af586
+
+#EXTINF:-1,Really
+#EXTINF:-1 group-title="UK Live TV",Really
+http://live-1183.gv2.edge.filmon.com/live/2707.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe36006c74f34abed46d3937819557313b39f33765b36fa5c099df3a4faedaf438f8a9c0551933fcce5eceb9a0a8f7b7ea5c7f0d8c7722147826b60bfc76e4ced4d47e7afd21ab76cb7df7a3e94f77443ea585243f7899b88ecad5ffb96d370fc2d44158234452cd06c7c3cc285e456069bc48d562062383753c04d10eeb6ee63b3f999246a6a074e728d8f2cadc8023722ec46f309ee26f5e6c5cc68c995e67e24d5f1dbae9bee0a0fcc7b0bf647b1e8abec9bb2ee27af586
+
+#EXTINF:-1,Yesterday
+#EXTINF:-1 group-title="UK Live TV",Yesterday
+http://live-1183.gv2.edge.filmon.com/live/1039.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe6390e471a77cc35377228c706f45678a18e522a7cd1b2f4e09753e7a8bd30397b7552a0c1598f4131afe163839edf8115def907384051a94cac670b0641e717329bc05f82a7a5455e36d2bafc2b578eca4ea55e66246fb83449a87f590834b3560e84f92df86022256f34922fe10eaa386cd9040149ec98b8d82558ac40e6bc935403140b534b14ec2611b2f997c2b89861f147452b471593f10fd829b7c1d87c9f67d1427222ad31d6ee30a3df58c3e104321ff52dea4fe
+
+#EXTINF:-1,Pick TV
+#EXTINF:-1 group-title="UK Live TV",Pick TV
+http://live-823.gv2.edge.filmon.com/live/371.low.stream/playlist.m3u8?id=0ad5aac39bb13fbea4229125d24883cc2cceea5df6af74076cdfb0a25b89790496cb64f3ec6e600dd9d9ffd3de0a973b6698fff547128f6e1967ab86dc84a78fc891bd3512bbe8ebaccd4c150a2ab3d3fdecdf982de080cb625800f2e1158c94853ce83426356816e11c7bf8906be3ce7cfac0401a1fc606206c4e1b2019cdf16a1bed49208b7cf69ba28404ac845e75441db042ca2cf536e7cca211a1b335fc665ac6d72f33ca63a0974ddf26a0218c9af5d639e7d191af
+
+#EXTINF:-1,CBS Reality
+#EXTINF:-1 group-title="UK Live TV",CBS Reality
+http://130.117.88.236/live/1808.low.stream/playlist.m3u8?id=0ad5aac39bb13fbec1a17938dd12e2e1b41d6c1372cf3a0fe95f3e9b1447dfd2c31ed31299f5d603cf897827315f44d35a187efdac860de8b7296c9e709eee2f988e6a546d33f9f1857b421e40a4d0ca0720cea56e9c289861f9009368392bf17ae5c3d9e1a202bdd68edc6a087995ccd6eabd0283dce9ea2877d971551bc29583aa24e184cdd113ae9783496fab6f3321984f47538f9b878a4254851fc20083c9b9eda57cdc773be6f80b15c799133e16a6d3eb5e356ff3cea26c1e79dcb490
+
+#EXTINF:-1,CBS Reality+1
+#EXTINF:-1 group-title="UK Live TV",CBS Reality+1
+http://130.117.88.236/live/1811.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe8caab0d9bbf8776ea6fadce31880e9f0f039b86c8bac6006f88703d5de19809d41348397158cb9be30c14e5141a79a50840e3e57d9a99ca341cfc745bb66055a4ba002ef7b921780b2e14bebbe07e1977e19fa0302913c9d639b27c49f12df760bb17ce613f16323571946ffab64c44ade31b014bf282ee313c014d8b27ca83095e3cdc25d853a72fa72e5276b9c29a8bab27716fbc4bf36505a32c8d2b05922e066c77f859ed846579c923eb44dbd2b9c4bef4a168be037
+
+#EXTINF:-1,CBS Drama
+#EXTINF:-1 group-title="UK Live TV",CBS Drama
+http://130.117.88.236/live/1805.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe874db1350991a42d0497805e7c93c6a3d74394f306688d4f5c7392ec7565050c01189cdf00602a83de4573a71fdf5c945a2a54baafa2e767d9986c09cd7b00878422e4df97aa81d4ddec07c25b2698a6dad6f34b98ae505576aa9daf9cffce8ae717c450917a6cd069a769878eb0a65d1c14ef4034f0b2ec8c33add29ed42b60e629336fea58344de6c27e4c0e8a07b7b1f3e48bab7b1432a364e1c2dba66927d86b5d7e89a90688aeda6a3992fb16189861ccbd38c6551f
+
+#EXTINF:-1,CBS Action
+#EXTINF:-1 group-title="UK Live TV",CBS Action
+http://live-1180.gv2.edge.filmon.com/live/1952.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe75332748f1e957d0412ca6731dba9507b01b01d1f29df77f8f0400b4da09059c7f22caaa2127627f44b4a3f4c3763bd31e29cda1a401639f630c54e0a67f331816e6377ceced7dcbdcc3de5223abebc26479bb4d1c800be9f4424d4c512125b519b89560c1018c9f05e5bde2cd0d431db0f5d378568857c8bc835dea0bb29ab07de658e5b17e44f8b76b2e693556f2919535c925033551abd557b5aa906c9e5b77e1d7ae1d924027d2525e3a5791a76f31bc30ab66e59c08
+
+#EXTINF:-1,TruTV
+#EXTINF:-1 group-title="UK Live TV",TruTV
+http://live-1183.gv2.edge.filmon.com/live/3707.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe25d694cac3f94a1fe8f93e1a49ec16d2fece6af86b133cddb98c1dfb36d237a270e19dbe65685af5135226c9c68c343cc8ed21cd732dea1cd27b90f23f23da7c4a3b3794ed72401eb8b08037e6db5edda5a724697d348ff0b578385093b3e2131f7cedd3c6da61aae702ad05f6151b3f96ccc4056dba47d617719936bb80fc99c1e1e00956e5835873785c24e7120018780e55ca285cd9c9e4de9dadc82d7f48883e101a181a7ecb26512c5a313fc36f03a3c93b55c1b96a
+
+#EXTINF:-1,Psychic Today
+#EXTINF:-1 group-title="UK Live TV",Psychic Today
+http://live-1183.gv2.edge.filmon.com/live/1711.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe724bb690d72f80e65b27bcf68631f582d806f38961053675e84971d73ae1bff331102d043864dff5f953861cbd0a8156f17dbc12121b0078e9b371e246faa14a9e4a6e20cdd8ea4b9e4c75b150c20ebf98628876b18f775fe783e1088b213ecda5fa09f2f368b45b86fb9e29b8ad2724589c865fe8c040d4a90b848205587e1aab3bb563b5ca5bc2cf9a7fad6c00dfcfec81dc652cd4262d7df90083d148d3decb2cad96dd98cc4f468d976dd28f133e3fe7b6b29f20db00
+
+#EXTINF:-1,FusionPlus TV
+#EXTINF:-1 group-title="UK Live TV",FusionPlus TV
+http://live-1192.gv2.edge.filmon.com/live/2696.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe6c141eb358e85ee602e8161d9204f75bfe3dbdf1ff17e14a17d3a7df437e3b6cda4e15bf9f52be1e61f06ab562e74b12699adfd4c71edf4017ba24b54ee05af718dd0aa43916cdbe7f9b14ab76210c22a7d0ef01c3654af61439515e9e32e7429ac1721483b3da5af18b154e9678ac5d27401923ac1669f22fae68addf7984dfb4ada581e0d40246c87d4a07f79f1c8b398b97fc722ce51e5fe6ccbe4a8610a91d736a43d8dbb9821605a358ba042114bfb5f7469eef580c
 
 
 
 
 
 #EXTINF:-1,[B][COLOR yellow]<== USA ==>[/COLOR][/B]
-http://0.0.0.0:1234
+
 #EXTINF:-1,
 #EXTINF:-1 group-title="USA",
 
