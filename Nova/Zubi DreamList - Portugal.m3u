@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1,Zubi DreamList V_0.24
+#EXTINF:-1,Zubi DreamList V_0.24a
 http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
@@ -374,7 +374,7 @@ rtmp://31.220.40.61/privatestream/ playpath=dddd4uedifoekds?keys=Vri8Q5EwFb9Weo-
 #EXTINF:-1 group-title="Desporto",SPORT TV 4 HD
 
 
-#EXTINF:-1,SPORT TV 5*
+#EXTINF:-1,SPORT TV 5
 #EXTINF:-1 group-title="Desporto",SPORT TV 5
 
 
@@ -510,8 +510,8 @@ http://23.237.4.162:8080/Skysports4/index.m3u8
 #EXTINF:-1 group-title="Desporto",FOX SPORTS (Ingles)
 
 
-#EXTINF:-1,FilmOn
-#EXTINF:-1 group-title="Desporto",FilmOn
+#EXTINF:-1,FilmOn Tennis
+#EXTINF:-1 group-title="Desporto",FilmOn Tennis
 http://live-1264.la2.edge.filmon.com/live/1948.low.stream/playlist.m3u8?id=0ad5aac39bb13fbec41841fde1528fc498eccfbc68c55c41ded9b77f4350ad702351c3e2e131fbc35ea5f59b4336189343b0c8cbe99db021c5916309efa370d961dc45ef73338085c5b11b2e93dadd71c8d70b4b6e9d8221fcfff8c12fd50740e56ef5f2452da47bd8a33d7911f02127a67e8d689d17629da615aa7b4e7259dd4f45e2ed7f2c352623f12125c8fe42b23cee88888e65ef39e460943225d02f02a70ebe56923e89cbf36e1b5c5674795638872ed6c17ac1ee69d059c0abbcc5f0
 
 #EXTINF:-1,Inside The Ring
@@ -563,7 +563,7 @@ http://live-1264.la2.edge.filmon.com/live/4391.high.stream/playlist.m3u8?id=0ad5
 http://live-823.gv2.edge.filmon.com/live/374.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe89db6786041f3d3b63f84df9667c9b1d35ed65e2849ec3865c12fa3a4da0364389332b98cce32ecab4cb30f1a3454417ce2d98543761d59e1f5d4b91cdf3bd173f78ae84f5eb8aa926833fc3924121acdfadb300dc37a3c627b0f915a5f97d3d9dd2775402abb346cfe9754778cd46647156a37b2e7783dfb006b7d2c1fb47a174f9e5549b2f37ee32c5819c4f986bfc7affc7dae4a027823cf3f0350076a516662794c7a3cb4216b6e567585a82cad0
 
 #EXTINF:-1,Roopstigo
-#EXTINF:-1 group-title="Desporto",
+#EXTINF:-1 group-title="Desporto",Roopstigo
 http://live-1112.la2.edge.filmon.com/live/2737.low.stream/playlist.m3u8?id=0ad5aac39bb13fbef4731ceff4194dc123e5dcdc961a34369c0a865365b7c073642921ad410a528bfc9ce23e90556b345263e4f423d480a709c804005c0ca175103f95dbeef5e7ae80572aed37f84c3c4d9283c4c5f91cc0bc682e3fe1ae79159ff9008659463a4c7a67ce94fb6c9a7f3480c4ac88bee71380930c0b5d7ebf7b90bcb94083a396cf4d01ff262e72d5848b918f5362b23768a42aa4e015a6858a5a357919ca2a4fc1269432aea097de57e0937070b4643c8109518e29b7594c8c
 
 #EXTINF:-1,Fighting Athletes Network
@@ -1182,8 +1182,8 @@ http://live-1264.la2.edge.filmon.com/live/3190.low.stream/playlist.m3u8?id=0ad5a
 #EXTINF:-1 group-title="Horror",B-Movie!
 http://live-1112.la2.edge.filmon.com/live/3274.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe44352d1f9df64a2934809647b302d39e7c9c1fdc83f3d7db64bae37d6997ffb13d70a7e63e823fdac046be9efef06569ce78d6880bab843851b16284203c4c0a3bff59c99300a905770b6a4c03032e888a0b7e173ff047df0a5424f60ed67486c599f64207b75fc047ec634ca5510883d81bdb53d55b7bfdf80b521d92a55f1c02fb9c1b2c9ce84594394ff99d62d05ce91f4736d6f9e8631144fc351adc8649f61fecbe652e0ffd20cace3d3138e172594e1948aca7f2e9
 
-#EXTINF:-1,Alien (Invasion)
-#EXTINF:-1 group-title="Horror",
+#EXTINF:-1,Alien (Invasion) Channel
+#EXTINF:-1 group-title="Horror",Alien (Invasion) Channel
 http://live-1264.la2.edge.filmon.com/live/3122.low.stream/playlist.m3u8?id=0ad5aac39bb13fbef4222ce6e155d62a8a15a667c9865b4dacf99c337c6485c5f5e81e057c26f0275405b912df96cfe31a6b5c407d40317d8235fdc4f72f3c6acf94363b432eeb37d5761403aa7f13bf129fc98b2579e9115573eed71f3fc34140c58e80e46b3be5bac527c6d768247540692a0434c4a2d5e186914e8101c651308a817835453c4a903eb500289553bf5dbf71820eb61003bd0809626fa98535df1b9c257c31a31fa2c7d2d7793a9d51f3634b92f18941dced10daa8c73d50a7
 
 #EXTINF:-1,Horror Channel
@@ -1291,8 +1291,8 @@ rtmp://edge1.everyon.tv/etv1sb//phd10927
 #EXTINF:-1 group-title="Adulto" tvg-logo="penhousetv.jpg",X
 http://93.87.85.71/PLTV/88888888/224/3221225908/04.m3u8
 
-#EXTINF:-1,Nubiles-Casting.com
-#EXTINF:-1 group-title="Adulto",Nubiles-Casting.com
+#EXTINF:-1,xxx 1
+#EXTINF:-1 group-title="Adulto",xxx 1
 http://23.237.4.162:8080/Skysports1/index.m3u8
 
 
@@ -1301,7 +1301,7 @@ http://23.237.4.162:8080/Skysports1/index.m3u8
 
 
 #EXTINF:-1,[B][COLOR yellow]<== African TV ==>[/COLOR][/B]
-
+http://0.0.0.0:1234
 #EXTINF:-1,Eri TV
 #EXTINF:-1 group-title="African TV",Eri TV
 http://213.200.110.120/live/1793.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe2b466a6dabca096c5356805aa30673157d6f24ca94c8aeda62c8673d9fb1e2cae1e99bc833820bd58abe23472458a00387278398accd353f6ec94d6091f70b3654499d03ef4a16f79e46784b0920398fca396afe6c0f696686d6497fd4814d84312d7b4d93f36200fed9cb6e3cc465a396ecbc63af3280fe9b5eaf92e2add5a2c3645d1c541bc9c9ef2498e17b291aa99b9aeebbfa07c636e361667d462cb937e12276ead8d7908cdae00a435795e6c251601ae996bb5000
@@ -1736,7 +1736,7 @@ http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
 
 
 
-#EXTINF:-1,[COLOR yellow] PRAIAS DE PORTUGAL [/COLOR] [COLOR green][Atualizado][/COLOR]
+#EXTINF:-1,[COLOR yellow] PRAIAS DE PORTUGAL [/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1, PRAIA DE CARCAVELOS 
@@ -1797,8 +1797,7 @@ rtmp://213.13.26.43/live playpath=vilamoura.stream swfUrl=https://js.sapo.pt/Pro
 
 
 #EXTINF:-1,[COLOR red][I][B]-------------------------------------------------------------[/B][/I][/COLOR]
-
-
+http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow] RADIOS PORTUGUESAS [/COLOR]
 http://0.0.0.0:1234
 
