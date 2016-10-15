@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1,Zubi DreamList V_0.25
+#EXTINF:-1,Zubi DreamList V_0.25a
 http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
@@ -80,7 +80,7 @@ http://163.172.211.217/loadbalance/86246334579947923725/chunks.m3u8?nimblesessio
 
 #EXTINF:-1,SIC Internacional HD
 #EXTINF:-1 group-title="Generalistas",SIC Internacional HD
-
+http://rd3.videos.sapo.pt/playhtml?file=http://rd3.videos.sapo.pt/y7CW0D0aVqUNyVjIAfpd/mov/24
 
 #EXTINF:-1,TVI Africa
 #EXTINF:-1 group-title="Generalistas",TVI Africa
@@ -289,6 +289,10 @@ http://ksportiptv.com:1557/live/idou/idou/2968.ts
 #EXTINF:-1,Travel Channel
 #EXTINF:-1 group-title="Entretenimento",Travel Channel
 
+
+#EXTINF:-1,Travel Channel +1 (UK)
+#EXTINF:-1 group-title="Entretenimento",Travel Channel +1
+http://live-823.gv2.edge.filmon.com/live/842.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d360878a4b5c3b3ae275f1fca9179ff79af535658e9485351775cc1ae257b13b317b0a9ea7425295a794d15052ef48c36e270c76139834dd91b5323a74ff11485a3cdc91921f2d8a8baf9d7a3e5c35a443fb48294964ae8f58cf28659671fdab2c5b1f8e0921cefe802579023b16cc54c07c1dfa1bd30eed71
 
 #EXTINF:-1,Fashion TV
 #EXTINF:-1 group-title="Entretenimento",Fashion TV
@@ -1286,7 +1290,7 @@ http://live-1124.la2.edge.filmon.com/live/2678.high.stream/playlist.m3u8
 http://0.0.0.0:1234
 #EXTINF:-1,Playboy TV
 #EXTINF:-1 group-title="Adulto",Playboy TV
-rtmp://edge1.everyon.tv/etv1sb/<playpath>phd10497 <swfUrl>http://p.jwpcdn.com/6/12/jwplayer.flash.swf <pageUrl>http://ontvfree2.me/jw-player.php?cid=rtmp://edge1.everyon.tv/etv1sb/phd10497
+rtmp://edge1.everyon.tv/etv1sb/phd10497
 
 #EXTINF:-1,Venus
 #EXTINF:-1 group-title="Adulto",Venus
