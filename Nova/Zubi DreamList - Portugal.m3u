@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1,Zubi DreamList V_0.25a
+#EXTINF:-1,Zubi DreamList V_0.25b
 http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
@@ -32,13 +32,15 @@ http://ksportiptv.com:1557/live/idou/idou/2173.ts
 
 #EXTINF:-1,SIC HD
 #EXTINF:-1 group-title="Generalistas",SIC HD
-
+
 
 #EXTINF:-1,TVI
 #EXTINF:-1 group-title="Generalistas"  tvg-name="tvi.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png",TVI
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
 #EXTINF:-1 group-title="Generalistas"  tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png/medium",TVI / 2
 http://video-live.iol.pt:1935/live_tvi/LIVE_TVI-1/KodiPortugal.pt.m3u8
+#EXTINF:-1 group-title="Generalistas"  tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png/medium",TVI / 3
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w838738005_b814000.m3u8
 
 #EXTINF:-1,RTP Memoria
 #EXTINF:-1 group-title="Generalistas" tvg-logo="http://i67.tinypic.com/2n2hzb.jpg",RTP Memoria 
@@ -80,7 +82,7 @@ http://163.172.211.217/loadbalance/86246334579947923725/chunks.m3u8?nimblesessio
 
 #EXTINF:-1,SIC Internacional HD
 #EXTINF:-1 group-title="Generalistas",SIC Internacional HD
-http://rd3.videos.sapo.pt/playhtml?file=http://rd3.videos.sapo.pt/y7CW0D0aVqUNyVjIAfpd/mov/24
+
 
 #EXTINF:-1,TVI Africa
 #EXTINF:-1 group-title="Generalistas",TVI Africa
@@ -120,6 +122,8 @@ http://ksportiptv.com:1557/live/idou/idou/2174.ts
 #EXTINF:-1,TVI 24
 #EXTINF:-1 group-title="Informacao" tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png/medium",TVI 24 
 http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/KodiPortugal.pt.m3u8
+#EXTINF:-1 group-title="Informacao" tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png/medium",TVI 24 / 2
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_w1429797420_b814000.m3u8
 
 #EXTINF:-1,CM TV
 #EXTINF:-1 group-title="Informacao" tvg-name="CM TV" audio-track="pt" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg", CM TV
@@ -369,7 +373,7 @@ rtmp://31.220.0.187/privatestream/ playpath=fawergge?keys=WY2MEWvF4LkoAgE1VbOWOw
 
 #EXTINF:-1,SPORT TV 1 HD
 #EXTINF:-1 group-title="Desporto",SPORT TV 1 HD
-
+http://cdn.widestream.io:8081/shareedge/live1-rbi6c/chunks.m3u8?nimblesessionid=10084713&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTUvMjAxNiAyOjM2OjE0IEFNJmhhc2hfdmFsdWU9c21TNzNVOFlGc0J5WTNtVEVvZmFUZz09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1,SPORT TV 2
 #EXTINF:-1 group-title="Desporto",SPORT TV 2
@@ -1257,6 +1261,10 @@ http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel0
 #EXTINF:-1 group-title="Religioso",Igreja Online TV HD
 http://195.22.19.179:1935/igronl/igronline2/live.m3u8
 
+#EXTINF:-1,Canal Um Europa (RIT Europa) Evangélica 
+#EXTINF:-1 group-title="Religioso",Canal Um Europa (RIT Europa) Evangélica 
+http://nossatvhls01-lh.akamaihd.net/i/nossatv_hls@366619/index_600_av-p.m3u8?sd=10&rebase=on
+
 
 
 
@@ -1312,6 +1320,13 @@ http://93.87.85.71/PLTV/88888888/224/3221225908/04.m3u8
 #EXTINF:-1 group-title="Adulto",xxx 1
 http://23.237.4.162:8080/Skysports1/index.m3u8
 
+
+
+
+#EXTINF:-1,[B][COLOR yellow]<== Afghanistan ==>[/COLOR][/B]
+
+#EXTINF:-1,Eri TV
+#EXTINF:-1 group-title="Afghanistan",
 
 
 
