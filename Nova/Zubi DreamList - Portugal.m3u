@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1,Zubi DreamList V_0.24a
+#EXTINF:-1,Zubi DreamList V_0.25
 http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
@@ -9,6 +9,8 @@ http://0.0.0.0:1234
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtp1 swfVfy=1 live=1 timeout=15
 #EXTINF:-1 group-title="Generalistas" tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png",RTP 1 / 2
 http://ksportiptv.com:1557/live/idou/idou/2166.ts
+#EXTINF:-1 group-title="Generalistas" tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png",RTP 1 / 3
+http://163.172.211.227/loadbalance/87758368898296386591/chunks.m3u8?nimblesessionid=1364570&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAxNiAxMDoxNjo1NiBQTSZoYXNoX3ZhbHVlPUtRREN6SVp4Z2ZNVjNYU3hQb2ExSHc9PSZ2YWxpZG1pbnV0ZXM9MQ==
 
 #EXTINF:-1,RTP 1 HD
 #EXTINF:-1 group-title="Generalistas",RTP 1 HD
@@ -19,6 +21,8 @@ http://ksportiptv.com:1557/live/idou/idou/2166.ts
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtp2 swfVfy=1 live=1 timeout=15
 #EXTINF:-1 group-title="Generalistas" tvg-name="rtp2.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png",RTP2 / 2
 http://ksportiptv.com:1557/live/idou/idou/2167.ts
+#EXTINF:-1 group-title="Generalistas" tvg-name="rtp2.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png",RTP 2 / 3
+http://163.172.41.33/loadbalance/27524481691568481185/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAxNiAxMDoyMDo0OCBQTSZoYXNoX3ZhbHVlPXZSbDZ1ZWNiRlhLUE1tS1hWRTNXaWc9PSZ2YWxpZG1pbnV0ZXM9MQ==
 
 #EXTINF:-1,SIC
 #EXTINF:-1 group-title="Generalistas" tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",SIC 
@@ -37,31 +41,42 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b81400
 http://video-live.iol.pt:1935/live_tvi/LIVE_TVI-1/KodiPortugal.pt.m3u8
 
 #EXTINF:-1,RTP Memoria
-#EXTINF:-1 group-title="Generalistas" tvg-logo="http://i67.tinypic.com/2n2hzb.jpg",RTP Memoria
+#EXTINF:-1 group-title="Generalistas" tvg-logo="http://i67.tinypic.com/2n2hzb.jpg",RTP Memoria 
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria swfVfy=1 live=1 timeout=15
-
+#EXTINF:-1 group-title="Generalistas" tvg-logo="http://i67.tinypic.com/2n2hzb.jpg",RTP Memoria / 2
+http://163.172.40.163/loadbalance/31283873453143216829/chunks.m3u8?nimblesessionid=5912892&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAxNiAxMDozOTo1NyBQTSZoYXNoX3ZhbHVlPXFPUndweE5OVzRtK0ZIQmN2Q1hSdkE9PSZ2YWxpZG1pbnV0ZXM9MQ==
 
 #EXTINF:-1,RTP Madeira
-#EXTINF:-1 group-title="Generalistas" tvg-id="RTPMadeira.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png",RTP Madeira
+#EXTINF:-1 group-title="Generalistas" tvg-id="RTPMadeira.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png",RTP Madeira 
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmadeira swfVfy=1 live=1 timeout=15
 #EXTINF:-1 group-title="Generalistas" tvg-logo="http://i67.tinypic.com/2n2hzb.jpg",RTP Madeira / 2
 http://ksportiptv.com:1557/live/idou/idou/2169.ts
+#EXTINF:-1 group-title="Generalistas" tvg-id="RTPMadeira.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png",RTP Madeira / 3
+
 
 #EXTINF:-1,RTP Acores
-#EXTINF:-1 group-title="Generalistas" tvg-id="RTPAcores.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png",RTP Acores
+#EXTINF:-1 group-title="Generalistas" tvg-id="RTPAcores.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png",RTP Acores 
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://kodiportugal.pt swfVfy=1 live=1 timeout=15
+#EXTINF:-1 group-title="Generalistas" tvg-id="RTPAcores.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png",RTP Acores / 2
+http://163.172.60.37/loadbalance/12337165229242522645/chunks.m3u8?nimblesessionid=2148413&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAxNiAxMDoyNjo1NiBQTSZoYXNoX3ZhbHVlPTdhL0l2MVJuUnJvVmRIbGVGUjdzbXc9PSZ2YWxpZG1pbnV0ZXM9MQ==
 
 #EXTINF:-1,PORTO Canal
-#EXTINF:-1 group-title="Generalistas" tvg-id="PortoCanal.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/medium",PORTO Canal
+#EXTINF:-1 group-title="Generalistas" tvg-id="PortoCanal.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/medium",PORTO Canal 
 http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
+#EXTINF:-1 group-title="Generalistas" tvg-id="PortoCanal.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/medium",PORTO Canal / 2
+http://163.172.40.163/loadbalance/32442859894821435412/chunks.m3u8?nimblesessionid=5915507&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAxNiAxMTo1ODo0NCBQTSZoYXNoX3ZhbHVlPXR5QjVlR3ZjRXVXeStUNkMyN2VNMFE9PSZ2YWxpZG1pbnV0ZXM9MQ==
 
 #EXTINF:-1,RTP Africa
-#EXTINF:-1 group-title="Generalistas" tvg-id="RTPAfrica.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png",RTP Africa
+#EXTINF:-1 group-title="Generalistas" tvg-id="RTPAfrica.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png",RTP Africa 
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpafrica swfVfy=1 live=1 timeout=15
+#EXTINF:-1 group-title="Generalistas" tvg-id="RTPAfrica.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png",RTP Africa / 2
+http://163.172.35.253/loadbalance/64479331535877716539/chunks.m3u8?nimblesessionid=7467066&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAxNiAxMDozMDo1MSBQTSZoYXNoX3ZhbHVlPXY0T0dmZmFnVlRBc0JkdlZtNzBXSVE9PSZ2YWxpZG1pbnV0ZXM9MQ==
 
 #EXTINF:-1,RTP Internacional
-#EXTINF:-1 group-title="Generalistas" tvg-id="RTPInternacional.pt" tvg-logo="http://i65.tinypic.com/2552sjl.jpg",RTP Internacional
+#EXTINF:-1 group-title="Generalistas" tvg-id="RTPInternacional.pt" tvg-logo="http://i65.tinypic.com/2552sjl.jpg",RTP Internacional 
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional swfVfy=1 live=1 timeout=15
+#EXTINF:-1 group-title="Generalistas" tvg-id="RTPInternacional.pt" tvg-logo="http://i65.tinypic.com/2552sjl.jpg",RTP Internacional / 2
+http://163.172.211.217/loadbalance/86246334579947923725/chunks.m3u8?nimblesessionid=132207&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAxNiAxMDozNDoxNyBQTSZoYXNoX3ZhbHVlPVVFVU9LQ0V2YzkyaGpIbmV6K0EwOUE9PSZ2YWxpZG1pbnV0ZXM9MQ==
 
 #EXTINF:-1,SIC Internacional HD
 #EXTINF:-1 group-title="Generalistas",SIC Internacional HD
@@ -91,17 +106,19 @@ http://213.13.26.11:1935/live/rtc_teste/KodiPortugal.pt.m3u8
 #EXTINF:-1,[B][COLOR yellow]<== Informacao ==>[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,RTP 3
-#EXTINF:-1 group-title="Informacao" tvg-id="rtpn.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvtqyy1461670745.png/medium",RTP 3
+#EXTINF:-1 group-title="Informacao" tvg-id="rtpn.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvtqyy1461670745.png/medium",RTP 3 
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://kodiportugal.pt swfVfy=1 live=1 timeout=15
 #EXTINF:-1 group-title="Informacao" tvg-id="rtpn.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvtqyy1461670745.png/medium",RTP 3 / 2
 http://ksportiptv.com:1557/live/idou/idou/2168.ts
+#EXTINF:-1 group-title="Informacao" tvg-id="rtpn.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvtqyy1461670745.png/medium",RTP 3 / 3
+http://163.172.35.253/loadbalance/45893186929589398487/chunks.m3u8?nimblesessionid=7466845&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAxNiAxMDoyMzowOSBQTSZoYXNoX3ZhbHVlPWY1bFc2U3o2V05XQU55N3hQdGRzZUE9PSZ2YWxpZG1pbnV0ZXM9MQ==
 
 #EXTINF:-1,SIC Noticias
 #EXTINF:-1 group-title="Informacao",SIC Noticias
 http://ksportiptv.com:1557/live/idou/idou/2174.ts
 
 #EXTINF:-1,TVI 24
-#EXTINF:-1 group-title="Informacao" tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png/medium",TVI 24
+#EXTINF:-1 group-title="Informacao" tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png/medium",TVI 24 
 http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/KodiPortugal.pt.m3u8
 
 #EXTINF:-1,CM TV
@@ -227,7 +244,7 @@ http://ksportiptv.com:1557/live/idou/idou/2175.ts
 
 #EXTINF:-1,TVI Ficcao
 #EXTINF:-1 group-title="Entretenimento",TVI Ficcao
-
+http://163.172.60.35/loadbalance/83133496787987943466/chunks.m3u8?nimblesessionid=2500260&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAxNiAxMDo1NjowNiBQTSZoYXNoX3ZhbHVlPW01dERVcXRnTXJ1RzRVb3FualQ0Y2c9PSZ2YWxpZG1pbnV0ZXM9MQ==
 
 #EXTINF:-1,TVI Reality
 #EXTINF:-1 group-title="Entretenimento",TVI Reality
@@ -408,7 +425,7 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 
 #EXTINF:-1,Eurosport
 #EXTINF:-1 group-title="Desporto",Eurosport
-
+http://163.172.24.207/loadbalance/97458952511194534692/chunks.m3u8?nimblesessionid=7589345&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAxNiAxMToxMToxNiBQTSZoYXNoX3ZhbHVlPWNPMVMxVTZaSDBKM2NFWnBKU2xRcGc9PSZ2YWxpZG1pbnV0ZXM9MQ==
 
 #EXTINF:-1,Eurosport HD
 #EXTINF:-1 group-title="Desporto",Eurosport HD
@@ -569,10 +586,6 @@ http://live-1112.la2.edge.filmon.com/live/2737.low.stream/playlist.m3u8?id=0ad5a
 #EXTINF:-1,Fighting Athletes Network
 #EXTINF:-1 group-title="Desporto",Fighting Athletes Network
 http://live-1112.la2.edge.filmon.com/live/2831.low.stream/playlist.m3u8?id=0ad5aac39bb13fbef7acf0d4a9a35f0402884e3d349bdcae9f585265a4d8b0f77b9fb78afc790254a240b183e0d6039f955ee7694aad10384a5e0e3bcb062ec92bded6caf59a77eed08faa9215d81226850ffd0f410ef6139baed3cf178d54fbfaf123ecfdb69ea42f0ecac063a988c0e6a525fd6f4677a95984a0389a7cca3684c960b592c0a0aea5d18f04b278ca001fbab2a3e57a113ff51c99f62d61baa050dbca93cf1c0a8ef5c5d2cdc37e684fc8d083b31e006406b1e9b6ec1af6e227
-
-#EXTINF:-1,
-#EXTINF:-1 group-title="Desporto",
-
 
 #EXTINF:-1,Ultimate Disc TV
 #EXTINF:-1 group-title="Desporto",Ultimate Disc TV
@@ -807,7 +820,7 @@ http://ksportiptv.com:1557/live/idou/idou/2183.ts
 
 #EXTINF:-1,Fox Movies
 #EXTINF:-1 group-title="Filmes e Series",Fox Movies
-
+http://163.172.211.213/loadbalance/49776879276343575596/chunks.m3u8?nimblesessionid=246554&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAxNiAxMToxNjo1MSBQTSZoYXNoX3ZhbHVlPU1qTW8va2ROMVVpRG12YzVNOUpaV0E9PSZ2YWxpZG1pbnV0ZXM9MQ==
 
 #EXTINF:-1,Fox Movies HD
 #EXTINF:-1 group-title="Filmes e Series",Fox Movies HD
@@ -815,7 +828,7 @@ http://ksportiptv.com:1557/live/idou/idou/2183.ts
 
 #EXTINF:-1,Fox
 #EXTINF:-1 group-title="Filmes e Series",Fox
-
+http://163.172.211.217/loadbalance/68577615587962213319/chunks.m3u8?nimblesessionid=133380&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAxNiAxMToxMjo1NiBQTSZoYXNoX3ZhbHVlPXU5YVZGWFJxZUE3R2NpZitSN2d4Q2c9PSZ2YWxpZG1pbnV0ZXM9MQ==
 
 #EXTINF:-1,Fox HD
 #EXTINF:-1 group-title="Filmes e Series",Fox HD
@@ -839,7 +852,7 @@ http://giant-iptv.com:5477/live/camille/camille/8403.ts
 
 #EXTINF:-1,Fox Crime
 #EXTINF:-1 group-title="Filmes e Series",Fox Crime
-
+http://163.172.41.31/loadbalance/34881977271167698915/chunks.m3u8?nimblesessionid=2110430&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAxNiAxMToxNDoxOSBQTSZoYXNoX3ZhbHVlPXVYeTBYR1JMMTdSc1d3eVRlWUxZQ0E9PSZ2YWxpZG1pbnV0ZXM9MQ==
 
 #EXTINF:-1,Fox Crime HD
 #EXTINF:-1 group-title="Filmes e Series",Fox Crime HD
@@ -863,7 +876,7 @@ http://ksportiptv.com:1557/live/idou/idou/2195.ts
 
 #EXTINF:-1,AXN White
 #EXTINF:-1 group-title="Filmes e Series",AXN White
-
+http://163.172.211.215/loadbalance/28393396392964511362/chunks.m3u8?nimblesessionid=129299&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAxNiAxMTowMTo1NyBQTSZoYXNoX3ZhbHVlPWdFaTVXMWdHK3FOV3BzVFlNUmRha2c9PSZ2YWxpZG1pbnV0ZXM9MQ==
 
 #EXTINF:-1,AXN White HD
 #EXTINF:-1 group-title="Filmes e Series",AXN White HD
@@ -884,7 +897,7 @@ http://ksportiptv.com:1557/live/idou/idou/2992.ts
 http://0.0.0.0:1234
 #EXTINF:-1,MTV Portugal
 #EXTINF:-1 group-title="Musica",MTV Portugal
-
+http://163.172.36.45/loadbalance/79266233641987766229/chunks.m3u8?nimblesessionid=2102317&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAxNiAxMTo1NDoyOCBQTSZoYXNoX3ZhbHVlPU9GZU55R2JEa1FuaG9PTU40Nm9Yemc9PSZ2YWxpZG1pbnV0ZXM9MQ==
 
 #EXTINF:-1,MTV Portugal HD
 #EXTINF:-1 group-title="Musica",MTV Portugal HD
@@ -1021,7 +1034,7 @@ http://0.0.0.0:1234
 
 #EXTINF:-1,Discovery Channel
 #EXTINF:-1 group-title="Documentarios",Discovery Channel
-
+http://163.172.211.225/loadbalance/75544527844146811674/chunks.m3u8?nimblesessionid=3961737&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAxNiAxMTowODowMiBQTSZoYXNoX3ZhbHVlPTVkSWhNWFBMbTdGbDNvSW4yQlFpOFE9PSZ2YWxpZG1pbnV0ZXM9MQ==
 
 #EXTINF:-1,Discovery HD (Ingles)
 #EXTINF:-1 group-title="Documentarios",Discovery HD (Ingles)
@@ -1070,7 +1083,7 @@ http://0.0.0.0:1234
 
 #EXTINF:-1,Motors TV
 #EXTINF:-1 group-title="CARS & AUTO",Motors TV
-
+http://163.172.24.207/loadbalance/66222733336339373419/chunks.m3u8?nimblesessionid=7590659&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAxNiAxMTo1Mjo1NSBQTSZoYXNoX3ZhbHVlPTU0YVEwRnNWajlNU0xvWkRSREVtM1E9PSZ2YWxpZG1pbnV0ZXM9MQ==
 
 #EXTINF:-1,Motors TV HD
 #EXTINF:-1 group-title="CARS & AUTO",Motors TV HD
@@ -1273,7 +1286,7 @@ http://live-1124.la2.edge.filmon.com/live/2678.high.stream/playlist.m3u8
 http://0.0.0.0:1234
 #EXTINF:-1,Playboy TV
 #EXTINF:-1 group-title="Adulto",Playboy TV
-
+rtmp://edge1.everyon.tv/etv1sb/<playpath>phd10497 <swfUrl>http://p.jwpcdn.com/6/12/jwplayer.flash.swf <pageUrl>http://ontvfree2.me/jw-player.php?cid=rtmp://edge1.everyon.tv/etv1sb/phd10497
 
 #EXTINF:-1,Venus
 #EXTINF:-1 group-title="Adulto",Venus
