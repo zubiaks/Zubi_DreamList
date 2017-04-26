@@ -1,4 +1,5 @@
 ﻿#EXTM3U
+#EXTINF:-1,Zubi DreamList V_0.27c
 http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
@@ -34,20 +35,20 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/chunklist.m3u8|Us
 http://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
 #EXTINF:-1,PORTO Canal
-#EXTINF:-1 group-title="Generalistas" tvg-id="PortoCanal.pt" tvg-logo="http://canaisgeneralistas.weebly.com/uploads/7/6/0/1/7601680/porto-canal_orig.png",PORTO Canal 
+#EXTINF:-1 group-title="Generalistas" tvg-id="PortoCanal.pt" tvg-logo="http://canaisgeneralistas.weebly.com/uploads/7/6/0/1/7601680/porto-canal_1_orig.png",PORTO Canal 
 http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
 
 #EXTINF:-1,RTP Africa
-#EXTINF:-1 group-title="Generalistas" tvg-id="RTPAfrica.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png",RTP Africa 
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpafrica swfVfy=1 live=1 timeout=15
+#EXTINF:-1 group-title="Generalistas" tvg-id="RTPAfrica.pt" tvg-logo="http://canaisgeneralistas.weebly.com/uploads/7/6/0/1/7601680/published/rtp-africa.png?1493187650",RTP Africa 
+http://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
 #EXTINF:-1,RTP Internacional
-#EXTINF:-1 group-title="Generalistas" tvg-id="RTPInternacional.pt" tvg-logo="http://i65.tinypic.com/2552sjl.jpg",RTP Internacional 
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional swfVfy=1 live=1 timeout=15
+#EXTINF:-1 group-title="Generalistas" tvg-id="RTPInternacional.pt" tvg-logo="http://canaisgeneralistas.weebly.com/uploads/7/6/0/1/7601680/published/rtp-internacional.png",RTP Internacional 
+http://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
 #EXTINF:-1,TVI Africa
-#EXTINF:-1 group-title="Generalistas",TVI Africa
-
+#EXTINF:-1 group-title="Generalistas" tvg-id="TVIAfrica.pt" tvg-logo="http://canaisgeneralistas.weebly.com/uploads/7/6/0/1/7601680/tvi-frica_orig.png",TVI Africa
+rtmp://93.174.93.230:1935/edge?xs=_we_cWM2eGt6ZjRoNDhiejJlfDE0OTMyNzUxOTB8ODkuMTE0LjIzOC42Nnw1OTAwNDBiNjZjYjA2fDUzNWQ5ODE0OGFlMDM3MjE4YWMyMTc0NDBhNDE4N2NlMjlhMGVjYzc.&userId=fDE0OTMyNzUxOTB8NTZmNTU3NTIzZmJhZTdmMDEwMjY4ODM1Y2UzYmRmZDJhYWQwZTM5OA..<playpath>qc6xkzf4h48bz2e swfUrl=http://www.streamlive.to/player/Player.swf?1493188790 pageUrl=http://www.streamlive.to/embedplayer_new2.php?width=600&height=430&channel=69023&autoplay=true
 
 #EXTINF:-1,TVI Internacional
 #EXTINF:-1 group-title="Generalistas",TVI Internacional
