@@ -1,16 +1,20 @@
 ﻿#EXTM3U
-#EXTINF:-1,Zubi DreamList V_0.26a
+#EXTINF:-1,Zubi DreamList V_0.27
 http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,RTP 1
-#EXTINF:-1 group-title="Generalistas" tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png",RTP 1 
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtp1 swfVfy=1 live=1 timeout=15
+#EXTINF:-1 group-title="Generalistas" tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://www.mediafire.com/view/pj5kc0sksmcvoii/RTP%201.png",RTP 1 
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/KodiPortugal.pt.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
+#EXTINF:-1 group-title="Generalistas" tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://www.mediafire.com/view/pj5kc0sksmcvoii/RTP%201.png",RTP 1 [Alternativa]
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/KodiPortugal.pt.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
 
 #EXTINF:-1,RTP 2
 #EXTINF:-1 group-title="Generalistas" tvg-name="rtp2.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png",RTP 2 
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtp2 swfVfy=1 live=1 timeout=15
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/KodiPortugal.pt.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yvttxv1466191438.png/medium",RTP 2 SD [Alternativa]
+rtmp://rtppullswf2livefs.fplive.net/rtppullswf2live-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://kodiportugal.pt swfVfy=1 live=1 timeout=15
 
 #EXTINF:-1,SIC
 #EXTINF:-1 group-title="Generalistas" tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",SIC 
@@ -81,7 +85,8 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl
 #EXTINF:-1 group-title="Informacao" tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png/medium",TVI 24 
 http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/KodiPortugal.pt.m3u8
 #EXTINF:-1 group-title="Informacao" tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png/medium",TVI 24 / 2
-http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_w1429797420_b814000.m3u8
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_w1429797420_b814000.m3u8
+
 
 #EXTINF:-1,CM TV
 #EXTINF:-1 group-title="Informacao" tvg-name="CM TV" audio-track="pt" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg", CM TV
@@ -766,7 +771,8 @@ http://0.0.0.0:1234
 
 #EXTINF:-1,Motors TV
 #EXTINF:-1 group-title="CARS & AUTO",Motors TV
-http://163.172.24.207/loadbalance/66222733336339373419/chunks.m3u8?nimblesessionid=7590659&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAxNiAxMTo1Mjo1NSBQTSZoYXNoX3ZhbHVlPTU0YVEwRnNWajlNU0xvWkRSREVtM1E9PSZ2YWxpZG1pbnV0ZXM9MQ==
+http://163.172.24.207/loadbalance/66222733336339373419/chunks.m3u8?nimblesessionid=7590659&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAxNiAxMTo1Mjo1NSBQTSZoYXNoX3ZhbHVlPTU0YVEwRnNWajlNU0xvWkRSREVtM1E9PSZ2YWxpZG1pbnV0ZXM9MQ==
+
 
 
 
@@ -869,7 +875,8 @@ http://live-1124.la2.edge.filmon.com/live/2678.high.stream/playlist.m3u8
 http://0.0.0.0:1234
 #EXTINF:-1,Playboy TV
 #EXTINF:-1 group-title="Adulto",Playboy TV
-rtmp://edge1.everyon.tv/etv1sb/phd10497
+rtmp://edge1.everyon.tv/etv1sb/phd10497
+
 
 #EXTINF:-1,Venus
 #EXTINF:-1 group-title="Adulto",Venus
