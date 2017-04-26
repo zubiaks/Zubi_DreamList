@@ -60,8 +60,6 @@ rtmp://93.174.93.230:1935/edge?xs=_we_cWM2eGt6ZjRoNDhiejJlfDE0OTMyNzUxOTB8ODkuMT
 
 #EXTINF:-1,TV Cabo Verde
 #EXTINF:-1 group-title="Generalistas" tvg-id="tvc.pt" tvg-logo="http://c3.quickcachr.fotos.sapo.pt/i/P1313c2ba/14950636_1qKLz.jpeg",TV Cabo Verde
-rtmp://213.13.26.11/live playpath=rtc_teste swfUrl=http://assets.web.sapo.io/sapovideo/swf/flvplayer-sapo.swf?v110713&file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24&live=rtmp://{$hostname}/live/rtc_teste&movref=http%3A%2F%2Fpt.online-television.net%2F952-rtc.html pageUrl=http://pt.online-television.net/952-rtc.html#.VImSJHu8q48 Conn=S:OK live=1
-#EXTINF:-1 group-title="Generalistas" tvg-id="TCV" tvg-logo="http://www.thelogodb.com/images/media/logo/squwqv1438186600.png/medium",TV Cabo Verde / 2
 http://213.13.26.11:1935/live/rtc_teste/KodiPortugal.pt.m3u8
 
 
