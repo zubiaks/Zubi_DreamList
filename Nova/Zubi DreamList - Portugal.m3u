@@ -42,11 +42,11 @@ http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
 #EXTINF:-1 group-title="Generalistas" tvg-id="RTPAfrica.pt" tvg-logo="http://canaisgeneralistas.weebly.com/uploads/7/6/0/1/7601680/published/rtp-africa.png?1493187650",RTP Africa 
 http://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
-#EXTINF:-1,RTP Internacional
+#EXTINF:-1,RTP Internacional 
 #EXTINF:-1 group-title="Generalistas" tvg-id="RTPInternacional.pt" tvg-logo="http://canaisgeneralistas.weebly.com/uploads/7/6/0/1/7601680/published/rtp-internacional.png",RTP Internacional 
 http://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
-#EXTINF:-1,TVI Africa
+#EXTINF:-1,TVI Africa 
 #EXTINF:-1 group-title="Generalistas" tvg-id="TVIAfrica.pt" tvg-logo="http://canaisgeneralistas.weebly.com/uploads/7/6/0/1/7601680/tvi-frica_orig.png",TVI Africa
 rtmp://93.174.93.230:1935/edge?xs=_we_cWM2eGt6ZjRoNDhiejJlfDE0OTMyNzUxOTB8ODkuMTE0LjIzOC42Nnw1OTAwNDBiNjZjYjA2fDUzNWQ5ODE0OGFlMDM3MjE4YWMyMTc0NDBhNDE4N2NlMjlhMGVjYzc.&userId=fDE0OTMyNzUxOTB8NTZmNTU3NTIzZmJhZTdmMDEwMjY4ODM1Y2UzYmRmZDJhYWQwZTM5OA..<playpath>qc6xkzf4h48bz2e swfUrl=http://www.streamlive.to/player/Player.swf?1493188790 pageUrl=http://www.streamlive.to/embedplayer_new2.php?width=600&height=430&channel=69023&autoplay=true
 
@@ -318,7 +318,7 @@ http://0.0.0.0:1234
 http://0.0.0.0:1234
 #EXTINF:-1,SPORT TV 1
 #EXTINF:-1 group-title="Desporto",SPORT TV 1
-rtmp://31.220.0.187/privatestream/ playpath=fawergge?keys=WY2MEWvF4LkoAgE1VbOWOw&keyt=1472308204 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=fawergge  swfVfy=1 live=1 timeout=13
+
 
 #EXTINF:-1,SPORT TV 2
 #EXTINF:-1 group-title="Desporto",SPORT TV 2
