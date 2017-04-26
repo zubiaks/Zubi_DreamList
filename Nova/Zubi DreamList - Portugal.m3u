@@ -48,7 +48,7 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist.m3u8|User-Age
 
 #EXTINF:-1,TVI Africa 
 #EXTINF:-1 group-title="Generalistas" tvg-id="TVIAfrica.pt" tvg-logo="http://canaisgeneralistas.weebly.com/uploads/7/6/0/1/7601680/tvi-frica_orig.png",TVI Africa
-rtmp://93.174.93.230:1935/edge?xs=_we_cWM2eGt6ZjRoNDhiejJlfDE0OTMyNzUxOTB8ODkuMTE0LjIzOC42Nnw1OTAwNDBiNjZjYjA2fDUzNWQ5ODE0OGFlMDM3MjE4YWMyMTc0NDBhNDE4N2NlMjlhMGVjYzc.&userId=fDE0OTMyNzUxOTB8NTZmNTU3NTIzZmJhZTdmMDEwMjY4ODM1Y2UzYmRmZDJhYWQwZTM5OA..<playpath>qc6xkzf4h48bz2e swfUrl=http://www.streamlive.to/player/Player.swf?1493188790 pageUrl=http://www.streamlive.to/embedplayer_new2.php?width=600&height=430&channel=69023&autoplay=true
+rtmp://93.174.93.230:1935/edge?xs=_we_cWM2eGt6ZjRoNDhiejJlfDE0OTMyNzUxOTB8ODkuMTE0LjIzOC42Nnw1OTAwNDBiNjZjYjA2fDUzNWQ5ODE0OGFlMDM3MjE4YWMyMTc0NDBhNDE4N2NlMjlhMGVjYzc.&userId=fDE0OTMyNzUxOTB8NTZmNTU3NTIzZmJhZTdmMDEwMjY4ODM1Y2UzYmRmZDJhYWQwZTM5OA.. playpath=qc6xkzf4h48bz2e swfUrl=http://www.streamlive.to/player/Player.swf?1493188790 pageUrl=http://www.streamlive.to/embedplayer_new2.php?width=600&height=430&channel=69023&autoplay=true
 
 #EXTINF:-1,TVI Internacional
 #EXTINF:-1 group-title="Generalistas",TVI Internacional
@@ -60,7 +60,7 @@ rtmp://93.174.93.230:1935/edge?xs=_we_cWM2eGt6ZjRoNDhiejJlfDE0OTMyNzUxOTB8ODkuMT
 
 #EXTINF:-1,TV Cabo Verde
 #EXTINF:-1 group-title="Generalistas" tvg-id="tvc.pt" tvg-logo="http://c3.quickcachr.fotos.sapo.pt/i/P1313c2ba/14950636_1qKLz.jpeg",TV Cabo Verde
-http://213.13.26.11:1935/live/rtc_teste/KodiPortugal.pt.m3u8
+
 
 
 
@@ -69,7 +69,7 @@ http://213.13.26.11:1935/live/rtc_teste/KodiPortugal.pt.m3u8
 http://0.0.0.0:1234
 #EXTINF:-1,RTP 3
 #EXTINF:-1 group-title="Informacao" tvg-id="rtpn.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvtqyy1461670745.png/medium",RTP 3 
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://kodiportugal.pt swfVfy=1 live=1 timeout=15
+
 
 #EXTINF:-1,SIC Noticias
 #EXTINF:-1 group-title="Informacao",SIC Noticias
