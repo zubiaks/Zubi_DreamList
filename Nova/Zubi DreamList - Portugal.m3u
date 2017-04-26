@@ -1,41 +1,40 @@
 ﻿#EXTM3U
-#EXTINF:-1,Zubi DreamList V_0.27a
 http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,RTP 1
-#EXTINF:-1 group-title="Generalistas" tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://efaland.weebly.com/uploads/7/6/0/1/7601680/rtp-1_orig.png",RTP 1 
+#EXTINF:-1 group-title="Generalistas" tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://canaisgeneralistas.weebly.com/uploads/7/6/0/1/7601680/rtp1_1_orig.png",RTP 1 
 http://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
 #EXTINF:-1,RTP 2
-#EXTINF:-1 group-title="Generalistas" tvg-name="rtp2.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png",RTP 2 
+#EXTINF:-1 group-title="Generalistas" tvg-name="rtp2.pt" audio-track="pt" tvg-logo="http://canaisgeneralistas.weebly.com/uploads/7/6/0/1/7601680/rtp2_1_orig.png",RTP 2 
 http://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
 #EXTINF:-1,SIC
-#EXTINF:-1 group-title="Generalistas" tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",SIC 
+#EXTINF:-1 group-title="Generalistas" tvg-id="sic.pt" tvg-logo="http://canaisgeneralistas.weebly.com/uploads/7/6/0/1/7601680/sic_1_orig.png",SIC 
 http://live.impresa.pt/live/sic/sic540p.m3u8
+#EXTINF:-1 group-title="Generalistas" tvg-id="sic.pt" tvg-logo="http://canaisgeneralistas.weebly.com/uploads/7/6/0/1/7601680/sic_1_orig.png",SIC [Alternativa]
+http://live.impresa.pt/live/sic/sic.m3u8
 
 #EXTINF:-1,TVI
-#EXTINF:-1 group-title="Generalistas"  tvg-name="tvi.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png",TVI
+#EXTINF:-1 group-title="Generalistas"  tvg-name="tvi.pt" audio-track="pt" tvg-logo="http://canaisgeneralistas.weebly.com/uploads/7/6/0/1/7601680/tvi_1_orig.png",TVI
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
-#EXTINF:-1 group-title="Generalistas"  tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png/medium",TVI / 2
-http://video-live.iol.pt:1935/live_tvi/LIVE_TVI-1/KodiPortugal.pt.m3u8
 
 #EXTINF:-1,RTP Memoria
-#EXTINF:-1 group-title="Generalistas" tvg-logo="http://i67.tinypic.com/2n2hzb.jpg",RTP Memoria 
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria swfVfy=1 live=1 timeout=15
+#EXTINF:-1 group-title="Generalistas" tvg-logo="http://canaisgeneralistas.weebly.com/uploads/7/6/0/1/7601680/rtp-memoria_orig.png",RTP Memoria 
+http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
 #EXTINF:-1,RTP Madeira
-#EXTINF:-1 group-title="Generalistas" tvg-id="RTPMadeira.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png",RTP Madeira 
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmadeira swfVfy=1 live=1 timeout=15
+#EXTINF:-1 group-title="Generalistas" tvg-id="RTPMadeira.pt" tvg-logo="http://canaisgeneralistas.weebly.com/uploads/7/6/0/1/7601680/rtp-madeira_orig.png",RTP Madeira 
+http://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
 #EXTINF:-1,RTP Acores
-#EXTINF:-1 group-title="Generalistas" tvg-id="RTPAcores.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png",RTP Acores 
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://kodiportugal.pt swfVfy=1 live=1 timeout=15
+#EXTINF:-1 group-title="Generalistas" tvg-id="RTPAcores.pt" tvg-logo="http://canaisgeneralistas.weebly.com/uploads/7/6/0/1/7601680/rtp-acores_orig.png",RTP Acores 
+http://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
 #EXTINF:-1,PORTO Canal
-#EXTINF:-1 group-title="Generalistas" tvg-id="PortoCanal.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/medium",PORTO Canal 
+#EXTINF:-1 group-title="Generalistas" tvg-id="PortoCanal.pt" tvg-logo="http://canaisgeneralistas.weebly.com/uploads/7/6/0/1/7601680/porto-canal_orig.png",PORTO Canal 
 http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
 
 #EXTINF:-1,RTP Africa
