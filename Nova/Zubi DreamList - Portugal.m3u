@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1,Zubi DreamList V_0.29
+#EXTINF:-1,Zubi DreamList V_0.30a limpeza
 http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
@@ -40,7 +40,7 @@ http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
 
 #EXTINF:-1,RTP Africa
 #EXTINF:-1 group-title="Generalistas" tvg-id="RTPAfrica.pt" tvg-logo="http://canaisgeneralistas.weebly.com/uploads/7/6/0/1/7601680/published/rtp-africa.png?1493187650",RTP Africa 
-http://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
+
 
 #EXTINF:-1,RTP Internacional 
 #EXTINF:-1 group-title="Generalistas" tvg-id="RTPInternacional.pt" tvg-logo="http://canaisgeneralistas.weebly.com/uploads/7/6/0/1/7601680/published/rtp-internacional.png",RTP Internacional 
@@ -104,7 +104,7 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_w1429797420_b
 
 #EXTINF:-1,Euronews
 #EXTINF:-1 group-title="Informacao" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/euronews.png", Euronews
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
+
 
 #EXTINF:-1,Bloomberg
 #EXTINF:-1 group-title="Informacao",Bloomberg (Ingles)
@@ -148,7 +148,7 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
 
 #EXTINF:-1,France 24
 #EXTINF:-1 group-title="Informacao",France 24 (Ingles)
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_250.m3u8
+
 
 #EXTINF:-1,France 24 (Frances)
 #EXTINF:-1 group-title="Informacao",France 24 (Frances)
@@ -330,7 +330,7 @@ http://0.0.0.0:1234
 
 #EXTINF:-1,SPORT TV 4
 #EXTINF:-1 group-title="Desporto",SPORT TV 4
-rtmp://31.220.40.61/privatestream/ playpath=dddd4uedifoekds?keys=Vri8Q5EwFb9Weo-FwdM8Ag&keyt=1471812541  swfUrl=http://privatestream.tv/js/jwplayer.flash.swf  pageUrl=http://privatestream.tv/player?streamname=dddd4uedifoekds  swfVfy=1 live=1 timeout=13
+
 
 #EXTINF:-1,SPORT TV 5
 #EXTINF:-1 group-title="Desporto",SPORT TV 5
@@ -434,7 +434,7 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 
 #EXTINF:-1,Versus HD (Ingles)
 #EXTINF:-1 group-title="Desporto",Versus HD (Ingles)
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
 
 #EXTINF:-1,BURSA SPORT (Turkish)
 #EXTINF:-1 group-title="Desporto",BURSA SPORT (Turkish)
@@ -649,30 +649,24 @@ http://0.0.0.0:1234
 #EXTINF:-1 group-title="Musica",Capital TV (UK)
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
-
 #EXTINF:-1,City Radio TV
 #EXTINF:-1 group-title="Musica",City Radio TV
-http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
 
 
 #EXTINF:-1,Dream TV
 #EXTINF:-1 group-title="Musica",Dream TV
-http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 
 
 #EXTINF:-1,Eska Best Music TV
 #EXTINF:-1 group-title="Musica",Eska Best Music TV
-http://stream.smcloud.net/live/eskatv/playlist.m3u8
 
 
 #EXTINF:-1,Eska Party TV
 #EXTINF:-1 group-title="Musica",Eska Party TV
-http://stream.smcloud.net/live/eska_party/playlist.m3u8
 
 
 #EXTINF:-1,Eska Vox TV Old Cool
 #EXTINF:-1 group-title="Musica",Eska Vox TV Old Cool
-http://stream.smcloud.net/live/vox/playlist.m3u8
 
 
 #EXTINF:-1,Heart TV (UK)
@@ -765,7 +759,7 @@ http://0.0.0.0:1234
 
 #EXTINF:-1,Motors TV
 #EXTINF:-1 group-title="CARS & AUTO",Motors TV
-http://163.172.24.207/loadbalance/66222733336339373419/chunks.m3u8?nimblesessionid=7590659&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAxNiAxMTo1Mjo1NSBQTSZoYXNoX3ZhbHVlPTU0YVEwRnNWajlNU0xvWkRSREVtM1E9PSZ2YWxpZG1pbnV0ZXM9MQ==
+
 
 
 
@@ -790,11 +784,11 @@ http://0.0.0.0:1234
 
 #EXTINF:-1,NASA TV PUBLIC (Ingles)
 #EXTINF:-1 group-title="Temáticos" tvg-id="n/a" tvg-logo="http://www.thelogodb.com/images/media/logo/uyysuv1433430227.png",NASA TV PUBLIC (Ingles)
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+
 
 #EXTINF:-1,NASA TV MEDIA (Ingles)
 #EXTINF:-1 group-title="Temáticos" tvg-id="n/a" tvg-logo="http://www.thelogodb.com/images/media/logo/uyysuv1433430227.png",NASA TV MEDIA (Ingles)
-http://nasatv-lh.akamaihd.net/i/NASA_103@319271/master.m3u8
+
 
 
 
@@ -803,7 +797,7 @@ http://nasatv-lh.akamaihd.net/i/NASA_103@319271/master.m3u8
 http://0.0.0.0:1234
 #EXTINF:-1,Agueda TV
 #EXTINF:-1 group-title="Regionais",Agueda TV
-http://agueda.tv:1756/stream.flv
+
 
 
 #EXTINF:-1,[B][COLOR yellow]<== Horror ==>[/COLOR][/B]
@@ -830,11 +824,11 @@ http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel0
 
 #EXTINF:-1,Igreja Online TV HD
 #EXTINF:-1 group-title="Religioso",Igreja Online TV HD
-http://195.22.19.179:1935/igronl/igronline2/live.m3u8
+
 
 #EXTINF:-1,Canal Um Europa (RIT Europa) Evangélica 
 #EXTINF:-1 group-title="Religioso",Canal Um Europa (RIT Europa) Evangélica 
-http://nossatvhls01-lh.akamaihd.net/i/nossatv_hls@366619/index_600_av-p.m3u8?sd=10&rebase=on
+
 
 
 
@@ -848,28 +842,10 @@ http://nossatvhls01-lh.akamaihd.net/i/nossatv_hls@366619/index_600_av-p.m3u8?sd=
 
 
 
-#EXTINF:-1,[B][COLOR yellow]<== FILMON9and10 ==>[/COLOR][/B]
-http://0.0.0.0:1234
-#EXTINF:-1,MegaMe TV
-#EXTINF:-1 group-title="FILMON9and10",MegaMe TV
-http://live-1124.la2.edge.filmon.com/live/2687.high.stream/playlist.m3u8
-
-#EXTINF:-1,Player TV
-#EXTINF:-1 group-title="FILMON9and10",Player TV
-http://live-1124.la2.edge.filmon.com/live/2684.high.stream/playlist.m3u8
-
-#EXTINF:-1,Mega Destinations
-#EXTINF:-1 group-title="FILMON9and10",Mega Destinations
-http://live-1124.la2.edge.filmon.com/live/2678.high.stream/playlist.m3u8
-
-
-
-
 #EXTINF:-1,[B][COLOR yellow]<== Adulto ==>[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,Playboy TV
 #EXTINF:-1 group-title="Adulto",Playboy TV
-rtmp://edge1.everyon.tv/etv1sb/phd10497
 
 
 #EXTINF:-1,Venus
@@ -882,15 +858,15 @@ rtmp://edge1.everyon.tv/etv1sb/phd10497
 
 #EXTINF:-1,Asian XXX ?
 #EXTINF:-1 group-title="Adulto" tvg-logo="penhousetv.jpg",Asian XXX???
-rtmp://edge1.everyon.tv/etv1sb//phd10927
+
 
 #EXTINF:-1,x
 #EXTINF:-1 group-title="Adulto" tvg-logo="penhousetv.jpg",X
-http://93.87.85.71/PLTV/88888888/224/3221225908/04.m3u8
+
 
 #EXTINF:-1,xxx 1
 #EXTINF:-1 group-title="Adulto",xxx 1
-http://23.237.4.162:8080/Skysports1/index.m3u8
+
 
 
 
@@ -913,13 +889,10 @@ http://23.237.4.162:8080/Skysports1/index.m3u8
 
 
 #EXTINF:-1,[B][COLOR yellow]<== ASIATICOS - ASIAN ==>[/COLOR][/B]
-
 http://0.0.0.0:1234
 
 #EXTINF:-1,Arirang
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://0.viki.io/carousel/-uploads/content_owners/256co/arirang_jpg.jpg?x=b&s=340x170&q=h&cb=1" group-title="ASIATICOS - ASIAN",Arirang
-
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 
@@ -927,7 +900,6 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 
 
 #EXTINF:-1,[B][COLOR yellow]<== BOLIVIA ==>[/COLOR][/B]
-
 
 #EXTINF:-1,
 #EXTINF:-1 group-title="BOLIVIA",
@@ -982,13 +954,11 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 http://0.0.0.0:1234
 #EXTINF:-1,rossia24 
 #EXTINF:-1 group-title="Russia",rossia24
-http://gourl.su/12r?rossia24
-#EXTINF:-1 group-title="Russia",rossia24 / 2
 http://live.tvtomsk.ru/hls/RT-24.m3u8
 
 #EXTINF:-1,1kanal 
 #EXTINF:-1 group-title="Russia",1kanal
-http://gourl.su/xi?mp4?1kanal
+
 
 #EXTINF:-1,mostvideo.tv 
 #EXTINF:-1 group-title="Russia",mostvideo.tv
@@ -1019,36 +989,29 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_1163_2_27037.png" group-title="VENEZUELA",Canal i
 
 
-
 #EXTINF:-1,Telearagua
 #EXTINF:-1 group-title="VENEZUELA",Telearagua
-http://stream.telearagua.com/telearagua/telearagua/index.m3u8
 
 
 #EXTINF:-1,TeleSUR 31
 #EXTINF:-1 group-title="VENEZUELA",TeleSUR 31
 http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
 
-
 #EXTINF:-1,TRT
 #EXTINF:-1 group-title="VENEZUELA",TRT
-http://edge.wms28.lorini.net/trttv/trttv/playlist.m3u8
 
 
 #EXTINF:-1,ValeTV
 #EXTINF:-1 group-title="VENEZUELA",ValeTV
 http://edge.wms28.lorini.net/valetv/valetv/playlist.m3u8
 
-
 #EXTINF:-1,Venezolano TV
 #EXTINF:-1 group-title="VENEZUELA",Venezolano TV
-http://cast.streamingconnect.com:1935/elvenezolano/elvenezolano/playlist.m3u8
 
 
 #EXTINF:-1,VMAS TV
 #EXTINF:-1 group-title="VENEZUELA",VMAS TV
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
-
 
 #EXTINF:-1,VPI TV
 #EXTINF:-1 group-title="VENEZUELA",VPI TV
@@ -1101,9 +1064,6 @@ rtmp://213.13.26.41/live playpath=guincho.stream swfUrl=https://js.sapo.pt/Proje
 #EXTINF:-1, PRAIA MATOSINHOS 
 rtmp://213.13.26.13/live playpath=matosinhos.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/es8j5Fy9uPz4IHG0jDsb/mov/24&autoStart=1&showlogo=false&showShare=false
 
-#EXTINF:-1, RIBEIRA D Ilhas
-rtmp://213.13.26.13/live playpath=ribeira.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/JBVNouMY9PAovZa1dpLU/mov/24&autoStart=1&showlogo=false&showShare=false
-
 #EXTINF:-1, FONTE DA TELHA
 rtmp://213.13.26.13/live playpath=fontetelha.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/QLSeZzJddnWp7KSNs63n/mov/24&relatedVideos=none&autoStart=1
 
@@ -1119,19 +1079,19 @@ http://0.0.0.0:1234
 http://0.0.0.0:1234
 
 #EXTINF:-1,Mais Kizomba
-http://109.71.41.250:8123/
+
 
 #EXTINF:-1,RFM CLUBBING
-http://7719.live.streamtheworld.com:80/RFMCLUBBINGAAC_SC
+
 
 #EXTINF:-1,M80
-http://7719.live.streamtheworld.com:80/GR80SRFMAAC_SC
+
 
 #EXTINF:-1,NOVA ERA
 http://stream.radio.com.pt:9478/stream
 
 #EXTINF:-1,94 FM
-http://195.8.58.150:35022/;stream.nsv
+
 
 #EXTINF:-1,SUPER FM
 http://94.23.76.235:9956/
@@ -1152,7 +1112,7 @@ http://85.25.73.243:10460/
 
  
 #EXTINF:0,Radio RFM
-http://7719.live.streamtheworld.com/RFM_SC
+
 
 #EXTINF:0,Radio Orbital
 
@@ -1161,10 +1121,10 @@ http://7719.live.streamtheworld.com/RFM_SC
 
  
 #EXTINF:0, Radio Renascença
-http://7709.live.streamtheworld.com:3690/RADIO_RENASCENCA_SC?.wma
+
  
 #EXTINF:0, Radio MegaFM
-http://7719.live.streamtheworld.com:3690/MEGA_HITS_SC?.wma
+
  
 #EXTINF:0, Radio TSF
 
