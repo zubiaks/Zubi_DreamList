@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1,Zubi DreamList V_0.30a limpeza
+#EXTINF:-1,Zubi DreamList V_0.31 14/09/2017
 http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
@@ -94,7 +94,7 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_w1429797420_b
 #EXTINF:-1 group-title="Informacao",Localvisão TV
 
 
-#EXTINF:-1,ARTV*
+#EXTINF:-1,ARTV
 #EXTINF:-1 group-title="Informacao" tvg-id="ARTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xvswvy1437956693.png/medium",CANAL PARLAMENTO
 
 
@@ -150,9 +150,9 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_w1429797420_b
 #EXTINF:-1 group-title="Informacao",France 24 (Ingles)
 
 
-#EXTINF:-1,France 24 (Frances)
-#EXTINF:-1 group-title="Informacao",France 24 (Frances)
-
+#EXTINF:-1,CBSN
+#EXTINF:-1 group-title="Informacao",CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
 
 #EXTINF:-1,Record News
 #EXTINF:-1 group-title="Informacao",Record News
@@ -189,7 +189,7 @@ http://0.0.0.0:1234
 
 #EXTINF:-1,SIC Caras
 #EXTINF:-1 group-title="Entretenimento",SIC Caras
-
+http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 
 #EXTINF:-1,SIC Radical
 #EXTINF:-1 group-title="Entretenimento",SIC Radical
@@ -392,9 +392,9 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 #EXTINF:-1 group-title="Desporto",FightBox HD (Ingles)
 
 
-#EXTINF:-1,Fast&Fun Box HD (Ingles)
-#EXTINF:-1 group-title="Desporto",Fast&Fun Box HD (Ingles)
-
+#EXTINF:-1,superlig tv (Turco)
+#EXTINF:-1 group-title="Desporto",superlig tv (Turco)
+http://91.121.58.28:7070
 
 #EXTINF:-1,Fight Network (Ingles)
 #EXTINF:-1 group-title="Desporto",Fight Network (Ingles)
@@ -460,6 +460,9 @@ http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
 #EXTINF:-1 group-title="Desporto",FOX SPORTS (Ingles)
 
 
+#EXTINF:-1,FOX SPORTS (Ingles)
+#EXTINF:-1 group-title="Desporto",tivibu spor 2
+ http://devcon.red:8080/live/propanel/XCt5vFYWlL/135.ts
 
 
 
@@ -505,13 +508,15 @@ http://0.0.0.0:1234
 #EXTINF:-1,Super RTL
 #EXTINF:-1 group-title="Infantil",Super RTL (Alemao)
 
-
+#EXTINF:-1,Boomerang
+#EXTINF:-1 group-title="Infantil",Boomerang
+http://87.246.0.146:61475/tv_Boomerang
 
 
 
 
 #EXTINF:-1,[B][COLOR yellow]<== Filmes e Series ==>[/COLOR][/B]
-http://0.0.0.0:1234
+
 #EXTINF:-1,TVCine 1
 #EXTINF:-1 group-title="Filmes e Series",TVCine 1
 
@@ -593,9 +598,9 @@ http://0.0.0.0:1234
 #EXTINF:-1 group-title="Musica",MTV Portugal
 
 
-#EXTINF:-1,MTV Portugal HD
-#EXTINF:-1 group-title="Musica",MTV Portugal HD
-
+#EXTINF:-1,NRJ Belgique
+#EXTINF:-1 group-title="Musica",NRJ Belgique
+ http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
 
 #EXTINF:-1,VH1 CLASSIC
 #EXTINF:-1 group-title="Musica",VH1 CLASSIC
@@ -621,9 +626,9 @@ http://0.0.0.0:1234
 #EXTINF:-1 group-title="Musica",MCM TOP (Frances)
 
 
-#EXTINF:-1,MCM TOP HD
-#EXTINF:-1 group-title="Musica",MCM TOP HD (Frances)
-
+#EXTINF:-1,TV POP
+#EXTINF:-1 group-title="Musica",TV POP
+http://v3.tustreaming.cl/tvpop/live1/index.m3u8
 
 #EXTINF:-1,C Music
 #EXTINF:-1 group-title="Musica",C Music (Ingles)
@@ -649,9 +654,9 @@ http://0.0.0.0:1234
 #EXTINF:-1 group-title="Musica",Capital TV (UK)
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
-#EXTINF:-1,City Radio TV
-#EXTINF:-1 group-title="Musica",City Radio TV
-
+#EXTINF:-1,TU Musica HD
+#EXTINF:-1 group-title="Musica",TU Musica HD
+rtmp://cm.hostlagarto.com:1935/tumusicahd/tumusicaHD.myStream
 
 #EXTINF:-1,Dream TV
 #EXTINF:-1 group-title="Musica",Dream TV
@@ -718,7 +723,7 @@ http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 http://0.0.0.0:1234
 #EXTINF:-1,ANIMAL PLANET
 #EXTINF:-1 group-title="Documentarios",ANIMAL PLANET
-
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1,Discovery Channel
 #EXTINF:-1 group-title="Documentarios",Discovery Channel
@@ -752,7 +757,7 @@ http://0.0.0.0:1234
 
 
 #EXTINF:-1,[B][COLOR yellow]<== CARS & AUTO ==>[/COLOR][/B]
-http://0.0.0.0:1234
+
 #EXTINF:-1,Fuel TV
 #EXTINF:-1 group-title="CARS & AUTO",Fuel TV
 
@@ -769,7 +774,7 @@ http://0.0.0.0:1234
 
 
 #EXTINF:-1,[B][COLOR yellow]<== Temáticos ==>[/COLOR][/B]
-http://0.0.0.0:1234
+
 #EXTINF:-1,DOGTV (Ingles)
 #EXTINF:-1 group-title="Temáticos",DOGTV (Ingles)
 
@@ -794,16 +799,10 @@ http://0.0.0.0:1234
 
 
 #EXTINF:-1,[B][COLOR yellow]<== Regionais ==>[/COLOR][/B]
-http://0.0.0.0:1234
+
 #EXTINF:-1,Agueda TV
 #EXTINF:-1 group-title="Regionais",Agueda TV
 
-
-
-#EXTINF:-1,[B][COLOR yellow]<== Horror ==>[/COLOR][/B]
-
-#EXTINF:-1,American Horrors
-#EXTINF:-1 group-title="Horror",American Horrors
 
 
 
@@ -852,9 +851,9 @@ http://0.0.0.0:1234
 #EXTINF:-1 group-title="Adulto",Venus
 
 
-#EXTINF:-1,sexy hot
-#EXTINF:-1 group-title="Adulto",sexy hot
-
+#EXTINF:-1,Jasmin.tv
+#EXTINF:-1 group-title="Adulto",Jasmin.tv
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 
 #EXTINF:-1,Asian XXX ?
 #EXTINF:-1 group-title="Adulto" tvg-logo="penhousetv.jpg",Asian XXX???
@@ -888,14 +887,13 @@ http://0.0.0.0:1234
 
 
 
-#EXTINF:-1,[B][COLOR yellow]<== ASIATICOS - ASIAN ==>[/COLOR][/B]
+
+#EXTINF:-1,[B][COLOR yellow]<== Alemao ==>[/COLOR][/B]
 http://0.0.0.0:1234
-
-#EXTINF:-1,Arirang
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://0.viki.io/carousel/-uploads/content_owners/256co/arirang_jpg.jpg?x=b&s=340x170&q=h&cb=1" group-title="ASIATICOS - ASIAN",Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-
+#EXTINF:-1,tagesschau
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Alemao",tagesschau
+http://daserste_live-lh.akamaihd.net:80/i/daserste_int@91203/index_2692_av-p.m3u8
+ 
 
 
 
@@ -929,10 +927,28 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 
 
 
+#EXTINF:-1,[B][COLOR yellow]<== Indonesia ==>[/COLOR][/B]
+http://0.0.0.0:1234
+#EXTINF:-1,Kompas TV
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Indonesia",Kompas TV
+https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/playlist.m3u8
+
+
+ 
+
 #EXTINF:-1,[B][COLOR yellow]<== Kazakhstan ==>[/COLOR][/B]
 
 #EXTINF:-1,Kazak TV
 #EXTINF:-1 group-title="Kazakhstan",Kazakh TV
+
+
+
+
+#EXTINF:-1,[B][COLOR yellow]<== Koreia SUL ==>[/COLOR][/B]
+http://0.0.0.0:1234
+#EXTINF:-1,Arirang
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://0.viki.io/carousel/-uploads/content_owners/256co/arirang_jpg.jpg?x=b&s=340x170&q=h&cb=1" group-title="Koreia SUL",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 
 
@@ -956,13 +972,49 @@ http://0.0.0.0:1234
 #EXTINF:-1 group-title="Russia",rossia24
 http://live.tvtomsk.ru/hls/RT-24.m3u8
 
-#EXTINF:-1,1kanal 
-#EXTINF:-1 group-title="Russia",1kanal
-
+#EXTINF:-1,RTR Moldova 
+#EXTINF:-1 group-title="Russia",RTR Moldova
+http://185.96.177.181:7001/8?mp4
 
 #EXTINF:-1,mostvideo.tv 
 #EXTINF:-1 group-title="Russia",mostvideo.tv
 rtmp://wow.mostvideo.tv/tv/ch1
+
+#EXTINF:-1,nsktv
+#EXTINF:-1 group-title="Russia",nsktv
+rtmp://hosting.nsktv.ru:1935/live/rik?streamType=live
+
+#EXTINF:-1,RT
+#EXTINF:-1 group-title="Russia",RT
+http://rtmp.api.rt.com/hls/rtdru.m3u8
+
+#EXTINF:-1,topinform
+#EXTINF:-1 group-title="Russia",topinform
+http://hls.goodgame.ru/hls/33226.m3u8?version=2 
+
+#EXTINF:-1,mir 24
+#EXTINF:-1 group-title="Russia",mir 24
+http://93.92.202.203:4022/udp/224.24.24.138:1234?mp4
+ 
+#EXTINF:-1,BECTN FM
+#EXTINF:-1 group-title="Russia",BECTN FM
+http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/playlist.m3u8
+
+#EXTINF:-1,BTV
+#EXTINF:-1 group-title="Russia",BTV
+http://88.118.213.226:9981/playlist
+
+#EXTINF:-1,TVC
+#EXTINF:-1 group-title="Russia",TVC
+rtmp://tvc.cdnvideo.ru/tvc-p212/rtmp_p11_hq
+
+#EXTINF:-1,krasnaya liniya
+#EXTINF:-1 group-title="Russia",krasnaya liniya
+http://bit.ly/2wznkgk?krasnaya.liniya.m3u8
+
+#EXTINF:-1,Zvezda
+#EXTINF:-1 group-title="Russia",Zvezda
+http://134.19.150.42:81/udp/239.195.0.17:1234
 
 
 
@@ -976,9 +1028,10 @@ rtmp://wow.mostvideo.tv/tv/ch1
 
 
 #EXTINF:-1,[B][COLOR yellow]<== USA ==>[/COLOR][/B]
-
-#EXTINF:-1,
-#EXTINF:-1 group-title="USA",
+http://0.0.0.0:1234
+#EXTINF:-1,Bounce TV
+#EXTINF:-1 group-title="USA",Bounce TV
+http://bcoveliveios-i.akamaihd.net/hls/live/217434-b/3083279840001/master.m3u8
 
 
 
