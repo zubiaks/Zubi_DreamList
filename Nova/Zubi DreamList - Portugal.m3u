@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1,Zubi DreamList V_0.27c
+#EXTINF:-1,Zubi DreamList V_0.29
 http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
@@ -96,7 +96,7 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_w1429797420_b
 
 #EXTINF:-1,ARTV*
 #EXTINF:-1 group-title="Informacao" tvg-id="ARTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xvswvy1437956693.png/medium",CANAL PARLAMENTO
-http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/KodiPortugal.pt.m3u8
+
 
 #EXTINF:-1,CNN
 #EXTINF:-1 group-title="Informacao",CNN (Ingles)
