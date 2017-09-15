@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-	#EXTINF:-1,Zubi DreamList V_0.32 15/09/2017
+	#EXTINF:-1,Zubi DreamList V_0.33b 16/09/2017 First Beta ^_^
 		http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
@@ -15,7 +15,7 @@
 		#EXTINF:-1,SIC
 			EXTINF:-1 group-title="Generalistas" tvg-id="sic.pt" tvg-logo="https://image.ibb.co/mGcbik/SIC.png",SIC 
 				http://live.impresa.pt/live/sic/sic540p.m3u8
-			#EXTINF:-1 group-title="Generalistas" tvg-id="sic.pt" tvg-logo="https://image.ibb.co/mGcbik/SIC.png",SIC [Alternativa]
+			#EXTINF:-1 group-title="Generalistas" tvg-id="sic.pt" tvg-logo="https://image.ibb.co/mGcbik/SIC.png",SIC (Alternativa)
 				http://live.impresa.pt/live/sic/sic.m3u8
 
 		#EXTINF:-1,TVI
@@ -76,7 +76,7 @@
 		#EXTINF:-1,TVI 24
 			#EXTINF:-1 group-title="Informacao" tvg-id="TVI24.pt" tvg-logo="https://image.ibb.co/g2oVtk/TVI_24.png",TVI 24 
 				http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/KodiPortugal.pt.m3u8
-			#EXTINF:-1 group-title="Informacao" tvg-id="TVI24.pt" tvg-logo="https://image.ibb.co/g2oVtk/TVI_24.png",TVI 24 [Alternativa]
+			#EXTINF:-1 group-title="Informacao" tvg-id="TVI24.pt" tvg-logo="https://image.ibb.co/g2oVtk/TVI_24.png",TVI 24 (Alternativa)
 				http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_w1429797420_b814000.m3u8
 
 
@@ -167,7 +167,7 @@
 		#EXTINF:-1,RT
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",RT (Ingles)
 				http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
-			#EXTINF:-1 tvg-logo="" group-title="Informacao",RT (Ingles) [Alternativa]
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",RT (Ingles) (Alternativa)
 				http://213.178.34.13:4022/udp/232.0.1.44:1234
 		#EXTINF:-1,ABC
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",ABC (Ingles)
@@ -428,17 +428,51 @@
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",TSN 5 (Ingles)
 
 
-		#EXTINF:-1,Versus HD (Ingles)
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Versus HD (Ingles)
+		#EXTINF:-1,BT Sport 1 (Ingles)
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",BT Sport 1 (Ingles)
+				http://185.53.163.205:2700
 
+		#EXTINF:-1,BT Sport 2 (Ingles)
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",BT Sport 2 (Ingles)
+				http://185.53.163.205:2506
+
+		#EXTINF:-1,BT Sport 3 (Ingles)
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",BT Sport 3 (Ingles)
+				http://185.53.163.205:2701
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",BT Sport 3 (Ingles) (Alternativa)
+				http://185.53.163.205:2504
+				
+		#EXTINF:-1,BT Sport ESPN (Ingles)
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",BT Sport ESPN (Ingles)
+				http://185.53.163.205:2507
+
+		#EXTINF:-1,BT Sport x1 (Ingles)
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",BT x1 (Ingles)
+				http://185.53.163.205:2707
+
+		#EXTINF:-1,BT Sport x2 (Ingles)
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",BT x2 (Ingles)
+				http://185.53.163.205:2500
+
+		#EXTINF:-1,BT Sport x3 (Ingles)
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",BT x3 (Ingles)
+				http://185.53.163.205:2501
+
+		#EXTINF:-1,BT Sport x4 (Ingles)
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",BT x4 (Ingles)
+				http://185.53.163.205:2502
+
+		#EXTINF:-1,BT Sport x5 (Ingles)
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",BT x5 (Ingles)
+				http://185.53.163.205:2503
 
 		#EXTINF:-1,BURSA SPORT (Turkish)
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",BURSA SPORT (Turkish)
 				http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
 
-		#EXTINF:-1,SKY SPORTS 1 (Ingles)
+		#EXTINF:-1,SKY SPORTS 1 (Ingles) (HD)
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",SKY SPORTS 1 (Ingles)
-
+				http://88.1.55.144/hdmi
 
 		#EXTINF:-1,SKY SPORTS 2 (Ingles)
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",SKY SPORTS 2 (Ingles)
@@ -843,7 +877,7 @@
 
 		#EXTINF:-1,xxx 1
 			#EXTINF:-1 tvg-logo="" group-title="Adulto",xxx 1
-
+				http://ts://playlist.prg09.v-ip-tv.com/atip/0/0/channel-71/0/512.m3u8
 
 
 #EXTINF:-1,[B][COLOR yellow]<== Afghanistan ==>[/COLOR][/B]
@@ -869,7 +903,16 @@
 			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemao",tagesschau
 				http://daserste_live-lh.akamaihd.net:80/i/daserste_int@91203/index_2692_av-p.m3u8
  
-
+ 
+ 
+#EXTINF:-1,[B][COLOR yellow]<== Austria ==>[/COLOR][/B]
+	http://0.0.0.0:1234
+	
+		#EXTINF:-1,FS1
+			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Austria",FS1
+				http://stream.fs1.tv:8080/hls/webstream.m3u8
+				
+ 
 
 #EXTINF:-1,[B][COLOR yellow]<== Bulgaria ==>[/COLOR][/B]
 
