@@ -1,10 +1,11 @@
 ﻿#EXTM3U
-	#EXTINF:-1,Zubi DreamList V_0.35 17/09/2017
+	#EXTINF:-1,Zubi DreamList V_0.36 19/09/2017
 		#EXTSIZE: Big
 			http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
 	http://0.0.0.0:1234
+	
 		#EXTINF:-1,RTP 1
 			#EXTINF:-1 group-title="Generalistas" tvg-name="rtp1.pt" audio-track="pt" tvg-logo="https://image.ibb.co/n5vOUQ/RTP_1.png",RTP 1 
 				http://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
@@ -66,6 +67,7 @@
 
 #EXTINF:-1,[B][COLOR yellow]<== Informacao ==>[/COLOR][/B]
 	http://0.0.0.0:1234
+	
 		#EXTINF:-1,RTP 3
 			#EXTINF:-1 group-title="Informacao" tvg-id="rtpn.pt" tvg-logo="https://image.ibb.co/gsFtDk/RTP_3.png",RTP 3 
 
@@ -113,6 +115,10 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/fiXYik/Sky_News.jpg" group-title="Informacao",Sky News (Ingles)
 
 
+		#EXTINF:-1,Sky TG24 (Italian)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/erJQUQ/Sky_TG24_Italian.png" group-title="Informacao",Sky TG24 (Italian)
+				rtmp://cp49989.live.edgefcs.net:1935/live/streamRM1@2564
+
 		#EXTINF:-1,BBC World News
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/eyZw3k/BBC_World_News.png" group-title="Informacao",BBC World News (Ingles)
 
@@ -126,24 +132,24 @@
 
 
 		#EXTINF:-1,Al Jazeera English
-			#EXTINF:-1 tvg-logo="" group-title="Informacao",Al Jazeera English (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mxoqEQ/Al_Jazeera_English.jpg" group-title="Informacao",Al Jazeera English (Ingles)
 
 
 		#EXTINF:-1,RAI NEWS
-			#EXTINF:-1 tvg-logo="" group-title="Informacao",RAI NEWS (Italiano)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fjGSuQ/RAI_NEWS.png" group-title="Informacao",RAI NEWS (Italiano)
 
 
 		#EXTINF:-1,Phoenix InfoNews
-			#EXTINF:-1 tvg-logo="" group-title="Informacao",Phoenix InfoNews (Chines)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hzgGok/Phoenix_Info_News.png" group-title="Informacao",Phoenix InfoNews (Chines)
 
 
 		#EXTINF:-1,TVE 24h
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",TVE 24h (Espanhol)
 
 
-		#EXTINF:-1,Deutche Welle
-			#EXTINF:-1 tvg-logo="" group-title="Informacao",Deutche Welle (Ingles)
-
+		#EXTINF:-1,ANN TV (Arabe)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nwR5UQ/ANN_TV_Arabe.jpg" group-title="Informacao",ANN TV (Arabe)
+				rtmp://ns8.indexforce.com/ann/ann
 
 		#EXTINF:-1,France 24
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",France 24 (Ingles)
@@ -183,6 +189,7 @@
 
 #EXTINF:-1,[B][COLOR yellow]<== Entretenimento ==>[/COLOR][/B]
 	http://0.0.0.0:1234
+	
 		#EXTINF:-1,SIC Mulher
 			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",SIC Mulher 
 
@@ -314,6 +321,7 @@
 
 #EXTINF:-1,[B][COLOR yellow]<== Desporto ==>[/COLOR][/B]
 	http://0.0.0.0:1234
+	
 		#EXTINF:-1,SPORT TV 1
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/fj71ik/SPORT_TV_1_PORTUGAL.png" group-title="Desporto",SPORT TV 1
 
@@ -503,8 +511,8 @@
 
 		#EXTINF:-1,Canal Panda
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/grpYUQ/PANDA.png" group-title="Infantil",Canal Panda
-				http://144.217.76.96:8003/live/carlos/carlos/884.ts
 
+			
 		#EXTINF:-1,Panda Biggs
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",Panda Biggs
 
@@ -548,7 +556,7 @@
 				
 
 #EXTINF:-1,[B][COLOR yellow]<== Filmes e Series ==>[/COLOR][/B]
-
+	http://0.0.0.0:1234
 
 		#EXTINF:-1,TVCine 1
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TVCine 1
@@ -621,8 +629,13 @@
 		#EXTINF:-1,Syfy
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Syfy
 
+			
+		#EXTINF:-1,AMG
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",AMG
+				rtmp://cp212391.live.edgefcs.net/live/T02027-amgtv@120244
 
 
+			
 #EXTINF:-1,[B][COLOR yellow]<== Musica ==>[/COLOR][/B]
 	http://0.0.0.0:1234
 	
@@ -694,9 +707,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Musica",Eska Best Music TV
 
 			
-		#EXTINF:-1,Eska Party TV
-			#EXTINF:-1 tvg-logo="" group-title="Musica",Eska Party TV
-
+		#EXTINF:-1,Banat Tv (Romania)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iYpQUQ/Banat_Tv_Romania.jpg" group-title="Musica",Banat Tv (Romania)
+				rtmp://81.18.66.155/live/banat-tv
 			
 		#EXTINF:-1,klipkar tv (Netherlands)
 			#EXTINF:-1 tvg-logo="" group-title="Musica",klipkar tv (Netherlands)
@@ -788,7 +801,7 @@
 
 
 #EXTINF:-1,[B][COLOR yellow]<== Temáticos ==>[/COLOR][/B]
-
+	http://0.0.0.0:1234
 
 		#EXTINF:-1,DOGTV (Ingles)
 			#EXTINF:-1 tvg-logo="" group-title="Temáticos",DOGTV (Ingles)
@@ -798,9 +811,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Temáticos",TOROTV (Espanhol)
 
 
-		#EXTINF:-1,Caça e Pesca
-			#EXTINF:-1 tvg-logo="" group-title="Temáticos",Caça e Pesca
-
+		#EXTINF:-1,Der aktionaer tv (Alemao) (Economico)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dUv98k/Der_aktionaer_tv_Alemao_Economico.jpg" group-title="Temáticos",Der aktionaer tv (Alemao) (Economico)
+				rtmp://fms.daf.tmt.de:1935/live/dafstream
 
 		#EXTINF:-1,NASA TV PUBLIC (Ingles)
 			#EXTINF:-1 tvg-logo="" group-title="Temáticos" tvg-id="n/a" tvg-logo="https://image.ibb.co/fTumYk/NASA_TV_PUBLIC.jpg",NASA TV PUBLIC (Ingles)
@@ -812,6 +825,10 @@
 		#EXTINF:-1,World Fashion Channel (Russo) (Moda)
 			#EXTINF:-1 tvg-logo="" group-title="Temáticos",World Fashion Channel (Russo) (Moda)
 				http://win.cdn.bonus-tv.ru/TVB8/wfhd/playlist.m3u8
+
+		#EXTINF:-1,tbtyp (Turismo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fUnNB5/tbtyp_Turismo.jpg" group-title="Temáticos",tbtyp (Turismo)
+				rtmp://planetaonline.cdnvideo.ru/rr/channel_2
 
 
 
@@ -826,14 +843,20 @@
 #EXTINF:-1,[B][COLOR yellow]<== Shopping TV ==>[/COLOR][/B]
 	http://0.0.0.0:1234
 
-		#EXTINF:-1,Jewelry TV
-			#EXTINF:-1 tvg-logo="" group-title="Shopping TV",Jewelry TV
-
+		#EXTINF:-1,Ayoub Gallery (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/byyfeQ/Ayoub_Gallery_Brasil.jpg" group-title="Shopping TV",Ayoub Gallery (Brasil)
+				rtmp://srvvenus.canaldoboi.com/liveac/livestream
+			
 		#EXTINF:-1,BUY HOME TV (Russia)
 			#EXTINF:-1 tvg-logo="" group-title="Shopping TV",BUY HOME TV (Russo)
 				http://94.228.201.117:8000/play/a00a?m3u8
 
+		#EXTINF:-1,Canal do Boi (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bNNgKQ/Canal_do_Boi_Brasil.png" group-title="Shopping TV",Canal do Boi (Brasil)
+				rtmp://srvvenus.canaldoboi.com/livecb/livestream
 
+
+				
 #EXTINF:-1,[B][COLOR yellow]<== Religioso ==>[/COLOR][/B]
 	http://0.0.0.0:1234
 
@@ -855,12 +878,27 @@
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",CANÇÃO NOVA (Brasil) (Alternativa)
 				http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
 				
-			
 		#EXTINF:-1,Enlace Dominicano TV
-			#EXTINF:-1 tvg-logo="" group-title="Musica",Enlace Dominicano TV
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",Enlace Dominicano TV
 				rtmp://cm.hostlagarto.com:1935/tumusicahd/tumusicaHD.myStream
 
+		#EXTINF:-1,Novo Canal (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kjyc9Q/Novo_Canal_Brasil.jpg" group-title="Religioso",Novo Canal (Brasil)
+				http://media01.s12.com.br:1935/live/redegospel/Rede_Gospel.m3u8
 
+		#EXTINF:-1,logos tv (Espanha)
+			#EXTINF:-1 group-title="Religioso" tvg-id="" "tvg-logo="https://image.ibb.co/dksR3k/logos_tv_espa_a.jpg",logos tv (Espanha)
+				rtmp://streamer1.streamhost.org/salive/GMIalfam
+
+		#EXTINF:-1,4E TV (Greek) (Orthodox)
+			#EXTINF:-1 group-title="Religioso" tvg-id="" "tvg-logo="https://image.ibb.co/eZ329Q/4_E_TV_Greek_Orthodox.jpg",logos tv (Espanha)
+				rtmp://82.192.84.30:1935/live/myStream.sdp
+
+		#EXTINF:-1,Alfa Omega TV (Romanian) (Christian)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ccpEOk/Alfa_Omega_TV_Romanian_Christian.png" group-title="Religioso",Alfa Omega TV (Romanian) (Christian)
+				rtmp://s5.alfaomega.tv/alfaomega/alfaomega2.sdp
+
+				
 
 #EXTINF:-1,[B][COLOR yellow]<== Podcasts ==>[/COLOR][/B]
 
@@ -899,14 +937,12 @@
 			
 
 			
-0000000000000000000000000000000000000000000000000000000000000000000000000000000
-			
-#EXTINF:-1,[B][COLOR yellow]<== Afghanistan ==>[/COLOR][/B]
+#EXTINF:-1,[B][COLOR yellow]<== Africa ==>[/COLOR][/B]
 
 
-		#EXTINF:-1,Eri TV
-			#EXTINF:-1 tvg-logo="" group-title="Afghanistan",
-
+		#EXTINF:-1,CNA-SAT(Nord Africaine)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cOpNuQ/CNA_SAT_Nord_Africaine.jpg" group-title="Africa",CNA-SAT(Nord Africaine)
+				rtmp://str81.creacast.com:80/cna/live.sdp
 			
 
 		
@@ -934,6 +970,14 @@
 			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha",Family TV (Alemao)
 				http://cdn.soft-media.ru:1935/rtp-stream/familytv/chunklist.m3u8
 
+ 		#EXTINF:-1,BLK Regional TV (Germany)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jMsLUQ/BLK_Regional_TV_Germany.png" tvg-id="" tvg-name=" group-title="Alemanha",BLK Regional TV (Germany)
+				rtmp://62.113.210.250/medienasa-live/BLKonline_high
+
+ 		#EXTINF:-1,BW FAMİLY TV (Germany)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/k4Ne65/BW_FAM_LY_TV_Alemao.png" tvg-id="" tvg-name=" group-title="Alemanha",BW FAMİLY TV (Germany)
+				rtmp://live.bwfamily.tv:1935/rtplive/vlc.sdp
+
  
  
 #EXTINF:-1,[B][COLOR yellow]<== Austria ==>[/COLOR][/B]
@@ -951,6 +995,15 @@
 		#EXTINF:-1,Sputnik (arménio)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/kqDaUQ/Sputnik.png" group-title="Armenia",Sputnik (arménio)
 				http://hls.goodgame.ru/hls/33226.m3u8?version=2
+
+
+		
+#EXTINF:-1,[B][COLOR yellow]<== BOLIVIA ==>[/COLOR][/B]
+	
+
+		#EXTINF:-1, (BOLIVIA)
+			#EXTINF:-1 tvg-logo="" group-title="Armenia", (BOLIVIA)
+				
 
 
 		
@@ -997,10 +1050,14 @@
 			#EXTINF:-1 tvg-logo="" group-title="Brasil",SBT (Brasil)
 				http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8
 				
+		#EXTINF:-1,Pocos Tv (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iXK3G5/Pocos_Tv_Brasil.png" group-title="Brasil",Pocos Tv (Brasil)
+				rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
+				
 
 
 #EXTINF:-1,[B][COLOR yellow]<== Bulgaria ==>[/COLOR][/B]
-
+	http://0.0.0.0:1234
 
 		#EXTINF:-1,Travel TV
 			#EXTINF:-1 tvg-logo="" group-title="Bulgaria",Travel TV
@@ -1024,33 +1081,37 @@
 
 
 
-#EXTINF:-1,[B][COLOR yellow]<== Eslovênia ==>[/COLOR][/B]
+#EXTINF:-1,[B][COLOR yellow]<== Eslováquia ==>[/COLOR][/B]
+	http://0.0.0.0:1234
 
-
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Eslovênia",
-
+		#EXTINF:-1,BARDEJOV TV (Slovakia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mJt8ik/BARDEJOV_TV_Slovakia.jpg" group-title="Eslováquia",BARDEJOV TV (Slovakia)
+				rtmp://s1.media-planet.sk:80/live/bardejov1
 			
 			
 
 #EXTINF:-1,[B][COLOR yellow]<== Espanha ==>[/COLOR][/B]
-
+	http://0.0.0.0:1234
 
 		#EXTINF:-1,ATRESERIES TV HD (Espanhol)
-			#EXTINF:-1 tvg-logo="" group-title="Eslovênia",ATRESERIES TV HD (Espanhol)
+			#EXTINF:-1 tvg-logo="" group-title="Espanha",ATRESERIES TV HD (Espanhol)
 				http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
 		
 		#EXTINF:-1,RTP Asturias (Espanha)
-			#EXTINF:-0 group-title="TDT" tvg-logo="RTP Asturias.jpg",RTP Asturias (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="",RTP Asturias (Espanha)
 				http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 	
 		#EXTINF:-1,MEGA (Espanha)
-			#EXTINF:-0 group-title="TDT" tvg-logo="RTP Asturias.jpg",MEGA (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="",MEGA (Espanha)
 				http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
 
 		#EXTINF:-1,LA SEXTA (Espanha)
-			#EXTINF:-0 group-title="TDT" tvg-logo="RTP Asturias.jpg",LA SEXTA (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="",LA SEXTA (Espanha)
 				http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
+			
+		#EXTINF:-1,Huesca TV (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="",Huesca TV (Espanha)
+				https://image.ibb.co/ifGVUQ/Huesca_TV_Espanha.jpg
 			
 			
 				
@@ -1088,7 +1149,7 @@
 				http://185.96.177.181:7003/3?m3u8
 
 		#EXTINF:-1,Balti TV (Balti)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kPUaR5/NTV_Moldova.jpg" group-title="Moldova",Balti TV (Balti)
+			#EXTINF:-1 tvg-logo="" group-title="Moldova",Balti TV (Balti)
 				http://77.89.199.174:81/hls/live2.m3u8
 
 				
@@ -1125,6 +1186,8 @@
 		#EXTINF:-1,mostvideo.tv (Russo)
 			#EXTINF:-1 tvg-logo="" group-title="Russia",mostvideo.tv (Russo)
 				rtmp://wow.mostvideo.tv/tv/ch1
+			#EXTINF:-1 tvg-logo="" group-title="Russia",mostvideo.tv (Russo) (Alternativa)
+				 http://wow.stib.com.ua:1935/tv/ch1/playlist_b125000.m3u8
 
 		#EXTINF:-1,nsktv (Russo)
 			#EXTINF:-1 tvg-logo="" group-title="Russia",nsktv (Russo)
@@ -1191,7 +1254,12 @@
 				rtmp://217.114.181.70/livepkgr/_definst_/tv3new.flv
 
 		#EXTINF:-1,TV Tsentr (Russo)
-				 http://185.192.251.80:80/tvc-p212/smil:tvc.smil/playlist.m3u8?streamType=live
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/faNNb5/TV_Tsentr.png" group-title="Russia",TV Tsentr (Russo)
+				http://185.192.251.80:80/tvc-p212/smil:tvc.smil/playlist.m3u8?streamType=live
+
+		#EXTINF:-1,Mix (Russo)
+			#EXTINF:-1 tvg-logo="" group-title="Russia",Mix (Russo)
+				rtmp://tv-mix.ru/live/Stream1
 
 				
 
@@ -1216,11 +1284,11 @@
 	http://0.0.0.0:1234
 
 		#EXTINF:-1,Bounce TV
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/b5OAdk/Miami_TV.png" group-title="USA",Bounce TV
+			#EXTINF:-1 tvg-logo="" group-title="USA",Bounce TV
 				http://bcoveliveios-i.akamaihd.net/hls/live/217434-b/3083279840001/master.m3u8
 
 		#EXTINF:-1,Miami TV (English)
-			#EXTINF:-1 tvg-logo="" group-title="USA",Miami TV (English)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/b5OAdk/Miami_TV.png" group-title="USA",Miami TV (English)
 				http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
 
@@ -1297,35 +1365,35 @@
 	http://0.0.0.0:1234
 
 		#EXTINF:-1,PRAIA DE CARCAVELOS
-			#EXTINF:-1, tvg-logo="" group-title="PRAIAS DE PORTUGAL" PRAIA DE CARCAVELOS 
+			#EXTINF:-1, tvg-logo="" group-title="PRAIAS DE PORTUGAL", PRAIA DE CARCAVELOS 
 				rtmp://213.13.26.43/live playpath=carcavelos.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/N1ZOaY48idM6hNTjL7qC/mov/24&autoStart=1&showlogo=false&showShare=false
 		
 		#EXTINF:-1,PRAIA DA LUZ - ALGARVE
-			#EXTINF:-1, tvg-logo="" group-title="PRAIAS DE PORTUGAL" PRAIA DA LUZ - ALGARVE 
+			#EXTINF:-1, tvg-logo="" group-title="PRAIAS DE PORTUGAL", PRAIA DA LUZ - ALGARVE 
 				rtmp://213.13.26.43/live playpath=luz.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/TH7M3zfHJ32rqRpZnV2l/mov/24&autoStart=1&showlogo=false&showShare=false&live=rtmp://{$hostname}/live/luz.stream
 		
 		#EXTINF:-1,DUNA BEACH
-			#EXTINF:-1, tvg-logo="" group-title="PRAIAS DE PORTUGAL" DUNA BEACH 
+			#EXTINF:-1, tvg-logo="" group-title="PRAIAS DE PORTUGAL", DUNA BEACH 
 				rtmp://213.13.26.43/live playpath=meiapraia.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/zaAQDbEMWBsCP0TZAubG/mov/24&autoStart=1
 
 		#EXTINF:-1,PRAIA COSTA DE CAPARICA
-			#EXTINF:-1, tvg-logo="" group-title="PRAIAS DE PORTUGAL" PRAIA COSTA DE CAPARICA 
+			#EXTINF:-1, tvg-logo="" group-title="PRAIAS DE PORTUGAL", PRAIA COSTA DE CAPARICA 
 				rtmp://213.13.26.13/live playpath=costa.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/mQFYGs9wRn2H30nvzQbd/mov/24&autoStart=1&showlogo=false&showShare=false
 
 		#EXTINF:-1,PRAIA DO GUINCHO DO SUL
-			#EXTINF:-1, tvg-logo="" group-title="PRAIAS DE PORTUGAL" PRAIA DO GUINCHO DO SUL
+			#EXTINF:-1, tvg-logo="" group-title="PRAIAS DE PORTUGAL", PRAIA DO GUINCHO DO SUL
 				rtmp://213.13.26.41/live playpath=guincho.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/lhla7bAtgyT97RZYZrER/mov/24&autoStart=1&showlogo=false&showShare=false
 
 		#EXTINF:-1,PRAIA MATOSINHOS
-			#EXTINF:-1, tvg-logo="" group-title="PRAIAS DE PORTUGAL" PRAIA MATOSINHOS 
+			#EXTINF:-1, tvg-logo="" group-title="PRAIAS DE PORTUGAL", PRAIA MATOSINHOS 
 				rtmp://213.13.26.13/live playpath=matosinhos.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/es8j5Fy9uPz4IHG0jDsb/mov/24&autoStart=1&showlogo=false&showShare=false
 
 		#EXTINF:-1,FONTE DA TELHA
-			#EXTINF:-1, tvg-logo="" group-title="PRAIAS DE PORTUGAL" FONTE DA TELHA
+			#EXTINF:-1, tvg-logo="" group-title="PRAIAS DE PORTUGAL", FONTE DA TELHA
 				rtmp://213.13.26.13/live playpath=fontetelha.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/QLSeZzJddnWp7KSNs63n/mov/24&relatedVideos=none&autoStart=1
 
 		#EXTINF:-1,VILAMOURA
-			#EXTINF:-1, tvg-logo="" group-title="PRAIAS DE PORTUGAL" VILAMOURA
+			#EXTINF:-1, tvg-logo="" group-title="PRAIAS DE PORTUGAL", VILAMOURA
 				rtmp://213.13.26.43/live playpath=vilamoura.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/Pfow3TrYaVCoyND8bjGL/mov/24&autoStart=1
 
 
@@ -1337,75 +1405,75 @@
 	http://0.0.0.0:1234
 
 		#EXTINF:-1,Mais Kizomba
-			#EXTINF:-1, tvg-logo="" group-title="RADIOS PORTUGUESAS" Mais Kizomba
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS PORTUGUESAS", Mais Kizomba
 
 
 		#EXTINF:-1,RFM CLUBBING
-			#EXTINF:-1, tvg-logo="" group-title="RADIOS PORTUGUESAS" RFM CLUBBING
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS PORTUGUESAS", RFM CLUBBING
 
 
 		#EXTINF:-1,M80
-			#EXTINF:-1, tvg-logo="" group-title="RADIOS PORTUGUESAS" M80
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS PORTUGUESAS", M80
 
 
 		#EXTINF:-1,NOVA ERA
-			#EXTINF:-1, tvg-logo="" group-title="RADIOS PORTUGUESAS" NOVA ERA
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS PORTUGUESAS", NOVA ERA
 				http://stream.radio.com.pt:9478/stream
 
 		#EXTINF:-1,94 FM
-			#EXTINF:-1, tvg-logo="" group-title="RADIOS PORTUGUESAS" 94 FM
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS PORTUGUESAS", 94 FM
 
 			
 		#EXTINF:-1,SUPER FM
-			#EXTINF:-1, tvg-logo="" group-title="RADIOS PORTUGUESAS" SUPER FM
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS PORTUGUESAS", SUPER FM
 				http://94.23.76.235:9956/
 
 		#EXTINF:-1,HIPER FM
-			#EXTINF:-1, tvg-logo="" group-title="RADIOS PORTUGUESAS" HIPER FM
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS PORTUGUESAS", HIPER FM
 				http://85.25.73.243:10460/
 
 		#EXTINF:-1,Radio Antena 1
-			#EXTINF:0, tvg-logo="" group-title="RADIOS PORTUGUESAS" Radio Antena 1
+			#EXTINF:0, tvg-logo="" group-title="RADIOS PORTUGUESAS", Radio Antena 1
 
 
 		#EXTINF:-1,Radio Antena 2
-			#EXTINF:0, tvg-logo="" group-title="RADIOS PORTUGUESAS" Radio Antena 2
+			#EXTINF:0, tvg-logo="" group-title="RADIOS PORTUGUESAS", Radio Antena 2
 
 		
 		#EXTINF:-1,Radio Antena 3
-			#EXTINF:0, tvg-logo="" group-title="RADIOS PORTUGUESAS" Radio Antena 3
+			#EXTINF:0, tvg-logo="" group-title="RADIOS PORTUGUESAS", Radio Antena 3
 
 			 
 		#EXTINF:-1,Radio Comercial
-			#EXTINF:0, tvg-logo="" group-title="RADIOS PORTUGUESAS" Radio Comercial
+			#EXTINF:0, tvg-logo="" group-title="RADIOS PORTUGUESAS", Radio Comercial
 
 			 
 		#EXTINF:-1,Radio RFM
-			#EXTINF:0, tvg-logo="" group-title="RADIOS PORTUGUESAS" Radio RFM
+			#EXTINF:0, tvg-logo="" group-title="RADIOS PORTUGUESAS", Radio RFM
 
 
 		#EXTINF:-1,Radio Orbital
-			#EXTINF:0, tvg-logo="" group-title="RADIOS PORTUGUESAS" Radio Orbital
+			#EXTINF:0, tvg-logo="" group-title="RADIOS PORTUGUESAS", Radio Orbital
 
 			 
 		#EXTINF:-1,Radio Cidade FM
-			#EXTINF:0, tvg-logo="" group-title="RADIOS PORTUGUESAS" Radio Cidade FM
+			#EXTINF:0, tvg-logo="" group-title="RADIOS PORTUGUESAS", Radio Cidade FM
 
 		
 		#EXTINF:-1,Radio Renascença
-			#EXTINF:0, tvg-logo="" group-title="RADIOS PORTUGUESAS" Radio Renascença
+			#EXTINF:0, tvg-logo="" group-title="RADIOS PORTUGUESAS", Radio Renascença
 
 			 
 		#EXTINF:-1,Radio MegaFM
-			#EXTINF:0, tvg-logo="" group-title="RADIOS PORTUGUESAS" Radio MegaFM
+			#EXTINF:0, tvg-logo="" group-title="RADIOS PORTUGUESAS", Radio MegaFM
 
 			 
 		#EXTINF:-1,Radio TSF
-			#EXTINF:0, tvg-logo="" group-title="RADIOS PORTUGUESAS" Radio TSF
+			#EXTINF:0, tvg-logo="" group-title="RADIOS PORTUGUESAS", Radio TSF
 
 
 		#EXTINF:-1,Radio Vodafone FM
-			#EXTINF:0, tvg-logo="" group-title="RADIOS PORTUGUESAS" Radio Vodafone FM
+			#EXTINF:0, tvg-logo="" group-title="RADIOS PORTUGUESAS", Radio Vodafone FM
 
 
 		
