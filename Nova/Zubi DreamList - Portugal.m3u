@@ -1,6 +1,5 @@
 ﻿#EXTM3U
-	#EXTINF:-1,Zubi DreamList V_0.36 19/09/2017
-		#EXTSIZE: Big
+	#EXTINF:-1,Zubi DreamList V_0.37 20/09/2017
 			http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
@@ -185,7 +184,11 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/ebXWjQ/WGN_9_NEWS.png" group-title="Informacao",WGN-TV, virtual channel 9 (Ingles)
 				http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 
-
+		#EXTINF:-1,WGN-TV, KONTRA TV (Greek)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hQmG4Q/KONTRA_TV_Greek.jpg" group-title="Informacao",WGN-TV, KONTRA TV (Greek)
+				rtmp://flashcloud.mediacdn.com/live/kontratv
+			
+			
 
 #EXTINF:-1,[B][COLOR yellow]<== Entretenimento ==>[/COLOR][/B]
 	http://0.0.0.0:1234
@@ -306,13 +309,13 @@
 			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",TV Record HD
 
 
-		#EXTINF:-1,Canal 180 SD
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",Canal 180 SD
+		#EXTINF:-1,Canal 180 
+			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",Canal 180 
 
 
-		#EXTINF:-1,Canal 180 HD
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",Canal 180 HD
-
+		#EXTINF:-1,LİFESTYLE TV (Danish)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/b3S64Q/L_FESTYLE_TV_Danish.png" group-title="Entretenimento",LİFESTYLE TV (Danish)
+				rtmp://stream1.lifestyletv.se/live/livestream2
 
 		#EXTINF:-1,RTP Arena eSports
 			#EXTINF:-1 group-title="Entretenimento" tvg-id="n/a" tvg-logo="https://image.ibb.co/gx9Ltk/RTP_Arena_e_Sports.png",RTP Arena eSports
@@ -703,9 +706,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Musica",Dream TV
 
 
-		#EXTINF:-1,Eska Best Music TV
-			#EXTINF:-1 tvg-logo="" group-title="Musica",Eska Best Music TV
-
+		#EXTINF:-1,Monte Carlo TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eovCB5/MONTECARLO_MUS_C.jpg" group-title="Musica",Monte Carlo TV
+				rtmp://fms.105.net/live/rmc1
 			
 		#EXTINF:-1,Banat Tv (Romania)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/iYpQUQ/Banat_Tv_Romania.jpg" group-title="Musica",Banat Tv (Romania)
@@ -953,6 +956,10 @@
 			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemao",shqiptare (Albanian)
 				rtmp://vip.alpha-one.net:1935/static/A1Alb
  
+		#EXTINF:-1,JUG TV (Albanian)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/f3KEr5/JUG_TV_Albanian.png" tvg-id="" tvg-name=" group-title="Alemao",JUG TV (Albanian)
+				rtmp://84.20.77.50/live/livestream1
+ 
  
  
 #EXTINF:-1,[B][COLOR yellow]<== Alemanha ==>[/COLOR][/B]
@@ -977,6 +984,18 @@
  		#EXTINF:-1,BW FAMİLY TV (Germany)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/k4Ne65/BW_FAM_LY_TV_Alemao.png" tvg-id="" tvg-name=" group-title="Alemanha",BW FAMİLY TV (Germany)
 				rtmp://live.bwfamily.tv:1935/rtplive/vlc.sdp
+
+ 		#EXTINF:-1,Elbekanal Schönebeck (Germany)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/g0vyJk/Elbekanal_Sch_nebeck_Germany.jpg" tvg-id="" tvg-name=" group-title="Alemanha",Elbekanal Schönebeck (Germany)
+				rtmp://62.113.210.250/medienasa-live/elbe_high
+
+ 		#EXTINF:-1,FİLSTALWELLE (Germany)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nOyJJk/F_LSTALWELLE_German.png" tvg-id="" tvg-name=" group-title="Alemanha",FİLSTALWELLE (Germany)
+				rtmp://62.113.210.27/filstalwelle-live/livestream
+
+ 		#EXTINF:-1,HALLE TV (Germany)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/comKr5/HALLE_TV_Germany.png" tvg-id="" tvg-name=" group-title="Alemanha",HALLE TV (Germany)
+				rtmp://62.113.210.250/medienasa-live/tvhalle_high
 
  
  
@@ -1176,6 +1195,15 @@
 
 
 
+#EXTINF:-1,[B][COLOR yellow]<== Republica Checa ==>[/COLOR][/B]
+	http://0.0.0.0:1234
+	
+		#EXTINF:-1,Elektrika TV (Czech)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/g7FFyk/Elektrika_TV_Czech.gif" group-title="Republica Checa",Elektrika TV (Czech)
+				http://live.tvtomsk.ru/hls/RT-24.m3u8
+
+				
+				
 #EXTINF:-1,[B][COLOR yellow]<== Russia ==>[/COLOR][/B]
 	http://0.0.0.0:1234
 	
