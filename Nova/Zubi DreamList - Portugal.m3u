@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-	#EXTINF:-1,Zubi DreamList V_0.38
+	#EXTINF:-1,Zubi DreamList V_0.39
 			http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
@@ -171,7 +171,7 @@
 		#EXTINF:-1,FOX News
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/jg9SDk/FOX_News.png" group-title="Informacao",FOX News (Ingles)
 
-
+		#EXTINF:-1,RT (Ingles)
 		#EXTINF:-1,RT (Ingles)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/kJhazQ/RT_Ingles.png" group-title="Informacao",RT (Ingles)
 				http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
@@ -202,17 +202,21 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/d4Z5zQ/Alsharqiya_News_Arabic_Iraq.jpg" group-title="Informacao",Alsharqiya News (Arabic) (Iraq)
 				rtmp://ns9.indexforce.com:1935/alsharqiyalive/mystream
 
+ 		#EXTINF:-1,Hong Kong TV (Chines)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bRJEtk/Hong_Kong_TV_Chines.gif" group-title="Informacao",Hong Kong TV (Chines)
+				http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8
+			
 			
 
 #EXTINF:-1,[B][COLOR yellow]<== Entretenimento ==>[/COLOR][/B]
 	http://0.0.0.0:1234
 	
 		#EXTINF:-1,SIC Mulher
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",SIC Mulher 
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hkCVYk/SIC_Mulher.png" group-title="Entretenimento",SIC Mulher 
 
 
 		#EXTINF:-1,SIC Caras
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",SIC Caras
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dxMDm5/SIC_Caras.png" group-title="Entretenimento",SIC Caras
 				http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 
 		#EXTINF:-1,SIC Radical
@@ -220,7 +224,7 @@
 
 
 		#EXTINF:-1,TVI Ficcao
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",TVI Ficcao
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mPNVYk/TVI_Ficcao.jpg" group-title="Entretenimento",TVI Ficcao
 
 
 		#EXTINF:-1,TVI Reality
@@ -228,15 +232,15 @@
 
 
 		#EXTINF:-1,Canal Q
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",Canal Q
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nbdU9Q/Canal_Q.jpg" group-title="Entretenimento",Canal Q
 
 
 		#EXTINF:-1,TV Globo
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",TV Globo
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cM5LG5/TV_Globo.jpg" group-title="Entretenimento",TV Globo
 
 
 		#EXTINF:-1,24 Kitchen
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",24 Kitchen
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bSKxw5/24_Kitchen.jpg" group-title="Entretenimento",24 Kitchen
 
 
 		#EXTINF:-1,24 Kitchen HD
@@ -862,18 +866,22 @@
 #EXTINF:-1,[B][COLOR yellow]<== Shopping TV ==>[/COLOR][/B]
 	http://0.0.0.0:1234
 
-		#EXTINF:-1,Ayoub Gallery (Brasil)
+		#EXTINF:-1,Ayoub Gallery (Brasil) (Vendas)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/byyfeQ/Ayoub_Gallery_Brasil.jpg" group-title="Shopping TV",Ayoub Gallery (Brasil)
 				rtmp://srvvenus.canaldoboi.com/liveac/livestream
 			
-		#EXTINF:-1,BUY HOME TV (Russia)
+		#EXTINF:-1,BUY HOME TV (Russia) (Vendas)
 			#EXTINF:-1 tvg-logo="" group-title="Shopping TV",BUY HOME TV (Russo)
 				http://94.228.201.117:8000/play/a00a?m3u8
 
-		#EXTINF:-1,Canal do Boi (Brasil)
+		#EXTINF:-1,Canal do Boi (Brasil) (Vendas)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/bNNgKQ/Canal_do_Boi_Brasil.png" group-title="Shopping TV",Canal do Boi (Brasil)
 				rtmp://srvvenus.canaldoboi.com/livecb/livestream
 
+ 		#EXTINF:-1,Telemilano Tele TV (Italian) (Vendas)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/b3kuB5/Telemilano_Tele_TV_Italian_Vendas.jpg" group-title="Shopping TV",Telemilano Tele TV (Italian) (Televendas)
+				http://91.121.222.160:1935/piublu/piublu.sdp/sansar.m3u8
+				
 
 				
 #EXTINF:-1,[B][COLOR yellow]<== Religioso ==>[/COLOR][/B]
@@ -975,6 +983,10 @@
  
 		#EXTINF:-1,JUG TV (Albanian)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/f3KEr5/JUG_TV_Albanian.png" tvg-id="" tvg-name=" group-title="Alemao",JUG TV (Albanian)
+				rtmp://84.20.77.50/live/livestream1
+ 
+		#EXTINF:-1,ROKUM TV (Albanian)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/neSw65/ROKUM_TV.png" group-title="Alemao",ROKUM TV (Albanian)
 				rtmp://84.20.77.50/live/livestream1
  
  
@@ -1160,21 +1172,37 @@
 			
  
 
-#EXTINF:-1,[B][COLOR yellow]<== Indonesia ==>[/COLOR][/B]
-	
+#EXTINF:-1,[B][COLOR yellow]<== Italian ==>[/COLOR][/B]
+	http://0.0.0.0:1234
 
-		#EXTINF:-1,Kompas TV
-			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Indonesia",Kompas TV
-
+		#EXTINF:-1,Alto Adige TV (Italian)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kaVfJk/Alto_Adige_TV_Italian.jpg" group-title="Italian",Alto Adige TV (Italian)
+				http://77.72.196.214:8554/live/mp4:AltoAdigeTV/sansar.m3u8
 			
- 
+		#EXTINF:-1,E TV Marche (Italian)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gZauB5/E_TV_Marche_Italian.jpg" group-title="Italian",E TV Marche (Italian)
+				http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/sansar.m3u8
+				
+		#EXTINF:-1,Trentino TV (Italian)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hmfuB5/Trentino_TV_Italian.png" group-title="Italian",Trentino TV (Italian)
+				http://77.72.196.214:8554/live/TrentinoTV/sansar.m3u8
+				
+		#EXTINF:-1,Video Brescia (Italian)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/m65QjQ/Video_Brescia_Italian.jpg" group-title="Italian",Video Brescia (Italian)
+				http://wms.shared.streamshow.it/videobrescia/videobrescia/sansar.m3u8
+				
+		#EXTINF:-1,Tele Arena (Italian)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hMszB5/Tele_Arena_Italian.jpg" group-title="Italian",Tele Arena (Italian)
+				http://wma07.fluidstream.net/TeleArena/livestream/sansar.m3u8
+				
+				
 
 #EXTINF:-1,[B][COLOR yellow]<== Kazakhstan ==>[/COLOR][/B]
+	http://0.0.0.0:1234
 
-
-		#EXTINF:-1,Kazak TV
-			#EXTINF:-1 tvg-logo="" group-title="Kazakhstan",Kazakh TV
-
+		#EXTINF:-1,Asyl Arna (Kazakhstan)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/emxSeQ/Asyl_Arna_Kazakhstan.jpg" group-title="Kazakhstan",Asyl Arna (Kazakhstan)
+				rtmp://212.154.188.10/live/v_704_768.stream
 
 
 #EXTINF:-1,[B][COLOR yellow]<== Koreia Sul ==>[/COLOR][/B]
@@ -1317,6 +1345,14 @@
 				rtmp://tv-mix.ru/live/Stream1
 
 				
+
+#EXTINF:-1,[B][COLOR yellow]<== taiwan ==>[/COLOR][/B]
+	http://0.0.0.0:1234
+
+		#EXTINF:-1,Macro-TV (taiwan)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hvz7eQ/Macro_TV_taiwan.jpg" group-title="taiwan",Macro-TV (taiwan)
+				http://mobile.ccdntech.com/live/_definst_/vod62_Live/live2/playlist.m3u8
+			
 
 #EXTINF:-1,[B][COLOR yellow]<== Umited Kingdom ==>[/COLOR][/B]
 
