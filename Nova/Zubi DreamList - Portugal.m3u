@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-	#EXTINF:-1,Zubi DreamList V_0.39
+	#EXTINF:-1,Zubi DreamList V_0.40 01/10/2017
 			http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
@@ -23,8 +23,10 @@
 		#EXTINF:-1,TVI
 			#EXTINF:-1 group-title="Generalistas"  tvg-name="tvi.pt" audio-track="pt" tvg-logo="https://image.ibb.co/gx1rG5/TVI.png",TVI
 				http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
+			#EXTINF:-1 group-title="Generalistas"  tvg-name="tvi.pt" audio-track="pt" tvg-logo="https://image.ibb.co/gx1rG5/TVI.png",TVI (Alternativa)			
+				http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 
-		#EXTINF:-1,RTP Memoria
+				#EXTINF:-1,RTP Memoria
 			#EXTINF:-1 group-title="Generalistas" tvg-logo="https://image.ibb.co/eHA7pQ/RTP_Memoria.png",RTP Memoria 
 				http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
@@ -79,7 +81,6 @@
 		#EXTINF:-1,TVI 24
 			#EXTINF:-1 group-title="Informacao" tvg-id="TVI24.pt" tvg-logo="https://image.ibb.co/g2oVtk/TVI_24.png",TVI 24 
 				http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/KodiPortugal.pt.m3u8
-
 			#EXTINF:-1 group-title="Informacao" tvg-id="TVI24.pt" tvg-logo="https://image.ibb.co/g2oVtk/TVI_24.png",TVI 24 (Alternativa)
 				http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_w1429797420_b814000.m3u8
 
@@ -171,18 +172,19 @@
 		#EXTINF:-1,FOX News
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/jg9SDk/FOX_News.png" group-title="Informacao",FOX News (Ingles)
 
-		#EXTINF:-1,RT (Ingles)
+			
 		#EXTINF:-1,RT (Ingles)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/kJhazQ/RT_Ingles.png" group-title="Informacao",RT (Ingles)
 				http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
-
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/kJhazQ/RT_Ingles.png" group-title="Informacao",RT (Ingles) (Alternativa)
 				http://213.178.34.13:4022/udp/232.0.1.44:1234
 				
 		#EXTINF:-1,ABC News (Ingles)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/i6HHr5/abc_news.png" group-title="Informacao",ABC News (Ingles)
 				http://abclive.abcnews.com/i/abc_live4@136330/index_800_av-b.m3u8
-
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/i6HHr5/abc_news.png" group-title="Informacao",ABC News (Ingles) (Alternativa)
+				http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+				
 		#EXTINF:-1,WGN-TV, virtual channel 9
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/ebXWjQ/WGN_9_NEWS.png" group-title="Informacao",WGN-TV, virtual channel 9 (Ingles)
 				http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
@@ -205,6 +207,14 @@
  		#EXTINF:-1,Hong Kong TV (Chines)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/bRJEtk/Hong_Kong_TV_Chines.gif" group-title="Informacao",Hong Kong TV (Chines)
 				http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8
+			
+ 		#EXTINF:-1,Noticias 16 Canal 16 (Republica Dominicana) (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iDTXOw/Noticias_16_Canal_16_Republica_Dominicana_Espanhol.jpg" group-title="Informacao",Noticias 16 Canal 16 (Republica Dominicana) (Espanhol)
+				http://mek2.mekstream.com:1935/noticias16/live2/playlist.m3u8
+			
+ 		#EXTINF:-1,BBC Arabia (Arabia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cOOVbG/BBC_Arabia.jpg" group-title="Informacao",BBC Arabia (Arabia)
+				http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 			
 			
 
@@ -431,9 +441,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",CBC SPORT (Ingles)
 
 
-		#EXTINF:-1,Kombat Sport
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Kombat Sport
-
+		#EXTINF:-1,TRT 3 (Turco)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/c2UTfb/TRT_3_Turco.png" group-title="Desporto",TRT 3 (Turco)
+				http://sol.trtcdn.com/tv/trtspor/trtspor_3/radyodelisi.m3u8
 
 		#EXTINF:-1,A Bola TV
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/bCaF9Q/A_BOLA_TV.png" group-title="Desporto",A Bola TV
@@ -853,6 +863,10 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/fUnNB5/tbtyp_Turismo.jpg" group-title="Temáticos",tbtyp (Turismo)
 				rtmp://planetaonline.cdnvideo.ru/rr/channel_2
 
+		#EXTINF:-1,University of California TV (Educação)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/n6UiVb/University_of_California_TV_Educa_o.png" group-title="Temáticos",University of California TV (Educação)
+				rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800 
+
 
 
 #EXTINF:-1,[B][COLOR yellow]<== Regionais ==>[/COLOR][/B]
@@ -926,6 +940,10 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/ccpEOk/Alfa_Omega_TV_Romanian_Christian.png" group-title="Religioso",Alfa Omega TV (Romanian) (Christian)
 				rtmp://s5.alfaomega.tv/alfaomega/alfaomega2.sdp
 
+		#EXTINF:-1,CBS (Koreia Sul) (Christian)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cC5Br5/CBS_Koreia_Sul_Christian.png" group-title="Religioso",CBS (Koreia Sul) (Christian)
+				rtmp://cbs-live.gscdn.com/cbs-live/cbs-live.stream
+				
 				
 
 #EXTINF:-1,[B][COLOR yellow]<== Podcasts ==>[/COLOR][/B]
@@ -957,8 +975,8 @@
 
 		#EXTINF:-1,studio 66 tv
 			#EXTINF:-1 group-title="Adulto" tvg-logo="penhousetv.jpg",studio 66 tv
-				rtsp://ovh8.firestormmedia.tv:1935/studio66tv/studio66tv_channel11
-
+				
+				
 		#EXTINF:-1,xxx 1
 			#EXTINF:-1 tvg-logo="" group-title="Adulto",xxx 1
 				 http://publish.thewebstream.co:1935/rlc/_definst_/livestream1/playlist.m3u8
@@ -1055,6 +1073,15 @@
 
 
 		
+#EXTINF:-1,[B][COLOR yellow]<== Belgica ==>[/COLOR][/B]
+	http://0.0.0.0:1234
+	
+		#EXTINF:-1,AC TV (Belgica)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gbKfRG/AC_TV_Belgica.jpg" group-title="Belgica",AC TV (Belgica)
+				http://vm109.imust.org:1935/live/livestream/playlist.m3u8?wowzasessionid=1212295388
+				
+				
+				
 #EXTINF:-1,[B][COLOR yellow]<== Brasil ==>[/COLOR][/B]
 	http://0.0.0.0:1234
 	
@@ -1111,6 +1138,10 @@
 			#EXTINF:-1 tvg-logo="" group-title="Bulgaria",Travel TV
 				http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Bulgaria",
+				
+
 
 
 #EXTINF:-1,[B][COLOR yellow]<== Canadian TV ==>[/COLOR][/B]
@@ -1152,14 +1183,20 @@
 		#EXTINF:-1,MEGA (Espanha)
 			#EXTINF:-0 group-title="Espanha" tvg-logo="",MEGA (Espanha)
 				http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
-
+			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/h9ctDw/MEGA_TV_Espanha_Alternativa.jpg",MEGA (Espanha) (Alternativa)
+				http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-p.m3u8
+				
 		#EXTINF:-1,LA SEXTA (Espanha)
-			#EXTINF:-0 group-title="Espanha" tvg-logo="",LA SEXTA (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/h9ctDw/MEGA_TV_Espanha_Alternativa.jpg",LA SEXTA (Espanha)
 				http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
-			
+				
 		#EXTINF:-1,Huesca TV (Espanha)
-			#EXTINF:-0 group-title="Espanha" tvg-logo="",Huesca TV (Espanha)
-				https://image.ibb.co/ifGVUQ/Huesca_TV_Espanha.jpg
+			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/ifGVUQ/Huesca_TV_Espanha.jpg",Huesca TV (Espanha)
+
+			
+		#EXTINF:-1,Antena 3 HD (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/dcstDw/Antena_3_HD.png",Antena 3 HD (Espanha)
+				http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 			
 			
 				
@@ -1212,6 +1249,14 @@
 			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.ibb.co/kcKTDk/Arirang.jpg" group-title="Koreia Sul",Arirang
 				http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
+		#EXTINF:-1,TV Chosun
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hYu5Ab/TV_Chosun.jpg" group-title="Koreia Sul",TV Chosun
+				rtmp://live.chosun.gscdn.com/live/tvchosun1.stream
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Koreia Sul",
+				
+
 
 
 #EXTINF:-1,[B][COLOR yellow]<== Moldova ==>[/COLOR][/B]
@@ -1228,7 +1273,7 @@
 				
 
 #EXTINF:-1,[B][COLOR yellow]<== Polonia ==>[/COLOR][/B]
-
+	http://0.0.0.0:1234
 
 		#EXTINF:-1,Sfera TV (Polonia)
 			#EXTINF:-1 tvg-logo="" group-title="Polonia",Sfera TV (Polonia)
@@ -1241,12 +1286,8 @@
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="PUERTO RICO",
-
+				
 			
-		#EXTINF:-1,RTR Moldova 
-			#EXTINF:-1 tvg-logo="" group-title="Russia",RTR Moldova
-				http://185.96.177.181:7001/8?mp4
-
 
 
 #EXTINF:-1,[B][COLOR yellow]<== Republica Checa ==>[/COLOR][/B]
@@ -1346,6 +1387,15 @@
 
 				
 
+#EXTINF:-1,[B][COLOR yellow]<== Syria ==>[/COLOR][/B]
+	http://0.0.0.0:1234
+
+		#EXTINF:-1,Syria TV (Syria)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/f9a43w/Syria_TV_Syria.jpg" group-title="Syria",Syria TV (Syria)
+				http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
+			
+			
+			
 #EXTINF:-1,[B][COLOR yellow]<== taiwan ==>[/COLOR][/B]
 	http://0.0.0.0:1234
 
@@ -1363,7 +1413,7 @@
 			
 
 #EXTINF:-1,[B][COLOR yellow]<== Ucrania ==>[/COLOR][/B]
-	
+		http://0.0.0.0:1234
 
 		#EXTINF:-1,ihtep (Ucrania)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/isTkR5/IHTEP.png" group-title="Ucrania",ihtep (Ucrania)
@@ -1386,7 +1436,11 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/b5OAdk/Miami_TV.png" group-title="USA",Miami TV (English)
 				http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
+		#EXTINF:-1,The Florida Channel 
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/keJhOw/The_Florida_Channel.jpg" group-title="USA",The Florida Channel 
+				rtmp://webcasting.thefloridachannel.org/live/tvweb1 
 
+			
 
 #EXTINF:-1,[B][COLOR yellow]<== Venezuela ==>[/COLOR][/B]
 	http://0.0.0.0:1234
