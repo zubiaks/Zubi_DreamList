@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-	#EXTINF:-1,Zubi DreamList V_0.41 02/10/2017
+	#EXTINF:-1,Zubi DreamList V_0.42 06/10/2017
 			http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
@@ -8,25 +8,28 @@
 		#EXTINF:-1,RTP 1
 			#EXTINF:-1 group-title="Generalistas" tvg-name="rtp1.pt" audio-track="pt" tvg-logo="https://image.ibb.co/n5vOUQ/RTP_1.png",RTP 1 
 				http://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
-
+			#EXTINF:-1 group-title="Generalistas" tvg-name="rtp1.pt" audio-track="pt" tvg-logo="https://image.ibb.co/n5vOUQ/RTP_1.png",RTP 1 (Alternativa)
+				
+				
 		#EXTINF:-1,RTP 2
 			#EXTINF:-1 group-title="Generalistas" tvg-name="rtp2.pt" audio-track="pt" tvg-logo="https://image.ibb.co/bX7L9Q/RTP_2.png",RTP 2 
 				http://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
-
+			#EXTINF:-1 group-title="Generalistas" tvg-name="rtp2.pt" audio-track="pt" tvg-logo="https://image.ibb.co/bX7L9Q/RTP_2.png",RTP 2 (Alternativa)
+				http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
+				
 		#EXTINF:-1,SIC
 			#EXTINF:-1 group-title="Generalistas" tvg-id="sic.pt" tvg-logo="https://image.ibb.co/mGcbik/SIC.png",SIC 
 				http://live.impresa.pt/live/sic/sic540p.m3u8
-
-			#EXTINF:-1 group-title="Generalistas" tvg-id="sic.pt" tvg-logo="https://image.ibb.co/mGcbik/SIC.png",SIC (Alternativa)
-				http://live.impresa.pt/live/sic/sic.m3u8
+			#EXTINF:-1 group-title="Generalistas" tvg-id="sic.pt" tvg-logo="https://image.ibb.co/mGcbik/SIC.png",SIC (Alternativa)	
+				http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/playlist.m3u8
 
 		#EXTINF:-1,TVI
 			#EXTINF:-1 group-title="Generalistas"  tvg-name="tvi.pt" audio-track="pt" tvg-logo="https://image.ibb.co/gx1rG5/TVI.png",TVI
 				http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
-			#EXTINF:-1 group-title="Generalistas"  tvg-name="tvi.pt" audio-track="pt" tvg-logo="https://image.ibb.co/gx1rG5/TVI.png",TVI (Alternativa)			
-				http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+			#EXTINF:-1 group-title="Generalistas"  tvg-name="tvi.pt" audio-track="pt" tvg-logo="https://image.ibb.co/gx1rG5/TVI.png",TVI (Alternativa)
+				http://noscdn1.connectedviews.com:1935/live/smil:tvi.smil/playlist.m3u8
 
-				#EXTINF:-1,RTP Memoria
+#EXTINF:-1,RTP Memoria
 			#EXTINF:-1 group-title="Generalistas" tvg-logo="https://image.ibb.co/eHA7pQ/RTP_Memoria.png",RTP Memoria 
 				http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
@@ -180,6 +183,10 @@
 				http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/kJhazQ/RT_Ingles.png" group-title="Informacao",RT (Ingles) (Alternativa)
 				http://213.178.34.13:4022/udp/232.0.1.44:1234
+
+		#EXTINF:-1,RT (Español)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/m9b15b/RT_Espa_ol.png" group-title="Informacao",RT (Español)
+				http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8?wowzasessionid=1670421395
 				
 		#EXTINF:-1,ABC News (Ingles)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/i6HHr5/abc_news.png" group-title="Informacao",ABC News (Ingles)
@@ -221,7 +228,11 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/c2UTfb/TRT_3_Turco.png" group-title="Informacao",Al-hurra (Iraq)
 				http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
-				
+		#EXTINF:-1,BLOOMBERG News (News) (English)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hUiAyw/BLOOMBERG_News_News_English.png" group-title="Informacao",BLOOMBERG News (News) (English)
+				http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+
+
 
 #EXTINF:-1,[B][COLOR yellow]<== Entretenimento ==>[/COLOR][/B]
 	http://0.0.0.0:1234
@@ -446,9 +457,9 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/bzaVTw/Al_hurra_Iraq.png" group-title="Desporto",CBC SPORT (Ingles)
 
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",
-				
+		#EXTINF:-1,Marca TV (Espanha) (SD) (sports)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/f368kb/Marca_TV_Espanha_SD_sports.png" group-title="Desporto",Marca TV (Espanha) (SD) (sports)
+				http://universalhdlive.marca.com/i/dr11_1@100199/index_1_av-p.m3u8
 			
 		#EXTINF:-1,A Bola TV
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/bCaF9Q/A_BOLA_TV.png" group-title="Desporto",A Bola TV
@@ -589,7 +600,11 @@
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",Boomerang
 				
 
-				
+		#EXTINF:-1,anime TV (Latino)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gGg15b/anime_TV_Latino.jpg" group-title="Infantil",anime TV (Latino)
+				http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+			
 
 #EXTINF:-1,[B][COLOR yellow]<== Filmes e Series ==>[/COLOR][/B]
 	http://0.0.0.0:1234
@@ -622,9 +637,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Cinemundo
 
 
-		#EXTINF:-1,Cinemundo HD
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Cinemundo HD
-
+		#EXTINF:-1,Akudji HD (movies) (russian)
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Akudji HD (movies) (russian)
+				http://stream1.cybergame.tv:8080/live1/akudji.m3u8
 
 		#EXTINF:-1,Fox Movies
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Fox Movies
@@ -711,9 +726,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Musica",TV POP
 				http://v3.tustreaming.cl/tvpop/live1/index.m3u8
 
-		#EXTINF:-1,C Music
-			#EXTINF:-1 tvg-logo="" group-title="Musica",C Music (Ingles)
-
+		#EXTINF:-1,Planeta Online TV (Bulgarian) (music)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cUGcTw/Planeta_Online_TV_Bulgarian_music.png" group-title="Musica",Planeta Online TV (Bulgarian) (music)
+				http://wse.planeta-online.tv:1935/live/channel_4/chunklist_w339624486.m3u8
 
 		#EXTINF:-1,MEZZO
 			#EXTINF:-1 tvg-logo="" group-title="Musica",MEZZO (Frances)
@@ -735,9 +750,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Musica",Capital TV (UK)
 				http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
-		#EXTINF:-1,Dream TV
-			#EXTINF:-1 tvg-logo="" group-title="Musica",Dream TV
-
+		#EXTINF:-1,Muz TV (Music) (Russia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fK7zQb/Muz_TV_Music_Russia.jpg" group-title="Musica",Muz TV (Music) (Russia)
+				http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
 
 		#EXTINF:-1,Monte Carlo TV
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/eovCB5/MONTECARLO_MUS_C.jpg" group-title="Musica",Monte Carlo TV
@@ -920,14 +935,19 @@
 		#EXTINF:-1,CANÇÃO NOVA (Brasil) 
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",CANÇÃO NOVA (Brasil) 
 				http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_540_av-p.m3u8?sd=10&rebase=on
-	
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",CANÇÃO NOVA (Brasil) (Alternativa)
 				http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
 				
-		#EXTINF:-1,Enlace Dominicano TV
-			#EXTINF:-1 tvg-logo="" group-title="Religioso",Enlace Dominicano TV
+		#EXTINF:-1,Enlace Dominicano TV (Costa Rica) (Christian)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mLHWMG/Enlace_Dominicano_TV_Costa_Rica_Christian.jpg" group-title="Religioso",Enlace Dominicano TV (Costa Rica) (Christian)
 				rtmp://cm.hostlagarto.com:1935/tumusicahd/tumusicaHD.myStream
-
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mLHWMG/Enlace_Dominicano_TV_Costa_Rica_Christian.jpg" group-title="Religioso",Enlace Dominicano TV (Costa Rica) (Christian) (Alternativa)
+				http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/master.m3u8
+				 
+		#EXTINF:-1,ENLACE JUVENIL (Costa Rica) (Christian)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fLrY1G/ENLACE_JUVENIL_Costa_Rica_Christian.jpg" group-title="Religioso",ENLACE JUVENIL (Costa Rica) (Christian)
+				http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
+							
 		#EXTINF:-1,Novo Canal (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/kjyc9Q/Novo_Canal_Brasil.jpg" group-title="Religioso",Novo Canal (Brasil)
 				http://media01.s12.com.br:1935/live/redegospel/Rede_Gospel.m3u8
@@ -1064,9 +1084,13 @@
 		#EXTINF:-1,FS1
 			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Austria",FS1
 				http://stream.fs1.tv:8080/hls/webstream.m3u8
-				
- 
 
+		#EXTINF:-1,Austria 24TV (Austria)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dqSj8w/Austria_24_TV_Austria.png" tvg-id="" tvg-name=" group-title="Austria",Austria 24TV (Austria)
+				rtmp://streaming.austria24.tv/live/stream_360p
+
+
+				
 #EXTINF:-1,[B][COLOR yellow]<== Armenia ==>[/COLOR][/B]
 	http://0.0.0.0:1234
 
@@ -1140,6 +1164,14 @@
 		#EXTINF:-1,Pocos Tv (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/iXK3G5/Pocos_Tv_Brasil.png" group-title="Brasil",Pocos Tv (Brasil)
 				rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
+				
+		#EXTINF:-1,TV Brasil (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nqnZ8w/TV_Brasil_Brasil.jpg" group-title="Brasil",TV Brasil (Brasil)
+				rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
+				
+		#EXTINF:-1,ANTV – TV Andradas (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ftnbow/ANTV_TV_Andradas_Brasil.jpg" group-title="Brasil",ANTV – TV Andradas (Brasil)
+				http://caikrondatacenter.com.br:1935/tvandradas/antv.stream/live.m3u8
 				
 
 
@@ -1229,6 +1261,15 @@
 			
  
 
+#EXTINF:-1,[B][COLOR yellow]<== Holanda ==>[/COLOR][/B]
+	http://0.0.0.0:1234
+
+		#EXTINF:-1,RTV Drenthe (Dutch)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mAqFyw/RTV_Drenthe_Dutch.jpg" group-title="Holanda",RTV Drenthe (Dutch)
+				rtmp://stream.rtvdrenthe.nl/tv/tvstream1
+			
+ 
+
 #EXTINF:-1,[B][COLOR yellow]<== Italian ==>[/COLOR][/B]
 	http://0.0.0.0:1234
 
@@ -1261,6 +1302,16 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/emxSeQ/Asyl_Arna_Kazakhstan.jpg" group-title="Kazakhstan",Asyl Arna (Kazakhstan)
 				rtmp://212.154.188.10/live/v_704_768.stream
 
+				
+
+#EXTINF:-1,[B][COLOR yellow]<== Jamaica ==>[/COLOR][/B]
+	http://0.0.0.0:1234
+
+		#EXTINF:-1,MELLO TV (Jamaica)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fJZHvb/MELLO_TV_Jamaica.jpg" group-title="Jamaica",MELLO TV (Jamaica)
+				http://mellotvnew.tulix.tv/live/smil:mellotv.smil/chunklist_w1010732594_b614000_sleng.m3u8
+
+				
 
 #EXTINF:-1,[B][COLOR yellow]<== Koreia Sul ==>[/COLOR][/B]
 	http://0.0.0.0:1234
@@ -1286,6 +1337,15 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/bU4hQb/Telemax_Spanish_Mexico.png" group-title="Mexico",Telemax (Spanish) (Mexico)
 				http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 	
+	
+	
+#EXTINF:-1,[B][COLOR yellow]<== Monaco ==>[/COLOR][/B]
+	http://0.0.0.0:1234
+
+		#EXTINF:-1,Monaco Channel
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cSx3Jw/Monaco_Channel.png" group-title="Monaco",Monaco Channel
+				rtmp://46.105.34.238/livepkgr/livestream3
+				
 	
 	
 #EXTINF:-1,[B][COLOR yellow]<== Moldova ==>[/COLOR][/B]
@@ -1588,8 +1648,21 @@
 			#EXTINF:-1 group-title="WebCams" tvg-id="n/a" tvg-logo="https://image.ibb.co/d8OMYk/LIVE_ISS_STREAM.png",LIVE ISS STREAM
 				http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
 
+		#EXTINF:-1,BRASIL - Aquario (Brasil)
+			#EXTINF:-1 group-title="WebCams" tvg-logo="",BRASIL - Aquario (Brasil)
+				http://wse.planeta-online.tv:1935/live/channel_3/livestream.m3u8
+				
 
 
+#EXTINF:-1,[B][COLOR yellow]<== USA ==>[/COLOR][/B]
+	http://0.0.0.0:1234
+
+		#EXTINF:-1,Ha Tinh (Vietnam)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fb4hBG/Ha_Tinh_Vietnam.jpg" group-title="USA",Ha Tinh (Vietnam)
+				http://hatinhtv.vn/liveevent.m3u8
+				
+
+				
 #EXTINF:-1,[COLOR yellow] WebCams Bósnia e Herzegovina [/COLOR]
 	http://0.0.0.0:1234
 
