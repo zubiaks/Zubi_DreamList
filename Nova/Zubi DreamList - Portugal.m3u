@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-	#EXTINF:-1,Zubi DreamList V_0.44 12/12/2017
+	#EXTINF:-1,Zubi DreamList V_0.45 13/12/2017
 			http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
@@ -232,7 +232,11 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/hUiAyw/BLOOMBERG_News_News_English.png" group-title="Informacao",BLOOMBERG News (News) (English)
 				http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 
-
+		#EXTINF:-1,Star Maza (News) (India)
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",Star Maza (News) (India)
+				http://mediacontent-lh.akamaihd.net/i/marathiabpnew_1@188093/master.m3u8
+				
+				
 
 #EXTINF:-1,[B][COLOR yellow]<== Entretenimento ==>[/COLOR][/B]
 	http://0.0.0.0:1234
@@ -445,9 +449,9 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/ifza9Q/BARCA_TV.png" group-title="Desporto",BARCA TV
 				http://cdns724ste1010.shooowit.net/25televisiolive/amlst:25tv/playlist.m3u8
 
-		#EXTINF:-1,superlig tv (Turco)
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",superlig tv (Turco)
-				
+		#EXTINF:-1,Mega (Spanish)
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",Mega (Spanish)
+				http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
 
 		#EXTINF:-1,DXTV Sport (Argentina)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/m3RC8w/DXTV_Sport_Argentina.jpg" group-title="Desporto",DXTV Sport (Argentina)
@@ -544,7 +548,7 @@
 		#EXTINF:-1,TV ALL SPORTS (Brasil)
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",TV ALL SPORTS (Brasil)
 				http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-	
+
 
 
 #EXTINF:-1,[B][COLOR yellow]<== Infantil ==>[/COLOR][/B]
@@ -692,13 +696,13 @@
 			#EXTINF:-1 tvg-logo="" group-title="Musica",NRJ Belgique
 				http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
 
-		#EXTINF:-1,VH1 CLASSIC
-			#EXTINF:-1 tvg-logo="" group-title="Musica",VH1 CLASSIC
+		#EXTINF:-1,KroneHit TV (Austria)
+			#EXTINF:-1 tvg-logo="" group-title="Musica",KroneHit TV (Austria)
+				http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
 
-
-		#EXTINF:-1,VH1 Europe
-			#EXTINF:-1 tvg-logo="" group-title="Musica",VH1 Europe (Ingles)
-
+		#EXTINF:-1,MuzZone
+			#EXTINF:-1 tvg-logo="" group-title="Musica",MuzZone
+				http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
 
 		#EXTINF:-1,Brava HD
 			#EXTINF:-1 tvg-logo="" group-title="Musica",Brava HD (Ingles)
@@ -1079,6 +1083,15 @@
 
 
 		
+#EXTINF:-1,[B][COLOR yellow]<== Argentina ==>[/COLOR][/B]
+	http://0.0.0.0:1234
+
+		#EXTINF:-1,eitb.eus (Argentina)
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",eitb.eus (Argentina)
+				http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+
+
+		
 #EXTINF:-1,[B][COLOR yellow]<== BOLIVIA ==>[/COLOR][/B]
 	
 
@@ -1107,6 +1120,8 @@
 		#EXTINF:-1,MULTITV (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/hRWKok/MULTITV.png" tvg-id="" tvg-name=" group-title="Brasil",MULTITV (Brasil)
 				http://liveabr2.sambatech.com.br/abr/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream.m3u8
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kPyDJw/MULTI_TV_Brasil.png" group-title="Brasil",MULTI TV (Brasil) (Alternativa)
+				http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
 				
 		#EXTINF:-1,TV CAMARA 1 (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/fhGvDk/CAMARA_2_Brasil.png" group-title="Brasil",TV CAMARA 1 (Brasil)
@@ -1161,10 +1176,6 @@
 		#EXTINF:-1,CARIRI TV PB (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cxfDkb/CARIRI_TV_PB_Brasil.jpg" group-title="Brasil",CARIRI TV PB (Brasil)
 				http://streaming50.sitehosting.com.br:1935/cariritv/cariritv/live.m3u8
-
-		#EXTINF:-1,MULTI TV (Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kPyDJw/MULTI_TV_Brasil.png" group-title="Brasil",MULTI TV (Brasil)
-				http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
 
 		#EXTINF:-1,RECORD MT (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/nQq4Qb/RECORD_MT_Brasil.jpg" group-title="Brasil",RECORD MT (Brasil)
@@ -1381,6 +1392,15 @@
 		#EXTINF:-1,Elektrika TV (Czech)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/g7FFyk/Elektrika_TV_Czech.gif" group-title="Republica Checa",Elektrika TV (Czech)
 				http://live.tvtomsk.ru/hls/RT-24.m3u8
+
+				
+				
+#EXTINF:-1,[B][COLOR yellow]<== Romania ==>[/COLOR][/B]
+	http://0.0.0.0:1234
+	
+		#EXTINF:-1,Alfaomega (Romania)
+			#EXTINF:-1 tvg-logo="" group-title="",Alfaomega (Romania)
+				http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
 
 				
 				
@@ -1700,7 +1720,89 @@
 				
 
 
-	
+				
+#EXTINF:-1,[COLOR yellow] German Cams [/COLOR]
+	http://0.0.0.0:1234
+
+		#EXTINF:-1,Hamburg – Emporio (German Cams)
+			#EXTINF:-1 group-title="German Cams" tvg-logo="",Hamburg – Emporio (German Cams)
+				http://stream.livespotting.tv/windit-edge/vv47_720p.stream/playlist.m3u8
+
+		#EXTINF:-1,Hamburg – Michel (German Cams)
+			#EXTINF:-1 group-title="German Cams" tvg-logo="",Hamburg – Michel (German Cams)
+				http://stream.livespotting.tv/windit-edge/LS_b5586_720p.stream/playlist.m3u8
+
+		#EXTINF:-1,Hamburg – Unileverhaus (German Cams)
+			#EXTINF:-1 group-title="German Cams" tvg-logo="",Hamburg – Unileverhaus (German Cams)
+				http://stream.livespotting.tv/windit-edge/vv74_720p.stream/playlist.m3u8
+
+
+		#EXTINF:-1,Hannover – Congress Hotel (German Cams)
+			#EXTINF:-1 group-title="German Cams" tvg-logo="",Hannover – Congress Hotel (German Cams)
+				http://stream.livespotting.tv/windit-edge/vv71_720p.stream/playlist.m3u8
+
+		#EXTINF:-1,Heidelberg – Hotel Panorama (German Cams)
+			#EXTINF:-1 group-title="German Cams" tvg-logo="",Heidelberg – Hotel Panorama (German Cams)
+				http://stream.livespotting.tv/windit-edge/vv75_720p.stream/playlist.m3u8
+
+		#EXTINF:-1,Heidelberg – PundM (German Cams)
+			#EXTINF:-1 group-title="German Cams" tvg-logo="",Heidelberg – PundM (German Cams)
+				http://stream.livespotting.tv/windit-edge/vv122_720p.stream/playlist.m3u8
+
+		#EXTINF:-1,Hornum – Sylt (German Cams)
+			#EXTINF:-1 group-title="German Cams" tvg-logo="",Hornum – Sylt (German Cams)
+				http://stream.livespotting.tv/windit-edge/vv7_720p.stream/playlist.m3u8
+
+		#EXTINF:-1,Ischgl – Talstation (German Cams)
+			#EXTINF:-1 group-title="German Cams" tvg-logo="",Ischgl – Talstation (German Cams)
+				http://stream.livespotting.tv/windit-edge/vv128_720p.stream/playlist.m3u8
+
+		#EXTINF:-1,Kampen – Sylt (German Cams)
+			#EXTINF:-1 group-title="German Cams" tvg-logo="",Kampen – Sylt (German Cams)
+				http://stream.livespotting.tv/windit-edge/vv49_720p.stream/playlist.m3u8
+
+		#EXTINF:-1,Kassel – Best Western (German Cams)
+			#EXTINF:-1 group-title="German Cams" tvg-logo="",Kassel – Best Western (German Cams)
+				http://stream.livespotting.tv/windit-edge/vv125_720p.stream/playlist.m3u8
+
+		#EXTINF:-1,Kiel – Ostufer (German Cams)
+			#EXTINF:-1 group-title="German Cams" tvg-logo="",Kiel – Ostufer (German Cams)
+				http://stream.livespotting.tv/windit-edge/vv28_720p.stream/playlist.m3u8
+
+		#EXTINF:-1,Kiel – Port of Kiel (German Cams)
+			#EXTINF:-1 group-title="German Cams" tvg-logo="",Kiel – Port of Kiel (German Cams)
+				http://stream.livespotting.tv/windit-edge/vv77_720p.stream/playlist.m3u8
+
+		#EXTINF:-1,Kiel – Schleuse (German Cams)
+			#EXTINF:-1 group-title="German Cams" tvg-logo="",Kiel – Schleuse (German Cams)
+				http://stream.livespotting.tv/windit-edge/vv38_720p.stream/playlist.m3u8
+
+		#EXTINF:-1,Kitzbuhel – Hahnenkamm Bergstation (German Cams)
+			#EXTINF:-1 group-title="German Cams" tvg-logo="",Kitzbuhel – Hahnenkamm Bergstation (German Cams)
+				http://stream.livespotting.tv/windit-edge/vv121_720p.stream/playlist.m3u8
+
+		#EXTINF:-1,Kitzbuhel – Hotel Rasmushof (German Cams)
+			#EXTINF:-1 group-title="German Cams" tvg-logo="",Kitzbuhel – Hotel Rasmushof (German Cams)
+				http://stream.livespotting.tv/windit-edge/vv143_720p.stream/playlist.m3u8
+
+		#EXTINF:-1,Koblenz – Hotel Continental (German Cams)
+			#EXTINF:-1 group-title="German Cams" tvg-logo="",Koblenz – Hotel Continental (German Cams)
+				http://stream.livespotting.tv/windit-edge/vv36_720p.stream/playlist.m3u8
+
+		#EXTINF:-1,Krefeld – Garden Hotel (German Cams)
+			#EXTINF:-1 group-title="German Cams" tvg-logo="",Krefeld – Garden Hotel (German Cams)
+				http://stream.livespotting.tv/windit-edge/vv67_720p.stream/playlist.m3u8
+
+		#EXTINF:-1,Koln – Kolnturm (German Cams)
+			#EXTINF:-1 group-title="German Cams" tvg-logo="",Koln – Kolnturm (German Cams)
+				http://stream.livespotting.tv/windit-edge/vv69_720p.stream/playlist.m3u8
+
+		#EXTINF:-1,Koln – Pullman Cologne (German Cams)
+			#EXTINF:-1 group-title="German Cams" tvg-logo="",Koln – Pullman Cologne (German Cams)
+				http://stream.livespotting.tv/windit-edge/vv99_720p.stream/playlist.m3u8
+
+
+				
 #EXTINF:-1,[COLOR red][I][B]-------------------------------------------------------------[/B][/I][/COLOR]
 	http://0.0.0.0:1234
 
