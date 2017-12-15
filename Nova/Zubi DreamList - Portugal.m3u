@@ -1,5 +1,4 @@
 ﻿#EXTM3U
-	#EXTINF:-1,Zubi DreamList V_0.45 13/12/2017
 			http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
@@ -29,7 +28,7 @@
 			#EXTINF:-1 group-title="Generalistas"  tvg-name="tvi.pt" audio-track="pt" tvg-logo="https://image.ibb.co/gx1rG5/TVI.png",TVI (Alternativa)
 
 
-#EXTINF:-1,RTP Memoria
+#		EXTINF:-1,RTP Memoria
 			#EXTINF:-1 group-title="Generalistas" tvg-logo="https://image.ibb.co/eHA7pQ/RTP_Memoria.png",RTP Memoria 
 				http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
@@ -87,7 +86,6 @@
 			#EXTINF:-1 group-title="Informacao" tvg-id="TVI24.pt" tvg-logo="https://image.ibb.co/g2oVtk/TVI_24.png",TVI 24 (Alternativa)
 				
 
-
 		#EXTINF:-1,CM TV
 			#EXTINF:-1 group-title="Informacao" tvg-name="CM TV" audio-track="pt" tvg-logo="https://image.ibb.co/cLCC65/CM_TV.jpg", CM TV
 
@@ -112,9 +110,9 @@
 			#EXTINF:-1 group-title="Informacao" tvg-logo="https://image.ibb.co/ceSqtk/Euronews.png", Euronews
 
 
-		#EXTINF:-1,Bloomberg
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/goGtik/Bloomberg.png" group-title="Informacao",Bloomberg (Ingles)
-
+		#EXTINF:-1,Canale 7 (News)(Italia)
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",Canale 7 (News)(Italia)
+				http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 
 		#EXTINF:-1,Sky News
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/fiXYik/Sky_News.jpg" group-title="Informacao",Sky News (Ingles)
@@ -273,9 +271,9 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/bSKxw5/24_Kitchen.jpg" group-title="Entretenimento",24 Kitchen
 
 
-		#EXTINF:-1,24 Kitchen HD
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",24 Kitchen HD
-
+		#EXTINF:-1,Gong (Frances)(Anime)(Drama)(K-pop)(e-Sports)
+			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",Gong (Frances)(Anime)(Drama)(K-pop)(e-Sports)
+				http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 
 		#EXTINF:-1,A&E
 			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",A&E
@@ -884,8 +882,16 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/n6UiVb/University_of_California_TV_Educa_o.png" group-title="Temáticos",University of California TV (Educação)
 				 
 
+		#EXTINF:-1,Shop Channel (Vendas)(Japão)
+			#EXTINF:-1 tvg-logo="" group-title="Temáticos",Shop Channel (Vendas)(Japão)
+				http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+
+		#EXTINF:-1,Gameshow (Gameplays)
+			#EXTINF:-1 tvg-logo="" group-title="Temáticos",Gameshow (Gameplays)
+				http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
 
 
+			
 #EXTINF:-1,[B][COLOR yellow]<== Regionais ==>[/COLOR][/B]
 
 
@@ -984,6 +990,10 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/e26iJw/IMPD_TV_SP_Envagelica_Brasil.png" group-title="Religioso",IMPD TV SP (Envagelica) (Brasil)
 				http://impd.crossdigital.com.br:1935/impd/impd/live.m3u8
 				
+		#EXTINF:-1,Nour TV (United Arab Emirates) (persian) (sunni Islamic)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/e26iJw/IMPD_TV_SP_Envagelica_Brasil.png" group-title="Religioso",Nour TV (United Arab Emirates) (persian) (sunni Islamic)
+				http://dmivll.mangomolo.com/noordubaitv/smil:noordubaitv.smil/index.m3u8
+
 				
 
 #EXTINF:-1,[B][COLOR yellow]<== Podcasts ==>[/COLOR][/B]
@@ -1108,6 +1118,10 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/gbKfRG/AC_TV_Belgica.jpg" group-title="Belgica",AC TV (Belgica)
 				http://vm109.imust.org:1935/live/livestream/playlist.m3u8?wowzasessionid=1212295388
 				
+		#EXTINF:-1,ATV Antwerpen (Belgica)
+			#EXTINF:-1 tvg-logo="" group-title="Belgica",ATV Antwerpen (Belgica)
+				http://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/index_1_av-p.m3u8?sd=10&rebase=on
+				
 				
 				
 #EXTINF:-1,[B][COLOR yellow]<== Brasil ==>[/COLOR][/B]
@@ -1213,6 +1227,15 @@
 
 
 
+#EXTINF:-1,[B][COLOR yellow]<== Egypt ==>[/COLOR][/B]
+	http://0.0.0.0:1234
+
+		#EXTINF:-1,mekameleen tv (Egypt)
+			#EXTINF:-1 tvg-logo="" group-title="Egypt",mekameleen tv (Egypt)
+				http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/playlist.m3u8
+
+			
+			
 #EXTINF:-1,[B][COLOR yellow]<== Eslováquia ==>[/COLOR][/B]
 	http://0.0.0.0:1234
 
@@ -1274,6 +1297,15 @@
 		#EXTINF:-1,RTV Drenthe (Dutch)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/mAqFyw/RTV_Drenthe_Dutch.jpg" group-title="Holanda",RTV Drenthe (Dutch)
 				rtmp://stream.rtvdrenthe.nl/tv/tvstream1
+			
+ 
+
+#EXTINF:-1,[B][COLOR yellow]<== Israel ==>[/COLOR][/B]
+	http://0.0.0.0:1234
+
+		#EXTINF:-1,Channel 10 (Israel)
+			#EXTINF:-1 tvg-logo="" group-title="Israel",Channel 10 (Israel)
+				http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8
 			
  
 
@@ -1402,6 +1434,10 @@
 			#EXTINF:-1 tvg-logo="" group-title="",Alfaomega (Romania)
 				http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
 
+		#EXTINF:-1,Accent TV Romania (Romania)
+			#EXTINF:-1 tvg-logo="" group-title="",Accent TV Romania (Romania)
+				http://188.173.22.231:8080/video/emisie.m3u8
+
 				
 				
 #EXTINF:-1,[B][COLOR yellow]<== Russia ==>[/COLOR][/B]
@@ -1412,9 +1448,9 @@
 				http://live.tvtomsk.ru/hls/RT-24.m3u8
 
 		#EXTINF:-1,mostvideo.tv (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Russia",mostvideo.tv (Russo) *Sem emissao
+			#EXTINF:-1 tvg-logo="" group-title="Russia",mostvideo.tv (Russo)
 				rtmp://wow.mostvideo.tv/tv/ch1
-			#EXTINF:-1 tvg-logo="" group-title="Russia",mostvideo.tv (Russo) (Alternativa) *Sem emissao
+			#EXTINF:-1 tvg-logo="" group-title="Russia",mostvideo.tv (Russo) (Alternativa)
 				 http://wow.stib.com.ua:1935/tv/ch1/playlist_b125000.m3u8
 
 		#EXTINF:-1,nsktv (Russo)
@@ -1424,7 +1460,9 @@
 		#EXTINF:-1,RT (Russo)
 			#EXTINF:-1 tvg-logo="" group-title="Russia",RT (Russo)
 				http://rtmp.api.rt.com/hls/rtdru.m3u8
-
+			#EXTINF:-1 tvg-logo="" group-title="Russia",RT (Russo) (Alternativa)
+				http://rtmp.api.rt.com/hls/rtdru360.m3u8
+				
 		#EXTINF:-1,topinform (Russo)
 			#EXTINF:-1 tvg-logo="" group-title="Russia",topinform (Russo)
 				http://hls.goodgame.ru/hls/33226.m3u8?version=2 
@@ -1489,6 +1527,10 @@
 			#EXTINF:-1 tvg-logo="" group-title="Russia",Mix (Russo)
 				rtmp://tv-mix.ru/live/Stream1
 
+		#EXTINF:-1,O2TV (Russo)
+			#EXTINF:-1 tvg-logo="" group-title="Russia",O2TV (Russo)
+				http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/playlist.m3u8
+
 				
 
 #EXTINF:-1,[B][COLOR yellow]<== Suécia ==>[/COLOR][/B]
@@ -1522,11 +1564,22 @@
 	http://0.0.0.0:1234
 
 		#EXTINF:-1,TRT 1 HD (Turquia)
-			#EXTINF:-1 tvg-logo="" group-title="taiwan",TRT 1 HD (Turquia)
+			#EXTINF:-1 tvg-logo="" group-title="Turquia",TRT 1 HD (Turquia)
 				http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&amp;rebase=on
 			
+		#EXTINF:-1,SEMERKAND HD (Turquia)
+			#EXTINF:-1 tvg-logo="" group-title="Turquia",SEMERKAND HD (Turquia)
+				http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/Playlist.m3u8
+				
+		#EXTINF:-1,KANALD HD (Turquia)
+			#EXTINF:-1 tvg-logo="" group-title="Turquia",KANALD HD (Turquia)
+				http://37.48.83.10/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
 
-			
+		#EXTINF:-1,KANALD HD SECENEK 2 (Turquia)
+			#EXTINF:-1 tvg-logo="" group-title="Turquia",KANALD HD SECENEK 2 (Turquia)
+				http://37.48.83.10/S1/HLS_LIVE/kanald/750/prog_index.m3u8
+
+				
 #EXTINF:-1,[B][COLOR yellow]<== Umited Kingdom ==>[/COLOR][/B]
 	http://0.0.0.0:1234
 		
@@ -1664,8 +1717,32 @@
 			#EXTINF:-1 group-title="WebCams USA" tvg-logo="",folly beach (USA) (South Carolina)
 				http://208.43.68.139/surfchex//follybeach-super/playlist.m3u8
 
+		#EXTINF:-1,Irish Kevin's Bar Cam (USA) (Florida) (Key West)
+			#EXTINF:-1 group-title="WebCams USA" tvg-logo="",Irish Kevin's Bar Cam (USA) (Florida) (Key West)
+				http://52.2.51.240:1935/irishkevinsbar/irishkevinsbar.stream/chunklist_w984927033.m3u8
+
+		#EXTINF:-1,Irish Kevins Street (USA) (Florida) (Key West)
+			#EXTINF:-1 group-title="WebCams USA" tvg-logo="",Irish Kevin's Bar Cam (USA) (Florida) (Key West)
+				http://52.2.51.240:1935/irishkevinsstreet/irishkevinsstreet.stream/chunklist_w187144479.m3u8
+
+		#EXTINF:-1,Irish Kevin's Bar Cam 2 (USA) (Florida) (Key West)
+			#EXTINF:-1 group-title="WebCams USA" tvg-logo="",Irish Kevin's Bar Cam (USA) (Florida) (Key West)
+				http://52.2.51.240:1935/irishkevins/irishkevins.stream/chunklist_w38238460.m3u8
+
+		#EXTINF:-1,Hogs Breath, Stage-Cam (USA) (Florida) (Key West)
+			#EXTINF:-1 group-title="WebCams USA" tvg-logo="",Hogs Breath, Stage-Cam (USA) (Florida) (Key West)
+				http://wse1.resortcams.com:80/live-audio/hogsbreath3.stream_aac/chunklist_w1366308157.m3u8
+
+		#EXTINF:-1,Hogs Breath, Raw-Bar-Cam (USA) (Florida) (Key West)
+			#EXTINF:-1 group-title="WebCams USA" tvg-logo="",Hogs Breath, Raw-Bar-Cam (USA) (Florida) (Key West)
+				http://wse1.resortcams.com:80/live-audio/hogsbreath2.stream_aac/chunklist_w74791121.m3u8
+
+		#EXTINF:-1,Hogs Breath, Hogs Breath, Bar-Cam (USA) (Florida) (Key West)
+			#EXTINF:-1 group-title="WebCams USA" tvg-logo="",Hogs Breath, Bar-Cam (USA) (Florida) (Key West)
+				http://wse1.resortcams.com:80/live-audio/hogsbreath1.stream_aac/chunklist_w1013042500.m3u8
 
 
+				
 #EXTINF:-1,[B][COLOR yellow]<== WebCams ==>[/COLOR][/B]
 	
 		
@@ -1735,7 +1812,6 @@
 		#EXTINF:-1,Hamburg – Unileverhaus (German Cams)
 			#EXTINF:-1 group-title="German Cams" tvg-logo="",Hamburg – Unileverhaus (German Cams)
 				http://stream.livespotting.tv/windit-edge/vv74_720p.stream/playlist.m3u8
-
 
 		#EXTINF:-1,Hannover – Congress Hotel (German Cams)
 			#EXTINF:-1 group-title="German Cams" tvg-logo="",Hannover – Congress Hotel (German Cams)
