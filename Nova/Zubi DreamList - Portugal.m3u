@@ -1,5 +1,4 @@
 ﻿#EXTM3U
-	#EXTINF:-1,Zubi DreamList V_0.47 16/12/2017
 			http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
@@ -29,7 +28,7 @@
 			#EXTINF:-1 group-title="Generalistas"  tvg-name="tvi.pt" audio-track="pt" tvg-logo="https://image.ibb.co/gx1rG5/TVI.png",TVI (Alternativa)
 
 
-#		EXTINF:-1,RTP Memoria
+		#EXTINF:-1,RTP Memoria
 			#EXTINF:-1 group-title="Generalistas" tvg-logo="https://image.ibb.co/eHA7pQ/RTP_Memoria.png",RTP Memoria 
 				http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
@@ -554,11 +553,11 @@
 
 		#EXTINF:-1,SKY SPORTS 2 (Ingles)
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",SKY SPORTS 2 (Ingles)
-
+				
 
 		#EXTINF:-1,SKY SPORTS 3 (Ingles)
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",SKY SPORTS 3 (Ingles)
-
+				
 
 		#EXTINF:-1,Sports TV (TUR)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/ndbw65/Sports_TV_TUR.jpg" group-title="Desporto",Sports TV (TUR)
@@ -571,6 +570,30 @@
 		#EXTINF:-1,TV ALL SPORTS (Brasil)
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",TV ALL SPORTS (Brasil)
 				http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+		#EXTINF:-1,KHL - Continental Hockey League (Russo)
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",KHL - Continental Hockey League (Russo)
+				http://msk2.peers.tv:80/streaming/khl/16/tvrecw/playlist.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",
+				
 
 
 
@@ -594,8 +617,8 @@
 
 
 		#EXTINF:-1,Cartoon Network
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cQGDUQ/CARTOON_NETWORK.png" group-title="Infantil",Cartoon Network
-
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cQGDUQ/CARTOON_NETWORK.png" group-title="Infantil",Cartoon Network (Russo) 
+				http://msk2.peers.tv:80/streaming/cartoonnetwork/16/tvrecw/playlist.m3u8
 
 		#EXTINF:-1,Nickelodeon
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",Nickelodeon
@@ -624,6 +647,26 @@
 		#EXTINF:-1,anime TV (Latino)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/gGg15b/anime_TV_Latino.jpg" group-title="Infantil",anime TV (Latino)
 				http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+		#EXTINF:-1,Children's World (Russo)
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",Children's World (Russo)
+				http://msk2.peers.tv:80/streaming/forkids/16/tvrec/playlist.m3u8
+			
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",
+				
+			
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",
+				
 
 			
 
@@ -706,8 +749,24 @@
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",AMG
 				rtmp://cp212391.live.edgefcs.net/live/T02027-amgtv@120244
 
+		#EXTINF:-1,Russian novel (Russo)
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Russian novel (Russo)
+				http://msk2.peers.tv:80/streaming/russian_roman/16/tvrec/playlist.m3u8
+
+		#EXTINF:-1,Russian bestseller (Russo)
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Russian bestseller (Russo)
+				http://msk2.peers.tv:80/streaming/russia_best/16/tvrec/playlist.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",
+				
 
 			
+
 #EXTINF:-1,[B][COLOR yellow]<== Musica ==>[/COLOR][/B]
 	http://0.0.0.0:1234
 	
@@ -823,7 +882,28 @@
 			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",HITV (Russo)
 				http://rosshow.gcdn.co/rosshow_live/ngrp:hittv_all/chunklist_b3200000.m3u8
 
+		#EXTINF:-1,NL:Q
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",NL:Q
+				http://102793ooyala-lh.akamaihd.net/i/depers02_delivery@381748/master.m3u8
 
+		#EXTINF:-1,Slam TV
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Slam TV
+				http://hls.slam.nl/streaming/hls/SLAM!/lower_500000/playlist.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",
+				
+
+
+				
 #EXTINF:-1,[B][COLOR yellow]<== Documentarios ==>[/COLOR][/B]
 	
 	
@@ -832,8 +912,8 @@
 				http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 
 		#EXTINF:-1,Discovery Channel
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/nFrZ65/Discovery_channel.png" group-title="Documentarios",Discovery Channel
-
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nFrZ65/Discovery_channel.png" group-title="Documentarios",Discovery Channel (Russia)
+				http://msk2.peers.tv:80/streaming/discovery/16/tvrecw/playlist.m3u8
 
 		#EXTINF:-1,Discovery HD (Ingles)
 			#EXTINF:-1 tvg-logo="" group-title="Documentarios",Discovery HD (Ingles)
@@ -915,7 +995,17 @@
 			#EXTINF:-1 tvg-logo="" group-title="Temáticos",Gameshow (Gameplays)
 				http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
 
+		#EXTINF:-1,COMCAST
+			#EXTINF:-1 tvg-logo="" group-title="Temáticos",COMCAST (720p)
+				http://cmc-i.akamaihd.net/hls/live/201845/launch/04.m3u8
+			#EXTINF:-1 tvg-logo="" group-title="Temáticos",COMCAST (1080p)
+				http://cmc-i.akamaihd.net/hls/live/201845/launch/05.m3u8
+			
+		#EXTINF:-1,InfoWars
+			#EXTINF:-1 tvg-logo="" group-title="Temáticos",InfoWars
+				http://infowarslive-lh.akamaihd.net:80/i/infowarslivestream_1@353459/index_800_av-p.m3u8
 
+			
 			
 #EXTINF:-1,[B][COLOR yellow]<== Regionais ==>[/COLOR][/B]
 
@@ -1027,6 +1117,30 @@
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",Trinity TV (English) (Christian)
 				http://trinitytvro.bisericilive.com/live/trinitytvro3/index.m3u8
 
+		#EXTINF:-1,Mekkah HD (Muslim)
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",Mekkah HD (Muslim)
+				http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/index.m3u8
+			
+		#EXTINF:-1,Sunnah Live HD (Muslim)
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",Sunnah Live HD (Muslim)
+				http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel8/index.m3u8
+			
+		#EXTINF:-1,Union (Russian) (Orthodox)
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",Union (Russian) (Orthodox)
+				http://msk2.peers.tv:80/streaming/soyuz/16/tvrec/playlist.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",
+				
+
 				
 
 #EXTINF:-1,[B][COLOR yellow]<== Podcasts ==>[/COLOR][/B]
@@ -1135,15 +1249,6 @@
 
 
 		
-#EXTINF:-1,[B][COLOR yellow]<== BOLIVIA ==>[/COLOR][/B]
-	
-
-		#EXTINF:-1, (BOLIVIA)
-			#EXTINF:-1 tvg-logo="" group-title="Armenia", (BOLIVIA)
-				
-
-
-		
 #EXTINF:-1,[B][COLOR yellow]<== Belgica ==>[/COLOR][/B]
 	http://0.0.0.0:1234
 	
@@ -1154,6 +1259,10 @@
 		#EXTINF:-1,ATV Antwerpen (Belgica)
 			#EXTINF:-1 tvg-logo="" group-title="Belgica",ATV Antwerpen (Belgica)
 				http://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/index_1_av-p.m3u8?sd=10&rebase=on
+				
+		#EXTINF:-1,TV OOST (Belgica)
+			#EXTINF:-1 tvg-logo="" group-title="Belgica",TV OOST (Belgica)
+				http://urtmpkal-f.akamaihd.net/i/156m2vpg5_1@322941/master.m3u8
 				
 				
 				
@@ -1231,6 +1340,15 @@
 				http://wz4.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/live.m3u8
 			
 			
+#EXTINF:-1,[B][COLOR yellow]<== BOLIVIA ==>[/COLOR][/B]
+	
+
+		#EXTINF:-1, (BOLIVIA)
+			#EXTINF:-1 tvg-logo="" group-title="Armenia", (BOLIVIA)
+				
+
+
+		
 #EXTINF:-1,[B][COLOR yellow]<== Bulgaria ==>[/COLOR][/B]
 	http://0.0.0.0:1234
 
@@ -1314,6 +1432,10 @@
 			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/iKULRG/DW_Espa_ol_Espanha.png",DW Español (Espanha)
 				http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 			
+		#EXTINF:-1,CANAL 10 EMPORDA (Espanha) (Catalunha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="",CANAL 10 EMPORDA (Espanha) (Catalunha)
+				http://ventdelnord.tv:8080/escala/directe.m3u8
+				
 
 
 #EXTINF:-1,[B][COLOR yellow]<== Franca ==>[/COLOR][/B]
@@ -1525,7 +1647,7 @@
 		#EXTINF:-1,TNR 4 (Russo)
 			#EXTINF:-1 tvg-logo="" group-title="Russia",TNR 4 (Russo)
 				
-	
+
 		#EXTINF:-1,BTV (Russo)
 			#EXTINF:-1 tvg-logo="" group-title="Russia",BTV (Russo)
 				http://46.10.150.111/alpha/alpha/chunklist_w1734333498.m3u8
@@ -1540,7 +1662,7 @@
 
 		#EXTINF:-1,Zvezda (Russo)
 			#EXTINF:-1 tvg-logo="" group-title="Russia",Zvezda (Russo)
-				
+				http://msk2.peers.tv:80/streaming/zvezda/126/variable.m3u8
 
 		#EXTINF:-1,KPBIM 24 (Russo)
 			#EXTINF:-1 tvg-logo="" group-title="Russia",KPBIM 24 (Russo)
@@ -1578,6 +1700,334 @@
 			#EXTINF:-1 tvg-logo="" group-title="Russia",O2TV (Russo)
 				http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/playlist.m3u8
 
+		#EXTINF:-1,Leomax (Russia)
+			#EXTINF:-1 tvg-logo="" group-title="Russia",Leomax (Russia)
+				http://cdn-11.bonus-tv.ru/Leomax/tracks-v1a1/index.m3u8
+	
+		#EXTINF:-1,Russian illusion
+			#EXTINF:-1 tvg-logo="" group-title="Russia",Russian illusion
+				http://msk2.peers.tv:80/streaming/russian_illusion/16/tvrec/playlist.m3u8
+	
+		#EXTINF:-1,ОТР
+			#EXTINF:-1 tvg-logo="" group-title="Russia",ОТР
+				http://msk2.peers.tv:80/streaming/otvrus/126/variable.m3u8
+	
+		#EXTINF:-1,Techno 24
+			#EXTINF:-1 tvg-logo="" group-title="Russia",Techno 24
+				http://msk2.peers.tv:80/streaming/24techno/16/tvrec/playlist.m3u8
+	
+		#EXTINF:-1,Channel Success (Moscow) (Business)
+			#EXTINF:-1 tvg-logo="" group-title="Russia",Channel Success (Moscow) (Business)
+				http://msk2.peers.tv:80/streaming/uspex/16/tvrec/playlist.m3u8
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Russia",
+				
+	
 				
 
 #EXTINF:-1,[B][COLOR yellow]<== Suécia ==>[/COLOR][/B]
