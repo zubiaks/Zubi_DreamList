@@ -1,4 +1,5 @@
 ﻿#EXTM3U
+	#EXTINF:-1,Zubi DreamList V_0.47 16/12/2017
 			http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
@@ -107,8 +108,8 @@
 
 
 		#EXTINF:-1,Euronews
-			#EXTINF:-1 group-title="Informacao" tvg-logo="https://image.ibb.co/ceSqtk/Euronews.png", Euronews
-
+			#EXTINF:-1 group-title="Informacao" tvg-logo="https://image.ibb.co/ceSqtk/Euronews.png",Euronews (Russo)
+				http://evronovosti.mediacdn.ru/sr1/evronovosti/chunklist_b598304.m3u8
 
 		#EXTINF:-1,Canale 7 (News)(Italia)
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",Canale 7 (News)(Italia)
@@ -136,13 +137,17 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/bQo0UQ/CNBC.jpg" group-title="Informacao",CNBC (Ingles)
 
 
-		#EXTINF:-1,Al Jazeera English
+		#EXTINF:-1,Al Jazeera (English)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/mxoqEQ/Al_Jazeera_English.jpg" group-title="Informacao",Al Jazeera English (Ingles)
+				http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
+		#EXTINF:-1,AL JAZEERA MUBASHER (Arabic) (Qatar) (conferences) (Live events)
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",AL JAZEERA MUBASHER (Arabic) (Qatar) (conferences) (Live events)
+				http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/300.m3u8
 
-		#EXTINF:-1,RAI NEWS
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/fjGSuQ/RAI_NEWS.png" group-title="Informacao",RAI NEWS (Italiano)
-
+		#EXTINF:-1,RaiNews24 (Italiano)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fjGSuQ/RAI_NEWS.png" group-title="Informacao",RaiNews24 (Italiano)
+				http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
 
 		#EXTINF:-1,Phoenix InfoNews
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/hzgGok/Phoenix_Info_News.png" group-title="Informacao",Phoenix InfoNews (Chines)
@@ -156,12 +161,12 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/nwR5UQ/ANN_TV_Arabe.jpg" group-title="Informacao",ANN TV (Arabe)
 				rtmp://ns8.indexforce.com/ann/ann
 
-		#EXTINF:-1,France 24
+		#EXTINF:-1,France 24 (Ingles)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/d8GJKQ/France_24.png" group-title="Informacao",France 24 (Ingles)
+				http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 
-
-		#EXTINF:-1,CBSN
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cVrDm5/CBSN.jpg" group-title="Informacao",CBSN
+		#EXTINF:-1,CBS NEWS HD
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cVrDm5/CBSN.jpg" group-title="Informacao",CBS NEWS HD
 				http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
 
 		#EXTINF:-1,Record News
@@ -233,6 +238,26 @@
 		#EXTINF:-1,Star Maza (News) (India)
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",Star Maza (News) (India)
 				http://mediacontent-lh.akamaihd.net/i/marathiabpnew_1@188093/master.m3u8
+				
+		#EXTINF:-1,TRT WORLD (turkish news) (English)
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",TRT WORLD (turkish news) (English)
+				http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+				
+		#EXTINF:-1,MSNBS (English)
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",MSNBS (English)
+				http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8?sd=10&rebase=on
+				
+		#EXTINF:-1,New TV (Thailand)
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",New TV (Thailand)
+				http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
+				
+		#EXTINF:-1,NHK WORLD HD (Japão)
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",NHK WORLD HD (Japão)
+				https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+				
+		#EXTINF:-1,DW HD (English)
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",DW HD (English)
+				 http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
 				
 				
 
@@ -702,9 +727,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Musica",MuzZone
 				http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
 
-		#EXTINF:-1,Brava HD
-			#EXTINF:-1 tvg-logo="" group-title="Musica",Brava HD (Ingles)
-
+		#EXTINF:-1,Naween
+			#EXTINF:-1 tvg-logo="" group-title="Musica",Naween
+				http://livestream.5centscdn.com/459_push_365/db14c0a474e84ee8d5a0f3d69f5ab5c9.sdp/index.m3u8
 
 		#EXTINF:-1,DJAZZ.tv HD
 			#EXTINF:-1 tvg-logo="" group-title="Musica",DJAZZ.tv HD (Ingles)
@@ -802,9 +827,9 @@
 #EXTINF:-1,[B][COLOR yellow]<== Documentarios ==>[/COLOR][/B]
 	
 	
-		#EXTINF:-1,ANIMAL PLANET
-			#EXTINF:-1 tvg-logo="" group-title="Documentarios",ANIMAL PLANET
-				
+		#EXTINF:-1,ANIMAL PLANET LIVE
+			#EXTINF:-1 tvg-logo="" group-title="Documentarios",ANIMAL PLANET LIVE
+				http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 
 		#EXTINF:-1,Discovery Channel
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/nFrZ65/Discovery_channel.png" group-title="Documentarios",Discovery Channel
@@ -993,6 +1018,14 @@
 		#EXTINF:-1,Nour TV (United Arab Emirates) (persian) (sunni Islamic)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/e26iJw/IMPD_TV_SP_Envagelica_Brasil.png" group-title="Religioso",Nour TV (United Arab Emirates) (persian) (sunni Islamic)
 				http://dmivll.mangomolo.com/noordubaitv/smil:noordubaitv.smil/index.m3u8
+
+		#EXTINF:-1,Hope channel (Poland) (Seventh-day Adventist)
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",Hope channel (Poland) (Seventh-day Adventist)
+				http://rtmp.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
+
+		#EXTINF:-1,Trinity TV (English) (Christian)
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",Trinity TV (English) (Christian)
+				http://trinitytvro.bisericilive.com/live/trinitytvro3/index.m3u8
 
 				
 
@@ -1214,10 +1247,11 @@
 #EXTINF:-1,[B][COLOR yellow]<== Canadian TV ==>[/COLOR][/B]
 
 
-		#EXTINF:-1,CFRN CTV Edmonton
-			#EXTINF:-1 tvg-logo="" group-title="Canadian TV",CFRN CTV Edmonton
+		#EXTINF:-1,CPAC (CANADA) (Parliament)
+			#EXTINF:-1 tvg-logo="" group-title="Canadian TV",CPAC (CANADA) (Parliament)
+				http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
 
-
+				
 
 #EXTINF:-1,[B][COLOR yellow]<== Caribbean TV ==>[/COLOR][/B]
 
@@ -1332,6 +1366,10 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/hMszB5/Tele_Arena_Italian.jpg" group-title="Italian",Tele Arena (Italian)
 				http://wma07.fluidstream.net/TeleArena/livestream/sansar.m3u8
 				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Italian",
+				
+				
 				
 
 #EXTINF:-1,[B][COLOR yellow]<== Kazakhstan ==>[/COLOR][/B]
@@ -1368,7 +1406,16 @@
 				
 
 
+				
+#EXTINF:-1,[B][COLOR yellow]<== Marrocos ==>[/COLOR][/B]
+	http://0.0.0.0:1234
 
+		#EXTINF:-1,Canal Maroc 1 (Marrocos)
+			#EXTINF:-1 tvg-logo="" group-title="Marrocos",Canal Maroc 1 (Marrocos)
+				http://wowzaprodhd91-lh.akamaihd.net/i/f1190fda_1@82564/master.m3u8
+	
+	
+	
 #EXTINF:-1,[B][COLOR yellow]<== Mexico ==>[/COLOR][/B]
 	http://0.0.0.0:1234
 
@@ -1481,7 +1528,7 @@
 	
 		#EXTINF:-1,BTV (Russo)
 			#EXTINF:-1 tvg-logo="" group-title="Russia",BTV (Russo)
-				
+				http://46.10.150.111/alpha/alpha/chunklist_w1734333498.m3u8
 
 		#EXTINF:-1,TVC (Russo)
 			#EXTINF:-1 tvg-logo="" group-title="Russia",TVC (Russo)
@@ -1511,9 +1558,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Russia",MTB (Russo)
 				rtmp://31.202.208.204:1935/live/livestream1
 
-		#EXTINF:-1,CTC (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Russia",CTC (Russo)
-				
+		#EXTINF:-1,ТВК24 (Russo)
+			#EXTINF:-1 tvg-logo="" group-title="Russia",ТВК24 (Russo)
+				http://www.tvk6.ru/tv/hls/tvk6.m3u8
 
 		#EXTINF:-1,TV-3 (Russo)
 			#EXTINF:-1 tvg-logo="" group-title="Russia",TV-3 (Russo)
@@ -1605,9 +1652,9 @@
 #EXTINF:-1,[B][COLOR yellow]<== USA ==>[/COLOR][/B]
 	http://0.0.0.0:1234
 	
-		#EXTINF:-1,Bounce TV
-			#EXTINF:-1 tvg-logo="" group-title="USA",Bounce TV
-				
+		#EXTINF:-1,VTV Channel 6 (Vernal) (UT Utah)
+			#EXTINF:-1 tvg-logo="" group-title="USA",VTV Channel 6 (Vernal) (UT Utah)
+				http://hls.ksl.com/t/strata/playlist.m3u8
 
 		#EXTINF:-1,Miami TV (English)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/b5OAdk/Miami_TV.png" group-title="USA",Miami TV (English)
@@ -1616,6 +1663,10 @@
 		#EXTINF:-1,The Florida Channel 
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/keJhOw/The_Florida_Channel.jpg" group-title="USA",The Florida Channel *Lento
 				rtmp://webcasting.thefloridachannel.org/live/tvweb1 
+
+		#EXTINF:-1,EYE95 America (South Asian) (Middle Eastern)
+			#EXTINF:-1 tvg-logo="" group-title="USA",EYE95 America (South Asian) (Middle Eastern)
+				http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
 
 			
 
