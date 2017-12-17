@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-	#EXTINF:-1,Zubi DreamList V_0.49 17/12/2017
+	#EXTINF:-1,Zubi DreamList V_0.50 17/12/2017
 			http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
@@ -168,7 +168,9 @@
 		#EXTINF:-1,CBS NEWS HD
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cVrDm5/CBSN.jpg" group-title="Informacao",CBS NEWS HD
 				http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
-
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cVrDm5/CBSN.jpg" group-title="Informacao",CBS NEWS HD (Alternativa)
+				http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+				
 		#EXTINF:-1,Record News
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/fHqjtk/Record_News.png" group-title="Informacao",Record News
 
@@ -250,8 +252,10 @@
 		#EXTINF:-1,New TV (Thailand)
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",New TV (Thailand)
 				http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
-				
-		#EXTINF:-1,NHK WORLD HD (Japão)
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",New TV (Thailand) (Alternativa)
+				http://newtv.cdn.byteark.com:80/live/playlist.m3u8
+
+~		#EXTINF:-1,NHK WORLD HD (Japão)
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",NHK WORLD HD (Japão)
 				https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",NHK WORLD HD (Japão) (Alternativa)
@@ -264,6 +268,14 @@
 		#EXTINF:-1,Rain (Russo)
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",Rain (Russo)
 				http://msk2.peers.tv:80/streaming/rain/16/tvrecw/playlist.m3u8
+				
+		#EXTINF:-1,VoA
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",VoA
+				http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8 
+				
+		#EXTINF:-1,Weather Channel 
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",Weather Channel 
+				 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 				
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",
@@ -455,8 +467,8 @@
 				
 
 		#EXTINF:-1,Eurosport
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/gMnCpQ/EUROSPORT.jpg" group-title="Desporto",Eurosport
-
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gMnCpQ/EUROSPORT.jpg" group-title="Desporto",Eurosport (Russo)
+				http://msk2.peers.tv:80/streaming/eurosport/16/tvrecw/playlist.m3u8
 
 		#EXTINF:-1,Sports Tonight (UK)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/g2K7rG/Sports_Tonight_UK.png" group-title="Desporto",Sports Tonight (UK)
@@ -598,9 +610,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",MATCH GAME (Russo)
 				http://msk2.peers.tv:80/streaming/sport_2/16/tvrecw/playlist.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",
-				
+		#EXTINF:-1,Extreme Sports (Russo)
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",Extreme Sports (Russo)
+				http://msk2.peers.tv:80/streaming/nash_futbol/16/tvrec/playlist.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",
@@ -675,6 +687,14 @@
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",Mult (Russo)
 				http://msk2.peers.tv:80/streaming/mult/16/tvrec/playlist.m3u8
 			
+		#EXTINF:-1,Multimania TV (Russo)
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",Multimania TV (Russo)
+				http://msk2.peers.tv:80/streaming/multimania/16/tvrec/playlist.m3u8
+
+		#EXTINF:-1,Tiji (Russo)
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",Tiji (Russo)
+				http://msk2.peers.tv:80/streaming/tiji/16/tvrec/playlist.m3u8
+
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",
 				
@@ -784,9 +804,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Eurokino (Russo)
 				http://msk2.peers.tv:80/streaming/eurokino/16/tvrec/playlist.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",
-				
+		#EXTINF:-1,Cinema (Russo)
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Cinema (Russo)
+				http://msk2.peers.tv:80/streaming/ipark/16/tvrec/playlist.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",
@@ -933,6 +953,14 @@
 			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",La - Minor
 				http://msk2.peers.tv:80/streaming/la_minor/16/tvrec/playlist.m3u8
 
+		#EXTINF:-1,Chanson TV
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Chanson TV
+				http://msk2.peers.tv:80/streaming/shanson/16/tvrec/playlist.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",
+				
+
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",
 				
@@ -949,14 +977,16 @@
 		#EXTINF:-1,ANIMAL PLANET LIVE
 			#EXTINF:-1 tvg-logo="" group-title="Documentarios",ANIMAL PLANET LIVE
 				http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
-
+			#EXTINF:-1 tvg-logo="" group-title="Documentarios",ANIMAL PLANET LIVE (Russo)
+				http://msk2.peers.tv:80/streaming/animalplanet/16/tvrecw/playlist.m3u8
+				
 		#EXTINF:-1,Discovery Channel
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/nFrZ65/Discovery_channel.png" group-title="Documentarios",Discovery Channel (Russia)
 				http://msk2.peers.tv:80/streaming/discovery/16/tvrecw/playlist.m3u8
 
-		#EXTINF:-1,Discovery HD (Ingles)
-			#EXTINF:-1 tvg-logo="" group-title="Documentarios",Discovery HD (Ingles)
-
+		#EXTINF:-1,Discovery Science
+			#EXTINF:-1 tvg-logo="" group-title="Documentarios",Discovery Science (Russia)
+				http://msk2.peers.tv:80/streaming/discoveryscience/16/tvrecw/playlist.m3u8
 
 		#EXTINF:-1,National Geographic
 			#EXTINF:-1 tvg-logo="" group-title="Documentarios",National Geographic (Russo)
@@ -1052,9 +1082,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Temáticos",TV Travel HD (Russo) (Travel)
 				http://msk2.peers.tv:80/streaming/teleputeshestviya/16/tvrecw/playlist.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Temáticos",
-				
+		#EXTINF:-1,Da Vinci Learning (knowledge)
+			#EXTINF:-1 tvg-logo="" group-title="Temáticos",Da Vinci Learning (knowledge)
+				http://msk2.peers.tv:80/streaming/da_vinci/16/tvrecw/playlist.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Temáticos",
@@ -1847,41 +1877,42 @@
 			#EXTINF:-1 tvg-logo="" group-title="Russia",Psychology21 (psychology)
 				http://msk2.peers.tv:80/streaming/psych_21/16/tvrec/playlist.m3u8
 	
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Russia",
-				
+		#EXTINF:-1,Mama (mothers)
+			#EXTINF:-1 tvg-logo="" group-title="Russia",Mama (mothers)
+				http://msk2.peers.tv:80/streaming/motherchi/16/tvrec/playlist.m3u8
 	
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Russia",
-				
+		#EXTINF:-1,Yu
+			#EXTINF:-1 tvg-logo="" group-title="Russia",Yu
+				http://msk2.peers.tv:80/streaming/utv/16/tvrec/playlist.m3u8
 	
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Russia",
-				
+		#EXTINF:-1,Fifth channel
+			#EXTINF:-1 tvg-logo="" group-title="Russia",Fifth channel
+				http://msk2.peers.tv:80/streaming/5kanal/126/variable.m3u8
 	
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Russia",
-				
+		#EXTINF:-1,DTX
+			#EXTINF:-1 tvg-logo="" group-title="Russia",DTX
+				http://msk2.peers.tv:80/streaming/discoveryworld/16/tvrecw/playlist.m3u8
 	
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Russia",
-				
+		#EXTINF:-1,First channel
+			#EXTINF:-1 tvg-logo="" group-title="Russia",First channel
+				http://msk2.peers.tv:80/streaming/1kanal/126/variable.m3u8
 	
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Russia",
-				
+		#EXTINF:-1,Central Television
+			#EXTINF:-1 tvg-logo="" group-title="Russia",Central Television
+				http://msk2.peers.tv:80/streaming/tvc_ctv/126/tvrecw/playlist.m3u8
+
 	
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Russia",
-				
+		#EXTINF:-1,VETTA 24 
+			#EXTINF:-1 tvg-logo="" group-title="Russia",VETTA 24 
+				http://msk2.peers.tv:80/streaming/vetta_24/126/tvrecw/playlist.m3u8
 	
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Russia",
-				
+		#EXTINF:-1,Че
+			#EXTINF:-1 tvg-logo="" group-title="Russia",Че
+				http://msk2.peers.tv:80/streaming/perec/16/tvrec/playlist.m3u8
 	
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Russia",
-				
+		#EXTINF:-1,Manor
+			#EXTINF:-1 tvg-logo="" group-title="Russia",Manor
+				http://msk2.peers.tv:80/streaming/usadba/16/tvrec/playlist.m3u8
 	
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Russia",
