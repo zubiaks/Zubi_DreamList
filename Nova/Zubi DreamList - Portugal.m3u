@@ -1,4 +1,5 @@
 ﻿#EXTM3U
+	#EXTINF:-1,Zubi DreamList V_0.49 17/12/2017
 			http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
@@ -253,10 +254,28 @@
 		#EXTINF:-1,NHK WORLD HD (Japão)
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",NHK WORLD HD (Japão)
 				https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",NHK WORLD HD (Japão) (Alternativa)
+				http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_2100.m3u8
 				
 		#EXTINF:-1,DW HD (English)
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",DW HD (English)
 				 http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+				
+		#EXTINF:-1,Rain (Russo)
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",Rain (Russo)
+				http://msk2.peers.tv:80/streaming/rain/16/tvrecw/playlist.m3u8
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",
+				
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",
+				
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",
+				
 				
 				
 
@@ -315,9 +334,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",E! Entertainment
 
 
-		#EXTINF:-1,E! Entertainment HD
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",E! Entertainment HD
-
+		#EXTINF:-1,Domashniy (family TV) (Russo)
+			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",Domashniy (family TV) (Russo)
+				http://msk2.peers.tv:80/streaming/domashny/16/tvrec/playlist.m3u8
 
 		#EXTINF:-1,Travel Channel
 			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",Travel Channel
@@ -575,9 +594,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",KHL - Continental Hockey League (Russo)
 				http://msk2.peers.tv:80/streaming/khl/16/tvrecw/playlist.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",
-				
+		#EXTINF:-1,MATCH GAME (Russo)
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",MATCH GAME (Russo)
+				http://msk2.peers.tv:80/streaming/sport_2/16/tvrecw/playlist.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",
@@ -621,12 +640,12 @@
 				http://msk2.peers.tv:80/streaming/cartoonnetwork/16/tvrecw/playlist.m3u8
 
 		#EXTINF:-1,Nickelodeon
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",Nickelodeon
-
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",Nickelodeon (Russo)
+				http://msk2.peers.tv:80/streaming/nickelodeon/126/variable.m3u8
 
 		#EXTINF:-1,Jim Jam
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",Jim Jam
-
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",Jim Jam (Russo)
+				http://msk2.peers.tv:80/streaming/jim_jam/16/tvrec/playlist.m3u8
 
 		#EXTINF:-1,SIC Kids
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",SIC Kids
@@ -652,9 +671,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",Children's World (Russo)
 				http://msk2.peers.tv:80/streaming/forkids/16/tvrec/playlist.m3u8
 			
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",
-				
+		#EXTINF:-1,Mult (Russo)
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",Mult (Russo)
+				http://msk2.peers.tv:80/streaming/mult/16/tvrec/playlist.m3u8
 			
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",
@@ -756,6 +775,26 @@
 		#EXTINF:-1,Russian bestseller (Russo)
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Russian bestseller (Russo)
 				http://msk2.peers.tv:80/streaming/russia_best/16/tvrec/playlist.m3u8
+
+		#EXTINF:-1,Cinema Illusion (Russo)
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Cinema Illusion (Russo)
+				http://msk2.peers.tv:80/streaming/illyuzion/16/tvrec/playlist.m3u8
+
+		#EXTINF:-1,Eurokino (Russo)
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Eurokino (Russo)
+				http://msk2.peers.tv:80/streaming/eurokino/16/tvrec/playlist.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",
+				
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",
@@ -890,9 +929,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Slam TV
 				http://hls.slam.nl/streaming/hls/SLAM!/lower_500000/playlist.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",
-				
+		#EXTINF:-1,La - Minor
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",La - Minor
+				http://msk2.peers.tv:80/streaming/la_minor/16/tvrec/playlist.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",
@@ -920,9 +959,9 @@
 
 
 		#EXTINF:-1,National Geographic
-			#EXTINF:-1 tvg-logo="" group-title="Documentarios",National Geographic (Ingles)
-
-
+			#EXTINF:-1 tvg-logo="" group-title="Documentarios",National Geographic (Russo)
+				http://msk2.peers.tv:80/streaming/natgeo/16/tvrecw/playlist.m3u8
+				
 		#EXTINF:-1,National Geographic Wild
 			#EXTINF:-1 tvg-logo="" group-title="Documentarios",National Geographic Wild (Ingles)
 
@@ -1005,6 +1044,26 @@
 			#EXTINF:-1 tvg-logo="" group-title="Temáticos",InfoWars
 				http://infowarslive-lh.akamaihd.net:80/i/infowarslivestream_1@353459/index_800_av-p.m3u8
 
+		#EXTINF:-1,Made in Kuzbass (Russo)
+			#EXTINF:-1 tvg-logo="" group-title="Temáticos",Made in Kuzbass (Russo)
+				http://msk2.peers.tv:80/streaming/sdelano_v_kuzbasse_hd/16/copy/playlist.m3u8
+
+		#EXTINF:-1,TV Travel HD (Russo) (Travel)
+			#EXTINF:-1 tvg-logo="" group-title="Temáticos",TV Travel HD (Russo) (Travel)
+				http://msk2.peers.tv:80/streaming/teleputeshestviya/16/tvrecw/playlist.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Temáticos",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Temáticos",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Temáticos",
+				
+
 			
 			
 #EXTINF:-1,[B][COLOR yellow]<== Regionais ==>[/COLOR][/B]
@@ -1033,8 +1092,15 @@
  		#EXTINF:-1,Telemilano Tele TV (Italian) (Vendas)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/b3kuB5/Telemilano_Tele_TV_Italian_Vendas.jpg" group-title="Shopping TV",Telemilano Tele TV (Italian) (Televendas)
 				
-				
+		#EXTINF:-1,QVC DE Beauty (Vendas)
+			#EXTINF:-1 tvg-logo="" group-title="Vendas",QVC DE Beauty (Vendas)
+				http://live.qvcde.simplestreamcdn.com:80/live/qvcde_beauty_clean/bitrate1.isml/live-test.m3u8
 
+		#EXTINF:-1,QVC DE Plus (Vendas)
+			#EXTINF:-1 tvg-logo="" group-title="Vendas",QVC DE Plus (Vendas)
+				http://live.qvcde.simplestreamcdn.com:80/live/qvcde_plus_clean/bitrate1.isml/live-test.m3u8	
+
+				
 				
 #EXTINF:-1,[B][COLOR yellow]<== Religioso ==>[/COLOR][/B]
 	http://0.0.0.0:1234
@@ -1379,6 +1445,22 @@
 
 
 
+#EXTINF:-1,[B][COLOR yellow]<== Chile ==>[/COLOR][/B]
+	http://0.0.0.0:1234
+
+		#EXTINF:-1,Holvoet TV (Chile)
+			#EXTINF:-1 tvg-logo="" group-title="Chile",Holvoet TV (Chile)
+				http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Chile",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Chile",
+				
+
+
 #EXTINF:-1,[B][COLOR yellow]<== Egypt ==>[/COLOR][/B]
 	http://0.0.0.0:1234
 
@@ -1587,12 +1669,37 @@
 			
 
 
-#EXTINF:-1,[B][COLOR yellow]<== Republica Checa ==>[/COLOR][/B]
+#EXTINF:-1,[B][COLOR yellow]<== Polonia ==>[/COLOR][/B]
+	http://0.0.0.0:1234
+
+		#EXTINF:-1,Sfera TV (Polonia)
+			#EXTINF:-1 tvg-logo="" group-title="Polonia",Sfera TV (Polonia)
+				rtmp://stream.sferatv.pl/sferalive/_definst_/mp4:live3
+
+
+			
+#EXTINF:-1,[B][COLOR yellow]<== República Dominicana ==>[/COLOR][/B]
 	http://0.0.0.0:1234
 	
-		#EXTINF:-1,Elektrika TV (Czech)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/g7FFyk/Elektrika_TV_Czech.gif" group-title="Republica Checa",Elektrika TV (Czech)
-				http://live.tvtomsk.ru/hls/RT-24.m3u8
+		#EXTINF:-1,Telenord 8
+			#EXTINF:-1 tvg-logo="" group-title="República Dominicana",Telenord 8
+				http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
+
+		#EXTINF:-1,Telenord 10
+			#EXTINF:-1 tvg-logo="" group-title="República Dominicana",Telenord 10
+				http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
+
+		#EXTINF:-1,Telenord 12
+			#EXTINF:-1 tvg-logo="" group-title="República Dominicana",Telenord 12
+				http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+
+		#EXTINF:-1,Telenord 14
+			#EXTINF:-1 tvg-logo="" group-title="República Dominicana",Telenord 14
+				http://newyorkstream.ddns.net:1935/telenord14/telenord14/playlist.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="República Dominicana",
+				
 
 				
 				
@@ -1720,25 +1827,25 @@
 			#EXTINF:-1 tvg-logo="" group-title="Russia",Channel Success (Moscow) (Business)
 				http://msk2.peers.tv:80/streaming/uspex/16/tvrec/playlist.m3u8
 	
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Russia",
-				
+		#EXTINF:-1,Ren TV
+			#EXTINF:-1 tvg-logo="" group-title="Russia",Ren TV
+				http://msk2.peers.tv:80/streaming/rentv/126/tvrecw/playlist.m3u8
 	
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Russia",
-				
+		#EXTINF:-1,WORLD TV
+			#EXTINF:-1 tvg-logo="" group-title="Russia",WORLD TV
+				http://msk2.peers.tv:80/streaming/mir/16/tvrecw/playlist.m3u8
 	
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Russia",
-				
+		#EXTINF:-1,Channel 8
+			#EXTINF:-1 tvg-logo="" group-title="Russia",Channel 8
+				http://msk2.peers.tv:80/streaming/8_kanal/16/tvrecw/playlist.m3u8
 	
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Russia",
-				
+		#EXTINF:-1,TOGETHER - RF 
+			#EXTINF:-1 tvg-logo="" group-title="Russia",TOGETHER - RF 
+				http://msk2.peers.tv:80/streaming/vmeste_rf/126/tvrecw/playlist.m3u8
 	
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Russia",
-				
+		#EXTINF:-1,Psychology21 (psychology)
+			#EXTINF:-1 tvg-logo="" group-title="Russia",Psychology21 (psychology)
+				http://msk2.peers.tv:80/streaming/psych_21/16/tvrec/playlist.m3u8
 	
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Russia",
