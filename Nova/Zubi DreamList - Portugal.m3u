@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-	#EXTINF:-1,Zubi DreamList V_0.54 18/12/2017
+	#EXTINF:-1,Zubi DreamList V_0.55 19/12/2017
 			http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
@@ -164,7 +164,7 @@
 		#EXTINF:-1,France 24 (Ingles)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/d8GJKQ/France_24.png" group-title="Informacao",France 24 (Ingles)
 				http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/d8GJKQ/France_24.png" group-title="Informacao",France 24 (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/d8GJKQ/France_24.png" group-title="Informacao",France 24 (Ingles) (Alternativa)
 				http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 				
 		#EXTINF:-1,CBS NEWS HD
@@ -257,7 +257,7 @@
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",New TV (Thailand) (Alternativa)
 				http://newtv.cdn.byteark.com:80/live/playlist.m3u8
 
-~		#EXTINF:-1,NHK WORLD HD (Japão)
+		#EXTINF:-1,NHK WORLD HD (Japão)
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",NHK WORLD HD (Japão)
 				https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",NHK WORLD HD (Japão) (Alternativa)
@@ -811,8 +811,10 @@
 				
 
 		#EXTINF:-1,Fox Movies
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Fox Movies
-
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Fox Movies (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXMOVIES_HD)/index.m3u8
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Fox Movies (Espanhol) (Alternativa)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(THE_FILM_ZONE_HD)/index.m3u8
 
 		#EXTINF:-1,Fox
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/nH3e4Q/fox.jpg" group-title="Filmes e Series",Fox
@@ -902,13 +904,29 @@
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",CINELATINO (Espanhol)
 				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINELATINO)/index.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",
-				
+		#EXTINF:-1,Cinemax (Espanhol)
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Cinemax (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(CINEMAX)/index.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",
-				
+		#EXTINF:-1,TNT HD
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TNT HD (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_HD)/index.m3u8
+
+		#EXTINF:-1,FOX ACTION
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",FOX ACTION (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_ACTION)/index.m3u8
+
+		#EXTINF:-1,FOX CINEMA HD (Espanhol)
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",FOX CINEMA HD (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CINEMA_HD)/index.m3u8
+
+		#EXTINF:-1,FOX CLASSICS HD
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",FOX CLASSICS HD
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CLASSICS_HD)/index.m3u8
+
+		#EXTINF:-1,SPACE_HD (Espanhol)
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",SPACE_HD (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SPACE_HD)/index.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",
@@ -1207,6 +1225,8 @@
 		#EXTINF:-1,National Geographic
 			#EXTINF:-1 tvg-logo="" group-title="Documentarios",National Geographic (Russo)
 				http://msk2.peers.tv:80/streaming/natgeo/16/tvrecw/playlist.m3u8
+			#EXTINF:-1 tvg-logo="" group-title="Documentarios",National Geographic (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO)/index.m3u8
 				
 		#EXTINF:-1,National Geographic Wild
 			#EXTINF:-1 tvg-logo="" group-title="Documentarios",National Geographic Wild (Ingles)
@@ -1215,6 +1235,10 @@
 		#EXTINF:-1,Historia
 			#EXTINF:-1 tvg-logo="" group-title="Documentarios",Historia 
 
+
+		#EXTINF:-1,Historia 2
+			#EXTINF:-1 tvg-logo="" group-title="Documentarios",Historia 2 (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(H2)/index.m3u8
 
 		#EXTINF:-1,Odisseia
 			#EXTINF:-1 tvg-logo="" group-title="Documentarios",Odisseia
@@ -1632,6 +1656,22 @@
 		#EXTINF:-1,eitb.eus (Argentina)
 			#EXTINF:-1 tvg-logo="" group-title="Argentina",eitb.eus (Argentina)
 				http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+
+		#EXTINF:-1,ISAT (Espanhol) (Argentina)
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",ISAT (Espanhol) (Argentina)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ISAT)/index.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",
+				
 
 
 		
