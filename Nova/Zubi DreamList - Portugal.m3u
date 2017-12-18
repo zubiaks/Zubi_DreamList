@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-	#EXTINF:-1,Zubi DreamList V_0.53 18/12/2017
+	#EXTINF:-1,Zubi DreamList V_0.54 18/12/2017
 			http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
@@ -283,9 +283,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",Channel 8 - Krasnoyarsk Territory (Russia)
 				http://msk2.peers.tv:80/streaming/ya1pm/16/copy/playlist.m3u8
 				
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Informacao",
-				
+		#EXTINF:-1,Cnbc Awaaz (Hindi)
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",Cnbc Awaaz (Hindi)
+				http://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_n_1@174872/index_1_av-p.m3u8
 				
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",
@@ -333,8 +333,8 @@
 				http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 
 		#EXTINF:-1,A&E
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",A&E
-
+			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",A&E (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AE)/Stream(01)/index.m3u8
 
 		#EXTINF:-1,Funbox 4K
 			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",Funbox 4K (Ingles)
@@ -627,10 +627,30 @@
 		#EXTINF:-1,Sky Sport News HD
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",Sky Sport News HD
 				https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8
-
+				
 		#EXTINF:-1,Football (Russia)
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",Football (Russia)
 				http://msk2.peers.tv:80/streaming/futbol/126/tvrecw/playlist.m3u8
+
+		#EXTINF:-1,ESPN  
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",ESPN (Espanhol)
+				http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8
+
+		#EXTINF:-1,ESPN 2
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",ESPN 2 (Espanhol)
+				http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+
+		#EXTINF:-1,ESPN 3
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",ESPN 3 (Espanhol)
+				http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/Stream(07)/index.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",
+				
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",
@@ -660,7 +680,9 @@
 		#EXTINF:-1,Disney Junior
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cmgmik/DISNEY_JUNIOR.png" group-title="Infantil",Disney Junior (Russo)
 				 http://msk2.peers.tv:80/streaming/disney/16/tvrec/playlist.m3u8
-
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cmgmik/DISNEY_JUNIOR.png" group-title="Infantil",DISNEY JUNIOR (Espanhol)
+				 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_JR)/Stream(01)/index.m3u8
+				 
 		#EXTINF:-1,Disney Channel
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/ccycpQ/DISNEY_CHANNEL.png" group-title="Infantil",Disney Channel
 				
@@ -668,6 +690,8 @@
 		#EXTINF:-1,Cartoon Network
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cQGDUQ/CARTOON_NETWORK.png" group-title="Infantil",Cartoon Network (Russo) 
 				http://msk2.peers.tv:80/streaming/cartoonnetwork/16/tvrecw/playlist.m3u8
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cQGDUQ/CARTOON_NETWORK.png" group-title="Infantil", CARTOON NETWORT (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/Stream(01)/index.m3u8
 
 		#EXTINF:-1,Nickelodeon
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",Nickelodeon (Russo)
@@ -724,6 +748,22 @@
 		#EXTINF:-1,TRT CHILD (Turco)
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",TRT CHILD
 				http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+
+		#EXTINF:-1,HBO FAMILY
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",HBO FAMILY (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_FAMILY_HD)/Stream(01)/index.m3u8
+
+		#EXTINF:-1,NATGEO KIDS
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",NATGEO KIDS (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_KIDS_HD)/Stream(01)/index.m3u8
+
+		#EXTINF:-1,TOONCAST
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",TOONCAST (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TOONCAST)/Stream(01)/index.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",
+				
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",
@@ -783,8 +823,8 @@
 
 
 		#EXTINF:-1,Fox Life
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Fox Life
-
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",FOX LIFE (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_LIFE)/Stream(01)/index.m3u8
 
 		#EXTINF:-1,Fox Crime
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Fox Crime
@@ -833,6 +873,38 @@
 		#EXTINF:-1,Cinema (Russo)
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Cinema (Russo)
 				http://msk2.peers.tv:80/streaming/ipark/16/tvrec/playlist.m3u8
+
+		#EXTINF:-1,FOX SERIES 
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",FOX SERIES 
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX1_HD)/Stream(01)/index.m3u8
+
+		#EXTINF:-1,HBO
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",HBO (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_HD)/Stream(01)/index.m3u8
+
+		#EXTINF:-1,HBO 2
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",HBO 2 (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_2_HD)/Stream(01)/index.m3u8
+
+		#EXTINF:-1,HBO PLUS
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",HBO PLUS (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS_HD)/Stream(01)/index.m3u8
+
+		#EXTINF:-1,De Pelicula HD (Espanhol)
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",De Pelicula HD (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DEPELICULA)/index.m3u8
+
+		#EXTINF:-1,Golden PLus (Espanhol)
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Golden PLus (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_HD)/index.m3u8
+
+		#EXTINF:-1,CINELATINO (Espanhol)
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",CINELATINO (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINELATINO)/index.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",
+				
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",
@@ -1001,9 +1073,97 @@
 			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Europa Plus TV
 				http://msk2.peers.tv:80/streaming/europaplustv/16/tvrecw/playlist.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",
-				
+		#EXTINF:-1,Capital TV
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Capital TV
+				http://ooyalahd2-f.akamaihd.net:80/i/globalradio01_delivery@156521/index_656_av-b.m3u8
+
+		#EXTINF:-1,Brits Hits
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Brits Hits
+				http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC143/chunklist.m3u8
+
+		#EXTINF:-1,Dance/EDM
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Dance/EDM
+				http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
+
+		#EXTINF:-1,Hip-Hop And R&B
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Hip-Hop And R&B
+				http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
+
+		#EXTINF:-1,Hit List
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Hit List
+				http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
+
+		#EXTINF:-1,Indie
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Indie
+				http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
+
+		#EXTINF:-1,Kidz Only!
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Kidz Only!
+				http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
+
+		#EXTINF:-1,Metal
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Metal
+				http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
+
+		#EXTINF:-1,Mexicana
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Mexicana
+				http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
+
+		#EXTINF:-1,Musica Urbana
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Musica Urbana
+				http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC128/chunklist.m3u8
+
+		#EXTINF:-1,Pop & Country
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Pop & Country
+				http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
+
+		#EXTINF:-1,Pop Hits
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Pop Hits
+				http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
+
+		#EXTINF:-1,Pop Latino
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Pop Latino
+				http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
+
+		#EXTINF:-1,R&B Soul
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",R&B Soul
+				http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
+
+		#EXTINF:-1,Rap
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Rap
+				http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
+
+		#EXTINF:-1,Rap 2K
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Rap 2K
+				http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC141/chunklist.m3u8
+
+		#EXTINF:-1,Rock
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Rock
+				http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
+
+		#EXTINF:-1,Teen Beats
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Teen Beats
+				http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC118/chunklist.m3u8
+
+		#EXTINF:-1,Throwback Jamz
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Throwback Jamz
+				http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC142/chunklist.m3u8
+
+		#EXTINF:-1,Today
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Today
+				http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC121/chunklist.m3u8
+
+		#EXTINF:-1,Toddler Tunes
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Toddler Tunes
+				http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC144/chunklist.m3u8
+
+		#EXTINF:-1,Tropicales
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Tropicales
+				http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
+
+		#EXTINF:-1,Y2K
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Y2K
+				http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",
@@ -1031,10 +1191,14 @@
 				http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 			#EXTINF:-1 tvg-logo="" group-title="Documentarios",ANIMAL PLANET LIVE (Russo)
 				http://msk2.peers.tv:80/streaming/animalplanet/16/tvrecw/playlist.m3u8
-				
+			#EXTINF:-1 tvg-logo="" group-title="Documentarios",ANIMAL PLANET (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ANIMAL_PLANET_HD)/Stream(01)/index.m3u8
+								
 		#EXTINF:-1,Discovery Channel
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/nFrZ65/Discovery_channel.png" group-title="Documentarios",Discovery Channel (Russia)
 				http://msk2.peers.tv:80/streaming/discovery/16/tvrecw/playlist.m3u8
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nFrZ65/Discovery_channel.png" group-title="Documentarios",Discovery Channel (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(01)/index.m3u8
 
 		#EXTINF:-1,Discovery Science
 			#EXTINF:-1 tvg-logo="" group-title="Documentarios",Discovery Science (Russia)
@@ -1072,13 +1236,13 @@
 			#EXTINF:-1 tvg-logo="" group-title="Documentarios",Zоо ТV (Russia)
 				http://msk2.peers.tv:80/streaming/zoo_tv/16/tvrecw/playlist.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Documentarios",
-				
+		#EXTINF:-1,DISCOVERY H&H
+			#EXTINF:-1 tvg-logo="" group-title="Documentarios",DISCOVERY H&H (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(01)/index.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Documentarios",
-				
+		#EXTINF:-1,ID
+			#EXTINF:-1 tvg-logo="" group-title="Documentarios",ID (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ID_HD)/Stream(01)/index.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Documentarios",
@@ -1235,6 +1399,18 @@
 		#EXTINF:-1,Shop 24 (Russia)
 			#EXTINF:-1 tvg-logo="" group-title="Vendas",Shop 24 (Russia)
 				http://msk2.peers.tv:80/streaming/shop24/126/tvrecw/playlist.m3u8
+
+		#EXTINF:-1,TVSN (Vendas) 
+			#EXTINF:-1 tvg-logo="" group-title="Vendas",TVSN (Vendas) 
+				http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
+
+		#EXTINF:-1,HSE 24 EXTRA 
+			#EXTINF:-1 tvg-logo="" group-title="Vendas",HSE 24 EXTRA 
+				http://c17001-l.u.core.cdn.streamfarm.net/17001hse24/live/3293hse24digital/live_de.isml/playlist.m3u8
+
+		#EXTINF:-1,HSE 24
+			#EXTINF:-1 tvg-logo="" group-title="Vendas",HSE 24
+				https://c17001-l.u.core.cdn.streamfarm.net/17001hse24/live/3175hse24/live_de.isml/playlist.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Vendas",
@@ -1666,9 +1842,9 @@
 			#EXTINF:-0 group-title="Espanha" tvg-logo="",unknown23
 				http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_5_av-p.m3u8
 				
-		#EXTINF:-1,
-			#EXTINF:-0 group-title="Espanha" tvg-logo="",
-				
+		#EXTINF:-1,ETB Sat 
+			#EXTINF:-0 group-title="Espanha" tvg-logo="",ETB Sat 
+				http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
 				
 		#EXTINF:-1,
 			#EXTINF:-0 group-title="Espanha" tvg-logo="",
@@ -1853,6 +2029,23 @@
 
 				
 
+#EXTINF:-1,[B][COLOR yellow]<== Nepal ==>[/COLOR][/B]
+	http://0.0.0.0:1234
+
+		#EXTINF:-1,KANTIPUR TV (Nepal)
+			#EXTINF:-1 tvg-logo="" group-title="Nepal",KANTIPUR TV (Nepal)
+				http://192.241.129.217:8081/edgeusacdnktv1/ktvlive/playlist.m3u8
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Nepal",
+				
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Nepal",
+				
+				
+	
+	
 #EXTINF:-1,[B][COLOR yellow]<== PUERTO RICO ==>[/COLOR][/B]
 
 
