@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-	#EXTINF:-1,Zubi DreamList V_0.51 17/12/2017
+	#EXTINF:-1,Zubi DreamList V_0.52 18/12/2017
 			http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
@@ -164,7 +164,9 @@
 		#EXTINF:-1,France 24 (Ingles)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/d8GJKQ/France_24.png" group-title="Informacao",France 24 (Ingles)
 				http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/d8GJKQ/France_24.png" group-title="Informacao",France 24 (Ingles)
+				http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+				
 		#EXTINF:-1,CBS NEWS HD
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cVrDm5/CBSN.jpg" group-title="Informacao",CBS NEWS HD
 				http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
@@ -396,7 +398,7 @@
 
 		#EXTINF:-1,Insight TV UHD
 			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",Insight TV UHD (Ingles)
-
+				http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8 
 
 		#EXTINF:-1,GLOBO PREMIUM
 			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",GLOBO PREMIUM
@@ -656,12 +658,12 @@
 
 
 		#EXTINF:-1,Disney Junior
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cmgmik/DISNEY_JUNIOR.png" group-title="Infantil",Disney Junior
-				
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cmgmik/DISNEY_JUNIOR.png" group-title="Infantil",Disney Junior (Russo)
+				 http://msk2.peers.tv:80/streaming/disney/16/tvrec/playlist.m3u8
 
 		#EXTINF:-1,Disney Channel
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/ccycpQ/DISNEY_CHANNEL.png" group-title="Infantil",Disney Channel
-
+				
 
 		#EXTINF:-1,Cartoon Network
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cQGDUQ/CARTOON_NETWORK.png" group-title="Infantil",Cartoon Network (Russo) 
@@ -711,17 +713,17 @@
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",Tiji (Russo)
 				http://msk2.peers.tv:80/streaming/tiji/16/tvrec/playlist.m3u8
 
-		#EXTINF:-1,COUNTRY
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",COUNTRY
+		#EXTINF:-1,COUNTRY (Russo)
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",COUNTRY (Russo)
 				http://msk2.peers.tv:80/streaming/strana/16/tvrec/playlist.m3u8
 
-		#EXTINF:-1,Carousel
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",Carousel
+		#EXTINF:-1,Carousel (Russo)
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",Carousel (Russo)
 				http://msk2.peers.tv:80/streaming/karusel/16/variable.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",
-				
+		#EXTINF:-1,TRT CHILD (Turco)
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",TRT CHILD
+				http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",
@@ -985,6 +987,26 @@
 			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",VH1 Classic
 				http://msk2.peers.tv:80/streaming/vh1/16/tvrec/playlist.m3u8
 
+		#EXTINF:-1,TRT Muzik
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",TRT Muzik
+				http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+
+		#EXTINF:-1,Europa Plus TV
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Europa Plus TV
+				http://msk2.peers.tv:80/streaming/europaplustv/16/tvrecw/playlist.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",
+				
+
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",
 				
@@ -996,7 +1018,7 @@
 
 				
 #EXTINF:-1,[B][COLOR yellow]<== Documentarios ==>[/COLOR][/B]
-	
+	http://0.0.0.0:1234	
 	
 		#EXTINF:-1,ANIMAL PLANET LIVE
 			#EXTINF:-1 tvg-logo="" group-title="Documentarios",ANIMAL PLANET LIVE
@@ -1032,6 +1054,35 @@
 			#EXTINF:-1 tvg-logo="" group-title="Documentarios",Investigation Discovery (Ingles)
 
 
+		#EXTINF:-1,Zooпарк
+			#EXTINF:-1 tvg-logo="" group-title="Documentarios",Zooпарк
+				http://msk2.peers.tv:80/streaming/zoopark/126/tvrec/playlist.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Documentarios",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Documentarios",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Documentarios",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Documentarios",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Documentarios",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Documentarios",
+				
+
+			
 
 #EXTINF:-1,[B][COLOR yellow]<== CARS & AUTO ==>[/COLOR][/B]
 
@@ -1151,8 +1202,28 @@
 				http://live.qvcde.simplestreamcdn.com:80/live/qvcde_plus_clean/bitrate1.isml/live-test.m3u8	
 
 		#EXTINF:-1,Shop Channel (Vendas)(Japão)
-			#EXTINF:-1 tvg-logo="" group-title="Temáticos",Shop Channel (Vendas)(Japão)
+			#EXTINF:-1 tvg-logo="" group-title="Vendas",Shop Channel (Vendas)(Japão)
 				http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+
+		#EXTINF:-1,TSC - Online Shopping for Canadians
+			#EXTINF:-1 tvg-logo="" group-title="Vendas",TSC - Online Shopping for Canadians
+				http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-b.m3u8
+
+		#EXTINF:-1,Japan Channel DX
+			#EXTINF:-1 tvg-logo="" group-title="Vendas",Japan Channel DX
+				http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Vendas",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Vendas",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Vendas",
+				
 
 				
 				
@@ -1249,9 +1320,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",Union (Russian) (Orthodox)
 				http://msk2.peers.tv:80/streaming/soyuz/16/tvrec/playlist.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Religioso",
-				
+		#EXTINF:-1,PUSH TV
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",PUSH TV
+				http://104.245.38.209:8081/pushtv/PUSH/chunks.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",
@@ -1575,12 +1646,28 @@
 
 
 #EXTINF:-1,[B][COLOR yellow]<== Franca ==>[/COLOR][/B]
-	
+	http://0.0.0.0:1234	
 
 		#EXTINF:-1,Weo HD (Franca)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/ir4AYk/Weo_HD_Franca.png" group-title="Franca",Weo HD (Franca)
-
+				
 			
+		#EXTINF:-1,RTL TVI HD
+			#EXTINF:-1 tvg-logo="" group-title="Franca",RTL TVI HD
+				http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Franca",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Franca",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Franca",
+				
+
  
 
 #EXTINF:-1,[B][COLOR yellow]<== Holanda ==>[/COLOR][/B]
@@ -1705,15 +1792,6 @@
 
 				
 
-#EXTINF:-1,[B][COLOR yellow]<== Polonia ==>[/COLOR][/B]
-	http://0.0.0.0:1234
-
-		#EXTINF:-1,Sfera TV (Polonia)
-			#EXTINF:-1 tvg-logo="" group-title="Polonia",Sfera TV (Polonia)
-				rtmp://stream.sferatv.pl/sferalive/_definst_/mp4:live3
-
-
-			
 #EXTINF:-1,[B][COLOR yellow]<== PUERTO RICO ==>[/COLOR][/B]
 
 
@@ -1989,41 +2067,41 @@
 			#EXTINF:-1 tvg-logo="" group-title="Russia",ID Xtra
 				http://msk2.peers.tv:80/streaming/investigationdiscovery/16/tvrecw/playlist.m3u8
 	
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Russia",
-				
+		#EXTINF:-1,Planet HD
+			#EXTINF:-1 tvg-logo="" group-title="Russia",Planet HD
+				http://msk2.peers.tv:80/streaming/iq_hd/16/tvrecw/playlist.m3u8
 	
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Russia",
-				
+		#EXTINF:-1,Indian film
+			#EXTINF:-1 tvg-logo="" group-title="Russia",Indian film
+				http://msk2.peers.tv:80/streaming/indiatv/16/tvrec/playlist.m3u8
 	
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Russia",
-				
+		#EXTINF:-1,FOX Life
+			#EXTINF:-1 tvg-logo="" group-title="Russia",FOX Life
+				http://msk2.peers.tv:80/streaming/foxlife/16/tvrecw/playlist.m3u8
 	
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Russia",
-				
+		#EXTINF:-1,Russia-K
+			#EXTINF:-1 tvg-logo="" group-title="Russia",Russia-K
+				http://msk2.peers.tv:80/streaming/kultura/126/variable.m3u8
 	
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Russia",
-				
+		#EXTINF:-1,Evpatoria TV
+			#EXTINF:-1 tvg-logo="" group-title="Russia",Evpatoria TV
+				http://msk2.peers.tv:80/streaming/evpatorija/126/tvrec/playlist.m3u8
 	
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Russia",
-				
+		#EXTINF:-1,a1
+			#EXTINF:-1 tvg-logo="" group-title="Russia",a1
+				http://msk2.peers.tv:80/streaming/amedia1/16/tvrecw/playlist.m3u8
 	
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Russia",
-				
+		#EXTINF:-1,Sony Sci-Fi
+			#EXTINF:-1 tvg-logo="" group-title="Russia",Sony Sci-Fi
+				http://msk2.peers.tv:80/streaming/sonyscifi/16/tvrecw/playlist.m3u8
 	
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Russia",
-				
+		#EXTINF:-1,FOX
+			#EXTINF:-1 tvg-logo="" group-title="Russia",FOX
+				http://msk2.peers.tv:80/streaming/fox/16/tvrecw/playlist.m3u8
 	
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Russia",
-				
+		#EXTINF:-1,О2ТВ
+			#EXTINF:-1 tvg-logo="" group-title="Russia",О2ТВ
+				http://msk2.peers.tv:80/streaming/o2tv/126/tvrecw/playlist.m3u8
 	
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Russia",
@@ -2224,7 +2302,9 @@
 		#EXTINF:-1,TRT 1 HD (Turquia)
 			#EXTINF:-1 tvg-logo="" group-title="Turquia",TRT 1 HD (Turquia)
 				http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&amp;rebase=on
-			
+			#EXTINF:-1 tvg-logo="" group-title="Turquia",TRT 1 HD (Turquia) (Alternativa)				
+				http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+				
 		#EXTINF:-1,SEMERKAND HD (Turquia)
 			#EXTINF:-1 tvg-logo="" group-title="Turquia",SEMERKAND HD (Turquia)
 				http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/Playlist.m3u8
@@ -2237,6 +2317,31 @@
 			#EXTINF:-1 tvg-logo="" group-title="Turquia",KANALD HD SECENEK 2 (Turquia)
 				http://37.48.83.10/S1/HLS_LIVE/kanald/750/prog_index.m3u8
 
+		#EXTINF:-1,TRT Avaz
+			#EXTINF:-1 tvg-logo="" group-title="Turquia",TRT Avaz
+				http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+
+		#EXTINF:-1,TRT Haber
+			#EXTINF:-1 tvg-logo="" group-title="Turquia",TRT Haber
+				http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+
+		#EXTINF:-1,TRT Okul
+			#EXTINF:-1 tvg-logo="" group-title="Turquia",TRT Okul
+				http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8 
+
+		#EXTINF:-1,TRT Turk
+			#EXTINF:-1 tvg-logo="" group-title="Turquia",TRT Turk
+				http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8 
+
+		#EXTINF:-1,TRT Kurdi
+			#EXTINF:-1 tvg-logo="" group-title="Turquia",TRT Kurdi
+				http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Turquia",
+				
+
+				
 				
 #EXTINF:-1,[B][COLOR yellow]<== Umited Kingdom ==>[/COLOR][/B]
 	http://0.0.0.0:1234
