@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-	#EXTINF:-1,Zubi DreamList V_0.55 19/12/2017
+	#EXTINF:-1,Zubi DreamList V_0.56 19/12/2017
 			http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
@@ -105,7 +105,7 @@
 
 		#EXTINF:-1,CNN
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/f925eQ/CNN.png" group-title="Informacao",CNN (Ingles)
-
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CNN_INTERNACIONAL)/index.m3u8
 
 		#EXTINF:-1,Euronews
 			#EXTINF:-1 group-title="Informacao" tvg-logo="https://image.ibb.co/ceSqtk/Euronews.png",Euronews (Russo)
@@ -341,8 +341,8 @@
 
 
 		#EXTINF:-1,TLC
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",TLC
-
+			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",TLC (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLC)/index.m3u8
 
 		#EXTINF:-1,E! Entertainment
 			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",E! Entertainment
@@ -644,13 +644,13 @@
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",ESPN 3 (Espanhol)
 				http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/Stream(07)/index.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",
-				
+		#EXTINF:-1,FOX SPORTS 2 HD
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",FOX SPORTS 2 HD (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS2_HD)/index.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",
-				
+		#EXTINF:-1,FOX SPORTS3 HD
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",FOX SPORTS3 HD (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/index.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",
@@ -684,8 +684,8 @@
 				 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_JR)/Stream(01)/index.m3u8
 				 
 		#EXTINF:-1,Disney Channel
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/ccycpQ/DISNEY_CHANNEL.png" group-title="Infantil",Disney Channel
-				
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ccycpQ/DISNEY_CHANNEL.png" group-title="Infantil",Disney Channel HD (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_HD)/index.m3u8
 
 		#EXTINF:-1,Cartoon Network
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cQGDUQ/CARTOON_NETWORK.png" group-title="Infantil",Cartoon Network (Russo) 
@@ -714,8 +714,8 @@
 
 			
 		#EXTINF:-1,Boomerang
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",Boomerang
-				
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",BOOMERANG (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BOOMERANG)/index.m3u8
 
 		#EXTINF:-1,anime TV (Latino)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/gGg15b/anime_TV_Latino.jpg" group-title="Infantil",anime TV (Latino)
@@ -761,9 +761,11 @@
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",TOONCAST (Espanhol)
 				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TOONCAST)/Stream(01)/index.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",
-				
+		#EXTINF:-1,DISNEY XD 
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",DISNEY XD (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_XD)/index.m3u8
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",DISNEY XD (Espanhol) (Alternativa)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_XD)/Stream(01)/index.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",
@@ -817,12 +819,12 @@
 				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(THE_FILM_ZONE_HD)/index.m3u8
 
 		#EXTINF:-1,Fox
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/nH3e4Q/fox.jpg" group-title="Filmes e Series",Fox
-
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nH3e4Q/fox.jpg" group-title="Filmes e Series",FOX HD (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_HD)/index.m3u8
 
 		#EXTINF:-1,AXN
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cdpQdk/AXN.png" group-title="Filmes e Series",AXN
-
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cdpQdk/AXN.png" group-title="Filmes e Series",AXN HD (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AXN_HD)/index.m3u8
 
 		#EXTINF:-1,Fox Life
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",FOX LIFE (Espanhol)
@@ -833,8 +835,8 @@
 
 
 		#EXTINF:-1,FOX Comedy
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",FOX Comedy
-
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",FOX Comedy (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_COMEDY_HD)/index.m3u8
 
 		#EXTINF:-1,AXN Black
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",AXN Black
@@ -891,6 +893,8 @@
 		#EXTINF:-1,HBO PLUS
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",HBO PLUS (Espanhol)
 				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS_HD)/Stream(01)/index.m3u8
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",HBO PLUS (Espanhol) (Alternativa)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS)/index.m3u8
 
 		#EXTINF:-1,De Pelicula HD (Espanhol)
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",De Pelicula HD (Espanhol)
@@ -915,6 +919,8 @@
 		#EXTINF:-1,FOX ACTION
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",FOX ACTION (Espanhol)
 				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_ACTION)/index.m3u8
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",FOX ACTION (Espanhol) (Alternativa)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_WORLD_HD)/index.m3u8
 
 		#EXTINF:-1,FOX CINEMA HD (Espanhol)
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",FOX CINEMA HD (Espanhol)
@@ -927,6 +933,26 @@
 		#EXTINF:-1,SPACE_HD (Espanhol)
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",SPACE_HD (Espanhol)
 				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SPACE_HD)/index.m3u8
+
+		#EXTINF:-1,SONY HD
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",SONY HD (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SONY_HD)/index.m3u8
+
+		#EXTINF:-1,FX HD
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",FX HD (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FX_HD)/index.m3u8
+
+		#EXTINF:-1,CINE CANAL (Espanhol)
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",CINE CANAL (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINECANAL_HD)/index.m3u8
+
+		#EXTINF:-1,FOX FAMILY
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",FOX FAMILY (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXFAMILY_HD)/index.m3u8
+
+		#EXTINF:-1,HBO SIGNATURE
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",HBO SIGNATURE (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_SIGNATURE_HD)/index.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",
@@ -1183,9 +1209,25 @@
 			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Y2K
 				http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",
-				
+		#EXTINF:-1,CONCERT CHANEL HD (Espanhol)
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",CONCERT CHANEL HD (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CONCERT_CHANNEL_HD)/index.m3u8
+
+		#EXTINF:-1,HTV (Espanhol)
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",HTV (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HTV)/index.m3u8
+
+		#EXTINF:-1,MTV HITS
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",MTV HITS (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MTV_HITS)/index.m3u8
+
+		#EXTINF:-1,RADIOLA (Espanhol) (Colombia) (Musica)
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",RADIOLA (Espanhol) (Colombia) (Musica)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(RADIOLA)/index.m3u8
+
+		#EXTINF:-1,VH1 HD
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",VH1 HD (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(VH1_HD)/index.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",
@@ -1221,7 +1263,9 @@
 		#EXTINF:-1,Discovery Science
 			#EXTINF:-1 tvg-logo="" group-title="Documentarios",Discovery Science (Russia)
 				http://msk2.peers.tv:80/streaming/discoveryscience/16/tvrecw/playlist.m3u8
-
+			#EXTINF:-1 tvg-logo="" group-title="Documentarios",Discovery Science (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_SCIENCE)/index.m3u8
+				
 		#EXTINF:-1,National Geographic
 			#EXTINF:-1 tvg-logo="" group-title="Documentarios",National Geographic (Russo)
 				http://msk2.peers.tv:80/streaming/natgeo/16/tvrecw/playlist.m3u8
@@ -1268,6 +1312,22 @@
 			#EXTINF:-1 tvg-logo="" group-title="Documentarios",ID (Espanhol)
 				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ID_HD)/Stream(01)/index.m3u8
 
+		#EXTINF:-1,DISCOVERY CIVIZATION 
+			#EXTINF:-1 tvg-logo="" group-title="Documentarios",DISCOVERY CIVIZATION (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CIVILIZATION)/index.m3u8
+
+		#EXTINF:-1,DISCOVERY THEATER HD
+			#EXTINF:-1 tvg-logo="" group-title="Documentarios",DISCOVERY THEATER HD (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_THEATER_HD)/index.m3u8
+
+		#EXTINF:-1,DISCOVERY WORLD
+			#EXTINF:-1 tvg-logo="" group-title="Documentarios",DISCOVERY WORLD (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_WORLD_HD)/index.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Documentarios",
+				
+
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Documentarios",
 				
@@ -1293,9 +1353,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="CARS & AUTO",AUTO PLUS (Russia)
 				http://msk2.peers.tv:80/streaming/auto_plus/126/tvrecw/playlist.m3u8
 
-		#EXTINF:-1,DRIVE (Russia)
-			#EXTINF:-1 tvg-logo="" group-title="CARS & AUTO",DRIVE (Russia)
-				
+		#EXTINF:-1,DISCOVERY TURBO
+			#EXTINF:-1 tvg-logo="" group-title="CARS & AUTO",DISCOVERY TURBO (Espanhol)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_TURBO)/index.m3u8
 
 			
 
@@ -1661,13 +1721,13 @@
 			#EXTINF:-1 tvg-logo="" group-title="Argentina",ISAT (Espanhol) (Argentina)
 				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ISAT)/index.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Argentina",
-				
+		#EXTINF:-1,MASCHIC HD (Espanhol) (Argentina)
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",MASCHIC HD (Espanhol) (Argentina)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MASCHIC_HD)/index.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Argentina",
-				
+		#EXTINF:-1,PASIONES HD (Espanhol) (Argentina)
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",PASIONES HD (Espanhol) (Argentina)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(PASIONES_HD)/index.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Argentina",
@@ -1767,11 +1827,11 @@
 			
 			
 #EXTINF:-1,[B][COLOR yellow]<== BOLIVIA ==>[/COLOR][/B]
-	
+	http://0.0.0.0:1234	
 
-		#EXTINF:-1, (BOLIVIA)
-			#EXTINF:-1 tvg-logo="" group-title="Armenia", (BOLIVIA)
-				
+		#EXTINF:-1,GLIZ (Espanhol) (BOLIVIA)
+			#EXTINF:-1 tvg-logo="" group-title="Armenia",GLIZ (Espanhol) (BOLIVIA)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GLITZ)/index.m3u8
 
 
 		
@@ -2041,9 +2101,33 @@
 			#EXTINF:-1 tvg-logo="" group-title="Mexico",Azteca 13 MX
 				http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 	
-		#EXTINF:-1,ADN 40
-			#EXTINF:-1 tvg-logo="" group-title="Mexico",ADN 40
-				ADN 40
+		#EXTINF:-1,AZCORAZON HD (Espanhol) (Mexico)
+			#EXTINF:-1 tvg-logo="" group-title="Mexico",AZCORAZON HD (Espanhol) (Mexico)
+				http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(AZCORAZON_HD)/index.m3u8
+	
+		#EXTINF:-1,MULIPREMIER (Movies) (Espanhol) (Mexico)
+			#EXTINF:-1 tvg-logo="" group-title="Mexico",MULIPREMIER (Movies) (Espanhol) (Mexico)
+				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MULTIPREMIER)/index.m3u8
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Mexico",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Mexico",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Mexico",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Mexico",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Mexico",
+				
 	
 	
 	
