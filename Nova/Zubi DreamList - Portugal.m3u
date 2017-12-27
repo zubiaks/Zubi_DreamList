@@ -1,7 +1,7 @@
 ﻿#EXTM3U
-	#EXTINF:-1,Zubi DreamList V_0.58 26/12/2017
-	#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" Zubi DreamList
-		http://0.0.0.0:1234
+	#EXTINF:-1,Zubi DreamList V_0.59 27/12/2017
+		#EXTINF:-1 group-title=""  tvg-name="" audio-track="" tvg-logo=""https://image.ibb.co/fMHLqR/002_ZUbi.png",Zubi DreamList
+			http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== Generalistas ==>[/COLOR][/B]
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/mw6DAR/003_Generalistas.png" Generalistas
@@ -108,7 +108,7 @@
 
 		#EXTINF:-1,CNN
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/f925eQ/CNN.png" group-title="Informacao",CNN (Ingles)
-				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CNN_INTERNACIONAL)/index.m3u8
+
 
 		#EXTINF:-1,Euronews
 			#EXTINF:-1 group-title="Informacao" tvg-logo="https://image.ibb.co/ceSqtk/Euronews.png",Euronews (Russo)
