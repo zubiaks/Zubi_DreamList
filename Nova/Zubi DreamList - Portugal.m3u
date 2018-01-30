@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 	#EXTINF:-1,Zubi DreamList 
-		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.61
+		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.62
 			http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== LÍNGUA PORTUGUESA ==>[/COLOR][/B]
@@ -46,6 +46,8 @@
 		#EXTINF:-1,PORTO Canal
 			#EXTINF:-1 group-title="Generalistas" tvg-id="PortoCanal.pt" tvg-logo="https://image.ibb.co/gjrV9Q/PORTO_Canal.png",PORTO Canal (Generalistas)
 				http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
+			#EXTINF:-1 group-title="Generalistas" tvg-id="PortoCanal.pt" tvg-logo="https://image.ibb.co/gjrV9Q/PORTO_Canal.png",PORTO Canal (Generalistas)(Alternativa)
+				http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8
 
 		#EXTINF:-1,RTP Africa
 			#EXTINF:-1 group-title="Generalistas" tvg-id="RTPAfrica.pt" tvg-logo="https://image.ibb.co/mS9BG5/RTP_Africa.png",RTP Africa (Generalistas)
@@ -69,21 +71,19 @@
 
 		#EXTINF:-1,TV Cabo Verde
 			#EXTINF:-1 group-title="Generalistas" tvg-id="tvc.pt" tvg-logo="https://image.ibb.co/iYFRYk/TV_Cabo_Verde.jpg",TV Cabo Verde(Generalistas)
-
+				http://213.13.26.11:1935/live/rtc_teste/TeamBlue.m3u8
 
 		#EXTINF:-1,RTP 3
 			#EXTINF:-1 group-title="Informacao" tvg-id="rtpn.pt" tvg-logo="https://image.ibb.co/gsFtDk/RTP_3.png",RTP 3 (Informacao)
-
+				https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 
 		#EXTINF:-1,SIC Noticias
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/nicxPQ/SIC_Noticias.png" group-title="Informacao",SIC Noticias (Informacao)
-
+				http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 
 		#EXTINF:-1,TVI 24
 			#EXTINF:-1 group-title="Informacao" tvg-id="TVI24.pt" tvg-logo="https://image.ibb.co/g2oVtk/TVI_24.png",TVI 24 (Informacao)
-				
-			#EXTINF:-1 group-title="Informacao" tvg-id="TVI24.pt" tvg-logo="https://image.ibb.co/g2oVtk/TVI_24.png",TVI 24 (Alternativa)(Informacao)
-				
+				https://video-auth4.iol.pt/live_tvi24/live_tvi24/playlist.m3u8
 
 		#EXTINF:-1,CM TV
 			#EXTINF:-1 group-title="Informacao" tvg-name="CM TV" audio-track="pt" tvg-logo="https://image.ibb.co/cLCC65/CM_TV.jpg", CM TV (Informacao)
@@ -111,11 +111,11 @@
 
 		#EXTINF:-1,SIC Caras
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/dxMDm5/SIC_Caras.png" group-title="Entretenimento",SIC Caras (Entretenimento)
-				http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
+				
 
 		#EXTINF:-1,SIC Radical
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/jwMVdk/Sic_radical.png" group-title="Entretenimento",SIC Radical (Entretenimento)
-
+				http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 
 		#EXTINF:-1,TVI Ficcao
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/mPNVYk/TVI_Ficcao.jpg" group-title="Entretenimento",TVI Ficcao (Entretenimento)
@@ -143,7 +143,7 @@
 
 		#EXTINF:-1,TV Record
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/mr61PG/TV_Record.png" group-title="Entretenimento",TV Record (Entretenimento)
-
+				http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/playlist.m3u8
 
 		#EXTINF:-1,RTP Arena eSports
 			#EXTINF:-1 group-title="Entretenimento" tvg-id="n/a" tvg-logo="https://image.ibb.co/gx9Ltk/RTP_Arena_e_Sports.png",RTP Arena eSports (Entretenimento)
@@ -181,7 +181,11 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/kU5Mik/SPORTING_TV.png" group-title="Desporto",SPORTING TV (Desporto)
 
 
-		#EXTINF:-1,A Bola TV
+		#EXTINF:-1,FUEL_TV HD (PORTUGAL)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bCaF9Q/A_BOLA_TV.png" group-title="Desporto",FUEL_TV HD (PORTUGAL)
+				http://wowza2.mysoltv.com:1992/USA_FUEL_HD/index.m3u8
+			
+		#EXTINF:-1,A Bola TV (PORTUGAL)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/bCaF9Q/A_BOLA_TV.png" group-title="Desporto",A Bola TV (Desporto)
 
 
@@ -219,7 +223,7 @@
 
 		#EXTINF:-1,SIC Kids
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cXPo4G/SIC_Kids.png" group-title="Infantil",SIC Kids (Infantil)
-
+				http://live.impresa.pt/live/sick/sick540p.m3u8
 
 		#EXTINF:-1,TVCine 1
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/eyjAJb/TVCine_1.png" group-title="Filmes e Series",TVCine 1 (Filmes e Series)
@@ -336,6 +340,8 @@
 		#EXTINF:-1,CANAL FUTURA (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/njbWKQ/canal_futura.png" group-title="Brasil",CANAL FUTURA (Brasil)
 				http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/njbWKQ/canal_futura.png" group-title="Brasil",CANAL FUTURA (Brasil)(Alternativa)
+				http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8
 				
 		#EXTINF:-1,TV DIARIO (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/dD9CR5/TV_DIARIO_Brasil.png" group-title="Brasil",TV DIARIO (Brasil)
@@ -352,6 +358,8 @@
 		#EXTINF:-1,SBT (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/iQaaJb/SBT.png" group-title="Brasil",SBT (Brasil)
 				http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iQaaJb/SBT.png" group-title="Brasil",SBT (Brasil)(Alternativa)
+				http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
 				
 		#EXTINF:-1,Pocos Tv (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/iXK3G5/Pocos_Tv_Brasil.png" group-title="Brasil",Pocos Tv (Brasil)
@@ -374,6 +382,18 @@
 		#EXTINF:-1,CARIRI TV PB (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cxfDkb/CARIRI_TV_PB_Brasil.jpg" group-title="Brasil",CARIRI TV PB (Brasil)
 
+
+		#EXTINF:-1,REDE TV! (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/b8VAR6/REDE_TV.jpg" group-title="Brasil",REDE TV! (Brasil)
+				http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w83762451.m3u8
+			
+		#EXTINF:-1,BAND (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eJiQtm/BAND.png" group-title="Brasil",BAND (Brasil)
+				http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w556705443.m3u8
+			
+		#EXTINF:-1,RECORD SP (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nLaVtm/RECORD_SP_Brasil.jpg" group-title="Brasil",RECORD SP (Brasil)
+				http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/tv.m3u8
 			
 		#EXTINF:-1,RECORD MT (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/nQq4Qb/RECORD_MT_Brasil.jpg" group-title="Brasil",RECORD MT (Brasil)
@@ -381,7 +401,30 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/nQq4Qb/RECORD_MT_Brasil.jpg" group-title="Brasil",RECORD MT (Brasil)(Alternativa)
 				http://wz4.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/live.m3u8
 			
+		#EXTINF:-1,TV CULTURA (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eB6Fdm/TV_CULTURA_Brasil.png" group-title="Brasil",TV CULTURA (Brasil)
+				http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8
 			
+		#EXTINF:-1, (Brasil)
+			#EXTINF:-1 tvg-logo="" group-title="Brasil", (Brasil)
+				
+			
+		#EXTINF:-1,UNIVERSAL CHANNEL (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fu50dm/UNIVERSAL_CHANNEL.jpg" group-title="Filmes e Series",UNIVERSAL CHANNEL (Brasil)
+				http://tv.ec.cx:1935/redecanais-stream-universal/myStream/playlist.m3u8
+			
+		#EXTINF:-1,FX (Brasil)
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",FX (Brasil)
+				http://tv.ec.cx:1935/redecanais-stream-fox/myStream/chunklist.m3u8
+			
+		#EXTINF:-1,Nickelodeon (Infantil)(Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jebUBw/Nickelodeon.png" group-title="Infantil",Nickelodeon (Infantil)(Brasil)
+				http://tv.ec.cx:1935/redecanais-stream-nick/myStream/playlist.m3u8
+
+		#EXTINF:-1,DISNEY XD (Infantil)(Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/j7yAb6/DISNEY_XD.png" group-title="Infantil",DISNEY XD (Infantil)(Brasil)
+				http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/playlist.m3u8
+
 		#EXTINF:-1,Ayoub Gallery (Brasil) (Vendas)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/byyfeQ/Ayoub_Gallery_Brasil.jpg" group-title="Shopping TV",Ayoub Gallery (Brasil) (Vendas)
 				rtmp://srvvenus.canaldoboi.com/liveac/livestream
@@ -393,6 +436,10 @@
 		#EXTINF:-1,TV APARECIDA (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/dqt9Bw/TV_APARECIDA.jpg" group-title="Religioso",TV APARECIDA (Brasil)(Religioso)
 				http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+
+		#EXTINF:-1,REDE VIDA (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/e4ddeR/REDE_VIDA_Brasil.jpg" group-title="Religioso",REDE VIDA (Brasil)(Religioso)
+				http://hls.cdn.upx.net.br:1935/74cc/myStream.sdp/live.m3u8
 
 		#EXTINF:-1,Igreja REDE GOSPEL (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cE0vjG/Igreja_REDE_GOSPEL.png" group-title="Religioso",Igreja REDE GOSPEL (Brasil)(Religioso)
@@ -422,6 +469,7 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/e26iJw/IMPD_TV_SP_Envagelica_Brasil.png" group-title="Religioso",IMPD TV SP (Envagelica)(Brasil)(Religioso)
 
 			
+
 			
 #EXTINF:-1,[B][COLOR yellow]<== Informacao ==>[/COLOR][/B]
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/jsjiAR/004_Informacao.png" group-title="Informacao",[B][COLOR yellow]<== Informacao ==>[/COLOR][/B]
@@ -433,7 +481,7 @@
 
 		#EXTINF:-1,CBS NEWS HD
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cVrDm5/CBSN.jpg" group-title="Informacao",CBS NEWS HD (Informacao)
-				
+				http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
 								
 		#EXTINF:-1,Euronews
 			#EXTINF:-1 group-title="Informacao" tvg-logo="https://image.ibb.co/ceSqtk/Euronews.png",Euronews (Russo)
@@ -450,8 +498,6 @@
 		#EXTINF:-1,Sky TG24 (Italian)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/erJQUQ/Sky_TG24_Italian.png" group-title="Informacao",Sky TG24 (Italian)
 				http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/erJQUQ/Sky_TG24_Italian.png" group-title="Informacao",Sky TG24 (Italian) (Alternativa)
-				
 			
 		#EXTINF:-1,BBC World News
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/eyZw3k/BBC_World_News.png" group-title="Informacao",BBC World News (Ingles)
@@ -475,7 +521,7 @@
 
 		#EXTINF:-1,RaiNews24 (Italiano)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/fjGSuQ/RAI_NEWS.png" group-title="Informacao",RaiNews24 (Italiano)
-				http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
+				http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1800_av-b.m3u8
 
 		#EXTINF:-1,Phoenix InfoNews
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/hzgGok/Phoenix_Info_News.png" group-title="Informacao",Phoenix InfoNews (Chines)
@@ -483,7 +529,7 @@
 
 		#EXTINF:-1,TVE 24h
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/eLtb65/TVE_24h.png" group-title="Informacao",TVE 24h (Espanhol)
-
+				http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
 
 		#EXTINF:-1,ANN TV (Arabe)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/nwR5UQ/ANN_TV_Arabe.jpg" group-title="Informacao",ANN TV (Arabe)
@@ -491,23 +537,21 @@
 
 		#EXTINF:-1,France 24 (Ingles)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/d8GJKQ/France_24.png" group-title="Informacao",France 24 (Ingles)
-				http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/d8GJKQ/France_24.png" group-title="Informacao",France 24 (Ingles) (Alternativa)
-				http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+				http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/d8GJKQ/France_24.png" group-title="Informacao",France 24 (Frances)
+				http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
 				
-		#EXTINF:-1,TVC News (Ingles) (Africa)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/gGsKR5/TVC_News_Ingles_Africa.jpg" group-title="Informacao",TVC News (Ingles) (Africa)
+		#EXTINF:-1,TVC News (Ingles)(Africa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gGsKR5/TVC_News_Ingles_Africa.jpg" group-title="Informacao",TVC News (Ingles)(Africa)
 
 
 		#EXTINF:-1,FOX News
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/jg9SDk/FOX_News.png" group-title="Informacao",FOX News (Ingles)
-
+				http://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/index_300_av-b.m3u8
 			
-		#EXTINF:-1,RT (Ingles)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kJhazQ/RT_Ingles.png" group-title="Informacao",RT (Ingles)
-				
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kJhazQ/RT_Ingles.png" group-title="Informacao",RT (Ingles) (Alternativa)
-				
+		#EXTINF:-1,RT (AMERICA)(Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kJhazQ/RT_Ingles.png" group-title="Informacao",RT (AMERICA)(Ingles)
+				https://secure-streams.akamaized.net/rt-usa/index.m3u8
 
 		#EXTINF:-1,RT (Español)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/m9b15b/RT_Espa_ol.png" group-title="Informacao",RT (Español)
@@ -553,9 +597,9 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/c2UTfb/TRT_3_Turco.png" group-title="Informacao",Al-hurra (Iraq)
 				http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
-		#EXTINF:-1,BLOOMBERG News (News) (English)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/hUiAyw/BLOOMBERG_News_News_English.png" group-title="Informacao",BLOOMBERG News (News) (English)
-
+		#EXTINF:-1,BLOOMBERG News (News)(English)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hUiAyw/BLOOMBERG_News_News_English.png" group-title="Informacao",BLOOMBERG News (News)(English)
+				http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 			
 		#EXTINF:-1,Star Maza (News) (India)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/jbDvmw/Star_Maza.jpg" group-title="Informacao",Star Maza (News) (India)
@@ -626,8 +670,8 @@
 
 
 		#EXTINF:-1,TLC
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/g8ipDb/TLC.gif" group-title="Entretenimento",TLC (Espanhol)
-
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/g8ipDb/TLC.gif" group-title="Entretenimento",TLC (INGLATERRA)
+				http://wowza2.mysoltv.com:1992/UK_ENG_tlc/index.m3u8
 			
 		#EXTINF:-1,E! Entertainment
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/bz086w/E_Entertainment.png" group-title="Entretenimento",E! Entertainment
@@ -697,6 +741,10 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/gq9hzG/Gong.png" group-title="Entretenimento",Gong (Frances)(Anime)(Drama)(K-pop)(e-Sports)
 				http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",
+				
+			
 			
 
 #EXTINF:-1,[B][COLOR yellow]<== Desporto ==>[/COLOR][/B]
@@ -859,8 +907,8 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/n9QEeG/Boxing_TV.jpg" group-title="Desporto",Boxing TV
 
 			
-		#EXTINF:-1,Sky Sport News HD
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/e21HYb/Sky_Sport_News_HD.jpg" group-title="Desporto",Sky Sport News HD
+		#EXTINF:-1,Sky Sport News HD (Germany)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/e21HYb/Sky_Sport_News_HD.jpg" group-title="Desporto",Sky Sport News HD (Germany)
 				https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8
 				
 		#EXTINF:-1,Football (Russia)
@@ -907,15 +955,48 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/mLmzm6/Telecaribe_Deportes_2.png" group-title="Desporto",Telecaribe Deportes 2
 				http://w4.cdn.anvato.net/live/ephemeral/8JN6lx09T0YgECY5CbJZ6zuYEzVblvPG/telecaribedeporteshd2/1864k/index.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",
-				
+		#EXTINF:-1,FIGHT NETWORK
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eXRmYm/FIGHT_NETWORK.jpg" group-title="Desporto",FIGHT NETWORK
+				http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8
+
+		#EXTINF:-1,PAC 12 Bay Area
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mBi8g6/PAC_12_Bay_Area_Ingles.jpg" group-title="Desporto",PAC 12 Bay Area (Ingles)
+				http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+
+		#EXTINF:-1,PAC 12 Los Angeles
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fQxXr6/PAC_12_Los_Angeles.png" group-title="Desporto",PAC 12 Los Angeles
+				http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+
+		#EXTINF:-1,PAC 12 Moutain
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fzeLB6/PAC_12_Moutain.png" group-title="Desporto",PAC 12 Moutain
+				http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+
+		#EXTINF:-1,PAC 12 Network (National)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dmYQdm/PAC_12_Network_National.jpg" group-title="Desporto",PAC 12 Network (National)
+				http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+
+		#EXTINF:-1,PAC 12 Oregon
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cyMNPR/PAC_12_Oregon.png" group-title="Desporto",PAC 12 Oregon
+				http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
+
+		#EXTINF:-1,PAC 12 Washington
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",PAC 12 Washington
+				http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+
+		#EXTINF:-1,SPORTSNET 360
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/k6i2PR/SPORTSNET_360.png" group-title="Desporto",SPORTSNET 360
+				http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",
 				
 
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",
+				
 
+
+				
 #EXTINF:-1,[B][COLOR yellow]<== Infantil ==>[/COLOR][/B]
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/b6cZ0R/007_Infantil.jpg" group-title="Infantil",[B][COLOR yellow]<== Infantil ==>[/COLOR][/B]
 		http://0.0.0.0:1234
@@ -1023,16 +1104,16 @@
 				
 				
 		#EXTINF:-1,Fox
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/nH3e4Q/fox.jpg" group-title="Filmes e Series",FOX HD (Espanhol)
-				
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nH3e4Q/fox.jpg" group-title="Filmes e Series",FOX HD (Ingles)
+				http://cdnworld.magictvbox.eu/Fox_HD/tracks-v2a1/index.m3u8?token=soc4up
 				
 		#EXTINF:-1,AXN
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cdpQdk/AXN.png" group-title="Filmes e Series",AXN HD (Espanhol)
 				
 				
 		#EXTINF:-1,Fox Life
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/hvUzBw/Fox_Life.jpg" group-title="Filmes e Series",FOX LIFE (Espanhol)
-				
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hvUzBw/Fox_Life.jpg" group-title="Filmes e Series",FOX LIFE (Ingles)
+				http://cdnworld.magictvbox.eu/Fox_Life_HD/tracks-v2a1/index.m3u8?token=soc4up
 				
 		#EXTINF:-1,Fox Crime
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/kzo1rw/Fox_Crime.jpg" group-title="Filmes e Series",Fox Crime
@@ -1402,9 +1483,9 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/faSHOm/VH1_HD.jpg" group-title="Musica" tvg-logo="",VH1 HD (Espanhol)
 				
 				
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",
-				
+		#EXTINF:-1,DJING DANCE FLOOR
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dVxAtm/DJING_DANCE_FLOOR.gif" group-title="Musica" tvg-logo="",DJING DANCE FLOOR
+				http://www.djing.com/tv/dancefloor.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",
@@ -1424,45 +1505,49 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/i6xOw6/ANIMAL_PLANET_LIVE.png" group-title="Documentarios",ANIMAL PLANET LIVE
 				
 				
-		#EXTINF:-1,Discovery Channel
+		#EXTINF:-1,Discovery Channel (Ingles)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/nFrZ65/Discovery_channel.png" group-title="Documentarios",Discovery Channel (Russia)
+				http://wowza2.mysoltv.com:1992/UK_ENG_discovery/index.m3u8
 				
-				
-		#EXTINF:-1,Discovery Science
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/iNAXpR/Discovery_Science.jpg" group-title="Documentarios",Discovery Science (Russia)
-				
+		#EXTINF:-1,Discovery Science (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iNAXpR/Discovery_Science.jpg" group-title="Documentarios",Discovery Science  (Ingles)
+				http://wowza2.mysoltv.com:1992/UK_ENG_discovery_science/index.m3u8
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iNAXpR/Discovery_Science.jpg" group-title="Documentarios",Discovery Science (Ingles)(Alternativa)			
+				http://cdnworld.magictvbox.eu/Discovery_Science_HD/tracks-v2a1/index.m3u8?token=soc4up
 				
 		#EXTINF:-1,National Geographic
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cFQZdb/National_Geographic.gif" group-title="Documentarios",National Geographic (Russo)
-				
+				http://cdnworld.magictvbox.eu/National_Geographic_HD/tracks-v3a1/index.m3u8?token=soc4up
 				
 		#EXTINF:-1,National Geographic Wild
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/dHFhpR/National_Geographic_Wild.png" group-title="Documentarios",National Geographic Wild (Ingles)
-
+				http://cdnworld.magictvbox.eu/Nat_Geo_Wild_HD/tracks-v3a1/index.m3u8?token=soc4up
 
 		#EXTINF:-1,Historia
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cEZAJb/Historia.jpg" group-title="Documentarios",Historia 
-
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cEZAJb/Historia.jpg" group-title="Documentarios",Historia (AMERICA)(Ingles)
+				http://wowza2.mysoltv.com:1992/UK_ENG_history/index.m3u8
 
 		#EXTINF:-1,Historia 2
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/m2Tfb6/Historia_2.jpg" group-title="Documentarios",Historia 2 (Espanhol)
 				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(H2)/index.m3u8
-
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/m2Tfb6/Historia_2.jpg" group-title="Documentarios",Historia 2 (AMERICA)(Ingles)
+				http://wowza2.mysoltv.com:1992/UK_ENG_history2/index.m3u8
+				
 		#EXTINF:-1,Odisseia
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/iwOy4G/Odisseia.jpg" group-title="Documentarios",Odisseia
 
 
 		#EXTINF:-1,Investigation Discovery (Ingles)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/nFgV9R/Investigation_Discovery.png" group-title="Documentarios",Investigation Discovery (Ingles)
-
+				http://wowza2.mysoltv.com:1992/UK_ENG_discovery_id/index.m3u8
 
 		#EXTINF:-1,Zooпарк
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/b9Vwim/Zoo.png" group-title="Documentarios",Zooпарк
 				
 				
-		#EXTINF:-1,DISCOVERY H&H
+		#EXTINF:-1,DISCOVERY H&H (Ingles)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/m5Q1G6/DISCOVERY_H_H.jpg" group-title="Documentarios",DISCOVERY H&H (Espanhol)
-				
+				http://wowza2.mysoltv.com:1992/UK_ENG_discovery_home/index.m3u8
 				
 		#EXTINF:-1,DISCOVERY CIVIZATION 
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/jiD5b6/DISCOVERY_CIVIZATION.png" group-title="Documentarios",DISCOVERY CIVIZATION (Espanhol)
@@ -1476,9 +1561,9 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/bX0wim/DISCOVERY_WORLD.jpg" group-title="Documentarios",DISCOVERY WORLD (Espanhol)
 				
 				
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Documentarios",
-				
+		#EXTINF:-1,DISCOVERY SHED (Ingles)
+			#EXTINF:-1 tvg-logo="" group-title="Documentarios",DISCOVERY SHED (Ingles)
+				http://wowza2.mysoltv.com:1992/UK_ENG_discovery_shed/index.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Documentarios",
@@ -1492,7 +1577,7 @@
 
 #EXTINF:-1,[B][COLOR yellow]<== CARS & AUTO ==>[/COLOR][/B]
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/b3Atum/011_CARS_AUTO.jpg" group-title="CARS & AUTO",[B][COLOR yellow]<== CARS & AUTO ==>[/COLOR][/B]
-		
+		http://0.0.0.0:1234		
 		
 		#EXTINF:-1,Fuel TV
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/fDCZ3k/FUEL_TV.png" group-title="CARS & AUTO",Fuel TV
@@ -1506,9 +1591,9 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/kH5U3m/AUTO_PLUS.jpg" group-title="CARS & AUTO",AUTO PLUS (Russia)
 				
 				
-		#EXTINF:-1,DISCOVERY TURBO
+		#EXTINF:-1,DISCOVERY TURBO (Ingles)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/dYQh66/DISCOVERY_TURBO.png" group-title="CARS & AUTO",DISCOVERY TURBO (Espanhol)
-				
+				http://wowza2.mysoltv.com:1992/UK_ENG_discovery_turbo/index.m3u8
 				
 			
 
@@ -1539,6 +1624,10 @@
 		#EXTINF:-1,World Fashion Channel (Russo)(Moda)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/e2SJeR/World_Fashion_Channel.jpg" group-title="Temáticos",World Fashion Channel (Russo)(Moda)
 				http://win.cdn.bonus-tv.ru/TVB8/wfhd/playlist.m3u8
+		#EXTINF:-1,WORLD FASHION (AMERICA)(Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jJMK4R/WORLD_FASHION_AMERICA_Ingles.png" group-title="Entretenimento",WORLD FASHIONWORLD FASHION (AMERICA)(Ingles)
+				http://btv-net.mediacdn.ru/TVB8/wfhd/playlist.m3u8
+			
 
 		#EXTINF:-1,tbtyp (Turismo)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/fUnNB5/tbtyp_Turismo.jpg" group-title="Temáticos",tbtyp (Turismo)
@@ -1823,7 +1912,7 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/g0vyJk/Elbekanal_Sch_nebeck_Germany.jpg" tvg-id="" tvg-name=" group-title="Alemanha",Elbekanal Schönebeck (Germany)
 				rtmp://62.113.210.250/medienasa-live/elbe_high
 
- 		#EXTINF:-1,FİLSTALWELLE (Germany)
+		#EXTINF:-1,FİLSTALWELLE (Germany)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/nOyJJk/F_LSTALWELLE_German.png" tvg-id="" tvg-name=" group-title="Alemanha",FİLSTALWELLE (Germany)
 				
 				
@@ -1835,6 +1924,26 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/kZvER5/Alex_Berlin_German.jpg" group-title="Alemanha",Alex Berlin (German)
 				http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/playlist.m3u8 
 
+		#EXTINF:-1,WDR (Germany)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mzHXPR/WDR.png" tvg-id="" tvg-name=" group-title="Alemanha",WDR (Germany)
+				http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+				
+		#EXTINF:-1,hr (Germany)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/i9FGJm/hr_Germany.png" tvg-id="" tvg-name=" group-title="Alemanha",hr (Germany)
+				http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
+				
+		#EXTINF:-1,1-2-3 TV (Germany)(Vendas)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mLKhr6/1_2_3_TV_Germany.png" tvg-id="" tvg-name=" group-title="Vendas",1-2-3 TV (Germany)(Vendas)
+				http://123tv.cdn.ses-ps.com/index.m3u8
+				
+		#EXTINF:-1,bliz (Germany)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bKYvdm/bliz.png" tvg-id="" tvg-name=" group-title="Alemanha",bliz (Germany)
+				http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
+				
+		#EXTINF:-1, (Germany)
+			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha", (Germany)
+				
+				
  
 
 #EXTINF:-1,[B][COLOR yellow]<== Austria ==>[/COLOR][/B]
@@ -2079,8 +2188,10 @@
 
 			
 		#EXTINF:-1,Antena 3 HD (Espanha)
-			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/dcstDw/Antena_3_HD.png",Antena 3 HD (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/dcstDw/Antena_3_HD.png",Antena 3 (Espanha)
 				http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/dcstDw/Antena_3_HD.png",Antena 3 HD (Espanha)
+				http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_4_av-b.m3u8
 			
 		#EXTINF:-1,DW Español (Espanha)
 			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/iKULRG/DW_Espa_ol_Espanha.png",DW Español (Espanha)
@@ -2090,8 +2201,40 @@
 			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/dBqXOm/CANAL_10_EMPORDA.png",CANAL 10 EMPORDA (Espanha)(Catalunha)
 				http://ventdelnord.tv:8080/escala/directe.m3u8
 				
-		#EXTINF:-1,
-			#EXTINF:-0 group-title="Espanha" tvg-logo="",
+		#EXTINF:-1,TV GALICIA
+			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/mHd0tm/TV_GALICIA.jpg",TV GALICIA
+				http://europa-crtvg.flumotion.com/crtvg/europa/playlist.m3u8
+				
+		#EXTINF:-1,TELEMADRID (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/cM1Oym/TELEMADRID_Espanha.png",TELEMADRID (Espanha)
+				http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+				
+		#EXTINF:-1,LA OTRA (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/fSgCr6/LA_OTRA_Espanha.png",LA OTRA (Espanha)
+				http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
+				
+		#EXTINF:-1,NEOX (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/kawgJm/NEOX_Espanha.png",NEOX (Espanha)
+				http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+				
+		#EXTINF:-1,NOVA (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/g6BCr6/NOVA_Espanha.png",NOVA (Espanha)
+				http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8
+				
+		#EXTINF:-1,TELESUR (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/ebgZ4R/TELESUR.jpg",TELESUR (Espanha)
+				http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
+				
+		#EXTINF:-1, (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="", (Espanha)
+				
+				
+		#EXTINF:-1, (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="", (Espanha)
+				
+				
+		#EXTINF:-1, (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="", (Espanha)
 				
 				
 
@@ -2128,8 +2271,16 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/hDkwG6/W9.jpg" group-title="Franca",W9 (Franca)
 				
 				
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Franca",
+		#EXTINF:-1,TV5 MONDE (Franca)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ngsDeR/TV5_MONDE.jpg" group-title="Franca",TV5 MONDE (Franca)
+				http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+
+		#EXTINF:-1, (Franca)
+			#EXTINF:-1 tvg-logo="" group-title="Franca", (Franca)
+				
+
+		#EXTINF:-1, (Franca)
+			#EXTINF:-1 tvg-logo="" group-title="Franca", (Franca)
 				
 
  
@@ -2196,12 +2347,36 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/f2J8w6/Top_Crime.jpg" group-title="Italian",Top Crime (Italy)
 				
 				
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Italian",
+		#EXTINF:-1,CANALE 7 (Italy)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/k20K4R/CANALE_7_Italy.png" group-title="Italian",CANALE 7 (Italy)
+				http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+				
+		#EXTINF:-1,RAI 4 (Italy)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hYUCPR/RAI_4_Italy.png" group-title="Italian",RAI 4 (Italy)
+				http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+				
+		#EXTINF:-1,VIDEOLINA (Italy)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/f5yYW6/VIDEOLINA_Italy.jpg" group-title="Italian",VIDEOLINA (Italy)
+				http://178.33.229.111:1935/live/Videolina/livestream.m3u8
+				
+		#EXTINF:-1,SENATO TV (Italy)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fwbdW6/SENATO_TV_Italy.jpg" group-title="Italian",SENATO TV (Italy)
+				http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8
+				
+		#EXTINF:-1,RETE 8 SPORT (Italy)(Desporto)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cZtsr6/RETE_8_SPORT_Italy_Desporto.jpg" group-title="Desporto",RETE 8 SPORT (Italy)(Desporto)
+				http://flash2.streaming.xdevel.com/rete8sport/rete8sport/playlist.m3u8
+				
+		#EXTINF:-1,HISTORY LAB (Italy)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kwANr6/HISTORY_LAB_Italy.png" group-title="Italian",HISTORY LAB (Italy)
+				http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8
+				
+		#EXTINF:-1, (Italy)
+			#EXTINF:-1 tvg-logo="" group-title="Italian", (Italy)
 				
 				
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Italian",
+		#EXTINF:-1, (Italy)
+			#EXTINF:-1 tvg-logo="" group-title="Italian", (Italy)
 				
 				
 				
@@ -2842,19 +3017,19 @@
 
 		#EXTINF:-1,Radio Antena 1
 			#EXTINF:0, tvg-logo="https://image.ibb.co/dOJUZm/Radio_Antena_1.jpg" group-title="RADIOS PORTUGUESAS", Radio Antena 1
-
+				http://radiocast.rtp.pt/antena180a.mp3
 
 		#EXTINF:-1,Radio Antena 2
 			#EXTINF:0, tvg-logo="https://image.ibb.co/kxbium/Radio_Antena_2.jpg" group-title="RADIOS PORTUGUESAS", Radio Antena 2
-
+				http://radiocast.rtp.pt/antena280a.mp3
 		
 		#EXTINF:-1,Radio Antena 3
 			#EXTINF:0, tvg-logo="https://image.ibb.co/euY2n6/Radio_Antena_3.jpg" group-title="RADIOS PORTUGUESAS", Radio Antena 3
-
+				
 			 
 		#EXTINF:-1,Radio Comercial
 			#EXTINF:0, tvg-logo="https://image.ibb.co/bPnj0R/Radio_Comercial.jpg" group-title="RADIOS PORTUGUESAS", Radio Comercial
-
+				http://mcrscast.mcr.iol.pt/comercial.mp3
 			 
 		#EXTINF:-1,Radio RFM
 			#EXTINF:0, tvg-logo="https://image.ibb.co/hKFREm/Radio_RFM.png" group-title="RADIOS PORTUGUESAS", Radio RFM
@@ -2878,7 +3053,7 @@
 			 
 		#EXTINF:-1,Radio TSF
 			#EXTINF:0, tvg-logo="https://image.ibb.co/h9p076/Radio_TSF.jpg" group-title="RADIOS PORTUGUESAS", Radio TSF
-
+				http://tsfdirecto.tsf.pt/tsfdirecto.mp3
 
 		#EXTINF:-1,Radio Vodafone FM
 			#EXTINF:0, tvg-logo="https://image.ibb.co/mLup0R/Radio_Vodafone_FM.jpg" group-title="RADIOS PORTUGUESAS", Radio Vodafone FM
