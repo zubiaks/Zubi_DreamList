@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 	#EXTINF:-1,Zubi DreamList 
-		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.60
+		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.61
 			http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== LÍNGUA PORTUGUESA ==>[/COLOR][/B]
@@ -433,16 +433,14 @@
 
 		#EXTINF:-1,CBS NEWS HD
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cVrDm5/CBSN.jpg" group-title="Informacao",CBS NEWS HD (Informacao)
-				http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cVrDm5/CBSN.jpg" group-title="Informacao",CBS NEWS HD (Alternativa)(Informacao)
-				http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 				
+								
 		#EXTINF:-1,Euronews
 			#EXTINF:-1 group-title="Informacao" tvg-logo="https://image.ibb.co/ceSqtk/Euronews.png",Euronews (Russo)
 				http://evronovosti.mediacdn.ru/sr1/evronovosti/chunklist_b598304.m3u8
 
 		#EXTINF:-1,Canale 7 (News)(Italia)
-			#EXTINF:-1 tvg-logo="" group-title="Informacao",Canale 7 (News)(Italia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/h1Dvmw/Canale_7.png" group-title="Informacao",Canale 7 (News)(Italia)
 				http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 
 		#EXTINF:-1,Sky News
@@ -472,7 +470,7 @@
 				http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
 		#EXTINF:-1,AL JAZEERA MUBASHER (Arabic) (Qatar) (conferences) (Live events)
-			#EXTINF:-1 tvg-logo="" group-title="Informacao",AL JAZEERA MUBASHER (Arabic) (Qatar) (conferences) (Live events)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/e7v2Yb/AL_JAZEERA_MUBASHER.jpg" group-title="Informacao",AL JAZEERA MUBASHER (Arabic) (Qatar) (conferences) (Live events)
 				http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/300.m3u8
 
 		#EXTINF:-1,RaiNews24 (Italiano)
@@ -560,51 +558,53 @@
 
 			
 		#EXTINF:-1,Star Maza (News) (India)
-			#EXTINF:-1 tvg-logo="" group-title="Informacao",Star Maza (News) (India)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jbDvmw/Star_Maza.jpg" group-title="Informacao",Star Maza (News) (India)
 				http://mediacontent-lh.akamaihd.net/i/marathiabpnew_1@188093/master.m3u8
 				
 		#EXTINF:-1,TRT WORLD (turkish news) (English)
-			#EXTINF:-1 tvg-logo="" group-title="Informacao",TRT WORLD (turkish news) (English)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hbmWRw/TRT_WORLD.png" group-title="Informacao",TRT WORLD (turkish news) (English)
 				http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 				
 		#EXTINF:-1,MSNBS (English)
-			#EXTINF:-1 tvg-logo="" group-title="Informacao",MSNBS (English)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/g4DT6w/MSNBS.png" group-title="Informacao",MSNBS (English)
 				http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8?sd=10&rebase=on
 				
 		#EXTINF:-1,New TV (Thailand)
-			#EXTINF:-1 tvg-logo="" group-title="Informacao",New TV (Thailand)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fochYb/New_TV.png" group-title="Informacao",New TV (Thailand)
 				http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
-			#EXTINF:-1 tvg-logo="" group-title="Informacao",New TV (Thailand)(Alternativa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fochYb/New_TV.png" group-title="Informacao",New TV (Thailand)(Alternativa)
 				http://newtv.cdn.byteark.com:80/live/playlist.m3u8
 
 		#EXTINF:-1,NHK WORLD HD (Japão)
-			#EXTINF:-1 tvg-logo="" group-title="Informacao",NHK WORLD HD (Japão)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hyiEDb/NHK_WORLD.png" group-title="Informacao",NHK WORLD HD (Japão)
 				https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-			#EXTINF:-1 tvg-logo="" group-title="Informacao",NHK WORLD HD (Japão)(Alternativa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hyiEDb/NHK_WORLD.png" group-title="Informacao",NHK WORLD HD (Japão)(Alternativa)
 				http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_2100.m3u8
 				
-		#EXTINF:-1,DW HD (English)
-			#EXTINF:-1 tvg-logo="" group-title="Informacao",DW HD (English)
+		#EXTINF:-1,DW HD
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bO0NzG/DW_HD.png" group-title="Informacao",DW HD (English)
 				 http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bO0NzG/DW_HD.png" group-title="Informacao",DW HD (Espanhol)	
+				http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_5_av-p.m3u8
 				
 		#EXTINF:-1,Rain (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Informacao",Rain (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dJbqmw/Rain.png" group-title="Informacao",Rain (Russo)
 
 			
 		#EXTINF:-1,VoA
-			#EXTINF:-1 tvg-logo="" group-title="Informacao",VoA
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jTtQKG/VoA.jpg" group-title="Informacao",VoA
 				http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8 
 				
 		#EXTINF:-1,Weather Channel 
-			#EXTINF:-1 tvg-logo="" group-title="Informacao",Weather Channel 
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bBqGRw/Weather_Channel.png" group-title="Informacao",Weather Channel 
 				 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 				
 		#EXTINF:-1,Channel 8 - Krasnoyarsk Territory (Russia)
-			#EXTINF:-1 tvg-logo="" group-title="Informacao",Channel 8 - Krasnoyarsk Territory (Russia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cmGjDb/Channel_8.jpg" group-title="Informacao",Channel 8 - Krasnoyarsk Territory (Russia)
 
 			
 		#EXTINF:-1,Cnbc Awaaz (Hindi)
-			#EXTINF:-1 tvg-logo="" group-title="Informacao",Cnbc Awaaz (Hindi)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eAwZDb/Cnbc_Awaaz.png" group-title="Informacao",Cnbc Awaaz (Hindi)
 				http://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_n_1@174872/index_1_av-p.m3u8
 				
 		#EXTINF:-1,
@@ -617,86 +617,86 @@
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/hf6VqR/005_Entretenimento.jpg" group-title="Entretenimento",[B][COLOR yellow]<== Entretenimento ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 	
-		#EXTINF:-1,Gong (Frances)(Anime)(Drama)(K-pop)(e-Sports)
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",Gong (Frances)(Anime)(Drama)(K-pop)(e-Sports)
-				http://ec.playmedia.fr/gong-base/live/playlist.m3u8
-
 		#EXTINF:-1,A&E
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",A&E (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kj3Lmw/A_E.png" group-title="Entretenimento",A&E (Espanhol)
 
 			
 		#EXTINF:-1,Funbox 4K
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",Funbox 4K (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/k4bbtb/Funbox_4_K.jpg" group-title="Entretenimento",Funbox 4K (Ingles)
 
 
 		#EXTINF:-1,TLC
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",TLC (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/g8ipDb/TLC.gif" group-title="Entretenimento",TLC (Espanhol)
 
 			
 		#EXTINF:-1,E! Entertainment
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",E! Entertainment
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bz086w/E_Entertainment.png" group-title="Entretenimento",E! Entertainment
 
 
 		#EXTINF:-1,Domashniy (family TV) (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",Domashniy (family TV) (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cXJpDb/Domashniy.jpg" group-title="Entretenimento",Domashniy (family TV) (Russo)
 
 			
 		#EXTINF:-1,Travel Channel
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",Travel Channel
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ebCczG/Travel_Channel.jpg" group-title="Entretenimento",Travel Channel
 
 
 		#EXTINF:-1,Travel Channel +1 (UK)
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",Travel Channel +1
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/io3jeG/Travel_Channel_1.png" group-title="Entretenimento",Travel Channel +1
 
 
 		#EXTINF:-1,Fashion TV
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",Fashion TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kVrWRw/Fashion_TV.gif" group-title="Entretenimento",Fashion TV
 
 			
 		#EXTINF:-1,Fashion TV HD 
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",Fashion TV HD (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dQszDb/Fashion_TV_HD.jpg" group-title="Entretenimento",Fashion TV HD (Ingles)
 				
 
 		#EXTINF:-1,FOOD NETWORK
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",FOOD NETWORK
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dDuPeG/FOOD_NETWORK.jpg" group-title="Entretenimento",FOOD NETWORK
 				
 
 		#EXTINF:-1,BBC Entertainment
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",BBC Entertainment (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mkXGtb/BBC_Entertainment.jpg" group-title="Entretenimento",BBC Entertainment (Ingles)
 				
 
 		#EXTINF:-1,My Zen HD
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",My Zen HD (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jDZCYb/My_Zen_HD.png" group-title="Entretenimento",My Zen HD (Ingles)
 				
 
 		#EXTINF:-1,LUXE TV HD 
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",LUXE TV HD (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jdO6tb/LUXE_TV_HD.jpg" group-title="Entretenimento",LUXE TV HD (Ingles)
 				
 
 		#EXTINF:-1,GINX
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",GINX (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gRDT6w/GINX.jpg" group-title="Entretenimento",GINX (Ingles)
 				
 
 		#EXTINF:-1,The QYOU
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",The QYOU (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/e2Famw/The_QYOU.png" group-title="Entretenimento",The QYOU (Ingles)
 				
 
 		#EXTINF:-1,Kitchen TV (Russia)
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",Kitchen TV (Russia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cyGjDb/Kitchen_TV.jpg" group-title="Entretenimento",Kitchen TV (Russia)
 
 			
 		#EXTINF:-1,Insight TV UHD
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",Insight TV UHD (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eSx2zG/Insight_TV_UHD.jpg" group-title="Entretenimento",Insight TV UHD (Ingles)
 				http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8 
 
 		#EXTINF:-1,Canal 180 
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",Canal 180 
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dV1HYb/Canal_180.jpg" group-title="Entretenimento",Canal 180 
 
 
 		#EXTINF:-1,LİFESTYLE TV (Danish)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/b3S64Q/L_FESTYLE_TV_Danish.png" group-title="Entretenimento",LİFESTYLE TV (Danish)
 
 			
+		#EXTINF:-1,Gong (Frances)(Anime)(Drama)(K-pop)(e-Sports)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gq9hzG/Gong.png" group-title="Entretenimento",Gong (Frances)(Anime)(Drama)(K-pop)(e-Sports)
+				http://ec.playmedia.fr/gong-base/live/playlist.m3u8
+
 			
 
 #EXTINF:-1,[B][COLOR yellow]<== Desporto ==>[/COLOR][/B]
@@ -704,7 +704,7 @@
 		http://0.0.0.0:1234
 			
 		#EXTINF:-1,Manchester United TV
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Manchester United TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kfUbRw/Manchester_United_TV.png" group-title="Desporto",Manchester United TV
 
 
 		#EXTINF:-1,Real Madrid TV
@@ -714,8 +714,6 @@
 		#EXTINF:-1,Eurosport
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/gMnCpQ/EUROSPORT.jpg" group-title="Desporto",Eurosport (Russo)
 
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/gMnCpQ/EUROSPORT.jpg" group-title="Desporto",Eurosport 1 HD
-
 			
 		#EXTINF:-1,Sports Tonight (UK)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/g2K7rG/Sports_Tonight_UK.png" group-title="Desporto",Sports Tonight (UK)
@@ -723,8 +721,6 @@
 
 		#EXTINF:-1,Eurosport 2 (Ingles)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/iaAAb5/EUROSPORT_2.jpg" group-title="Desporto",Eurosport 2 (Russo)
-
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/iaAAb5/EUROSPORT_2.jpg" group-title="Desporto",Eurosport 2 HD
 
 			
 		#EXTINF:-1,EuroSport News (Ingles)
@@ -744,7 +740,7 @@
 
 
 		#EXTINF:-1,Licey tv Sports Latino
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Licey tv Sports Latino *so audio
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/j1pzeG/Licey_tv.png" group-title="Desporto",Licey tv Sports Latino *so audio
 				http://ss6.domint.net:1936/ly_edge/licey/chunklist_w1254078113.m3u8
 
 		#EXTINF:-1,BARCA TV
@@ -752,7 +748,7 @@
 				http://cdns724ste1010.shooowit.net/25televisiolive/amlst:25tv/playlist.m3u8
 
 		#EXTINF:-1,Mega (Spanish)
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Mega (Spanish)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/k5d9eG/Mega.jpg" group-title="Desporto",Mega (Spanish)
 				http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
 
 		#EXTINF:-1,DXTV Sport (Argentina)
@@ -768,23 +764,23 @@
 
 			
 		#EXTINF:-1,TSN 1 (Ingles)
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",TSN 1 (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gzZRRw/TSN_1.png" group-title="Desporto",TSN 1 (Ingles)
 
 
 		#EXTINF:-1,TSN 2 (Ingles)
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",TSN 2 (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mQut6w/TSN_2.png" group-title="Desporto",TSN 2 (Ingles)
 
 
 		#EXTINF:-1,TSN 3 (Ingles)
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",TSN 3 (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cenD6w/TSN_3.png" group-title="Desporto",TSN 3 (Ingles)
 
 
 		#EXTINF:-1,TSN 4 (Ingles)
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",TSN 4 (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fS27Yb/TSN_4.png" group-title="Desporto",TSN 4 (Ingles)
 
 
 		#EXTINF:-1,TSN 5 (Ingles)
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",TSN 5 (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ktUhzG/TSN_5.png" group-title="Desporto",TSN 5 (Ingles)
 
 
 		#EXTINF:-1,BT Sport 1 (Ingles)
@@ -796,43 +792,43 @@
 				
 				
 		#EXTINF:-1,BT Sport 3 (Ingles)
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",BT Sport 3 (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cQPRRw/BT_Sport_3.png" group-title="Desporto",BT Sport 3 (Ingles)
 				
 				
 		#EXTINF:-1,BT Sport ESPN (Ingles)
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",BT Sport ESPN (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/n3ZFKG/BT_Sport_ESPN.png" group-title="Desporto",BT Sport ESPN (Ingles)
 				
 
 		#EXTINF:-1,BT Sport x1 (Ingles)
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",BT x1 (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gWhXYb/BT_Sport_x1.png" group-title="Desporto",BT x1 (Ingles)
 				
 
 		#EXTINF:-1,BT Sport x2 (Ingles)
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",BT x2 (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kEhAKG/BT_Sport_x2.png" group-title="Desporto",BT x2 (Ingles)
 				
 
 		#EXTINF:-1,BT Sport x3 (Ingles)
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",BT x3 (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/b0m4eG/BT_Sport_x3.png" group-title="Desporto",BT x3 (Ingles)
 				
 
 		#EXTINF:-1,BT Sport x4 (Ingles)
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",BT x4 (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/b0XMRw/BT_Sport_x4.png" group-title="Desporto",BT x4 (Ingles)
 				
 
 		#EXTINF:-1,BT Sport x5 (Ingles)
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",BT x5 (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hwFxzG/BT_Sport_x5.png" group-title="Desporto",BT x5 (Ingles)
 				
 
 		#EXTINF:-1,SKY SPORTS 1 (Ingles) (HD)
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",SKY SPORTS 1 (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iwu7zG/SKY_SPORTS_1.jpg" group-title="Desporto",SKY SPORTS 1 (Ingles)
 				
 
 		#EXTINF:-1,SKY SPORTS 2 (Ingles)
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",SKY SPORTS 2 (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nJKUDb/SKY_SPORTS_2.jpg" group-title="Desporto",SKY SPORTS 2 (Ingles)
 				
 
 		#EXTINF:-1,SKY SPORTS 3 (Ingles)
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",SKY SPORTS 3 (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/khmy6w/SKY_SPORTS_3.jpg" group-title="Desporto",SKY SPORTS 3 (Ingles)
 				
 
 		#EXTINF:-1,Sports TV (TUR)
@@ -844,75 +840,71 @@
 				http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
 
 		#EXTINF:-1,KHL - Continental Hockey League (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",KHL - Continental Hockey League (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bDW4eG/KHL_Continental_Hockey_League.png" group-title="Desporto",KHL - Continental Hockey League (Russo)
 
 			
 		#EXTINF:-1,Match! Game HD (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Match! Game HD (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/edffKG/Match_Game_HD.png" group-title="Desporto",Match! Game HD (Russo)
 
 			
 		#EXTINF:-1,Extreme Sports (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Extreme Sports (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kHtNYb/Extreme_Sports.png" group-title="Desporto",Extreme Sports (Russo)
 
 			
 		#EXTINF:-1,Match! Fighter
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Match! Fighter
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eY586w/Match_Fighter.jpg" group-title="Desporto",Match! Fighter
 
 			
 		#EXTINF:-1,Boxing TV
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Boxing TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/n9QEeG/Boxing_TV.jpg" group-title="Desporto",Boxing TV
 
 			
 		#EXTINF:-1,Sky Sport News HD
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Sky Sport News HD
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/e21HYb/Sky_Sport_News_HD.jpg" group-title="Desporto",Sky Sport News HD
 				https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8
 				
 		#EXTINF:-1,Football (Russia)
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Football (Russia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bKq5KG/Football.png" group-title="Desporto",Football (Russia)
 
 			
 		#EXTINF:-1,ESPN  
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",ESPN (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cUHwRw/ESPN.jpg" group-title="Desporto",ESPN (Espanhol)
 
 			
 		#EXTINF:-1,ESPN 2
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",ESPN 2 (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nQ3mRw/ESPN_2.png" group-title="Desporto",ESPN 2 (Espanhol)
 
 			
 		#EXTINF:-1,ESPN 3
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",ESPN 3 (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cW8Wtb/ESPN_3.png" group-title="Desporto",ESPN 3 (Espanhol)
 			
 			
 		#EXTINF:-1,FOX SPORTS 1 HD
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",FOX SPORTS 2 HD (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hi9Mtb/FOX_SPORTS_1_HD.jpg" group-title="Desporto",FOX SPORTS 2 HD (Espanhol)
 				
 			
 		#EXTINF:-1,FOX SPORTS 2 HD
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",FOX SPORTS 2 HD (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nQqGRw/FOX_SPORTS_2_HD.png" group-title="Desporto",FOX SPORTS 2 HD (Espanhol)
 
 			
-		#EXTINF:-1,FOX SPORTS3 HD
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",FOX SPORTS3 HD (Espanhol)
+		#EXTINF:-1,FOX SPORTS 3 HD
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iXy36w/FOX_SPORTS_3_HD.png" group-title="Desporto",FOX SPORTS 3 HD (Espanhol)
 
 			
 		#EXTINF:-1,Viasat Sport HD
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Viasat Sport HD
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jMHrtb/Viasat_Sport_HD.gif" group-title="Desporto",Viasat Sport HD
 
 			
 		#EXTINF:-1,MATCH! HD (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",MATCH! HD (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hMb6Rw/MATCH_HD.png" group-title="Desporto",MATCH! HD (Russo)
 
 			
 		#EXTINF:-1,MATCH ! ARENA HD (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",MATCH ! ARENA HD (Russo)
-
-			
-		#EXTINF:-1,Our Football HD (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Our Football HD (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nwSVmw/MATCH_ARENA_HD.jpg" group-title="Desporto",MATCH ! ARENA HD (Russo)
 
 			
 		#EXTINF:-1,Telecaribe Deportes 2
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Telecaribe Deportes 2
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mLmzm6/Telecaribe_Deportes_2.png" group-title="Desporto",Telecaribe Deportes 2
 				http://w4.cdn.anvato.net/live/ephemeral/8JN6lx09T0YgECY5CbJZ6zuYEzVblvPG/telecaribedeporteshd2/1864k/index.m3u8
 
 		#EXTINF:-1,
@@ -941,79 +933,71 @@
 
 			
 		#EXTINF:-1,Nickelodeon
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",Nickelodeon (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cyDvR6/Nickelodeon.png" group-title="Infantil",Nickelodeon (Russo)
 
 			
 		#EXTINF:-1,Jim Jam
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",Jim Jam (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kwbRYm/Jim_Jam.gif" group-title="Infantil",Jim Jam (Russo)
 				
 				
 		#EXTINF:-1,Baby TV
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",Baby TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/j2DC66/Baby_TV.jpg" group-title="Infantil",Baby TV
 				
 				
 		#EXTINF:-1,Super RTL
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",Super RTL (Alemao)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kadZKR/Super_RTL.jpg" group-title="Infantil",Super RTL (Alemao)
 
 			
 		#EXTINF:-1,Boomerang
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",BOOMERANG (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hnvjm6/Boomerang.jpg" group-title="Infantil",BOOMERANG (Espanhol)
 				
 				
 		#EXTINF:-1,anime TV (Latino)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/gGg15b/anime_TV_Latino.jpg" group-title="Infantil",anime TV (Latino)
 				http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
-		#EXTINF:-1,Children's World (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",Children's World (Russo)
-
-			
-		#EXTINF:-1,Mult (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",Mult (Russo)
+		#EXTINF:-1,Moolt (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jXVQR6/Moolt.png" group-title="Infantil",Moolt (Russo)
 
 			
 		#EXTINF:-1,Multimania TV (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",Multimania TV (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kH98eR/Multimania_TV.jpg" group-title="Infantil",Multimania TV (Russo)
 				
 				
 		#EXTINF:-1,Tiji (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",Tiji (Russo)
-				
-				
-		#EXTINF:-1,COUNTRY (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",COUNTRY (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gAZkR6/Tiji.png" group-title="Infantil",Tiji (Russo)
 				
 				
 		#EXTINF:-1,Carousel (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",Carousel (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cHVQR6/Carousel.png" group-title="Infantil",Carousel (Russo)
 				
 				
-		#EXTINF:-1,TRT CHILD (Turco)
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",TRT CHILD (Turco)
+		#EXTINF:-1,TRT Çocuk (Turco)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eHjmim/TRT_ocuk.png" group-title="Infantil",TRT CHILD (Turco)
 				http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 
 		#EXTINF:-1,HBO FAMILY
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",HBO FAMILY (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fF03UR/HBO_FAMILY.jpg" group-title="Infantil",HBO FAMILY (Espanhol)
 				
 				
 		#EXTINF:-1,NATGEO KIDS
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",NATGEO KIDS (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fCgVb6/NATGEO_KIDS.png" group-title="Infantil",NATGEO KIDS (Espanhol)
 				
 				
 		#EXTINF:-1,TOONCAST
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",TOONCAST (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bFWfb6/TOONCAST.png" group-title="Infantil",TOONCAST (Espanhol)
 				
 				
 		#EXTINF:-1,DISNEY XD 
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",DISNEY XD (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/j7yAb6/DISNEY_XD.png" group-title="Infantil",DISNEY XD (Espanhol)
 				
 				
 		#EXTINF:-1,RIK (Eslováquia)(Infantil)
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",RIK (Eslováquia) (Infantil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jO7gim/RIK.png" group-title="Infantil",RIK (Eslováquia) (Infantil)
 				http://nn2.joj.sk/hls/rik-540.m3u8
 
 		#EXTINF:-1,Retro Cartoon
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",Retro Cartoon
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/j9JRG6/Retro_Cartoon.png" group-title="Infantil",Retro Cartoon
 				
 				
 		#EXTINF:-1,
@@ -1034,12 +1018,8 @@
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/dDhZ0R/008_Filmes_e_Series.jpg" group-title="Filmes e Series",[B][COLOR yellow]<== Filmes e Series ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 
-		#EXTINF:-1,Akudji HD (movies) (russian)
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Akudji HD (movies) (russian)
-				
-
 		#EXTINF:-1,Fox Movies
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Fox Movies (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fjtU3m/Fox_Movies.jpg" group-title="Filmes e Series",Fox Movies (Espanhol)
 				
 				
 		#EXTINF:-1,Fox
@@ -1079,99 +1059,95 @@
 
 			
 		#EXTINF:-1,AMG
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",AMG (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eJmP3m/AMG.jpg" group-title="Filmes e Series",AMG (Ingles)
 				rtmp://cp212391.live.edgefcs.net/live/T02027-amgtv@120244
 
-		#EXTINF:-1,Russian novel (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Russian novel (Russo)
+		#EXTINF:-1,РУССКИЙ РОМАН (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gXoe3m/image.png" group-title="Filmes e Series",РУССКИЙ РОМАН (Russo)
 				
 				
-		#EXTINF:-1,Russian bestseller (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Russian bestseller (Russo)
+		#EXTINF:-1,Russkij bestseller (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gA8e3m/Russkij_bestseller.png" group-title="Filmes e Series",Russkij bestseller (Russo)
 				
 				
-		#EXTINF:-1,Cinema Illusion (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Cinema Illusion (Russo)
+		#EXTINF:-1,Russkiy Illusion (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jfwcpR/Russkiy_Illusion.png" group-title="Filmes e Series",Russkiy Illusion (Russo)
 				
 				
 		#EXTINF:-1,Eurokino (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Eurokino (Russo)
-				
-				
-		#EXTINF:-1,Cinema (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Cinema (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kCghOm/Eurokino.jpg" group-title="Filmes e Series",Eurokino (Russo)
 				
 				
 		#EXTINF:-1,FOX SERIES 
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",FOX SERIES 
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/g8inOm/FOX_SERIES.jpg" group-title="Filmes e Series",FOX SERIES 
 				
 				
 		#EXTINF:-1,HBO
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",HBO (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/je7a9R/HBO.gif" group-title="Filmes e Series",HBO (Espanhol)
 				
 				
 		#EXTINF:-1,HBO 2
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",HBO 2 (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ioybG6/HBO_2.gif" group-title="Filmes e Series",HBO 2 (Espanhol)
 				
 				
 		#EXTINF:-1,HBO PLUS
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",HBO PLUS (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bQ6rim/HBO_PLUS.png" group-title="Filmes e Series",HBO PLUS (Espanhol)
 				
 				
 		#EXTINF:-1,De Pelicula HD (Espanhol)
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",De Pelicula HD (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/i9HmG6/De_Pelicula_HD.jpg" group-title="Filmes e Series",De Pelicula HD (Espanhol)
 				
 				
 		#EXTINF:-1,Golden PLus (Espanhol)
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Golden PLus (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ddaOw6/Golden_PLus.png" group-title="Filmes e Series",Golden PLus (Espanhol)
 				
 				
 		#EXTINF:-1,CINELATINO (Espanhol)
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",CINELATINO (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jzhYUR/CINELATINO.jpg" group-title="Filmes e Series",CINELATINO (Espanhol)
 				
 				
 		#EXTINF:-1,Cinemax (Espanhol)
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Cinemax (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fUrtUR/Cinemax.png" group-title="Filmes e Series",Cinemax (Espanhol)
 				
 				
 		#EXTINF:-1,TNT HD
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TNT HD (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dAVRim/TNT_HD.jpg" group-title="Filmes e Series",TNT HD (Espanhol)
 				
 				
 		#EXTINF:-1,FOX ACTION
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",FOX ACTION (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nDy7pR/FOX_ACTION.jpg" group-title="Filmes e Series",FOX ACTION (Espanhol)
 				
 				
 		#EXTINF:-1,FOX CINEMA HD (Espanhol)
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",FOX CINEMA HD (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/m1KcOm/FOX_CINEMA_HD.jpg" group-title="Filmes e Series",FOX CINEMA HD (Espanhol)
 				
 				
 		#EXTINF:-1,FOX CLASSICS HD
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",FOX CLASSICS HD
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ita1im/FOX_CLASSICS_HD.jpg" group-title="Filmes e Series",FOX CLASSICS HD
 				
 				
-		#EXTINF:-1,SPACE_HD (Espanhol)
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",SPACE_HD (Espanhol)
+		#EXTINF:-1,SPACE HD (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/caRrim/SPACE_HD.jpg" group-title="Filmes e Series",SPACE HD (Espanhol)
 				
 				
 		#EXTINF:-1,SONY HD
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",SONY HD (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jMeGG6/SONY_HD.jpg" group-title="Filmes e Series",SONY HD (Espanhol)
 				
 				
 		#EXTINF:-1,FX HD
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",FX HD (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hKY7pR/FX_HD.jpg" group-title="Filmes e Series",FX HD (Espanhol)
 				
 				
 		#EXTINF:-1,CINE CANAL (Espanhol)
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",CINE CANAL (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/izKmim/CINE_CANAL.jpg" group-title="Filmes e Series",CINE CANAL (Espanhol)
 				
 				
 		#EXTINF:-1,FOX FAMILY
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",FOX FAMILY (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kqzab6/FOX_FAMILY.jpg" group-title="Filmes e Series",FOX FAMILY (Espanhol)
 				
 				
 		#EXTINF:-1,HBO SIGNATURE
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",HBO SIGNATURE (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jUhiUR/HBO_SIGNATURE.jpg" group-title="Filmes e Series",HBO SIGNATURE (Espanhol)
 			
 			
 		#EXTINF:-1,
@@ -1193,39 +1169,39 @@
 		http://0.0.0.0:1234
 	
 		#EXTINF:-1,MTV (Norg)
-			#EXTINF:-1 tvg-logo="" group-title="Musica",MTV (Norg)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bTthpR/MTV.png" group-title="Musica",MTV (Norg)
 				http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
  
-		#EXTINF:-1,NRJ Belgique
-			#EXTINF:-1 tvg-logo="" group-title="Musica",NRJ Belgique
+		#EXTINF:-1,NRJ (Belgique)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jUnRim/NRJ.jpg" group-title="Musica",NRJ (Belgique)
 				http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
 
 		#EXTINF:-1,KroneHit TV (Austria)
-			#EXTINF:-1 tvg-logo="" group-title="Musica",KroneHit TV (Austria)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mqp09R/Krone_Hit_TV.png" group-title="Musica",KroneHit TV (Austria)
 				http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
 
 		#EXTINF:-1,MuzZone
-			#EXTINF:-1 tvg-logo="" group-title="Musica",MuzZone
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kFsnpR/MuzZone.jpg" group-title="Musica",MuzZone
 				http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
 
 		#EXTINF:-1,Naween
-			#EXTINF:-1 tvg-logo="" group-title="Musica",Naween
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/czaOUR/Naween.png" group-title="Musica",Naween
 				http://livestream.5centscdn.com/459_push_365/db14c0a474e84ee8d5a0f3d69f5ab5c9.sdp/index.m3u8
 
 		#EXTINF:-1,DJAZZ.tv HD
-			#EXTINF:-1 tvg-logo="" group-title="Musica",DJAZZ.tv HD (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dcs93m/DJAZZ_tv_HD.png" group-title="Musica",DJAZZ.tv HD (Ingles)
 
 
 		#EXTINF:-1,MCM POP
-			#EXTINF:-1 tvg-logo="" group-title="Musica",MCM POP (Frances)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/b3HsOm/MCM_POP.png" group-title="Musica",MCM POP (Frances)
 
 
 		#EXTINF:-1,MCM TOP
-			#EXTINF:-1 tvg-logo="" group-title="Musica",MCM TOP (Frances)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dzG8w6/MCM_TOP.png" group-title="Musica",MCM TOP (Frances)
 
 
-		#EXTINF:-1,TV POP
-			#EXTINF:-1 tvg-logo="" group-title="Musica",TV POP
+		#EXTINF:-1,TV POP (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/m40wim/TV_POP.jpg" group-title="Musica",TV POP (Espanhol)
 				http://v3.tustreaming.cl/tvpop/live1/index.m3u8
 
 		#EXTINF:-1,Planeta Online TV (Bulgarian) (music)
@@ -1233,20 +1209,12 @@
 				http://wse.planeta-online.tv:1935/live/channel_4/chunklist_w339624486.m3u8
 
 		#EXTINF:-1,MEZZO
-			#EXTINF:-1 tvg-logo="" group-title="Musica",MEZZO (Frances)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kPVXpR/MEZZO.gif" group-title="Musica",MEZZO (Frances)
 
 
 		#EXTINF:-1,Trace TV
-			#EXTINF:-1 tvg-logo="" group-title="Musica",Trace TV (Frances)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kHNHOm/Trace_TV.jpg" group-title="Musica",Trace TV (Frances)
 
-
-		#EXTINF:-1,PT:TRACE URBAN
-			#EXTINF:-1 tvg-logo="" group-title="Musica",TRACE URBAN
-
-
-		#EXTINF:-1,Capital TV (UK)
-			#EXTINF:-1 tvg-logo="" group-title="Musica",Capital TV (UK)
-				http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
 		#EXTINF:-1,Muz TV (Music) (Russia)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/fK7zQb/Muz_TV_Music_Russia.jpg" group-title="Musica",Muz TV (Music) (Russia)
@@ -1261,25 +1229,25 @@
 				rtmp://81.18.66.155/live/banat-tv
 			
 		#EXTINF:-1,klipkar tv (Netherlands)
-			#EXTINF:-1 tvg-logo="" group-title="Musica",klipkar tv (Netherlands)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cRpHpR/klipkar_tv.jpg" group-title="Musica",klipkar tv (Netherlands)
 				http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/playlist.m3u8
 			
 		#EXTINF:-1,Heart TV (UK)
-			#EXTINF:-1 tvg-logo="" group-title="Musica",Heart TV (UK)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fW6xpR/Heart_TV.png" group-title="Musica",Heart TV (UK)
 				http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
 		#EXTINF:-1,m2o tv
-			#EXTINF:-1 tvg-logo="" group-title="Musica",m2o tv
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eSuYUR/m2o_tv.jpg" group-title="Musica",m2o tv
 				http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-			#EXTINF:-1 tvg-logo="" group-title="Musica",m2o tv (Alternativa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eSuYUR/m2o_tv.jpg" group-title="Musica",m2o tv (Alternativa)
 				http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
 				
 		#EXTINF:-1,Melody Channel
-			#EXTINF:-1 tvg-logo="" group-title="Musica",Melody Channel
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ePzYUR/Melody_Channel.png" group-title="Musica",Melody Channel
 				http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 				
-		#EXTINF:-1,OneTV Arg
-			#EXTINF:-1 tvg-logo="" group-title="Musica",OneTV Arg
+		#EXTINF:-1,OneTV (Arg)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hA8cpR/OneTV.png" group-title="Musica",OneTV (Arg)
 				http://server5.stweb.tv/radioone/live/playlist.m3u8
 
 		#EXTINF:-1,Retro TV
@@ -1287,159 +1255,151 @@
 				http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 		#EXTINF:-1,Vibee
-			#EXTINF:-1 tvg-logo="" group-title="Musica",Vibee
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/btSj3m/Vibee.jpg" group-title="Musica",Vibee
 				http://46.101.21.42:8081/live/live2/playlist.m3u8
 
 		#EXTINF:-1,MAD TV (Greece)
-			#EXTINF:-1 tvg-logo="" group-title="Musica",MAD TV (Greece)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mLwcOm/MAD_TV.png" group-title="Musica",MAD TV (Greece)
 				
 
 		#EXTINF:-1,VIRGIN TV (Ingles)
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="https://image.ibb.co/jVTAdk/virgin.png",VIRGIN TV (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nKNqb6/VIRGIN_TV.png" group-title="Musica" tvg-logo="https://image.ibb.co/jVTAdk/virgin.png",VIRGIN TV (Ingles)
 				http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 
 		#EXTINF:-1,HITV (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",HITV (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kMrmim/HITV.jpg" group-title="Musica" tvg-logo="",HITV (Russo)
 				http://rosshow.gcdn.co/rosshow_live/ngrp:hittv_all/chunklist_b3200000.m3u8
 
 		#EXTINF:-1,NL:Q
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",NL:Q
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nbitUR/Q.jpg" group-title="Musica" tvg-logo="",NL:Q
 				http://102793ooyala-lh.akamaihd.net/i/depers02_delivery@381748/master.m3u8
 
 		#EXTINF:-1,Slam TV
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Slam TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/n9JDw6/Slam_TV.jpg" group-title="Musica" tvg-logo="",Slam TV
 				http://hls.slam.nl/streaming/hls/SLAM!/lower_500000/playlist.m3u8
 
 		#EXTINF:-1,La - Minor
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",La - Minor
-				
-				
-		#EXTINF:-1,Chanson TV
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Chanson TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iTdDw6/La_Minor.png" group-title="Musica" tvg-logo="",La - Minor
 				
 				
 		#EXTINF:-1,VH1 Classic
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",VH1 Classic
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fVG59R/VH1_Classic.png" group-title="Musica" tvg-logo="",VH1 Classic
 				
 				
 		#EXTINF:-1,TRT Muzik
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",TRT Muzik
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iKespR/TRT_Muzik.png" group-title="Musica" tvg-logo="",TRT Muzik
 				http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 
 		#EXTINF:-1,Europa Plus TV
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Europa Plus TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kpcWG6/Europa_Plus_TV.png" group-title="Musica" tvg-logo="",Europa Plus TV
 				
 				
-		#EXTINF:-1,Capital TV
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Capital TV
-				http://ooyalahd2-f.akamaihd.net:80/i/globalradio01_delivery@156521/index_656_av-b.m3u8
+		#EXTINF:-1,Capital TV (UK)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eSBDUR/Capital_TV.png" group-title="Musica",Capital TV (UK)
+				http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
 		#EXTINF:-1,Music Choice - Brits Hits
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Music Choice - Brits Hits
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Brits Hits
 				http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC143/chunklist.m3u8
 
 		#EXTINF:-1,Music Choice - Dance/EDM
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Music Choice - Dance/EDM
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Dance/EDM
 				http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
 
 		#EXTINF:-1,Music Choice - Hip-Hop And R&B
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Music Choice - Hip-Hop And R&B
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Hip-Hop And R&B
 				http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
 
 		#EXTINF:-1,Music Choice - Hit List
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Music Choice - Hit List
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Hit List
 				http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
 
 		#EXTINF:-1,Music Choice - Indie
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Music Choice - Indie
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Indie
 				http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
 
 		#EXTINF:-1,Music Choice - Kidz Only!
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Music Choice - Kidz Only!
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Kidz Only!
 				http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
 
 		#EXTINF:-1,Music Choice - Metal
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Music Choice - Metal
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Metal
 				http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
 
 		#EXTINF:-1,Music Choice - Mexicana
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Music Choice - Mexicana
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Mexicana
 				http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
 
 		#EXTINF:-1,Music Choice - Musica Urbana
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Music Choice - Musica Urbana
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Musica Urbana
 				http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC128/chunklist.m3u8
 
 		#EXTINF:-1,Music Choice - Pop & Country
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Music Choice - Pop & Country
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Pop & Country
 				http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
 
 		#EXTINF:-1,Music Choice - Pop Hits
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Music Choice - Pop Hits
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Pop Hits
 				http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
 
 		#EXTINF:-1,Music Choice - Pop Latino
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Music Choice - Pop Latino
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Pop Latino
 				http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
 
 		#EXTINF:-1,Music Choice - R&B Soul
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Music Choice - R&B Soul
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - R&B Soul
 				http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
 
 		#EXTINF:-1,Music Choice - Rap
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Music Choice - Rap
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Rap
 				http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
 
 		#EXTINF:-1,Music Choice - Rap 2K
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Music Choice - Rap 2K
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Rap 2K
 				http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC141/chunklist.m3u8
 
 		#EXTINF:-1,Music Choice - Rock
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Music Choice - Rock
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Rock
 				http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
 
 		#EXTINF:-1,Music Choice - Teen Beats
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Music Choice - Teen Beats
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Teen Beats
 				http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC118/chunklist.m3u8
 
 		#EXTINF:-1,Music Choice - Throwback Jamz
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Music Choice - Throwback Jamz
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Throwback Jamz
 				http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC142/chunklist.m3u8
 
 		#EXTINF:-1,Music Choice - Today
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Music Choice - Today
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Today
 				http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC121/chunklist.m3u8
 
 		#EXTINF:-1,Music Choice - Toddler Tunes
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Music Choice - Toddler Tunes
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Toddler Tunes
 				http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC144/chunklist.m3u8
 
 		#EXTINF:-1,Music Choice - Tropicales
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Music Choice - Tropicales
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Tropicales
 				http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
 
 		#EXTINF:-1,Music Choice - Y2K
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Music Choice - Y2K
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Y2K
 				http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
 
 		#EXTINF:-1,CONCERT CHANEL HD (Espanhol)
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",CONCERT CHANEL HD (Espanhol)
-				
-				
-		#EXTINF:-1,HTV (Espanhol)
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",HTV (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/huTz3m/CONCERT_CHANEL_HD.png" group-title="Musica" tvg-logo="",CONCERT CHANEL HD (Espanhol)
 				
 				
 		#EXTINF:-1,MTV HITS
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",MTV HITS (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/maFnOm/MTV_HITS.png" group-title="Musica" tvg-logo="",MTV HITS (Espanhol)
 				
 				
-		#EXTINF:-1,RADIOLA (Espanhol) (Colombia) (Musica)
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",RADIOLA (Espanhol) (Colombia) (Musica)
+		#EXTINF:-1,RADIOLA (Espanhol)(Colombia)(Musica)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cEd2pR/RADIOLA.png" group-title="Musica" tvg-logo="",RADIOLA (Espanhol)(Colombia)(Musica)
 				
 				
 		#EXTINF:-1,VH1 HD
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",VH1 HD (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/faSHOm/VH1_HD.jpg" group-title="Musica" tvg-logo="",VH1 HD (Espanhol)
 				
 				
 		#EXTINF:-1,
@@ -1461,7 +1421,7 @@
 		http://0.0.0.0:1234
 	
 		#EXTINF:-1,ANIMAL PLANET LIVE
-			#EXTINF:-1 tvg-logo="" group-title="Documentarios",ANIMAL PLANET LIVE
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/i6xOw6/ANIMAL_PLANET_LIVE.png" group-title="Documentarios",ANIMAL PLANET LIVE
 				
 				
 		#EXTINF:-1,Discovery Channel
@@ -1469,7 +1429,7 @@
 				
 				
 		#EXTINF:-1,Discovery Science
-			#EXTINF:-1 tvg-logo="" group-title="Documentarios",Discovery Science (Russia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iNAXpR/Discovery_Science.jpg" group-title="Documentarios",Discovery Science (Russia)
 				
 				
 		#EXTINF:-1,National Geographic
@@ -1477,7 +1437,7 @@
 				
 				
 		#EXTINF:-1,National Geographic Wild
-			#EXTINF:-1 tvg-logo="" group-title="Documentarios",National Geographic Wild (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dHFhpR/National_Geographic_Wild.png" group-title="Documentarios",National Geographic Wild (Ingles)
 
 
 		#EXTINF:-1,Historia
@@ -1485,7 +1445,7 @@
 
 
 		#EXTINF:-1,Historia 2
-			#EXTINF:-1 tvg-logo="" group-title="Documentarios",Historia 2 (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/m2Tfb6/Historia_2.jpg" group-title="Documentarios",Historia 2 (Espanhol)
 				http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(H2)/index.m3u8
 
 		#EXTINF:-1,Odisseia
@@ -1493,39 +1453,27 @@
 
 
 		#EXTINF:-1,Investigation Discovery (Ingles)
-			#EXTINF:-1 tvg-logo="" group-title="Documentarios",Investigation Discovery (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nFgV9R/Investigation_Discovery.png" group-title="Documentarios",Investigation Discovery (Ingles)
 
 
 		#EXTINF:-1,Zooпарк
-			#EXTINF:-1 tvg-logo="" group-title="Documentarios",Zooпарк
-				
-				
-		#EXTINF:-1,Doctor (Russia)
-			#EXTINF:-1 tvg-logo="" group-title="Documentarios",Doctor (Russia)
-				
-				
-		#EXTINF:-1,Zоо ТV (Russia)
-			#EXTINF:-1 tvg-logo="" group-title="Documentarios",Zоо ТV (Russia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/b9Vwim/Zoo.png" group-title="Documentarios",Zooпарк
 				
 				
 		#EXTINF:-1,DISCOVERY H&H
-			#EXTINF:-1 tvg-logo="" group-title="Documentarios",DISCOVERY H&H (Espanhol)
-				
-				
-		#EXTINF:-1,ID
-			#EXTINF:-1 tvg-logo="" group-title="Documentarios",ID (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/m5Q1G6/DISCOVERY_H_H.jpg" group-title="Documentarios",DISCOVERY H&H (Espanhol)
 				
 				
 		#EXTINF:-1,DISCOVERY CIVIZATION 
-			#EXTINF:-1 tvg-logo="" group-title="Documentarios",DISCOVERY CIVIZATION (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jiD5b6/DISCOVERY_CIVIZATION.png" group-title="Documentarios",DISCOVERY CIVIZATION (Espanhol)
 				
 				
 		#EXTINF:-1,DISCOVERY THEATER HD
-			#EXTINF:-1 tvg-logo="" group-title="Documentarios",DISCOVERY THEATER HD (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/he0Jw6/DISCOVERY_THEATER_HD.gif" group-title="Documentarios",DISCOVERY THEATER HD (Espanhol)
 				
 				
 		#EXTINF:-1,DISCOVERY WORLD
-			#EXTINF:-1 tvg-logo="" group-title="Documentarios",DISCOVERY WORLD (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bX0wim/DISCOVERY_WORLD.jpg" group-title="Documentarios",DISCOVERY WORLD (Espanhol)
 				
 				
 		#EXTINF:-1,
@@ -1555,11 +1503,11 @@
 
 
 		#EXTINF:-1,AUTO PLUS (Russia)
-			#EXTINF:-1 tvg-logo="" group-title="CARS & AUTO",AUTO PLUS (Russia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kH5U3m/AUTO_PLUS.jpg" group-title="CARS & AUTO",AUTO PLUS (Russia)
 				
 				
 		#EXTINF:-1,DISCOVERY TURBO
-			#EXTINF:-1 tvg-logo="" group-title="CARS & AUTO",DISCOVERY TURBO (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dYQh66/DISCOVERY_TURBO.png" group-title="CARS & AUTO",DISCOVERY TURBO (Espanhol)
 				
 				
 			
@@ -1569,11 +1517,11 @@
 		http://0.0.0.0:1234
 
 		#EXTINF:-1,DOGTV (Ingles)
-			#EXTINF:-1 tvg-logo="" group-title="Temáticos",DOGTV (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mgywYm/DOGTV.png" group-title="Temáticos",DOGTV (Ingles)
 
 
 		#EXTINF:-1,TOROTV (Espanhol)
-			#EXTINF:-1 tvg-logo="" group-title="Temáticos",TOROTV (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/i8RdeR/TOROTV.jpg" group-title="Temáticos",TOROTV (Espanhol)
 
 
 		#EXTINF:-1,Der aktionaer tv (Alemao) (Economico)
@@ -1588,8 +1536,8 @@
 			#EXTINF:-1 tvg-logo="" group-title="Temáticos" tvg-id="n/a" tvg-logo="https://image.ibb.co/dkdwYk/NASA_TV_MEDIA.jpg",NASA TV MEDIA (Ingles)
 
 			
-		#EXTINF:-1,World Fashion Channel (Russo) (Moda)
-			#EXTINF:-1 tvg-logo="" group-title="Temáticos",World Fashion Channel (Russo) (Moda)
+		#EXTINF:-1,World Fashion Channel (Russo)(Moda)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/e2SJeR/World_Fashion_Channel.jpg" group-title="Temáticos",World Fashion Channel (Russo)(Moda)
 				http://win.cdn.bonus-tv.ru/TVB8/wfhd/playlist.m3u8
 
 		#EXTINF:-1,tbtyp (Turismo)
@@ -1601,91 +1549,67 @@
 				 
 
 		#EXTINF:-1,Gameshow (Gameplays)
-			#EXTINF:-1 tvg-logo="" group-title="Temáticos",Gameshow (Gameplays)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bv2ODm/Gameshow.gif" group-title="Temáticos",Gameshow (Gameplays)
 				http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
 
 		#EXTINF:-1,COMCAST
-			#EXTINF:-1 tvg-logo="" group-title="Temáticos",COMCAST (720p)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/j4FDeR/COMCAST.png" group-title="Temáticos",COMCAST (720p)
 				http://cmc-i.akamaihd.net/hls/live/201845/launch/04.m3u8
-			#EXTINF:-1 tvg-logo="" group-title="Temáticos",COMCAST (1080p)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/j4FDeR/COMCAST.png" group-title="Temáticos",COMCAST (1080p)
 				http://cmc-i.akamaihd.net/hls/live/201845/launch/05.m3u8
 			
 		#EXTINF:-1,InfoWars
-			#EXTINF:-1 tvg-logo="" group-title="Temáticos",InfoWars
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bSK0R6/InfoWars.jpg" group-title="Temáticos",InfoWars
 				http://infowarslive-lh.akamaihd.net:80/i/infowarslivestream_1@353459/index_800_av-p.m3u8
 
-		#EXTINF:-1,Made in Kuzbass (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Temáticos",Made in Kuzbass (Russo)
-				
-				
-		#EXTINF:-1,TV Travel HD (Russo) (Travel)
-			#EXTINF:-1 tvg-logo="" group-title="Temáticos",TV Travel HD (Russo) (Travel)
-				
-				
-		#EXTINF:-1,Da Vinci Learning (knowledge)
-			#EXTINF:-1 tvg-logo="" group-title="Temáticos",Da Vinci Learning (knowledge)
-				
-				
-		#EXTINF:-1,TV-TRAILER TV (Russia)
-			#EXTINF:-1 tvg-logo="" group-title="Temáticos",TV-TRAILER TV (Russia)
-				
-				
-		#EXTINF:-1,Hunting and Fishing (Russia)
-			#EXTINF:-1 tvg-logo="" group-title="Temáticos",Hunting and Fishing (Russia)
-				
-				
-		#EXTINF:-1,Hunter and fisherman (Russia)
-			#EXTINF:-1 tvg-logo="" group-title="Temáticos",Hunter and fisherman (Russia)
-				
-				
 			
 
 #EXTINF:-1,[B][COLOR yellow]<== Shopping TV ==>[/COLOR][/B]
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/bBftum/014_Shopping_TV.jpg" group-title="Shopping TV",[B][COLOR yellow]<== Shopping TV ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 
-		#EXTINF:-1,BUY HOME TV (Russia) (Vendas)
-			#EXTINF:-1 tvg-logo="" group-title="Shopping TV",BUY HOME TV (Russo)
+		#EXTINF:-1,BUY HOME TV (Russia)(Vendas)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gKwEm6/BUY_HOME_TV.png" group-title="Shopping TV",BUY HOME TV (Russo)(Vendas)
 				
 
- 		#EXTINF:-1,Telemilano Tele TV (Italian) (Vendas)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/b3kuB5/Telemilano_Tele_TV_Italian_Vendas.jpg" group-title="Shopping TV",Telemilano Tele TV (Italian) (Televendas)
+ 		#EXTINF:-1,Telemilano Tele TV (Italian)(Vendas)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/b3kuB5/Telemilano_Tele_TV_Italian_Vendas.jpg" group-title="Shopping TV",Telemilano Tele TV (Italian)(Televendas)
 				
 				
-		#EXTINF:-1,QVC DE Beauty (Vendas)
-			#EXTINF:-1 tvg-logo="" group-title="Vendas",QVC DE Beauty (Vendas)
+		#EXTINF:-1,QVC Beauty & Style (Vendas)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iQtieR/QVC_Beauty_Style.png" group-title="Vendas",QVC Beauty & Style (Vendas)
 				http://live.qvcde.simplestreamcdn.com:80/live/qvcde_beauty_clean/bitrate1.isml/live-test.m3u8
 
 		#EXTINF:-1,QVC DE Plus (Vendas)
-			#EXTINF:-1 tvg-logo="" group-title="Vendas",QVC DE Plus (Vendas)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/h2sgYm/QVC_DE_Plus.png" group-title="Vendas",QVC DE Plus (Vendas)
 				http://live.qvcde.simplestreamcdn.com:80/live/qvcde_plus_clean/bitrate1.isml/live-test.m3u8	
 
 		#EXTINF:-1,Shop Channel (Vendas)(Japão)
-			#EXTINF:-1 tvg-logo="" group-title="Vendas",Shop Channel (Vendas)(Japão)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/haxODm/Shop_Channel.jpg" group-title="Vendas",Shop Channel (Vendas)(Japão)
 				http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 
 		#EXTINF:-1,TSC - Online Shopping for Canadians
-			#EXTINF:-1 tvg-logo="" group-title="Vendas",TSC - Online Shopping for Canadians
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/chQUKR/Shop_Channel.png" group-title="Vendas",TSC - Online Shopping for Canadians
 				http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-b.m3u8
 
 		#EXTINF:-1,Japan Channel DX
-			#EXTINF:-1 tvg-logo="" group-title="Vendas",Japan Channel DX
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cti8eR/Japan_Channel_DX.jpg" group-title="Vendas",Japan Channel DX
 				http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
 
 		#EXTINF:-1,Shop 24 (Russia)
-			#EXTINF:-1 tvg-logo="" group-title="Vendas",Shop 24 (Russia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kiw5R6/Shop_24.jpg" group-title="Vendas",Shop 24 (Russia)
 				
 				
 		#EXTINF:-1,TVSN (Vendas) 
-			#EXTINF:-1 tvg-logo="" group-title="Vendas",TVSN (Vendas) 
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hmmTeR/TVSN.jpg" group-title="Vendas",TVSN (Vendas) 
 				http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
 
 		#EXTINF:-1,HSE 24 EXTRA 
-			#EXTINF:-1 tvg-logo="" group-title="Vendas",HSE 24 EXTRA 
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/i3FX66/HSE_24_EXTRA.png" group-title="Vendas",HSE 24 EXTRA 
 				http://c17001-l.u.core.cdn.streamfarm.net/17001hse24/live/3293hse24digital/live_de.isml/playlist.m3u8
 
 		#EXTINF:-1,HSE 24
-			#EXTINF:-1 tvg-logo="" group-title="Vendas",HSE 24
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/itOwYm/HSE_24.png" group-title="Vendas",HSE 24
 				https://c17001-l.u.core.cdn.streamfarm.net/17001hse24/live/3175hse24/live_de.isml/playlist.m3u8
 
 		#EXTINF:-1,
@@ -1720,44 +1644,40 @@
 			#EXTINF:-1 group-title="Religioso" tvg-id="" "tvg-logo="https://image.ibb.co/eZ329Q/4_E_TV_Greek_Orthodox.jpg",4E TV (Greek) (Orthodox)
 				rtmp://82.192.84.30:1935/live/myStream.sdp
 
-		#EXTINF:-1,Alfa Omega TV (Romanian) (Christian)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/ccpEOk/Alfa_Omega_TV_Romanian_Christian.png" group-title="Religioso",Alfa Omega TV (Romanian) (Christian)
+		#EXTINF:-1,Alfa Omega TV (Romanian)(Christian)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ccpEOk/Alfa_Omega_TV_Romanian_Christian.png" group-title="Religioso",Alfa Omega TV (Romanian)(Christian)
 				rtmp://s5.alfaomega.tv/alfaomega/alfaomega2.sdp
 
 		#EXTINF:-1,CBS (Koreia Sul) (Christian)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cC5Br5/CBS_Koreia_Sul_Christian.png" group-title="Religioso",CBS (Koreia Sul) (Christian)
 				rtmp://cbs-live.gscdn.com/cbs-live/cbs-live.stream
 				
-		#EXTINF:-1,TV 7 Plus (Finland) (Christian)
-			#EXTINF:-1 tvg-logo="" group-title="Religioso",TV 7 Plus (Finland) (Christian)
+		#EXTINF:-1,TV 7 Plus (Finland)(Christian)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iSxJeR/TV_7_Plus.jpg" group-title="Religioso",TV 7 Plus (Finland)(Christian)
 				rtmp://vod.tv7.fi/tv7plus-web/_definst_/mp4:tv7plus.stream_360p
 				
-		#EXTINF:-1,Nour TV (United Arab Emirates) (persian) (sunni Islamic)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/e26iJw/IMPD_TV_SP_Envagelica_Brasil.png" group-title="Religioso",Nour TV (United Arab Emirates) (persian) (sunni Islamic)
+		#EXTINF:-1,Nour TV (United Arab Emirates)(persian)(sunni Islamic)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/e26iJw/IMPD_TV_SP_Envagelica_Brasil.png" group-title="Religioso",Nour TV (United Arab Emirates)(persian)(sunni Islamic)
 				
 				
-		#EXTINF:-1,Hope channel (Poland) (Seventh-day Adventist)
-			#EXTINF:-1 tvg-logo="" group-title="Religioso",Hope channel (Poland) (Seventh-day Adventist)
+		#EXTINF:-1,Hope channel (Poland)(Seventh-day Adventist)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cCRTeR/Hope_channel.jpg" group-title="Religioso",Hope channel (Poland)(Seventh-day Adventist)
 				http://rtmp.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
 
-		#EXTINF:-1,Trinity TV (English) (Christian)
-			#EXTINF:-1 tvg-logo="" group-title="Religioso",Trinity TV (English) (Christian)
+		#EXTINF:-1,Trinity TV (English)(Christian)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dCxteR/Trinity_TV.png" group-title="Religioso",Trinity TV (English)(Christian)
 				http://trinitytvro.bisericilive.com/live/trinitytvro3/index.m3u8
 
 		#EXTINF:-1,Mekkah HD (Muslim)
-			#EXTINF:-1 tvg-logo="" group-title="Religioso",Mekkah HD (Muslim)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eOsRzR/Mekkah_HD.png" group-title="Religioso",Mekkah HD (Muslim)
 				http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/index.m3u8
 			
 		#EXTINF:-1,Sunnah Live HD (Muslim)
-			#EXTINF:-1 tvg-logo="" group-title="Religioso",Sunnah Live HD (Muslim)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cDtMYm/Sunnah_Live_HD.jpg" group-title="Religioso",Sunnah Live HD (Muslim)
 				http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel8/index.m3u8
 			
-		#EXTINF:-1,Union (Russian) (Orthodox)
-			#EXTINF:-1 tvg-logo="" group-title="Religioso",Union (Russian) (Orthodox)
-				
-				
 		#EXTINF:-1,PUSH TV
-			#EXTINF:-1 tvg-logo="" group-title="Religioso",PUSH TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gQYftm/PUSH_TV.jpg" group-title="Religioso",PUSH TV
 				http://104.245.38.209:8081/pushtv/PUSH/chunks.m3u8
 
 		#EXTINF:-1,
@@ -1775,7 +1695,7 @@
 		
 		
 		#EXTINF:-1,TWiT.tv
-			#EXTINF:-1 tvg-logo="" group-title="Podcasts",TWiT.tv
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mE8wYm/TWiT_tv.png" group-title="Podcasts",TWiT.tv
 
 
 
@@ -1792,100 +1712,93 @@
 				rtmp://diaspora24.tv:1935/diaspora24tv/diaspora24
 			
 		#EXTINF:-1,NollyMax (Africa)
-			#EXTINF:-1 tvg-logo="" group-title="Africa",NollyMax (Africa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bWVAtm/NollyMax.png" group-title="Africa",NollyMax (Africa)
 				https://antvchannels.akamaized.net/livehls/57d1397a181f466e038b4567/index-f3-v1-a1.m3u8
 			
 		#EXTINF:-1,AntvShows (Africa)
-			#EXTINF:-1 tvg-logo="" group-title="Africa",AntvShows (Africa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/h3gTeR/Antv_Shows.jpg" group-title="Africa",AntvShows (Africa)
 				https://antvchannels.akamaized.net/livehls/57d13420181f460b368b4568/index-f3-v1-a1.m3u8
 			
 		#EXTINF:-1,DIXA TV (Africa)
-			#EXTINF:-1 tvg-logo="" group-title="Africa",DIXA TV (Africa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gOGBzR/DIXA_TV.jpg" group-title="Africa",DIXA TV (Africa)
 				https://antvchannels.akamaized.net/livehls/57d52f8b181f46c15e8b4569/index-f3-v1-a1.m3u8
 			
 		#EXTINF:-1,NNT (Africa)
-			#EXTINF:-1 tvg-logo="" group-title="Africa",NNT (Africa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iLLoeR/NNT.jpg" group-title="Africa",NNT (Africa)
 				https://antvchannels.akamaized.net/livehls/57d52e25181f4600368b4567/index-f3-v1-a1.m3u8
 			
 		#EXTINF:-1,BAM TV (Africa)(English)
-			#EXTINF:-1 tvg-logo="" group-title="Africa",BAM TV (Africa)(English)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gCrTeR/BAM_TV.jpg" group-title="Africa",BAM TV (Africa)(English)
 				https://antvchannels.akamaized.net/livehls/57d52f6f181f4600368b4568/index-f3-v1-a1.m3u8
 			
 		#EXTINF:-1,AllDay (Africa)(English)
-			#EXTINF:-1 tvg-logo="" group-title="Africa",AllDay (Africa)(English)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cpNvR6/AllDay.jpg" group-title="Africa",AllDay (Africa)(English)
 				https://antvchannels.akamaized.net/livehls/57d52fc0181f4675398b4568/index-f3-v1-a1.m3u8
 			
 		#EXTINF:-1,AfroMovies TV (Africa)
-			#EXTINF:-1 tvg-logo="" group-title="Africa",AfroMovies TV (Africa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/evvoeR/Afro_Movies_TV.jpg" group-title="Africa",AfroMovies TV (Africa)
 				https://antvchannels.akamaized.net/livehls/57d52fd9181f46c54d8b4569/index-f3-v1-a1.m3u8
 			
 		#EXTINF:-1,French Africa TV (Africa)(French)
-			#EXTINF:-1 tvg-logo="" group-title="Africa",French Africa TV (Africa)(French)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/en35tm/French_Africa_TV.jpg" group-title="Africa",French Africa TV (Africa)(French)
 				https://antvchannels.akamaized.net/livehls/57d52fee181f462f3f8b4568/index-f3-v1-a1.m3u8
 			
 		#EXTINF:-1,MMC (Africa)(music)
-			#EXTINF:-1 tvg-logo="" group-title="Africa",MMC (Africa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/h3eBYm/MMC.jpg" group-title="Africa",MMC (Africa)
 				https://antvchannels.akamaized.net/livehls/57d5301e181f4605368b456a/index-f3-v1-a1.m3u8
 			
 		#EXTINF:-1,Tripple L (Africa)
-			#EXTINF:-1 tvg-logo="" group-title="Africa",Tripple L (Africa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ht1x66/Tripple_L.jpg" group-title="Africa",Tripple L (Africa)
 				https://antvchannels.akamaized.net/livehls/57d530af181f4600458b4568/index-f2-v1-a1.m3u8
 			
 		#EXTINF:-1,Ghallywood Movies (Africa)
-			#EXTINF:-1 tvg-logo="" group-title="Africa",Ghallywood Movies (Africa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bXZ6zR/Ghallywood_Movies.jpg" group-title="Africa",Ghallywood Movies (Africa)
 				https://antvchannels.akamaized.net/livehls/57d53097181f4610368b4567/index-f3-v1-a1.m3u8
 			
 		#EXTINF:-1,Aroya TV (Africa)
-			#EXTINF:-1 tvg-logo="" group-title="Africa",Aroya TV (Africa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mvgQtm/Aroya_TV.jpg" group-title="Africa",Aroya TV (Africa)
 				https://antvchannels.akamaized.net/livehls/57d53035181f46ed098b4570/index-f1-v1-a1.m3u8
 			
 		#EXTINF:-1,CCTV (Africa)
-			#EXTINF:-1 tvg-logo="" group-title="Africa",CCTV (Africa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/j6batm/CCTV.jpg" group-title="Africa",CCTV (Africa)
 				https://antvchannels.akamaized.net/livehls/57d53081181f4600458b4567/index-f3-v1-a1.m3u8
 			
 		#EXTINF:-1,GNT (Africa)
-			#EXTINF:-1 tvg-logo="" group-title="Africa",GNT (Africa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cQpH66/GNT.jpg" group-title="Africa",GNT (Africa)
 				https://antvchannels.akamaized.net/livehls/57d5305c181f46ed098b4571/index-f2-v1-a1.m3u8
 			
 		#EXTINF:-1,Quoque TV (Africa)
-			#EXTINF:-1 tvg-logo="" group-title="Africa",Quoque TV (Africa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cqLqR6/Quoque_TV.jpg" group-title="Africa",Quoque TV (Africa)
 				https://antvchannels.akamaized.net/livehls/57d53ef4181f4697388b4567/index-f3-v1-a1.m3u8
 			
 		#EXTINF:-1,ETC (Africa)
-			#EXTINF:-1 tvg-logo="" group-title="Africa",ETC (Africa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nksbzR/ETC.jpg" group-title="Africa",ETC (Africa)
 				https://antvchannels.akamaized.net/livehls/57d53eb1181f460b468b4567/index-f2-v1-a1.m3u8
 			
 		#EXTINF:-1,SARM TV (Africa)
-			#EXTINF:-1 tvg-logo="" group-title="Africa",SARM TV (Africa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/d424m6/SARM_TV.jpg" group-title="Africa",SARM TV (Africa)
 				https://antvchannels.akamaized.net/livehls/57d5401f181f46770a8b4567/index-f1-v1-a1.m3u8
 			
 		#EXTINF:-1,TAFT TV (Africa)
-			#EXTINF:-1 tvg-logo="" group-title="Africa",TAFT TV (Africa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/d985tm/TAFT_TV.jpg" group-title="Africa",TAFT TV (Africa)
 				https://antvchannels.akamaized.net/livehls/57d53071181f46c54d8b456a/index-f3-v1-a1.m3u8
-			
+
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Africa",
 				
 			
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Africa",
-				
 			
 
 #EXTINF:-1,[B][COLOR yellow]<== Albania ==>[/COLOR][/B]
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/gJ09Zm/Albania.png" group-title="Albania",[B][COLOR yellow]<== Albania ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 	
-		#EXTINF:-1,shqiptare (Albanian)
-			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemao",shqiptare (Albanian)
-				rtmp://vip.alpha-one.net:1935/static/A1Alb
- 
 		#EXTINF:-1,JUG TV (Albanian)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/f3KEr5/JUG_TV_Albanian.png" tvg-id="" tvg-name=" group-title="Alemao",JUG TV (Albanian)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/f3KEr5/JUG_TV_Albanian.png" tvg-id="" tvg-name=" group-title="Albanian",JUG TV (Albanian)
 				rtmp://84.20.77.50/live/livestream1
  
 		#EXTINF:-1,ROKUM TV (Albanian)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/neSw65/ROKUM_TV.png" group-title="Alemao",ROKUM TV (Albanian)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/neSw65/ROKUM_TV.png" group-title="Albanian",ROKUM TV (Albanian)
 				rtmp://84.20.77.50/live/livestream1
  
  
@@ -1898,10 +1811,6 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/eN2xDk/NDR_HD_Alemao.jpg" tvg-id="" tvg-name=" group-title="Alemanha",NDR HD (Alemao)
 				
  
- 		#EXTINF:-1,Family TV (Alemao)
-			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha",Family TV (Alemao)
-				
-				
  		#EXTINF:-1,BLK Regional TV (Germany)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/jMsLUQ/BLK_Regional_TV_Germany.png" tvg-id="" tvg-name=" group-title="Alemanha",BLK Regional TV (Germany)
 				rtmp://62.113.210.250/medienasa-live/BLKonline_high
@@ -1933,7 +1842,7 @@
 		http://0.0.0.0:1234
 	
 		#EXTINF:-1,FS1
-			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Austria",FS1
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kY0bYm/FS1.png" tvg-id="" tvg-name=" group-title="Austria",FS1
 				http://stream.fs1.tv:8080/hls/webstream.m3u8
 
 		#EXTINF:-1,Austria 24TV (Austria)
@@ -1951,11 +1860,11 @@
 				http://selevision9896-i.akamaihd.net/hls/live/219378/98961/2.m3u8
 
 		#EXTINF:-1,rotana khalijiah (Arabic) (Saudi Arabia)
-			#EXTINF:-1 tvg-logo="" group-title="Arábia Saudita",rotana khalijiah (Arabic) (Saudi Arabia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dNXqtm/rotana_khalijiah.png" group-title="Arábia Saudita",rotana khalijiah (Arabic) (Saudi Arabia)
 				http://selevision9879-i.akamaihd.net/hls/live/219139/98791/1.m3u8
 
 		#EXTINF:-1,rotana masrya (Arabic) (Saudi Arabia)
-			#EXTINF:-1 tvg-logo="" group-title="Arábia Saudita",rotana masrya (Arabic) (Saudi Arabia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/e4j3Dm/rotana_masrya.jpg" group-title="Arábia Saudita",rotana masrya (Arabic) (Saudi Arabia)
 				http://selevision9893-i.akamaihd.net/hls/live/219353/98936/1.m3u8
 
 		#EXTINF:-1,
@@ -1983,19 +1892,19 @@
 		http://0.0.0.0:1234
 
 		#EXTINF:-1,eitb.eus (Argentina)
-			#EXTINF:-1 tvg-logo="" group-title="Argentina",eitb.eus (Argentina)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hmLbYm/eitb_eus.jpg" group-title="Argentina",eitb.eus (Argentina)
 				http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 
 		#EXTINF:-1,ISAT (Espanhol) (Argentina)
-			#EXTINF:-1 tvg-logo="" group-title="Argentina",ISAT (Espanhol) (Argentina)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nCorzR/ISAT.png" group-title="Argentina",ISAT (Espanhol) (Argentina)
 				
 				
 		#EXTINF:-1,MASCHIC HD (Espanhol) (Argentina)
-			#EXTINF:-1 tvg-logo="" group-title="Argentina",MASCHIC HD (Espanhol) (Argentina)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hQ9mYm/MASCHIC_HD.png" group-title="Argentina",MASCHIC HD (Espanhol) (Argentina)
 				
 				
 		#EXTINF:-1,PASIONES HD (Espanhol) (Argentina)
-			#EXTINF:-1 tvg-logo="" group-title="Argentina",PASIONES HD (Espanhol) (Argentina)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cPvAtm/PASIONES_HD.jpg" group-title="Argentina",PASIONES HD (Espanhol) (Argentina)
 				
 				
 		#EXTINF:-1,
@@ -2013,11 +1922,11 @@
 				http://vm109.imust.org:1935/live/livestream/playlist.m3u8?wowzasessionid=1212295388
 				
 		#EXTINF:-1,ATV Antwerpen (Belgica)
-			#EXTINF:-1 tvg-logo="" group-title="Belgica",ATV Antwerpen (Belgica)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hjBN66/ATV_Antwerpen.jpg" group-title="Belgica",ATV Antwerpen (Belgica)
 				http://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/index_1_av-p.m3u8?sd=10&rebase=on
 				
 		#EXTINF:-1,TV OOST (Belgica)
-			#EXTINF:-1 tvg-logo="" group-title="Belgica",TV OOST (Belgica)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ieqbYm/TV_OOST.jpg" group-title="Belgica",TV OOST (Belgica)
 				http://urtmpkal-f.akamaihd.net/i/156m2vpg5_1@322941/master.m3u8
 	
 
@@ -2027,7 +1936,7 @@
 		
 		
 		#EXTINF:-1,GLIZ (Espanhol) (BOLIVIA)
-			#EXTINF:-1 tvg-logo="" group-title="Armenia",GLIZ (Espanhol) (BOLIVIA)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gEaqR6/GLIZ.jpg" group-title="Armenia",GLIZ (Espanhol) (BOLIVIA)
 				
 				
 
@@ -2037,7 +1946,7 @@
 		http://0.0.0.0:1234
 
 		#EXTINF:-1,Travel TV
-			#EXTINF:-1 tvg-logo="" group-title="Bulgaria",Travel TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/djLktm/Travel_TV.jpg" group-title="Bulgaria",Travel TV
 				http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 
 		#EXTINF:-1,
@@ -2050,8 +1959,8 @@
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/fJPmEm/Canada.png" group-title="Canada",[B][COLOR yellow]<== Canada ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 
-		#EXTINF:-1,CPAC (CANADA) (Parliament)
-			#EXTINF:-1 tvg-logo="" group-title="Canadian TV",CPAC (CANADA) (Parliament)
+		#EXTINF:-1,CPAC (CANADA)(Parliament)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/c95Pm6/CPAC.jpg" group-title="Canadian TV",CPAC (CANADA)(Parliament)
 				http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
 
 				
@@ -2061,7 +1970,7 @@
 		
 		
 		#EXTINF:-1,Cinestrean TV
-			#EXTINF:-1 tvg-logo="" group-title="Caribbean TV",Cinestrean TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bBJGzR/Cinestrean_TV.jpg" group-title="Caribbean TV",Cinestrean TV
 
 
 
@@ -2070,7 +1979,7 @@
 		http://0.0.0.0:1234
 
 		#EXTINF:-1,Holvoet TV (Chile)
-			#EXTINF:-1 tvg-logo="" group-title="Chile",Holvoet TV (Chile)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eXcFtm/Holvoet_TV.jpg" group-title="Chile",Holvoet TV (Chile)
 				http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
 
 		#EXTINF:-1,
@@ -2106,7 +2015,7 @@
 		
 		
 		#EXTINF:-1,mekameleen tv (Egypt)
-			#EXTINF:-1 tvg-logo="" group-title="Egypt",mekameleen tv (Egypt)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/b496zR/mekameleen_tv.jpg" group-title="Egypt",mekameleen tv (Egypt)
 				
 				
 			
@@ -2120,19 +2029,19 @@
 				rtmp://s1.media-planet.sk:80/live/bardejov1
 			
 		#EXTINF:-1,JOJ HD (Eslováquia)
-			#EXTINF:-1 tvg-logo="" group-title="Eslováquia",JOJ HD (Eslováquia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gRrTw6/JOJ_HD.png" group-title="Eslováquia",JOJ HD (Eslováquia)
 				http://nn2.joj.sk/hls/joj-720.m3u8
 			
 		#EXTINF:-1,JOJ PLUS (Eslováquia)
-			#EXTINF:-1 tvg-logo="" group-title="Eslováquia",JOJ PLUS (Eslováquia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/chbvb6/JOJ_PLUS.jpg" group-title="Eslováquia",JOJ PLUS (Eslováquia)
 				http://nn2.joj.sk/hls/jojplus-540.m3u8
 			
 		#EXTINF:-1,WAU (Eslováquia)
-			#EXTINF:-1 tvg-logo="" group-title="Eslováquia",WAU (Eslováquia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dLgdw6/WAU.jpg" group-title="Eslováquia",WAU (Eslováquia)
 				http://nn2.joj.sk/hls/wau-540.m3u8
 			
 		#EXTINF:-1,JOJ FAMILY (Eslováquia)
-			#EXTINF:-1 tvg-logo="" group-title="Eslováquia",JOJ FAMILY (Eslováquia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ht21G6/JOJ_FAMILY.jpg" group-title="Eslováquia",JOJ FAMILY (Eslováquia)
 				http://nn2.joj.sk/hls/family-540.m3u8
 			
 		#EXTINF:-1,
@@ -2146,11 +2055,11 @@
 		http://0.0.0.0:1234
 
 		#EXTINF:-1,ATRESERIES TV HD (Espanhol)
-			#EXTINF:-1 tvg-logo="" group-title="Espanha",ATRESERIES TV HD (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ifLSpR/ATRESERIES_TV_HD.png" group-title="Espanha",ATRESERIES TV HD (Espanhol)
 				http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
 		
 		#EXTINF:-1,RTP Asturias (Espanha)
-			#EXTINF:-0 group-title="Espanha" tvg-logo="",RTP Asturias (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/hxbvb6/RTP_Asturias.jpg",RTP Asturias (Espanha)
 				http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 	
 		#EXTINF:-1,MEGA (Espanha)
@@ -2177,21 +2086,9 @@
 			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/iKULRG/DW_Espa_ol_Espanha.png",DW Español (Espanha)
 				http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 			
-		#EXTINF:-1,CANAL 10 EMPORDA (Espanha) (Catalunha)
-			#EXTINF:-0 group-title="Espanha" tvg-logo="",CANAL 10 EMPORDA (Espanha) (Catalunha)
+		#EXTINF:-1,CANAL 10 EMPORDA (Espanha)(Catalunha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/dBqXOm/CANAL_10_EMPORDA.png",CANAL 10 EMPORDA (Espanha)(Catalunha)
 				http://ventdelnord.tv:8080/escala/directe.m3u8
-				
-		#EXTINF:-1,unknown23
-			#EXTINF:-0 group-title="Espanha" tvg-logo="",unknown23
-				http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_5_av-p.m3u8
-				
-		#EXTINF:-1,ETB Sat 
-			#EXTINF:-0 group-title="Espanha" tvg-logo="",ETB Sat 
-				http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
-				
-		#EXTINF:-1,
-			#EXTINF:-0 group-title="Espanha" tvg-logo="",
-				
 				
 		#EXTINF:-1,
 			#EXTINF:-0 group-title="Espanha" tvg-logo="",
@@ -2208,27 +2105,27 @@
 				
 			
 		#EXTINF:-1,RTL TVI HD
-			#EXTINF:-1 tvg-logo="" group-title="Franca",RTL TVI HD
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dOYYw6/RTL_TVI_HD.png" group-title="Franca",RTL TVI HD
 				http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
 
 		#EXTINF:-1,6ter (Franca)
-			#EXTINF:-1 tvg-logo="" group-title="Franca",6ter (Franca)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/m9JSOm/6ter.png" group-title="Franca",6ter (Franca)
 				
 				
 		#EXTINF:-1,NT1 (Franca)
-			#EXTINF:-1 tvg-logo="" group-title="Franca",NT1 (Franca)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nbYiw6/NT1.png" group-title="Franca",NT1 (Franca)
 				
 				
 		#EXTINF:-1,TMC (Franca)
-			#EXTINF:-1 tvg-logo="" group-title="Franca",TMC (Franca)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cRA2pR/TMC.jpg" group-title="Franca",TMC (Franca)
 				
 				
 		#EXTINF:-1,HD1 (Franca)
-			#EXTINF:-1 tvg-logo="" group-title="Franca",HD1 (Franca)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dFETUR/HD1.png" group-title="Franca",HD1 (Franca)
 				
 				
 		#EXTINF:-1,W9 (Franca)
-			#EXTINF:-1 tvg-logo="" group-title="Franca",W9 (Franca)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hDkwG6/W9.jpg" group-title="Franca",W9 (Franca)
 				
 				
 		#EXTINF:-1,
@@ -2242,7 +2139,7 @@
 		http://0.0.0.0:1234
 
 		#EXTINF:-1,ANT1
-			#EXTINF:-1 tvg-logo="" group-title="Greece",ANT1
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/k5RYUR/ANT1.jpg" group-title="Greece",ANT1
 				http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
 			
  
@@ -2262,7 +2159,7 @@
 		
 		
 		#EXTINF:-1,Channel 10 (Israel)
-			#EXTINF:-1 tvg-logo="" group-title="Israel",Channel 10 (Israel)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/c0BHpR/Channel_10.jpg" group-title="Israel",Channel 10 (Israel)
 				
 				
  
@@ -2292,11 +2189,11 @@
 				http://wma07.fluidstream.net/TeleArena/livestream/sansar.m3u8
 				
 		#EXTINF:-1,La5 (Italy)
-			#EXTINF:-1 tvg-logo="" group-title="Italian",La5 (Italy)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gB3f9R/La5.png" group-title="Italian",La5 (Italy)
 				
 				
 		#EXTINF:-1,Top Crime (Italy)
-			#EXTINF:-1 tvg-logo="" group-title="Italian",Top Crime (Italy)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/f2J8w6/Top_Crime.jpg" group-title="Italian",Top Crime (Italy)
 				
 				
 		#EXTINF:-1,
@@ -2334,7 +2231,7 @@
 		http://0.0.0.0:1234
 
 		#EXTINF:-1,Macedonia TV HD (Macedonia)
-			#EXTINF:-1 tvg-logo="" group-title="Macedonia",Macedonia TV HD (Macedonia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/coUyw6/Macedonia_TV_HD.png" group-title="Macedonia",Macedonia TV HD (Macedonia)
 				http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 	
 	
@@ -2344,7 +2241,7 @@
 		
 		
 		#EXTINF:-1,Canal Maroc 1 (Marrocos)
-			#EXTINF:-1 tvg-logo="" group-title="Marrocos",Canal Maroc 1 (Marrocos)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jAmHpR/Canal_Maroc_1.jpg" group-title="Marrocos",Canal Maroc 1 (Marrocos)
 				
 				
 	
@@ -2353,20 +2250,16 @@
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/bzZBEm/Mexico.png" group-title="Mexico",[B][COLOR yellow]<== Mexico ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 
-		#EXTINF:-1,Telemax (Spanish) (Mexico)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/bU4hQb/Telemax_Spanish_Mexico.png" group-title="Mexico",Telemax (Spanish) (Mexico)
+		#EXTINF:-1,Telemax (Spanish)(Mexico)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bU4hQb/Telemax_Spanish_Mexico.png" group-title="Mexico",Telemax (Spanish)(Mexico)
 				http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 	
 		#EXTINF:-1,Azteca 13 MX
-			#EXTINF:-1 tvg-logo="" group-title="Mexico",Azteca 13 MX
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/d71Wim/Azteca_13_MX.png" group-title="Mexico",Azteca 13 MX
 				http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 	
-		#EXTINF:-1,AZCORAZON HD (Espanhol) (Mexico)
-			#EXTINF:-1 tvg-logo="" group-title="Mexico",AZCORAZON HD (Espanhol) (Mexico)
-				
-				
-		#EXTINF:-1,MULIPREMIER (Movies) (Espanhol) (Mexico)
-			#EXTINF:-1 tvg-logo="" group-title="Mexico",MULIPREMIER (Movies) (Espanhol) (Mexico)
+		#EXTINF:-1,AZCORAZON HD (Espanhol)(Mexico)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/h4qJUR/AZCORAZON_HD.jpg" group-title="Mexico",AZCORAZON HD (Espanhol)(Mexico)
 				
 				
 		#EXTINF:-1,
@@ -2394,7 +2287,7 @@
 				
 
 		#EXTINF:-1,Balti TV (Balti)
-			#EXTINF:-1 tvg-logo="" group-title="Moldova",Balti TV (Balti)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dRZj3m/Balti_TV.jpg" group-title="Moldova",Balti TV (Balti)
 				http://77.89.199.174:81/hls/live2.m3u8
 
 				
@@ -2404,7 +2297,7 @@
 		http://0.0.0.0:1234
 
 		#EXTINF:-1,KANTIPUR TV (Nepal)
-			#EXTINF:-1 tvg-logo="" group-title="Nepal",KANTIPUR TV (Nepal)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dju1im/KANTIPUR_TV.jpg" group-title="Nepal",KANTIPUR TV (Nepal)
 				http://192.241.129.217:8081/edgeusacdnktv1/ktvlive/playlist.m3u8
 				
 		#EXTINF:-1,
@@ -2417,22 +2310,12 @@
 				
 	
 
-#EXTINF:-1,[B][COLOR yellow]<== PUERTO RICO ==>[/COLOR][/B]
-	#EXTINF:-1 tvg-logo="https://image.ibb.co/hyq1Em/PUERTO_RICO.jpg" group-title="PUERTO RICO",[B][COLOR yellow]<== PUERTO RICO ==>[/COLOR][/B]
-		
-		
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="PUERTO RICO",
-				
-			
-
-
 #EXTINF:-1,[B][COLOR yellow]<== Polonia ==>[/COLOR][/B]
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/cbTcn6/Polonia.png" group-title="Polonia",[B][COLOR yellow]<== Polonia ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 
 		#EXTINF:-1,Sfera TV (Polonia)
-			#EXTINF:-1 tvg-logo="" group-title="Polonia",Sfera TV (Polonia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nKSMim/Sfera_TV.jpg" group-title="Polonia",Sfera TV (Polonia)
 				rtmp://stream.sferatv.pl/sferalive/_definst_/mp4:live3
 
 
@@ -2442,19 +2325,19 @@
 		http://0.0.0.0:1234
 	
 		#EXTINF:-1,Telenord 8
-			#EXTINF:-1 tvg-logo="" group-title="República Dominicana",Telenord 8
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kNp3UR/Telenord_8.png" group-title="República Dominicana",Telenord 8
 				http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
 
 		#EXTINF:-1,Telenord 10
-			#EXTINF:-1 tvg-logo="" group-title="República Dominicana",Telenord 10
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kx8ab6/Telenord_10.gif" group-title="República Dominicana",Telenord 10
 				http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
 
 		#EXTINF:-1,Telenord 12
-			#EXTINF:-1 tvg-logo="" group-title="República Dominicana",Telenord 12
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cYkXOm/Telenord_12.png" group-title="República Dominicana",Telenord 12
 				http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
 
 		#EXTINF:-1,Telenord 14
-			#EXTINF:-1 tvg-logo="" group-title="República Dominicana",Telenord 14
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bGNCOm/Telenord_14.jpg" group-title="República Dominicana",Telenord 14
 				
 				
 		#EXTINF:-1,
@@ -2467,12 +2350,8 @@
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/d6pBEm/Romania.png" group-title="Romania",[B][COLOR yellow]<== Romania ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 	
-		#EXTINF:-1,Alfaomega (Romania)
-			#EXTINF:-1 tvg-logo="" group-title="",Alfaomega (Romania)
-				
-				
 		#EXTINF:-1,Accent TV Romania (Romania)
-			#EXTINF:-1 tvg-logo="" group-title="",Accent TV Romania (Romania)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cRXOUR/Accent_TV_Romania.png" group-title="",Accent TV Romania (Romania)
 				http://188.173.22.231:8080/video/emisie.m3u8
 
 				
@@ -2481,313 +2360,53 @@
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/j9U6fR/Russia.png" group-title="Russia",[B][COLOR yellow]<== Russia ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 	
-		#EXTINF:-1,rossia24 (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Russia",rossia24 (Russo)
+		#EXTINF:-1,Rossiya 24 (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mDhJw6/Rossiya_24.png" group-title="Russia",Rossiya 24 (Russo)
 				http://live.tvtomsk.ru/hls/RT-24.m3u8
 				
 		#EXTINF:-1,mostvideo.tv (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Russia",mostvideo.tv (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hVFXOm/mostvideo_tv.jpg" group-title="Russia",mostvideo.tv (Russo)
 				rtmp://wow.mostvideo.tv/tv/ch1
-			#EXTINF:-1 tvg-logo="" group-title="Russia",mostvideo.tv (Russo) (Alternativa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hVFXOm/mostvideo_tv.jpg" group-title="Russia",mostvideo.tv (Russo) (Alternativa)
 				 http://wow.stib.com.ua:1935/tv/ch1/playlist_b125000.m3u8
 
 		#EXTINF:-1,nsktv (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Russia",nsktv (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cWMLb6/nsktv.jpg" group-title="Russia",nsktv (Russo)
 				rtmp://hosting.nsktv.ru:1935/live/rik?streamType=live
 
 		#EXTINF:-1,RT (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Russia",RT (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dCwWim/RT.png" group-title="Russia",RT (Russo)
 				http://rtmp.api.rt.com/hls/rtdru.m3u8
-			#EXTINF:-1 tvg-logo="" group-title="Russia",RT (Russo) (Alternativa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dCwWim/RT.png" group-title="Russia",RT (Russo) (Alternativa)
 				http://rtmp.api.rt.com/hls/rtdru360.m3u8
 				
-		#EXTINF:-1,topinform (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Russia",topinform (Russo)
-				http://hls.goodgame.ru/hls/33226.m3u8?version=2 
-
 		#EXTINF:-1,mir 24 (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Russia",mir 24 (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eX8cOm/mir_24.jpg" group-title="Russia",mir 24 (Russo)
 				rtmp://mirtv.cdnvideo.ru/mirtv-paramlive/mirtv_800
 			
-		#EXTINF:-1,trofey HD (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Russia",trofey HD (Russo)
-				http://str.trofey.net:1935/live/2_max.smil/playlist.m3u8?session=5488c6087e1ea6.57082302&id=2
-			
-		#EXTINF:-1,TNR 4 (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Russia",TNR 4 (Russo)
-				
-
-		#EXTINF:-1,BTV (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Russia",BTV (Russo)
-				
-				
-		#EXTINF:-1,TVC (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Russia",TVC (Russo)
-				rtmp://tvc.cdnvideo.ru/tvc-p212/rtmp_p11_hq
-
-		#EXTINF:-1,krasnaya liniya (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Russia",krasnaya liniya (Russo)
-				
-				
-		#EXTINF:-1,Zvezda (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Russia",Zvezda (Russo)
-				
-				
-		#EXTINF:-1,KPBIM 24 (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Russia",KPBIM 24 (Russo)
-				http://31.200.228.57:4022/udp/239.239.1.198:1234.ts
-
 		#EXTINF:-1,1yar (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Russia",1yar (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iv0JUR/1yar.jpg" group-title="Russia",1yar (Russo)
 				http://cam6.yar-net.ru/live/1yar/index.m3u8
 
 		#EXTINF:-1,K24 (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Russia",K24 (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cRXyUR/K24.jpg" group-title="Russia",K24 (Russo)
 				http://live.katun24.ru:8082/katun/katun/index.m3u8
-
-		#EXTINF:-1,MTB (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Russia",MTB (Russo)
-				rtmp://31.202.208.204:1935/live/livestream1
-
-		#EXTINF:-1,ТВК24 (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Russia",ТВК24 (Russo)
-				http://www.tvk6.ru/tv/hls/tvk6.m3u8
-
-		#EXTINF:-1,TV-3 (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Russia",TV-3 (Russo)
-				rtmp://217.114.181.70/livepkgr/_definst_/tv3new.flv
 
 		#EXTINF:-1,TV Tsentr (Russo)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/faNNb5/TV_Tsentr.png" group-title="Russia",TV Tsentr (Russo)
 				http://185.192.251.80:80/tvc-p212/smil:tvc.smil/playlist.m3u8?streamType=live
 
 		#EXTINF:-1,Mix (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Russia",Mix (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kz1Wim/Mix.jpg" group-title="Russia",Mix (Russo)
 				rtmp://tv-mix.ru/live/Stream1
 
 		#EXTINF:-1,O2TV (Russo)
-			#EXTINF:-1 tvg-logo="" group-title="Russia",O2TV (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hHmNOm/O2TV.png" group-title="Russia",O2TV (Russo)
 				http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/playlist.m3u8
 
 		#EXTINF:-1,Leomax (Russia)
-			#EXTINF:-1 tvg-logo="" group-title="Russia",Leomax (Russia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/d4bYUR/Leomax.jpg" group-title="Russia",Leomax (Russia)
 				http://cdn-11.bonus-tv.ru/Leomax/tracks-v1a1/index.m3u8
-	
-		#EXTINF:-1,Russian illusion
-			#EXTINF:-1 tvg-logo="" group-title="Russia",Russian illusion
-				
-				
-		#EXTINF:-1,ОТР
-			#EXTINF:-1 tvg-logo="" group-title="Russia",ОТР
-				
-				
-		#EXTINF:-1,Techno 24
-			#EXTINF:-1 tvg-logo="" group-title="Russia",Techno 24
-				
-				
-		#EXTINF:-1,Channel Success (Moscow) (Business)
-			#EXTINF:-1 tvg-logo="" group-title="Russia",Channel Success (Moscow) (Business)
-				
-				
-		#EXTINF:-1,Ren TV
-			#EXTINF:-1 tvg-logo="" group-title="Russia",Ren TV
-				
-				
-		#EXTINF:-1,WORLD TV
-			#EXTINF:-1 tvg-logo="" group-title="Russia",WORLD TV
-				
-				
-		#EXTINF:-1,Channel 8
-			#EXTINF:-1 tvg-logo="" group-title="Russia",Channel 8
-				
-				
-		#EXTINF:-1,TOGETHER - RF 
-			#EXTINF:-1 tvg-logo="" group-title="Russia",TOGETHER - RF 
-				
-				
-		#EXTINF:-1,Psychology21 (psychology)
-			#EXTINF:-1 tvg-logo="" group-title="Russia",Psychology21 (psychology)
-				
-				
-		#EXTINF:-1,Mama (mothers)
-			#EXTINF:-1 tvg-logo="" group-title="Russia",Mama (mothers)
-				
-				
-		#EXTINF:-1,Yu
-			#EXTINF:-1 tvg-logo="" group-title="Russia",Yu
-				
-				
-		#EXTINF:-1,Fifth channel
-			#EXTINF:-1 tvg-logo="" group-title="Russia",Fifth channel
-				
-				
-		#EXTINF:-1,DTX
-			#EXTINF:-1 tvg-logo="" group-title="Russia",DTX
-				
-				
-		#EXTINF:-1,First channel
-			#EXTINF:-1 tvg-logo="" group-title="Russia",First channel
-				
-				
-		#EXTINF:-1,Central Television
-			#EXTINF:-1 tvg-logo="" group-title="Russia",Central Television
-				
-				
-		#EXTINF:-1,VETTA 24 
-			#EXTINF:-1 tvg-logo="" group-title="Russia",VETTA 24 
-				
-				
-		#EXTINF:-1,Че
-			#EXTINF:-1 tvg-logo="" group-title="Russia",Че
-				
-				
-		#EXTINF:-1,Manor
-			#EXTINF:-1 tvg-logo="" group-title="Russia",Manor
-				
-				
-		#EXTINF:-1,NOSTALGIA 
-			#EXTINF:-1 tvg-logo="" group-title="Russia",NOSTALGIA 
-				
-				
-		#EXTINF:-1,CTC - World
-			#EXTINF:-1 tvg-logo="" group-title="Russia",CTC - World
-				
-				
-		#EXTINF:-1,Telecom (Life-style)
-			#EXTINF:-1 tvg-logo="" group-title="Russia",Telecom (Life-style)
-				
-				
-		#EXTINF:-1,TV Center- Moscow
-			#EXTINF:-1 tvg-logo="" group-title="Russia",TV Center- Moscow
-				
-				
-		#EXTINF:-1,НТВ
-			#EXTINF:-1 tvg-logo="" group-title="Russia",НТВ
-				
-				
-		#EXTINF:-1,Comedy comedy
-			#EXTINF:-1 tvg-logo="" group-title="Russia",Comedy comedy
-				
-				
-		#EXTINF:-1,Home
-			#EXTINF:-1 tvg-logo="" group-title="Russia",Home
-				
-				
-		#EXTINF:-1,world of the series
-			#EXTINF:-1 tvg-logo="" group-title="Russia",world of the series
-				
-				
-		#EXTINF:-1, Sundress
-			#EXTINF:-1 tvg-logo="" group-title="Russia", Sundress
-				
-				
-		#EXTINF:-1,My planet
-			#EXTINF:-1 tvg-logo="" group-title="Russia",My planet
-				
-				
-		#EXTINF:-1,Country Life
-			#EXTINF:-1 tvg-logo="" group-title="Russia",Country Life
-				
-				
-		#EXTINF:-1,SET
-			#EXTINF:-1 tvg-logo="" group-title="Russia",SET
-				
-				
-		#EXTINF:-1,ID Xtra
-			#EXTINF:-1 tvg-logo="" group-title="Russia",ID Xtra
-				
-				
-		#EXTINF:-1,Planet HD
-			#EXTINF:-1 tvg-logo="" group-title="Russia",Planet HD
-				
-				
-		#EXTINF:-1,Indian film
-			#EXTINF:-1 tvg-logo="" group-title="Russia",Indian film
-				
-				
-		#EXTINF:-1,FOX Life
-			#EXTINF:-1 tvg-logo="" group-title="Russia",FOX Life
-				
-				
-		#EXTINF:-1,Russia-K
-			#EXTINF:-1 tvg-logo="" group-title="Russia",Russia-K
-				
-				
-		#EXTINF:-1,Evpatoria TV
-			#EXTINF:-1 tvg-logo="" group-title="Russia",Evpatoria TV
-				
-				
-		#EXTINF:-1,a1
-			#EXTINF:-1 tvg-logo="" group-title="Russia",a1
-				
-				
-		#EXTINF:-1,Sony Sci-Fi
-			#EXTINF:-1 tvg-logo="" group-title="Russia",Sony Sci-Fi
-				
-				
-		#EXTINF:-1,FOX
-			#EXTINF:-1 tvg-logo="" group-title="Russia",FOX
-				
-				
-		#EXTINF:-1,О2ТВ
-			#EXTINF:-1 tvg-logo="" group-title="Russia",О2ТВ
-				
-				
-		#EXTINF:-1,Kinomix
-			#EXTINF:-1 tvg-logo="" group-title="Russia",Kinomix
-				
-				
-		#EXTINF:-1,Muz TV
-			#EXTINF:-1 tvg-logo="" group-title="Russia",Muz TV
-				
-				
-		#EXTINF:-1,A Real Scary TV
-			#EXTINF:-1 tvg-logo="" group-title="Russia",A Real Scary TV
-				
-				
-		#EXTINF:-1,DOTSKA TV
-			#EXTINF:-1 tvg-logo="" group-title="Russia",DOTSKA TV
-				
-				
-		#EXTINF:-1,Ministry of Ideas
-			#EXTINF:-1 tvg-logo="" group-title="Russia",Ministry of Ideas
-				
-				
-		#EXTINF:-1,Kaleidoscope TV
-			#EXTINF:-1 tvg-logo="" group-title="Russia",Kaleidoscope TV
-				
-				
-		#EXTINF:-1,АВТО24
-			#EXTINF:-1 tvg-logo="" group-title="Russia",АВТО24
-				
-				
-		#EXTINF:-1,Nika TV
-			#EXTINF:-1 tvg-logo="" group-title="Russia",Nika TV
-				
-				
-		#EXTINF:-1,The Millet TV
-			#EXTINF:-1 tvg-logo="" group-title="Russia",The Millet TV
-				
-				
-		#EXTINF:-1,For Men
-			#EXTINF:-1 tvg-logo="" group-title="Russia",For Men
-				
-				
-		#EXTINF:-1,Favorite Movie
-			#EXTINF:-1 tvg-logo="" group-title="Russia",Favorite Movie
-				
-				
-		#EXTINF:-1,Our Siberia
-			#EXTINF:-1 tvg-logo="" group-title="Russia",Our Siberia
-				
-				
-		#EXTINF:-1,ОТС
-			#EXTINF:-1 tvg-logo="" group-title="Russia",ОТС
-				
-				
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Russia",
-							
 	
 				
 
@@ -2826,39 +2445,39 @@
 		http://0.0.0.0:1234
 
 		#EXTINF:-1,TRT 1 HD (Turquia)
-			#EXTINF:-1 tvg-logo="" group-title="Turquia",TRT 1 HD (Turquia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cTzbim/TRT_1_HD.png" group-title="Turquia",TRT 1 HD (Turquia)
 				http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 				
 		#EXTINF:-1,SEMERKAND HD (Turquia)
-			#EXTINF:-1 tvg-logo="" group-title="Turquia",SEMERKAND HD (Turquia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cA0MG6/SEMERKAND_HD.jpg" group-title="Turquia",SEMERKAND HD (Turquia)
 				http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/Playlist.m3u8
 				
 		#EXTINF:-1,KANALD HD (Turquia)
-			#EXTINF:-1 tvg-logo="" group-title="Turquia",KANALD HD (Turquia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cu2U3m/KANALD_HD.jpg" group-title="Turquia",KANALD HD (Turquia)
 				http://37.48.83.10/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
 
 		#EXTINF:-1,KANALD HD SECENEK 2 (Turquia)
-			#EXTINF:-1 tvg-logo="" group-title="Turquia",KANALD HD SECENEK 2 (Turquia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cu2U3m/KANALD_HD.jpg" group-title="Turquia",KANALD HD SECENEK 2 (Turquia)
 				http://37.48.83.10/S1/HLS_LIVE/kanald/750/prog_index.m3u8
 
 		#EXTINF:-1,TRT Avaz
-			#EXTINF:-1 tvg-logo="" group-title="Turquia",TRT Avaz
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jQbHpR/TRT_Avaz.png" group-title="Turquia",TRT Avaz
 				http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
 
 		#EXTINF:-1,TRT Haber
-			#EXTINF:-1 tvg-logo="" group-title="Turquia",TRT Haber
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mgTrG6/TRT_Haber.jpg" group-title="Turquia",TRT Haber
 				http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
 
 		#EXTINF:-1,TRT Okul
-			#EXTINF:-1 tvg-logo="" group-title="Turquia",TRT Okul
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mujRim/TRT_Okul.png" group-title="Turquia",TRT Okul
 				http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8 
 
 		#EXTINF:-1,TRT Turk
-			#EXTINF:-1 tvg-logo="" group-title="Turquia",TRT Turk
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/c8psOm/TRT_Turk.png" group-title="Turquia",TRT Turk
 				http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8 
 
 		#EXTINF:-1,TRT Kurdi
-			#EXTINF:-1 tvg-logo="" group-title="Turquia",TRT Kurdi
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jzPqb6/TRT_Kurdi.jpg" group-title="Turquia",TRT Kurdi
 				http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
 
 		#EXTINF:-1,
@@ -2896,7 +2515,7 @@
 		http://0.0.0.0:1234
 	
 		#EXTINF:-1,VTV Channel 6 (Vernal) (UT Utah)
-			#EXTINF:-1 tvg-logo="" group-title="USA",VTV Channel 6 (Vernal) (UT Utah)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gsfwG6/VTV_Channel_6.jpg" group-title="USA",VTV Channel 6 (Vernal) (UT Utah)
 				http://hls.ksl.com/t/strata/playlist.m3u8
 
 		#EXTINF:-1,Miami TV (English)
@@ -2908,19 +2527,19 @@
 				
 				
 		#EXTINF:-1,EYE95 America (South Asian) (Middle Eastern)
-			#EXTINF:-1 tvg-logo="" group-title="USA",EYE95 America (South Asian) (Middle Eastern)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kQH43m/EYE95_America.jpg" group-title="USA",EYE95 America (South Asian) (Middle Eastern)
 				http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
 
 		#EXTINF:-1,C-Span
-			#EXTINF:-1 tvg-logo="" group-title="USA",C-Span
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cmOoUR/C_Span.jpg" group-title="USA",C-Span
 				http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8
 
 		#EXTINF:-1,C-Span 2
-			#EXTINF:-1 tvg-logo="" group-title="USA",C-Span 2
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ic9Z3m/C_Span_2.png" group-title="USA",C-Span 2
 				http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8
 
 		#EXTINF:-1,C-Span 3
-			#EXTINF:-1 tvg-logo="" group-title="USA",C-Span 3
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eydGG6/C_Span_3.png" group-title="USA",C-Span 3
 				http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8
 
 		#EXTINF:-1,
@@ -2938,35 +2557,19 @@
 
 
 		#EXTINF:-1,Telearagua
-			#EXTINF:-1 tvg-logo="" group-title="Venezuela",Telearagua
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kh5P3m/Telearagua.png" group-title="Venezuela",Telearagua
 
 
 		#EXTINF:-1,TeleSUR 31
-			#EXTINF:-1 tvg-logo="" group-title="Venezuela",TeleSUR 31
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fRXXpR/Tele_SUR_31.jpg" group-title="Venezuela",TeleSUR 31
 				http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
 
-		#EXTINF:-1,TRT
-			#EXTINF:-1 tvg-logo="" group-title="Venezuela",TRT
-
-
-		#EXTINF:-1,ValeTV
-			#EXTINF:-1 tvg-logo="" group-title="Venezuela",ValeTV
-				
-
-		#EXTINF:-1,Venezolano TV
-			#EXTINF:-1 tvg-logo="" group-title="Venezuela",Venezolano TV
-
-
 		#EXTINF:-1,VMAS TV
-			#EXTINF:-1 tvg-logo="" group-title="Venezuela",VMAS TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eCECpR/VMAS_TV.png" group-title="Venezuela",VMAS TV
 				http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 
-		#EXTINF:-1,VPI TV
-			#EXTINF:-1 tvg-logo="" group-title="Venezuela",VPI TV
-
-
-		#EXTINF:-1,VTV 8
-			#EXTINF:-1 tvg-logo="" group-title="Venezuela",VTV 8
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Venezuela",
 				
 
 
