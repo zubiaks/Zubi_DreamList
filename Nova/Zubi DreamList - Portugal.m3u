@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 	#EXTINF:-1,Zubi DreamList 
-		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.63
+		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.64
 			http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== LÍNGUA PORTUGUESA ==>[/COLOR][/B]
@@ -12,13 +12,17 @@
 				http://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 			#EXTINF:-1 group-title="Generalistas" tvg-name="rtp1.pt" audio-track="pt" tvg-logo="https://image.ibb.co/n5vOUQ/RTP_1.png",RTP 1 (Alternativa)(Generalistas)
 				http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
+			#EXTINF:-1 group-title="Generalistas" tvg-name="rtp1.pt" audio-track="pt" tvg-logo="https://image.ibb.co/n5vOUQ/RTP_1.png",RTP 1 (Alternativa)(Generalistas 2)
+				http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/chunklist.m3u8
 				
 		#EXTINF:-1,RTP 2
 			#EXTINF:-1 group-title="Generalistas" tvg-name="rtp2.pt" audio-track="pt" tvg-logo="https://image.ibb.co/bX7L9Q/RTP_2.png",RTP 2  (Generalistas)
 				http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
 			#EXTINF:-1 group-title="Generalistas" tvg-name="rtp2.pt" audio-track="pt" tvg-logo="https://image.ibb.co/bX7L9Q/RTP_2.png",RTP 2 (Alternativa)(Generalistas)
 				http://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
-			
+			#EXTINF:-1 group-title="Generalistas" tvg-name="rtp2.pt" audio-track="pt" tvg-logo="https://image.ibb.co/bX7L9Q/RTP_2.png",RTP 2 (Alternativa)(Generalistas 2)
+				http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/chunklist.m3u8
+				
 		#EXTINF:-1,SIC
 			#EXTINF:-1 group-title="Generalistas" tvg-id="sic.pt" tvg-logo="https://image.ibb.co/mGcbik/SIC.png",SIC  (Generalistas)
 				http://live.impresa.pt/live/sic/sic540p.m3u8
@@ -34,7 +38,7 @@
 		#EXTINF:-1,RTP Memoria
 			#EXTINF:-1 group-title="Generalistas" tvg-logo="https://image.ibb.co/eHA7pQ/RTP_Memoria.png",RTP Memoria (Generalistas)
 				http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
-			#EXTINF:-1 group-title="Generalistas" tvg-logo="https://image.ibb.co/eHA7pQ/RTP_Memoria.png",RTP Memoria (Generalistas)(Alternativa)
+			#EXTINF:-1 group-title="Generalistas" tvg-logo="https://image.ibb.co/eHA7pQ/RTP_Memoria.png",RTP Memoria (Generalistas)(Alternativa)*
 				http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/KodiPortugal.pt.m3u8?CompartilhandoIPTV
 				
 		#EXTINF:-1,RTP Madeira
@@ -46,7 +50,7 @@
 		#EXTINF:-1,RTP Acores
 			#EXTINF:-1 group-title="Generalistas" tvg-id="RTPAcores.pt" tvg-logo="https://image.ibb.co/feRmik/RTP_Acores.png",RTP Acores (Generalistas)
 				http://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
-			#EXTINF:-1 group-title="Generalistas" tvg-id="RTPAcores.pt" tvg-logo="https://image.ibb.co/feRmik/RTP_Acores.png",RTP Acores (Generalistas)(Alternativa)		
+			#EXTINF:-1 group-title="Generalistas" tvg-id="RTPAcores.pt" tvg-logo="https://image.ibb.co/feRmik/RTP_Acores.png",RTP Acores (Generalistas)(Alternativa)*	
 				http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/KodiPortugal.pt.m3u8
 			
 		#EXTINF:-1,PORTO Canal
@@ -56,7 +60,7 @@
 				http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8
 
 		#EXTINF:-1,RTP Africa
-			#EXTINF:-1 group-title="Generalistas" tvg-id="RTPAfrica.pt" tvg-logo="https://image.ibb.co/mS9BG5/RTP_Africa.png",RTP Africa (Generalistas)
+			#EXTINF:-1 group-title="Generalistas" tvg-id="RTPAfrica.pt" tvg-logo="https://image.ibb.co/mS9BG5/RTP_Africa.png",RTP Africa (Generalistas)*
 				http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/KodiPortugal.pt.m3u8
 
 		#EXTINF:-1,RTP Internacional 
@@ -65,7 +69,7 @@
 			
 		#EXTINF:-1,SIC Internacional
 			#EXTINF:-1 group-title="Generalistas" tvg-id="" tvg-logo="https://image.ibb.co/g3Urm6/SIC_Internacional.png",SIC Internacional (Generalistas)
-				http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/inspirationlinks.m3u8
+				
 			
 		#EXTINF:-1,TVI Africa
 			#EXTINF:-1 group-title="Generalistas" tvg-id="TVIAfrica.pt" tvg-logo="https://image.ibb.co/kKLFR5/TVI_Africa.png",TVI Africa (Generalistas)
@@ -192,7 +196,7 @@
 
 
 		#EXTINF:-1,FUEL_TV HD (PORTUGAL)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/bCaF9Q/A_BOLA_TV.png" group-title="Desporto",FUEL_TV HD (PORTUGAL)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fDCZ3k/FUEL_TV.png" group-title="Desporto",FUEL_TV HD (PORTUGAL)
 				http://wowza2.mysoltv.com:1992/USA_FUEL_HD/index.m3u8
 			
 		#EXTINF:-1,A Bola TV (PORTUGAL)
@@ -232,7 +236,7 @@
 				
 
 		#EXTINF:-1,SIC Kids
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cXPo4G/SIC_Kids.png" group-title="Infantil",SIC Kids (Infantil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cXPo4G/SIC_Kids.png" group-title="Infantil",SIC Kids (Infantil)*
 				http://live.impresa.pt/live/sick/sick540p.m3u8
 
 		#EXTINF:-1,TVCine 1
@@ -331,6 +335,10 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/eS0xR6/ARROIOS_TV.jpg" group-title="Regionais",ARROIOS TV (Regionais)
 				http://213.13.26.11:1935/live/luis/livestream.m3u8?isnpLk=10&rebase=on
 
+		#EXTINF:-1,ESEC TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ftdQER/ESEC_TV.jpg" group-title="Regionais",ESEC TV (Regionais)
+				
+				
 		#EXTINF:-1,AMAZON SAT (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/edCmZQ/amazon_sat.png" tvg-id="" tvg-name=" group-title="Brasil",AMAZON SAT (Brasil)
 				http://liveabr2.sambatech.com.br/abr/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream.m3u8
@@ -395,7 +403,7 @@
 			
 		#EXTINF:-1,CARIRI TV PB (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cxfDkb/CARIRI_TV_PB_Brasil.jpg" group-title="Brasil",CARIRI TV PB (Brasil)
-
+				http://streaming50.sitehosting.com.br:1935/cariritv/cariritv/live.m3u8
 
 		#EXTINF:-1,REDE TV! (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/b8VAR6/REDE_TV.jpg" group-title="Brasil",REDE TV! (Brasil)
@@ -427,9 +435,9 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/io5YG6/Cine_Sky.png" group-title="Brasil",Cine Sky (Brasil)(FILMES E SERIES)
 				http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
 			
-		#EXTINF:-1, (Brasil)
-			#EXTINF:-1 tvg-logo="" group-title="Brasil", (Brasil)
-				
+		#EXTINF:-1,TVU - TV Universitária - Recife-PE (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nGd8zR/TVU_TV_Universit_ria_Recife_PE_Brasil.jpg" group-title="Brasil",TVU - TV Universitária - Recife-PE (Brasil)
+				http://150.161.93.173/hls/720/index.m3u8
 			
 		#EXTINF:-1, (Brasil)
 			#EXTINF:-1 tvg-logo="" group-title="Brasil", (Brasil)
@@ -498,6 +506,14 @@
 		#EXTINF:-1,IMPD TV SP (Envagelica) (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/e26iJw/IMPD_TV_SP_Envagelica_Brasil.png" group-title="Religioso",IMPD TV SP (Envagelica)(Brasil)(Religioso)
 
+			
+		#EXTINF:-1,CANAL EXECUTIVO (Adventista do Sétimo Dia)(Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eByFDm/CANAL_EXECUTIVO_Adventista_do_S_timo_Dia_Brasil.jpg" group-title="Religioso",CANAL EXECUTIVO (Adventista do Sétimo Dia)(Brasil)
+				http://stream.novotempo.com:1935/tv/executivo.smil/live.m3u8
+			
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",
+				
 			
 
 			
@@ -692,6 +708,34 @@
 		#EXTINF:-1,Weather Nation [Estados Unidos](Informacao)(English)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/nLxYim/Weather_Nation_Estados_Unidos.png" group-title="Informacao",Weather Nation [Estados Unidos](Informacao)(English)
 				http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+				
+		#EXTINF:-1,24 Horas
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hwdizR/24_Horas.png" group-title="Informacao",24 Horas
+				http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
+				
+		#EXTINF:-1,+24 Horas
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKP6KR/24_Horas.png" group-title="Informacao",+24 Horas
+				http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+				
+		#EXTINF:-1,3/24
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nQyu66/3_24.jpg" group-title="Informacao",3/24
+				http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+				
+		#EXTINF:-1,Azteca Noticias 
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fdTcR6/Azteca_Noticias.png" group-title="Informacao",Azteca Noticias 
+				http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-p.m3u8?sd=10&rebase=on
+				
+		#EXTINF:-1,CNN Chile
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fDeTYm/CNN_Chile.jpg" group-title="Informacao",CNN Chile
+				http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",
+				
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",
+				
 				
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",
@@ -1041,13 +1085,13 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/mZyOim/DXTV.png" group-title="Desporto",DXTV 
 				http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w1744908434_b800000_slesp.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",
-				
+		#EXTINF:-1,beins football 
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ftmOim/beins_football_logo.png" group-title="Desporto",beins football 
+				http://46.105.233.106:8080/hls/sportshd/playlist.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",
-				
+		#EXTINF:-1,TRT SPOR HD
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bE63ZR/TRT_SPOR_HD.png" group-title="Desporto",TRT SPOR HD
+				http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",
@@ -1835,9 +1879,9 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/gQYftm/PUSH_TV.jpg" group-title="Religioso",PUSH TV
 				http://104.245.38.209:8081/pushtv/PUSH/chunks.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Religioso",
-				
+		#EXTINF:-1,Al Minbar
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dTkag6/Al_Minbar.gif" group-title="Religioso",Al Minbar
+				http://streaming.i-sat.tv:1935/live/alminbar/playlist.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",
@@ -2181,6 +2225,14 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/eXcFtm/Holvoet_TV.jpg" group-title="Chile",Holvoet TV (Chile)
 				http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
 
+		#EXTINF:-1,FMHOT HD
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eDAStm/FMHOT_HD.jpg" group-title="Chile",FMHOT HD
+				http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
+
+		#EXTINF:-1,Futuro TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dGPyzR/Futuro_TV.png" group-title="Chile",Futuro TV
+				http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
+
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Chile",
 				
@@ -2256,7 +2308,7 @@
 		#EXTINF:-1,ATRESERIES TV HD (Espanhol)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/ifLSpR/ATRESERIES_TV_HD.png" group-title="Espanha",ATRESERIES TV HD (Espanhol)
 				http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
-		
+
 		#EXTINF:-1,RTP Asturias (Espanha)
 			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/hxbvb6/RTP_Asturias.jpg",RTP Asturias (Espanha)
 				http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
@@ -2264,13 +2316,13 @@
 		#EXTINF:-1,MEGA (Espanha)
 			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/h9ctDw/MEGA_TV_Espanha_Alternativa.jpg",MEGA (Espanha)
 				http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
-			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/h9ctDw/MEGA_TV_Espanha_Alternativa.jpg",MEGA (Espanha) (Alternativa)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/h9ctDw/MEGA_TV_Espanha_Alternativa.jpg",MEGA (Espanha)(Alternativa)
 				http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-p.m3u8
 				
 		#EXTINF:-1,LA SEXTA HD (Espanha)
 			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/kWoatw/LA_SEXTA_HD_Espanha.png",LA SEXTA HD (Espanha)
 				http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
-			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/kWoatw/LA_SEXTA_HD_Espanha.png",LA SEXTA HD (Espanha) (Alternativa)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/kWoatw/LA_SEXTA_HD_Espanha.png",LA SEXTA HD (Espanha)(Alternativa)
 				http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 				
 		#EXTINF:-1,Huesca TV (Espanha)
@@ -2324,8 +2376,44 @@
 				http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 				
 		#EXTINF:-1,TV3 (Espanha)
-			#EXTINF:-0 group-title="Espanha" tvg-logo="",TV3 (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/m55MKR/TV3.png",TV3 (Espanha)
 				http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+				
+		#EXTINF:-1,PANICO (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/cCzFeR/PANICO.png",PANICO (Espanha)
+				https://latamonly-lh.akamaihd.net/i/panicohd_1@578061/master.m3u8
+				
+		#EXTINF:-1,CINEMA PLATINO (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/i0XkeR/CINEMA_PLATINO.jpg",CINEMA PLATINO (Espanha)
+				https://latamonly-lh.akamaihd.net/i/cineplatino_1@578062/master.m3u8
+				
+		#EXTINF:-1,CINE MEXICANO
+			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/j5M6m6/CINE_MEXICANO.gif",CINE MEXICANO
+				https://latamonly-lh.akamaihd.net/i/cinemex_1@578060/master.m3u8
+				
+		#EXTINF:-1,MULTIPREMIER (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/mgkhR6/MULTIPREMIER.jpg",MULTIPREMIER (Espanha)
+				https://latamonly-lh.akamaihd.net/i/multipremier_1@576702/master.m3u8
+				
+		#EXTINF:-1,MULTICINEMA (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/j2bdzR/MULTICINEMA.png",MULTICINEMA (Espanha)
+				https://latamonly-lh.akamaihd.net/i/mchd_1@576706/master.m3u8
+				
+		#EXTINF:-1, (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="", (Espanha)
+				
+				
+		#EXTINF:-1, (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="", (Espanha)
+				
+				
+		#EXTINF:-1, (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="", (Espanha)
+				
+				
+		#EXTINF:-1, (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="", (Espanha)
+				
 				
 		#EXTINF:-1, (Espanha)
 			#EXTINF:-0 group-title="Espanha" tvg-logo="", (Espanha)
@@ -2549,6 +2637,18 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/dawb3m/Rai_Premium_Italia.jpg" group-title="Italian",Rai Premium (Italy)
 				http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 				
+		#EXTINF:-1,Rai Movie (Italy)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/d9V5w6/Rai_Movie.png" group-title="Italian",Rai Movie (Italy)
+				http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+				
+		#EXTINF:-1, (Italy)
+			#EXTINF:-1 tvg-logo="" group-title="Italian", (Italy)
+				
+				
+		#EXTINF:-1, (Italy)
+			#EXTINF:-1 tvg-logo="" group-title="Italian", (Italy)
+				
+				
 		#EXTINF:-1, (Italy)
 			#EXTINF:-1 tvg-logo="" group-title="Italian", (Italy)
 				
@@ -2619,6 +2719,18 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/h4qJUR/AZCORAZON_HD.jpg" group-title="Mexico",AZCORAZON HD (Espanhol)(Mexico)
 				
 				
+		#EXTINF:-1,Foro TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gNxVg6/Foro_TV.png" group-title="Mexico",Foro TV
+				http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Mexico",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Mexico",
+				
+
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Mexico",
 				
@@ -3303,6 +3415,22 @@
 			#EXTINF:-1 group-title="Adulto" tvg-logo="https://image.ibb.co/gkCnn6/studio_66_tv.png",studio 66 tv (+18)
 				
 				
+		#EXTINF:-1,ButGo 18+
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fmdE8m/But_Go_18.jpg" group-title="Adulto",ButGo 18+
+				
+			
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Adulto",
+				
+			
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Adulto",
+				
+			
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Adulto",
+				
+			
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Adulto",
 				
