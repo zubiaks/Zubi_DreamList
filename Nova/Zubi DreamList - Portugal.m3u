@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 	#EXTINF:-1,Zubi DreamList 
-		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.65
+		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.66
 			http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== LÍNGUA PORTUGUESA ==>[/COLOR][/B]
@@ -16,44 +16,44 @@
 		#EXTINF:-1,RTP 2
 			#EXTINF:-1 group-title="Generalistas" tvg-name="rtp2.pt" audio-track="pt" tvg-logo="https://image.ibb.co/bX7L9Q/RTP_2.png",0002 - RTP 2  (Generalistas)
 				http://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
-			#EXTINF:-1 group-title="Generalistas" tvg-name="rtp2.pt" audio-track="pt" tvg-logo="https://image.ibb.co/bX7L9Q/RTP_2.png",0002 - RTP 2 (Alternativa)(Generalistas)*
-				http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/chunklist.m3u8
+			#EXTINF:-1 group-title="Generalistas" tvg-name="rtp2.pt" audio-track="pt" tvg-logo="https://image.ibb.co/bX7L9Q/RTP_2.png",0002 - RTP 2 (Alternativa)(Generalistas)
+				
 				
 		#EXTINF:-1,SIC
 			#EXTINF:-1 group-title="Generalistas" tvg-id="sic.pt" tvg-logo="https://image.ibb.co/mGcbik/SIC.png",SIC  (Generalistas)
 				http://live.impresa.pt/live/sic/sic540p.m3u8
-			#EXTINF:-1 group-title="Generalistas" tvg-id="sic.pt" tvg-logo="https://image.ibb.co/mGcbik/SIC.png",SIC (Alternativa)(Generalistas)*
-				http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/playlist.m3u8
+			#EXTINF:-1 group-title="Generalistas" tvg-id="sic.pt" tvg-logo="https://image.ibb.co/mGcbik/SIC.png",SIC (Alternativa)(Generalistas)
+				
 
 		#EXTINF:-1,TVI
 			#EXTINF:-1 group-title="Generalistas"  tvg-name="tvi.pt" audio-track="pt" tvg-logo="https://image.ibb.co/gx1rG5/TVI.png",TVI (Generalistas)
-				http://noscdn1.connectedviews.com:1935/live/smil:tvi.smil/playlist.m3u8
+				
 			#EXTINF:-1 group-title="Generalistas"  tvg-name="tvi.pt" audio-track="pt" tvg-logo="https://image.ibb.co/gx1rG5/TVI.png",TVI (Alternativa)(Generalistas)
 
 
 		#EXTINF:-1,RTP Memoria
 			#EXTINF:-1 group-title="Generalistas" tvg-logo="https://image.ibb.co/eHA7pQ/RTP_Memoria.png",RTP Memoria (Generalistas)
 				http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
-			#EXTINF:-1 group-title="Generalistas" tvg-logo="https://image.ibb.co/eHA7pQ/RTP_Memoria.png",RTP Memoria (Generalistas)(Alternativa)*
-				http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/KodiPortugal.pt.m3u8?CompartilhandoIPTV
+			#EXTINF:-1 group-title="Generalistas" tvg-logo="https://image.ibb.co/eHA7pQ/RTP_Memoria.png",RTP Memoria (Generalistas)(Alternativa)
+				
 				
 		#EXTINF:-1,RTP Madeira
 			#EXTINF:-1 group-title="Generalistas" tvg-id="RTPMadeira.pt" tvg-logo="https://image.ibb.co/mHnZKQ/RTP_Madeira.png",RTP Madeira (Generalistas)
 				http://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 			#EXTINF:-1 group-title="Generalistas" tvg-id="RTPMadeira.pt" tvg-logo="https://image.ibb.co/mHnZKQ/RTP_Madeira.png",RTP Madeira (Generalistas)(Alternativa)
-				http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/KodiPortugal.pt.m3u8
+				
 				
 		#EXTINF:-1,RTP Acores
 			#EXTINF:-1 group-title="Generalistas" tvg-id="RTPAcores.pt" tvg-logo="https://image.ibb.co/feRmik/RTP_Acores.png",RTP Acores (Generalistas)
 				http://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 			#EXTINF:-1 group-title="Generalistas" tvg-id="RTPAcores.pt" tvg-logo="https://image.ibb.co/feRmik/RTP_Acores.png",RTP Acores (Generalistas)(Alternativa)*	
-				http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/KodiPortugal.pt.m3u8
+				
 			
 		#EXTINF:-1,PORTO Canal
 			#EXTINF:-1 group-title="Generalistas" tvg-id="PortoCanal.pt" tvg-logo="https://image.ibb.co/gjrV9Q/PORTO_Canal.png",PORTO Canal (Generalistas)
-				http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
+				
 			#EXTINF:-1 group-title="Generalistas" tvg-id="PortoCanal.pt" tvg-logo="https://image.ibb.co/gjrV9Q/PORTO_Canal.png",PORTO Canal (Generalistas)(Alternativa)
-				http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8
+				
 
 		#EXTINF:-1,RTP Africa
 			#EXTINF:-1 group-title="Generalistas" tvg-id="RTPAfrica.pt" tvg-logo="https://image.ibb.co/mS9BG5/RTP_Africa.png",RTP Africa (Generalistas)*
