@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 	#EXTINF:-1,Zubi DreamList 
-		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.68
+		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.69
 			http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== LÍNGUA PORTUGUESA ==>[/COLOR][/B]
@@ -592,9 +592,9 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/hQmG4Q/KONTRA_TV_Greek.jpg" group-title="Informacao",KONTRA TV (Greek)
 				rtmp://flashcloud.mediacdn.com/live/kontratv
 			
- 		#EXTINF:-1,tagesschau (Alemao)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/dyGqYk/tagesschau_Alemao.jpg" group-title="Informacao",tagesschau (Alemao)
-				
+ 		#EXTINF:-1,tagesschau 24 (Alemao)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dyGqYk/tagesschau_Alemao.jpg" group-title="Informacao",tagesschau 24 HD(Alemao)
+				http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
  
  		#EXTINF:-1,Alsharqiya News (Arabic)(Iraq)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/d4Z5zQ/Alsharqiya_News_Arabic_Iraq.jpg" group-title="Informacao",Alsharqiya News (Arabic)(Iraq)
@@ -720,6 +720,30 @@
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",NBC 4 News (Washington DC)
 				https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
 				
+		#EXTINF:-1,RTL (LUX)
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/74bxXZ8/RTL-Tele-Luxembourg.png" group-title="Informacao",RTL (LUX)
+				http://live01.rtl.lu/channel1/smil:channel1/chunklist.m3u8
+				
+		#EXTINF:-1,RTL 2 (LUX)
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/T0yFF4D/Logo-2ten-RTL.jpg" group-title="Informacao",RTL 2 (LUX)
+				http://live01.rtl.lu/channel2/smil:channel2/playlist.m3u8
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",
+				
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",
+				
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",
+				
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",
+				
+				
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",
 				
@@ -818,6 +842,22 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/gq9hzG/Gong.png" group-title="Entretenimento",Gong (Frances)(Anime)(Drama)(K-pop)(e-Sports)
 				http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 
+		#EXTINF:-1,TBD
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/Wycmv49/Tbd-logo.png" group-title="Entretenimento",TBD
+				http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+			
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",
+				
+			
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",
+				
+			
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",
+				
+			
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",
 				
@@ -1114,13 +1154,13 @@
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",AD Sports 2 HD
 				http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",
-				
+		#EXTINF:-1,Deportiva Las Palmas Televisión
+			#EXTINF:-1 tvg-logo="" group-title="Desporto", Deportiva Las Palmas Televisión
+				 https://5b38ce71f1f00.streamlock.net/8312/8312/chunklist_w387662234.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",
-				
+		#EXTINF:-1,A Spor Turk
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",A Spor Turk
+				http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",
@@ -1394,9 +1434,17 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/jUhiUR/HBO_SIGNATURE.jpg" group-title="Filmes e Series",HBO SIGNATURE (Espanhol)
 			
 			
+		#EXTINF:-1,Mello TV
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/DM33GMG/maxresdefault.jpg" group-title="Filmes e Series",Mello TV
+				https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8
+
+		#EXTINF:-1,Pop
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/fXzXpq2/pop-logo.jpg" group-title="Filmes e Series",Pop
+				https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
+
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",
-
+				
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",
@@ -1726,6 +1774,10 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/m2Tfb6/Historia_2.jpg" group-title="Documentarios",Historia 2 (Espanhol)
 				
 				
+		#EXTINF:-1,History Lab
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/Sf8hdj1/History-Lab-il-canale-digitale-dedicato-alla-storia-e-alla-memoria-galleryfull.jpg" group-title="Documentarios",History Lab (itl)
+				rtmp://wma10.fluidstream.net:1935/HistoryLab/livestream
+				
 		#EXTINF:-1,Odisseia
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/iwOy4G/Odisseia.jpg" group-title="Documentarios",Odisseia
 
@@ -1756,6 +1808,22 @@
 				
 		#EXTINF:-1,DISCOVERY SHED (Ingles)
 			#EXTINF:-1 tvg-logo="" group-title="Documentarios",DISCOVERY SHED (Ingles)
+				
+
+		#EXTINF:-1,Weather Channel 
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/QkgzRLM/H00wiqw.jpg" group-title="Documentarios",Weather Channel 
+				http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Documentarios",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Documentarios",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Documentarios",
 				
 
 		#EXTINF:-1,
@@ -2169,7 +2237,7 @@
 	
 		#EXTINF:-1,NDR HD (Alemao)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/eN2xDk/NDR_HD_Alemao.jpg" tvg-id="" tvg-name=" group-title="Alemanha",NDR HD (Alemao)
-				
+				http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
  
  		#EXTINF:-1,BLK Regional TV (Germany)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/jMsLUQ/BLK_Regional_TV_Germany.png" tvg-id="" tvg-name=" group-title="Alemanha",BLK Regional TV (Germany)
@@ -2199,9 +2267,13 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/mzHXPR/WDR.png" tvg-id="" tvg-name=" group-title="Alemanha",WDR (Germany)
 				http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 				
-		#EXTINF:-1,hr (Germany)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/i9FGJm/hr_Germany.png" tvg-id="" tvg-name=" group-title="Alemanha",hr (Germany)
+		#EXTINF:-1,WDR Fernsehen
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/zFwZFjx/1200px-Wdr-fernsehen-logo-2016-svg.png" tvg-id="" tvg-name=" group-title="Alemanha",WDR Fernsehen
+				http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 				
+		#EXTINF:-1,hr (Germany)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/i9FGJm/hr_Germany.png" tvg-id="" tvg-name=" group-title="Alemanha",HR HD (Germany)
+				http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
 				
 		#EXTINF:-1,1-2-3 TV (Germany)(Vendas)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/mLKhr6/1_2_3_TV_Germany.png" tvg-id="" tvg-name=" group-title="Vendas",1-2-3 TV (Germany)(Vendas)
@@ -2229,6 +2301,22 @@
 				
 		#EXTINF:-1,INTV
 			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha",INTV 
+				
+				
+		#EXTINF:-1,Br HD
+			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha",Br HD
+				https://br_hdslive-f.akamaihd.net/i/bfssued_worldwide@119891/index_3776_av-p.m3u8?sd=10&rebase=on
+				
+		#EXTINF:-1, Berlin tv
+			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha", Berlin tv
+				http://alex-stream.rosebud-media.de:80/live/smil:alexlivetv.smil/playlist.m3u8
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha",
+				
+				
+		#EXTINF:-1, 
+			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha", 
 				
 				
 		#EXTINF:-1, 
@@ -2473,6 +2561,36 @@
 
 				
 				
+#EXTINF:-1,[B][COLOR yellow]<== Croacia ==>[/COLOR][/B]
+	#EXTINF:-1 tvg-logo="https://i.ibb.co/ZdM2YLV/1200px-Flag-of-Croatia-svg.png" group-title="Croacia",[B][COLOR yellow]<== Croacia ==>[/COLOR][/B]
+		http://0.0.0.0:1234
+		
+		#EXTINF:-1,Trend TV
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/F5wst9B/rtAznnQ.jpg" group-title="Croacia",Trend TV
+				rtmp://185.62.75.22:1935/trend/myStream
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Croacia",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Croacia",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Croacia",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Croacia",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Croacia",
+				
+
+
+
 #EXTINF:-1,[B][COLOR yellow]<== Colômbia ==>[/COLOR][/B]
 	#EXTINF:-1 tvg-logo="" group-title="Colômbia",[B][COLOR yellow]<== Colômbia ==>[/COLOR][/B]
 		
@@ -2517,6 +2635,36 @@
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Coreia Sul",
+				
+
+
+
+#EXTINF:-1,[B][COLOR yellow]<== Costa Rica ==>[/COLOR][/B]
+	#EXTINF:-1 tvg-logo="https://i.ibb.co/TwwHyqp/1200px-Flag-of-Costa-Rica-state-svg-1.png" group-title="Costa Rica",[B][COLOR yellow]<== Costa Rica ==>[/COLOR][/B]
+		http://0.0.0.0:1234
+
+		#EXTINF:-1,Extra TV
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/rx8SxvL/15977915-1331614376860617-5054855370716335928-n.jpg" group-title="Costa Rica",Extra TV
+				rtmp://k3.usastreams.com:1935/canal42/canal42
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Costa Rica",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Costa Rica",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Costa Rica",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Costa Rica",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Costa Rica",
 				
 
 
@@ -4140,9 +4288,6 @@ https://archive.org/download/AllTheWay20161080pYTS.AG/All.The.Way.2016.1080p.Blu
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Almost_Christmas_%28film%29.png" group-title="MOVIES",Almost Christmas (2016)
 https://archive.org/download/AlmostChristmas20161080pRemux/Almost%20Christmas%20(2016)%201080p%20Remux.mp4
 
-#EXTINF:-1 tvg-logo="https://zapodaj.net/images/c25c2d5584bf4.jpg" group-title="MOVIES",Angry Birds (2016) [Dual-ES]
-https://archive.org/download/A001.2016.1080pDualLat_201608/A-001-.2016.1080p-dual-lat.mp4
-
 #EXTINF:-1 tvg-logo="http://images.mymovies.net/images/film/cin/350x522/fid16760.jpg" group-title="MOVIES",Bad Santa 2 (2016)
 https://archive.org/download/BadSanta22016UNRATED1080pRemux/Bad%20Santa%202%20(2016)%20UNRATED%201080p%20Remux.mp4
 
@@ -4155,23 +4300,14 @@ https://archive.org/download/NocturnalAnimals20161080pRemux/Nocturnal%20Animals%
 #EXTINF:-1 tvg-logo="http://s1.evcdn.com/images/movieposter249by373/movies/162960/162960_aa.jpg" group-title="MOVIES",Rules Don't Apply (2016)
 https://archive.org/download/RulesDontApply20161080pRemux/Rules%20Dont%20Apply%20(2016)%201080p%20Remux.mp4
 
-#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/the-jungle-book-2016/large_vOipe2myi26UDwP978hsYOrnUWC.jpg" group-title="MOVIES",The Jungle Book (2016) [Dual-ES]
-https://archive.org/download/T0011080pDualLat/T001_1080p-dual-lat.mp4
-
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/home-2015.35899.jpg" group-title="MOVIES",Home (2015)
 https://archive.org/download/Home.2015.720p.YIFYTopArchive.IR/Home.2015.720p.YIFY_TopArchive.IR.mp4
-
-#EXTINF:-1 tvg-logo="https://cdn.traileraddict.com/content/columbia-pictures/pixels-poster-2.jpg" group-title="MOVIES",Pixels (2015) [Dual-ES]
-https://archive.org/download/Pixels.2015.1080pDualLat/Pixels.2015.1080p-dual-lat.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/EAqEPQJBV2E/movieposter.jpg" group-title="MOVIES",The Transporter Refueled (2015)
 https://archive.org/download/TheTransporterRefueled20151080pBluRayX264DTSJYK/The%20Transporter%20Refueled%202015%201080p%20BluRay%20x264%20DTS-JYK.mp4
 
 #EXTINF:-1 tvg-logo="http://www.dawtrina.com/personal/film/bloguploads/2010s/2013buckwild2.jpg" group-title="MOVIES",Buck Wild (2014)
 https://archive.org/download/BuckWild2013720p/Buck.Wild.2013.720p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/511eea22e4b06642027a9a99/t/5614209ee4b0b29a48261233/1444159648030/Cooties.jpg" group-title="MOVIES",Cooties (2014)
-https://archive.org/download/Scarface.1983.1080p.BRrip.x264.YIFY/Cooties.2014.BRRip.XViD-ETRG.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mXKkuCn.jpg" group-title="MOVIES",Free Fall (2014)
 https://archive.org/download/FreeFall2014720p/Free%20Fall%20(2014)%20720p.mp4
