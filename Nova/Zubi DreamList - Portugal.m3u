@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 	#EXTINF:-1,Zubi DreamList 
-		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.70
+		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.71 (14/08/2019)
 			http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== LÍNGUA PORTUGUESA ==>[/COLOR][/B]
@@ -369,7 +369,7 @@
 				
 		#EXTINF:-1,REDE BRASIL (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/mSzVjG/REDE_BRASIL.png" group-title="Brasil",REDE BRASIL (Brasil)
-				
+				https://59f1cbe63db89.streamlock.net:1443/rbtv/rbtv/chunklist_w1757672591.m3u8
 				
 		#EXTINF:-1,SBT (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/iQaaJb/SBT.png" group-title="Brasil",SBT (Brasil)
@@ -397,7 +397,7 @@
 
 		#EXTINF:-1,REDE TV! (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/b8VAR6/REDE_TV.jpg" group-title="Brasil",REDE TV! (Brasil)
-				
+				http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
 			
 		#EXTINF:-1,BAND (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/eJiQtm/BAND.png" group-title="Brasil",BAND (Brasil)
@@ -503,6 +503,10 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cVrDm5/CBSN.jpg" group-title="Informacao",CBS NEWS HD (Informacao)
 				http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
 								
+		#EXTINF:-1,CBS 4 News (Indianapolis)
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/dGv8Kd3/cropped-cbs4512.png" group-title="Informacao",CBS 4 News (Indianapolis) (Informacao)
+				http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
+								
 		#EXTINF:-1,Euronews
 			#EXTINF:-1 group-title="Informacao" tvg-logo="https://image.ibb.co/ceSqtk/Euronews.png",Euronews (Russo)
 				
@@ -578,11 +582,14 @@
 		#EXTINF:-1,RT (Russo)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/dCwWim/RT.png" group-title="Russia",RT (Russo)
 				
-				
-			
+							
 		#EXTINF:-1,ABC News (Ingles)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/i6HHr5/abc_news.png" group-title="Informacao",ABC News (Ingles)
 				
+				
+		#EXTINF:-1,ABC 7 (Sarasota) (Ingles)
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",ABC 7 (Sarasota) (Ingles)
+				http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
 				
 		#EXTINF:-1,WGN-TV, virtual channel 9
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/ebXWjQ/WGN_9_NEWS.png" group-title="Informacao",WGN-TV, virtual channel 9 (Ingles)
@@ -649,6 +656,8 @@
 				http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_5_av-p.m3u8
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/bO0NzG/DW_HD.png" group-title="Informacao",Deutsche Welle [Alemanha] (Espanhol) [Opt-2]
 				http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bO0NzG/DW_HD.png" group-title="Informacao",Deutsche Welle [Irão] (ARABIC NEWS) 
+				http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 
 		#EXTINF:-1,Rain (Russo)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/dJbqmw/Rain.png" group-title="Informacao",Rain (Russo)
@@ -698,10 +707,6 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/fDeTYm/CNN_Chile.jpg" group-title="Informacao",CNN Chile
 				
 				
-		#EXTINF:-1,DW Latino
-			#EXTINF:-1 tvg-logo="" group-title="Informacao",DW Latino
-				http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
-				
 		#EXTINF:-1,CGTN 1
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",CGTN 1
 				https://livees.cgtn.com/1000e/prog_index.m3u8
@@ -722,6 +727,18 @@
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",NBC 4 News (Washington DC)
 				https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
 				
+		#EXTINF:-1,NBC 5 News (Chicago)
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/m9N8HMw/wgntv.png" group-title="Informacao",NBC 5 News (Chicago)
+				http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
+				
+		#EXTINF:-1,NBC 11 News (Bay Area)
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/dQZFgQd/14551.jpg" group-title="Informacao",NBC 11 News (Bay Area)
+				http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
+				
+		#EXTINF:-1,NBC News (Connecticut)
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",NBC News (Connecticut)
+				http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+				
 		#EXTINF:-1,RTL (LUX)
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/74bxXZ8/RTL-Tele-Luxembourg.png" group-title="Informacao",RTL (LUX)
 				http://live01.rtl.lu/channel1/smil:channel1/chunklist.m3u8
@@ -738,13 +755,13 @@
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",TV 2 LORRY (Dinamarca)
 				http://cdn-lt-hls-vod.tv2lorry.dk/fhls/p/2045321/sp/204532100/serveFlavor/entryId/0_0u9letdh/v/1/flavorId/0_p5f7q6yf/name/a.mp4/index.m3u8
 				
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Informacao",
+		#EXTINF:-1,92 News (Paquistão)
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",92 News (Paquistão)
+				http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 				
-				
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Informacao",
-				
+		#EXTINF:-1,TRT (Irão) (ARABIC NEWS)
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",TRT (Irão) (ARABIC NEWS)
+				http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 				
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",
@@ -1184,6 +1201,22 @@
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",NEW WWF JAPAN
 				https://aka-amd-njpwworld-hls-live.akamaized.net/hls/video/njpw/njpw_channel01_3/chunklist_DVR.m3u8
 
+		#EXTINF:-1,Abu Dhabi Sports
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/CwGR9Xq/adsports.png" group-title="Desporto",Abu Dhabi Sports SD
+				http://adtv.ercdn.net/adsport1/adsport1.m3u8
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/CwGR9Xq/adsports.png" group-title="Desporto",Abu Dhabi Sports HD
+				http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+		#EXTINF:-1,Abu Dhabi Sports 2
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/CwGR9Xq/adsports.png" group-title="Desporto",Abu Dhabi Sports 2 SD
+				http://adtv.ercdn.net/adsport2/adsport2.m3u8
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/CwGR9Xq/adsports.png" group-title="Desporto",Abu Dhabi Sports 2 HD
+				http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",
+				
+
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",
 				
@@ -1297,6 +1330,10 @@
 		#EXTINF:-1,Gospel Cartoon
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/6Hn35sy/5ce59e5a4f52bbc5c6419fe5a8674447.png" group-title="Infantil",Gospel Cartoon
 				http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=537256410
+
+		#EXTINF:-1,TRT Cocuk (Turco)
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/7WbfzpV/543144.jpg" group-title="Infantil",TRT Cocuk (Turco)
+				http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",
@@ -1757,23 +1794,35 @@
 				rtmp://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p
 
 		#EXTINF:-1,Capital TV
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Capital TV
+			#EXTINF:-1 tvg-logo="" group-title="Musica",Capital TV
 				http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 
 		#EXTINF:-1,Deejay TV
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",Deejay TV
+			#EXTINF:-1 tvg-logo="" group-title="Musica",Deejay TV
 				http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
 
+		#EXTINF:-1,MagentaMusik 360
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/j3PP2RC/LS89GC9.png" group-title="Musica",MagentaMusik 360
+				http://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/magentamusik1_1/magentamusik1.m3u8
+
+		#EXTINF:-1,Radio Italia TV
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/Qkf9nWN/logo-radioitalia-web2016.png" group-title="Musica",Radio Italia TV
+				http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+
 		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",
+			#EXTINF:-1 tvg-logo="" group-title="Musica",
 				
 
 		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",
+			#EXTINF:-1 tvg-logo="" group-title="Musica",
 				
 
 		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",
+			#EXTINF:-1 tvg-logo="" group-title="Musica",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Musica",
 				
 
 
@@ -1846,13 +1895,13 @@
 			#EXTINF:-1 tvg-logo="" group-title="Documentarios",DISCOVERY SHED (Ingles)
 				
 
-		#EXTINF:-1,Weather Channel 
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/QkgzRLM/H00wiqw.jpg" group-title="Documentarios",Weather Channel 
+		#EXTINF:-1,Weather Channel (Canada)
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/QkgzRLM/H00wiqw.jpg" group-title="Documentarios",Weather Channel (Canada)
 				http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Documentarios",
-				
+		#EXTINF:-1,TEC TV (Educação) (Argentina)
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/tQKS8tL/263px-TEC-TV-2012-logo.png" group-title="Documentarios",
+				https://tec_tv.secure2.footprint.net/egress/bhandler/streamroot_lsd2latam/tec_tv/manifest.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Documentarios",
@@ -2065,6 +2114,14 @@
 		#EXTINF:-1,Japanet Channel DX
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/Zf5H96K/jp-japanet-channel-dx.jpg" group-title="Vendas",Japanet Channel DX
 				http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+
+		#EXTINF:-1,The Shopping Channel (Canada) (Vendas)
+			#EXTINF:-1 tvg-logo="" group-title="Vendas",The Shopping Channel (Canada) (Vendas)
+				http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+
+		#EXTINF:-1,Shopping Channel (ISRAEL)
+			#EXTINF:-1 tvg-logo="" group-title="Vendas",Shopping Channel (ISRAEL)
+				rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Vendas",
@@ -2305,7 +2362,7 @@
 
  		#EXTINF:-1,Alex Berlin (German)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/kZvER5/Alex_Berlin_German.jpg" group-title="Alemanha",Alex Berlin (German)
-				
+				http://alex-stream.rosebud-media.de:80/live/smil:alexlivetv.smil/playlist.m3u8
 
 		#EXTINF:-1,WDR (Germany)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/mzHXPR/WDR.png" tvg-id="" tvg-name=" group-title="Alemanha",WDR (Germany)
@@ -2548,6 +2605,34 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/c95Pm6/CPAC.jpg" group-title="Canadian TV",CPAC (CANADA)(Parliament)
 				http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
 
+		#EXTINF:-1,2UE Sydney
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/BzmRzdL/c300.png" group-title="Canadian TV",2UE Sydney
+				http://syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8
+
+		#EXTINF:-1,3AW Melbourne
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/BZ5RVcc/3awlogo.jpg" group-title="Canadian TV",3AW Melbourne
+				http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
+
+		#EXTINF:-1,4BC Brisbane
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/2sfXJRS/4bc-brisbane.png" group-title="Canadian TV",4BC Brisbane
+				http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Canadian TV",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Canadian TV",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Canadian TV",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Canadian TV",
+				
+
 				
 
 #EXTINF:-1,[B][COLOR yellow]<== Caribbean ==>[/COLOR][/B]
@@ -2556,6 +2641,32 @@
 		
 		#EXTINF:-1,Cinestrean TV
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/bBJGzR/Cinestrean_TV.jpg" group-title="Caribbean TV",Cinestrean TV
+
+
+
+#EXTINF:-1,[B][COLOR yellow]<== Chéquia ==>[/COLOR][/B]
+	#EXTINF:-1 tvg-logo="https://i.ibb.co/wBRJ7Ms/vlajka-k-lodi-cr.jpg" group-title="Chéquia",[B][COLOR yellow]<== Chéquia ==>[/COLOR][/B]
+		http://0.0.0.0:1234
+	
+		#EXTINF:-1,Elektrika TV
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/k5LZZ93/elektrika-tv.jpg" group-title="Chéquia",Elektrika TV
+				http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Chéquia",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Chéquia",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Chéquia",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Chéquia",
+				
 
 
 
@@ -2633,13 +2744,13 @@
 			#EXTINF:-1 tvg-logo="" group-title="China",Jiangxi Television (JXTV)
 				rtmp://vodjctv.aitstreaming.com:1935/live/live2
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="China",
-				
+		#EXTINF:-1,RTHK 31 (Hong Kong)
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/9bGn4wj/1200px-RTHK-TV-31-svg.png" group-title="China",RTHK 31 (Hong Kong)
+				http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="China",
-				
+		#EXTINF:-1,RTHK 32 (Hong Kong)
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/TtjmZkt/220px-RTHK-TV-32-svg.png" group-title="China",RTHK 32 (Hong Kong)
+				http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="China",
@@ -2720,44 +2831,6 @@
 
 			
 			
-#EXTINF:-1,[B][COLOR yellow]<== Coreia Sul ==>[/COLOR][/B]
-	#EXTINF:-1 tvg-logo="https://image.ibb.co/eeRK0R/Coreia_Sul.png" group-title="Coreia Sul",[B][COLOR yellow]<== Coreia Sul ==>[/COLOR][/B]
-		http://0.0.0.0:1234
-
-		#EXTINF:-1,Arirang
-			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.ibb.co/kcKTDk/Arirang.jpg" group-title="Coreia Sul",Arirang
-				http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-		#EXTINF:-1,TV Chosun
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/hYu5Ab/TV_Chosun.jpg" group-title="Coreia Sul",TV Chosun
-				rtmp://live.chosun.gscdn.com/live/tvchosun1.stream
-
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Coreia Sul",
-				
-
-
-
-#EXTINF:-1,[B][COLOR yellow]<== Dinamarca ==>[/COLOR][/B]
-	#EXTINF:-1 tvg-logo="https://i.ibb.co/jbQm595/200px-Flag-of-Denmark-svg.png" group-title="Dinamarca",[B][COLOR yellow]<== Dinamarca ==>[/COLOR][/B]
-		http://0.0.0.0:1234
-
-		#EXTINF:-1,TV2 FYN
-			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/FsRJSTC/246x0w.jpg" group-title="Dinamarca",TV2 FYN
-				http://cdn-lt-hls-vod.tv2fyn.dk/fhls/p/1966291/sp/196629100/serveFlavor/entryId/0_yct7rqn3/v/2/flavorId/0_h2wfmuqm/name/a.mp4/index.m3u8
-
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Dinamarca",
-				
-
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Dinamarca",
-				
-
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Dinamarca",
-				
-
 #EXTINF:-1,[B][COLOR yellow]<== Costa Rica ==>[/COLOR][/B]
 	#EXTINF:-1 tvg-logo="https://i.ibb.co/TwwHyqp/1200px-Flag-of-Costa-Rica-state-svg-1.png" group-title="Costa Rica",[B][COLOR yellow]<== Costa Rica ==>[/COLOR][/B]
 		http://0.0.0.0:1234
@@ -2784,6 +2857,76 @@
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Costa Rica",
+				
+
+
+
+#EXTINF:-1,[B][COLOR yellow]<== Coreia Sul ==>[/COLOR][/B]
+	#EXTINF:-1 tvg-logo="https://image.ibb.co/eeRK0R/Coreia_Sul.png" group-title="Coreia Sul",[B][COLOR yellow]<== Coreia Sul ==>[/COLOR][/B]
+		http://0.0.0.0:1234
+
+		#EXTINF:-1,Arirang
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.ibb.co/kcKTDk/Arirang.jpg" group-title="Coreia Sul",Arirang
+				http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+		#EXTINF:-1,TV Chosun
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hYu5Ab/TV_Chosun.jpg" group-title="Coreia Sul",TV Chosun
+				rtmp://live.chosun.gscdn.com/live/tvchosun1.stream
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Coreia Sul",
+				
+
+
+
+#EXTINF:-1,[B][COLOR yellow]<== Curdistão ==>[/COLOR][/B]
+	#EXTINF:-1 tvg-logo="" group-title="Curdistão",[B][COLOR yellow]<== Curdistão ==>[/COLOR][/B]
+		http://0.0.0.0:1234
+
+		#EXTINF:-1,Rudaw
+			#EXTINF:-1 tvg-logo="" group-title="Curdistão",Rudaw
+				https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+
+		#EXTINF:-1,TRT Kurdi
+			#EXTINF:-1 tvg-logo="" group-title="Curdistão",TRT Kurdi
+				http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Curdistão",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Curdistão",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Curdistão",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Curdistão",
+				
+
+
+
+#EXTINF:-1,[B][COLOR yellow]<== Dinamarca ==>[/COLOR][/B]
+	#EXTINF:-1 tvg-logo="https://i.ibb.co/jbQm595/200px-Flag-of-Denmark-svg.png" group-title="Dinamarca",[B][COLOR yellow]<== Dinamarca ==>[/COLOR][/B]
+		http://0.0.0.0:1234
+
+		#EXTINF:-1,TV2 FYN
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/FsRJSTC/246x0w.jpg" group-title="Dinamarca",TV2 FYN
+				http://cdn-lt-hls-vod.tv2fyn.dk/fhls/p/1966291/sp/196629100/serveFlavor/entryId/0_yct7rqn3/v/2/flavorId/0_h2wfmuqm/name/a.mp4/index.m3u8
+
+		#EXTINF:-1,TV2 Lorry
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Dinamarca",TV2 Lorry
+				http://cdn-lt-hls-vod.tv2lorry.dk/fhls/p/2045321/sp/204532100/serveFlavor/entryId/0_0u9letdh/v/1/flavorId/0_p5f7q6yf/name/a.mp4/index.m3u8
+
+		#EXTINF:-1,TV Syd
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/JrG1Msz/TV-Syd.png" group-title="Dinamarca",TV Syd
+				http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Dinamarca",
 				
 
 
@@ -2864,10 +3007,6 @@
 			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/dcstDw/Antena_3_HD.png",Antena 3 (Espanha)
 				
 			
-		#EXTINF:-1,DW Español (Espanha)
-			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/iKULRG/DW_Espa_ol_Espanha.png",DW Español (Espanha)
-				
-			
 		#EXTINF:-1,CANAL 10 EMPORDA (Espanha)(Catalunha)
 			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/dBqXOm/CANAL_10_EMPORDA.png",CANAL 10 EMPORDA (Espanha)(Catalunha)
 				
@@ -2940,6 +3079,14 @@
 			#EXTINF:-0 group-title="Espanha" tvg-logo="", (Espanha)
 				http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 				
+		#EXTINF:-1,7 Murcia (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="https://i.ibb.co/d0K46cb/LOGO.jpg",7 Murcia (Espanha)
+				http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+				
+		#EXTINF:-1,TV Mediterraneo (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="https://i.ibb.co/BGGt679/mediterraneo-tv.jpg",TV Mediterraneo (Espanha)
+				http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
+				
 		#EXTINF:-1, (Espanha)
 			#EXTINF:-0 group-title="Espanha" tvg-logo="", (Espanha)
 				
@@ -2962,6 +3109,8 @@
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/P1dpyB7/Px-BNKRt-T-400x400.jpg" group-title="Filandia",YLE TV1 (Filandia)
 				
 			
+
+
 #EXTINF:-1,[B][COLOR yellow]<== Franca ==>[/COLOR][/B]
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/iDi4Zm/Franca.jpg" group-title="Franca",[B][COLOR yellow]<== Franca ==>[/COLOR][/B]
 		http://0.0.0.0:1234
@@ -3024,6 +3173,18 @@
 
 		#EXTINF:-1, (Franca)
 			#EXTINF:-1 tvg-logo="" group-title="Franca", (Franca)
+				http://live2.awedia.com/hls/tebeo.m3u8
+
+		#EXTINF:-1,Tebeo (Franca)
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/jGdfK60/1736504-2352454.jpg" group-title="Franca",Tebeo (Franca)
+				http://live2.awedia.com/hls/tebeo.m3u8
+
+		#EXTINF:-1, (Franca)
+			#EXTINF:-1 tvg-logo="" group-title="Franca", (Franca)
+				
+
+		#EXTINF:-1, (Franca)
+			#EXTINF:-1 tvg-logo="" group-title="Franca", (Franca)
 				
 
 		#EXTINF:-1, (Franca)
@@ -3044,9 +3205,9 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/k5RYUR/ANT1.jpg" group-title="Grecia",ANT1 [Grecia] 
 				
 			
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Grecia",
-				 
+		#EXTINF:-1,Vouli TV
+			#EXTINF:-1 tvg-logo="" group-title="Grecia",Vouli TV
+				 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Grecia",
@@ -3066,6 +3227,49 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/mAqFyw/RTV_Drenthe_Dutch.jpg" group-title="Holanda",RTV Drenthe (Dutch)
 				
 			
+		#EXTINF:-1,Omroep West
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/4W7fr1v/Omroep-West.jpg" group-title="Holanda",Omroep West
+				http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
+			
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Holanda",
+				
+			
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Holanda",
+				
+			
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Holanda",
+				
+			
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Holanda",
+				
+			
+
+
+#EXTINF:-1,[B][COLOR yellow]<== HONDURAS ==>[/COLOR][/B]
+	#EXTINF:-1 tvg-logo="https://i.ibb.co/4RRDKjK/Vlag-Honduras.jpg" group-title="HONDURAS",[B][COLOR yellow]<== HONDURAS ==>[/COLOR][/B]
+		http://0.0.0.0:1234
+		
+		#EXTINF:-1,Azteca Honduras
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/c8tcgHf/SVFUP73.jpg" group-title="HONDURAS", Azteca Honduras
+				http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
+
+		#EXTINF:-1,TSi
+			#EXTINF:-1 tvg-logo="" group-title="HONDURAS", TSi
+				https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="HONDURAS", 
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="HONDURAS", 
+				
+
+				
 
 #EXTINF:-1,[B][COLOR yellow]<== India ==>[/COLOR][/B]
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/n4Q3im/INDIA.png" group-title="Holanda",[B][COLOR yellow]<== Holanda ==>[/COLOR][/B]
@@ -3079,6 +3283,30 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/jXfHb6/Lok_Sabha_TV_India.png" group-title="INDIA",Lok Sabha TV [India]
 				http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 				
+		#EXTINF:-1,ABP Ananda (INDIA)
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/30fbkSL/abp-ananada.jpg" group-title="INDIA",ABP Ananda (INDIA)
+				http://bengaliabp-lh.akamaihd.net/i/abpbanglanew_1@192108/master.m3u8
+				
+		#EXTINF:-1,Bloomberg India (INDIA)
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/tb01zR4/btvi-logo-top.jpg" group-title="INDIA",Bloomberg India (INDIA)
+				http://bloomtv.live-s.cdn.bitgravity.com/cdn-live-b5/_definst_/bloomtv/live/feed01/playlist.m3u8
+				
+		#EXTINF:-1,DD News (INDIA)
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/bXS2Nw1/8-9.jpg" group-title="INDIA",DD News (INDIA)
+				http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+				
+		#EXTINF:-1,Desi Channel (INDIA)
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/RzJygqQ/056bb4aa-a8a4-48d1-bad0-22b18089d22d.jpg" group-title="INDIA",Desi Channel (INDIA)
+				http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+				
+		#EXTINF:-1,India TV (INDIA)
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/ZSh4J9p/625.jpg" group-title="INDIA", (INDIA)
+				http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
+				
+		#EXTINF:-1,Rajya Sabha TV (INDIA)
+			#EXTINF:-1 tvg-logo="" group-title="INDIA",Rajya Sabha TV (INDIA)
+				http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
+
 		#EXTINF:-1, (INDIA)
 			#EXTINF:-1 tvg-logo="" group-title="INDIA", (INDIA)
 				
@@ -3087,21 +3315,15 @@
 			#EXTINF:-1 tvg-logo="" group-title="INDIA", (INDIA)
 				
 				
-		#EXTINF:-1, (INDIA)
-			#EXTINF:-1 tvg-logo="" group-title="INDIA", (INDIA)
-				
-				
-		#EXTINF:-1, (INDIA)
-			#EXTINF:-1 tvg-logo="" group-title="INDIA", (INDIA)
-				
-				
+
+
 #EXTINF:-1,[B][COLOR yellow]<== Israel ==>[/COLOR][/B]
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/c28tS6/Israel.png" group-title="Israel",[B][COLOR yellow]<== Israel ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 		
 		#EXTINF:-1,Channel 10 (Israel)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/c0BHpR/Channel_10.jpg" group-title="Israel",Channel 10 (Israel)
-				
+				http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8
 				
 		#EXTINF:-1,Knesset Channel [Israel] 
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/dBfVUR/Knesset_Channel_Israel.png" group-title="Israel",Knesset Channel [Israel] 
@@ -3115,12 +3337,58 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/fdBR3m/Channel_20_Israel.jpg" group-title="Israel",Channel 20 (Israel)
 				
 				
+		#EXTINF:-1,Channel 14 (Israel)
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/C1GQbHq/0e6b040fd7318b2f62c56368490fda4f.png" group-title="Israel",Channel 14 (Israel)
+				http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
+				
 		#EXTINF:-1, (Israel)
 			#EXTINF:-1 tvg-logo="" group-title="Israel", (Israel)
 				
 				
 		#EXTINF:-1, (Israel)
 			#EXTINF:-1 tvg-logo="" group-title="Israel", (Israel)
+				
+				
+		#EXTINF:-1, (Israel)
+			#EXTINF:-1 tvg-logo="" group-title="Israel", (Israel)
+				
+				
+		#EXTINF:-1, (Israel)
+			#EXTINF:-1 tvg-logo="" group-title="Israel", (Israel)
+				
+				
+
+
+#EXTINF:-1,[B][COLOR yellow]<== Irão ==>[/COLOR][/B]
+	#EXTINF:-1 tvg-logo="https://i.ibb.co/Lh1fJwQ/flag-400.png" group-title="Irão",[B][COLOR yellow]<== Irão ==>[/COLOR][/B]
+		http://0.0.0.0:1234
+
+		#EXTINF:-1,Radio Farda
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/K502xd0/logo.png" group-title="Irão",Radio Farda
+				http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
+				
+		#EXTINF:-1,VoA (Irão)
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/Vt3tMNd/loz0o-Zbi-Ru-Wlx5cs-Wg-CR-VOA-FARSI-LIVESTATION-1.png" group-title="Irão",VoA (INDIA)
+				http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Irão",
+				
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Irão",
+				
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Irão",
+				
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Irão",
+				
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Irão",
 				
 				
 
@@ -3233,32 +3501,6 @@
 
 				
 
-#EXTINF:-1,[B][COLOR yellow]<== Kuwait ==>[/COLOR][/B]
-	#EXTINF:-1 tvg-logo="https://i.ibb.co/4M8M8Nv/flamuri-kuvajtit.jpg" group-title="Kuwait",[B][COLOR yellow]<== Kuwait ==>[/COLOR][/B]
-		http://0.0.0.0:1234
-
-		#EXTINF:-1,KTV 1
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/gzXKC8D/ktv-1.png" group-title="Kuwait",KTV 1
-				
-
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Kuwait",
-				
-
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Kuwait",
-				
-
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Kuwait",
-				
-
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Kuwait",
-				
-
-
-
 #EXTINF:-1,[B][COLOR yellow]<== Kazakhstan ==>[/COLOR][/B]
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/bCW2LR/Kazakhstan.png" group-title="Kazakhstan",[B][COLOR yellow]<== Kazakhstan ==>[/COLOR][/B]
 		http://0.0.0.0:1234
@@ -3303,6 +3545,80 @@
 
 		#EXTINF:-1, 
 			#EXTINF:-1 tvg-logo="" group-title="Kuwait",
+				
+
+
+
+#EXTINF:-1,[B][COLOR yellow]<== letônia ==>[/COLOR][/B]
+	#EXTINF:-1 tvg-logo="https://i.ibb.co/LRNQzp0/Latvia-flag.jpg" group-title="letônia",[B][COLOR yellow]<== letônia ==>[/COLOR][/B]
+		http://0.0.0.0:1234
+
+		#EXTINF:-1,RETV
+			#EXTINF:-1 tvg-logo="" group-title="letônia",RETV
+				http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
+
+		#EXTINF:-1,TV Net
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/jvcYY0L/tvnet.png" group-title="letônia",TV Net
+				http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="letônia",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="letônia",
+				
+
+
+
+#EXTINF:-1,[B][COLOR yellow]<== Líbia ==>[/COLOR][/B]
+	#EXTINF:-1 tvg-logo="https://i.ibb.co/DDfzMqr/nova-bandeira-da-libia.png" group-title="Líbia",[B][COLOR yellow]<== Líbia ==>[/COLOR][/B]
+		http://0.0.0.0:1234
+
+		#EXTINF:-1,Libya TV
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/tKM5hPR/wKJikLm.gif" group-title="Líbia",Libya TV
+				http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Líbia",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Líbia",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Líbia",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Líbia",
+				
+
+
+
+#EXTINF:-1,[B][COLOR yellow]<== Luxembourg ==>[/COLOR][/B]
+	#EXTINF:-1 tvg-logo="https://i.ibb.co/rxwHw8r/lularge.gif" group-title="Luxembourg",[B][COLOR yellow]<== Luxembourg ==>[/COLOR][/B]
+		http://0.0.0.0:1234
+
+		#EXTINF:-1,RTL
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/qkrvqSQ/RTL-Tele-Luxembourg.png" group-title="Luxembourg",RTL
+				http://live01.rtl.lu/channel1/smil:channel1/chunklist.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Luxembourg",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Luxembourg",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Luxembourg",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Luxembourg",
 				
 
 				
@@ -3363,9 +3679,17 @@
 			#EXTINF:-1 tvg-logo="" group-title="Mexico",Multimedios Monterrey HD
 				http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Mexico",
-				
+		#EXTINF:-1,Canal Judicial
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/Qr4JDc0/PV6BVbi.png" group-title="Mexico",Canal Judicial
+				http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+
+		#EXTINF:-1,Multimedios Laguna
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/njnXBFN/ajBGBm5.jpg" group-title="Mexico",Multimedios Laguna
+				http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+
+		#EXTINF:-1,A+
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/7vc1JSc/270px-Logo-a-canal-svg.png" group-title="Mexico",A+
+				https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Mexico",
@@ -3381,7 +3705,25 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cSx3Jw/Monaco_Channel.png" group-title="Monaco",Monaco Channel
 				
 				
+
+
+#EXTINF:-1,[B][COLOR yellow]<== Moldávia ==>[/COLOR][/B]
+	#EXTINF:-1 tvg-logo="https://i.ibb.co/cNhz1v3/flagge-moldawien.gif" group-title="Moldávia",[B][COLOR yellow]<== Moldávia ==>[/COLOR][/B]
+		http://0.0.0.0:1234
+
+		#EXTINF:-1,Publika TV
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/30Cg1rJ/logo-publika.jpg" group-title="Moldávia",Publika TV
+				http://livebeta.publika.md/LIVE/P/6810.m3u8
 	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Moldávia",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Moldávia",
+				
+	
+
 
 #EXTINF:-1,[B][COLOR yellow]<== Moldova ==>[/COLOR][/B]
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/cUrf76/Moldova.gif" group-title="Moldova",[B][COLOR yellow]<== Moldova ==>[/COLOR][/B]
@@ -3395,7 +3737,81 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/dRZj3m/Balti_TV.jpg" group-title="Moldova",Balti TV (Balti)
 				http://77.89.199.174:81/hls/live2.m3u8
 
+
+
+#EXTINF:-1,[B][COLOR yellow]<== Nepal ==>[/COLOR][/B]
+	#EXTINF:-1 tvg-logo="https://image.ibb.co/bKnRfR/Nepal.jpg" group-title="Nepal",[B][COLOR yellow]<== Nepal ==>[/COLOR][/B]
+		
+
+		#EXTINF:-1,KANTIPUR TV (Nepal)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dju1im/KANTIPUR_TV.jpg" group-title="Nepal",KANTIPUR TV (Nepal)
 				
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Nepal",
+				
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Nepal",
+				
+				
+	
+
+#EXTINF:-1,[B][COLOR yellow]<== Noruega ==>[/COLOR][/B]
+	#EXTINF:-1 tvg-logo="https://i.ibb.co/Bj466rJ/norway-1-3-1.gif" group-title="Noruega",[B][COLOR yellow]<== Noruega ==>[/COLOR][/B]
+		http://0.0.0.0:1234
+
+		#EXTINF:-1,Kanal 10
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/7CNzknz/600x600bb.jpg" group-title="Noruega",Kanal 10
+				http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Noruega",
+				
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Noruega",
+				
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Noruega",
+				
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Noruega",
+				
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Noruega",
+				
+				
+
+
+#EXTINF:-1,[B][COLOR yellow]<== Nova Zelandia ==>[/COLOR][/B]
+	#EXTINF:-1 tvg-logo="https://i.ibb.co/Bf5HVpN/bandeira-da-nova-zelandia.png" group-title="Nova Zelandia",[B][COLOR yellow]<== Nova Zelandia ==>[/COLOR][/B]
+		http://0.0.0.0:1234
+
+		#EXTINF:-1,Parliament TV
+			#EXTINF:-1 tvg-logo="" group-title="Nova Zelandia",Parliament TV
+				http://streaming.kordia.net.nz/out/u/house_captionsVideo3.m3u8
+				
+		#EXTINF:-1,Wairarapa TV
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/Wg9JSYH/Wairarapa-TV.jpg" group-title="Nova Zelandia",Wairarapa TV
+				http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Nova Zelandia",
+				
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Nova Zelandia",
+				
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Nova Zelandia",
+				
+				
+
 
 #EXTINF:-1,[B][COLOR yellow]<== Paraguay ==>[/COLOR][/B]
 	#EXTINF:-1 tvg-logo="" group-title="Paraguay",[B][COLOR yellow]<== Paraguay ==>[/COLOR][/B]
@@ -3423,23 +3839,27 @@
 				
 
 				
-#EXTINF:-1,[B][COLOR yellow]<== Nepal ==>[/COLOR][/B]
-	#EXTINF:-1 tvg-logo="https://image.ibb.co/bKnRfR/Nepal.jpg" group-title="Nepal",[B][COLOR yellow]<== Nepal ==>[/COLOR][/B]
-		
+#EXTINF:-1,[B][COLOR yellow]<== Paquistão ==>[/COLOR][/B]
+	#EXTINF:-1 tvg-logo="https://i.ibb.co/7SRgTxY/900px-Flag-of-Pakistan-svg.png" group-title="Paquistão",[B][COLOR yellow]<== Paquistão ==>[/COLOR][/B]
+		http://0.0.0.0:1234
 
-		#EXTINF:-1,KANTIPUR TV (Nepal)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/dju1im/KANTIPUR_TV.jpg" group-title="Nepal",KANTIPUR TV (Nepal)
-				
-				
+		#EXTINF:-1,Eye 95 TV (US)
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/jyZRkPN/16lycyo.jpg" group-title="Paquistão",Eye 95 TV (US)
+				http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
+
 		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Nepal",
+			#EXTINF:-1 tvg-logo="" group-title="Paquistão",
 				
-				
+
 		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Nepal",
+			#EXTINF:-1 tvg-logo="" group-title="Paquistão",
 				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Paquistão",
 				
-	
+
+
 
 #EXTINF:-1,[B][COLOR yellow]<== Peru ==>[/COLOR][/B]
 	#EXTINF:-1 tvg-logo="" group-title="Peru",[B][COLOR yellow]<== Peru ==>[/COLOR][/B]
@@ -3531,6 +3951,18 @@
 				
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="República Dominicana",
+
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="República Dominicana",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="República Dominicana",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="República Dominicana",
 				
 
 				
@@ -3595,9 +4027,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Russia",24 Krim (Russia)
 				
 
-		#EXTINF:-1, (Russia)
-			#EXTINF:-1 tvg-logo="" group-title="Russia", (Russia)
-				
+		#EXTINF:-1,TRO Soyuz (Russia)
+			#EXTINF:-1 tvg-logo="" group-title="Russia",TRO Soyuz (Russia)
+				http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 
 		#EXTINF:-1, (Russia)
 			#EXTINF:-1 tvg-logo="" group-title="Russia", (Russia)
@@ -3605,6 +4037,32 @@
 
 		#EXTINF:-1, (Russia)
 			#EXTINF:-1 tvg-logo="" group-title="Russia", (Russia)
+				
+
+
+
+#EXTINF:-1,[B][COLOR yellow]<== Suica ==>[/COLOR][/B]
+	#EXTINF:-1 tvg-logo="https://i.ibb.co/j3FtDBs/image.jpg" group-title="Suica",[B][COLOR yellow]<== Suica ==>[/COLOR][/B]
+		http://0.0.0.0:1234
+
+		#EXTINF:-1,TeleBarn (Suica)
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/x6d5F9H/0d1fd51e980e16909c0bf73a68767a97.jpg" group-title="Suica",TeleBarn (Suica)
+				http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8
+
+		#EXTINF:-1, (Suica)
+			#EXTINF:-1 tvg-logo="" group-title="Suica",
+				
+
+		#EXTINF:-1, (Suica)
+			#EXTINF:-1 tvg-logo="" group-title="Suica",
+				
+
+		#EXTINF:-1, (Suica)
+			#EXTINF:-1 tvg-logo="" group-title="Suica",
+				
+
+		#EXTINF:-1, (Suica)
+			#EXTINF:-1 tvg-logo="" group-title="Suica",
 				
 
 				
@@ -3614,7 +4072,7 @@
 		http://0.0.0.0:1234
 
 		#EXTINF:-1,TV10 (Suécia)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/dFgR1G/TV10_Su_cia.jpg" group-title="Syria",TV10 (Suécia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dFgR1G/TV10_Su_cia.jpg" group-title="Suécia",TV10 (Suécia)
 				rtmp://cdn-kanal10.crossnet.net/kanal10//mpegts.stream
 
 
@@ -3686,6 +4144,26 @@
 		#EXTINF:-1,CNN Turk [Turquia]
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/hhkHb6/CNN_Turk_Turquia.jpg" group-title="Turquia",CNN Turk [Turquia]
 				http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+
+		#EXTINF:-1,IBB TV
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/0rkCdS5/xcrRa9Y.png" group-title="Turquia",IBB TV
+				rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
+
+		#EXTINF:-1,Sun TV Mersin
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/y6PK2yZ/wUPmhTk.png" group-title="Turquia",Sun TV Mersin
+				rtmp://stream2.taksimbilisim.com:1935/mersinsuntv/bant1
+
+		#EXTINF:-1,TRT Belgesel
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/hCmxvph/images.png" group-title="Turquia",TRT Belgesel
+				http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+
+		#EXTINF:-1,TV 41
+			#EXTINF:-1 tvg-logo="" group-title="Turquia",TV 41
+				rtmp://stream.taksimbilisim.com/tv41/bant1
+
+		#EXTINF:-1,TV 52
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/56FjFjp/L6GE7ZG.png" group-title="Turquia",TV 52
+				rtmp://stream.taksimbilisim.com/tv52/bant1
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Turquia",
