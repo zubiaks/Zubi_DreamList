@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 	#EXTINF:-1,Zubi DreamList 
-		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.71 (14/08/2019)
+		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.72 (16/08/2019)
 			http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== LÍNGUA PORTUGUESA ==>[/COLOR][/B]
@@ -411,6 +411,22 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/nQq4Qb/RECORD_MT_Brasil.jpg" group-title="Brasil",RECORD MT (Brasil)
 				
 			
+		#EXTINF:-1,Aperipe TV (Brasil)
+			#EXTINF:-1 tvg-logo="" group-title="Brasil",Aperipe TV (Brasil)
+				http://wz-brasil1.comets.com.br/tvaperipe/aovivo/playlist.m3u8
+			
+		#EXTINF:-1, (Brasil)
+			#EXTINF:-1 tvg-logo="" group-title="Brasil",
+				
+			
+		#EXTINF:-1, (Brasil)
+			#EXTINF:-1 tvg-logo="" group-title="Brasil",
+				
+			
+		#EXTINF:-1, (Brasil)
+			#EXTINF:-1 tvg-logo="" group-title="Brasil",
+				
+			
 		#EXTINF:-1,TV CULTURA (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/eB6Fdm/TV_CULTURA_Brasil.png" group-title="Brasil",TV CULTURA (Brasil)
 				
@@ -539,6 +555,10 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/mxoqEQ/Al_Jazeera_English.jpg" group-title="Informacao",Al Jazeera English (Ingles)
 				http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
+		#EXTINF:-1,Al Jazeera Balkans (English)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mxoqEQ/Al_Jazeera_English.jpg" group-title="Informacao",Al Jazeera Balkans (Ingles)
+				http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/800.m3u8
+
 		#EXTINF:-1,AL JAZEERA MUBASHER (Arabic) (Qatar) (conferences) (Live events)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/e7v2Yb/AL_JAZEERA_MUBASHER.jpg" group-title="Informacao",AL JAZEERA MUBASHER (Arabic) (Qatar) (conferences) (Live events)
 				http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/300.m3u8
@@ -561,7 +581,7 @@
 
 		#EXTINF:-1,France 24 (Ingles)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/d8GJKQ/France_24.png" group-title="Informacao",France 24 (Ingles)
-				
+				http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 				
 		#EXTINF:-1,TVC News (Ingles)(Africa)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/gGsKR5/TVC_News_Ingles_Africa.jpg" group-title="Informacao",TVC News (Ingles)(Africa)
@@ -569,7 +589,7 @@
 
 		#EXTINF:-1,FOX News
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/jg9SDk/FOX_News.png" group-title="Informacao",FOX News (Ingles)
-				
+				http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 			
 		#EXTINF:-1,RT (AMERICA)(Ingles)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/kJhazQ/RT_Ingles.png" group-title="Informacao",RT (AMERICA)(Ingles)
@@ -577,7 +597,7 @@
 
 		#EXTINF:-1,RT (Español)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/m9b15b/RT_Espa_ol.png" group-title="Informacao",RT (Español)
-				
+				https://rt-esp.secure.footprint.net/1102.m3u8
 				
 		#EXTINF:-1,RT (Russo)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/dCwWim/RT.png" group-title="Russia",RT (Russo)
@@ -591,8 +611,8 @@
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",ABC 7 (Sarasota) (Ingles)
 				http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
 				
-		#EXTINF:-1,WGN-TV, virtual channel 9
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/ebXWjQ/WGN_9_NEWS.png" group-title="Informacao",WGN-TV, virtual channel 9 (Ingles)
+		#EXTINF:-1,WGN 9 NEWS CHICAGO (USA) (Chicago) (News)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ebXWjQ/WGN_9_NEWS.png" group-title="Informacao",WGN 9 NEWS CHICAGO (USA) (Chicago) (News)
 				http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 
 		#EXTINF:-1,KONTRA TV (Greek)
@@ -647,7 +667,7 @@
 
 		#EXTINF:-1,NHK WORLD HD (Japão)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/hyiEDb/NHK_WORLD.png" group-title="Informacao",NHK WORLD HD (Japão)
-				
+				https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
 				
 		#EXTINF:-1,Deutsche Welle [Alemanha]
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/bO0NzG/DW_HD.png" group-title="Informacao",Deutsche Welle [Alemanha] (English)
@@ -763,8 +783,28 @@
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",TRT (Irão) (ARABIC NEWS)
 				http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 				
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Informacao",
+		#EXTINF:-1,Radio y Televisión Martí (Cuba)
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",Radio y Televisión Martí (Cuba)
+				http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+				
+		#EXTINF:-1,Canal 4 (Espanha)
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/g7RKsv6/index.png" group-title="Informacao",Canal 4 (Espanha)
+				http://184.154.28.210:1935/canal4/canal4/live.m3u8
+				
+		#EXTINF:-1,Milenio Televisión 
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",Milenio Televisión 
+				http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+		#EXTINF:-1,BFM Paris
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/0nGZsLc/langfr-170px-BFM-Paris-logo-2016-svg.png" group-title="Informacao",BFM Paris
+				http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/master.m3u8
+				
+		#EXTINF:-1,CGTN
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",CGTN (Frances)
+				http://live.cgtn.com/1000f/prog_index.m3u8
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",CGTN (Russo)
+				http://live.cgtn.com/1000r/prog_index.m3u8
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",CGTN ()
 				
 				
 		#EXTINF:-1,
@@ -881,9 +921,9 @@
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/Wycmv49/Tbd-logo.png" group-title="Entretenimento",TBD
 				http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 			
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",
-				
+		#EXTINF:-1,Adult Swim Live
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/NrqWVPd/streaming-adult.png" group-title="Entretenimento",Adult Swim Live
+				http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
 			
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",
@@ -1157,9 +1197,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",Sevilla FC
 				
 
-		#EXTINF:-1,All Sports
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",All Sports
-				
+		#EXTINF:-1,All Sports (Brasil)
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",All Sports (Brasil)
+				http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 
 		#EXTINF:-1,Pinguino TV
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",Pinguino TV
@@ -1213,17 +1253,17 @@
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/CwGR9Xq/adsports.png" group-title="Desporto",Abu Dhabi Sports 2 HD
 				http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",
-				
+		#EXTINF:-1,KIX
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",KIX
+				http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",
-				
+		#EXTINF:-1,Ovación TV
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",Ovación TV
+				http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",
-				
+		#EXTINF:-1,Xsports TV
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",Xsports TV
+				http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",
@@ -1335,9 +1375,9 @@
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/7WbfzpV/543144.jpg" group-title="Infantil",TRT Cocuk (Turco)
 				http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",
-				
+		#EXTINF:-1,Cachipum.tv (Chile)
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",Cachipum.tv (Chile)
+				http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w2057048261.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",
@@ -1509,9 +1549,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",RAI MOVIE
 				http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",
-				
+		#EXTINF:-1,Calle 13 (Espanhol)
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Calle 13 (Espanhol)
+				http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",
@@ -1581,9 +1621,11 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/fK7zQb/Muz_TV_Music_Russia.jpg" group-title="Musica",Muz TV (Music) (Russia)
 				
 
-		#EXTINF:-1,Monte Carlo TV
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/eovCB5/MONTECARLO_MUS_C.jpg" group-title="Musica",Monte Carlo TV
+		#EXTINF:-1,Radio Monte Carlo TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eovCB5/MONTECARLO_MUS_C.jpg" group-title="Musica",Radio Monte Carlo TV
 				rtmp://fms.105.net/live/rmc1
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eovCB5/MONTECARLO_MUS_C.jpg" group-title="Musica",Radio Monte Carlo TV (Alternativa)
+				http://wow01.105.net/live/rmc1/chunklist_w776440177.m3u8
 			
 		#EXTINF:-1,Banat Tv (Romania)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/iYpQUQ/Banat_Tv_Romania.jpg" group-title="Musica",Banat Tv (Romania)
@@ -1809,9 +1851,17 @@
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/Qkf9nWN/logo-radioitalia-web2016.png" group-title="Musica",Radio Italia TV
 				http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Musica",
-				
+		#EXTINF:-1,la mega mundial
+			#EXTINF:-1 tvg-logo="" group-title="Musica",la mega mundial
+				http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+
+		#EXTINF:-1,MUSIK BOX
+			#EXTINF:-1 tvg-logo="" group-title="Musica",MUSIK BOX
+				http://212.26.132.86/hls/mb_ua_2500.m3u8
+
+		#EXTINF:-1,Bblack! Caribbean
+			#EXTINF:-1 tvg-logo="" group-title="Musica",Bblack! Caribbean
+				http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Musica",
@@ -2159,7 +2209,7 @@
 
 		#EXTINF:-1,Alfa Omega TV (Romanian)(Christian)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/ccpEOk/Alfa_Omega_TV_Romanian_Christian.png" group-title="Religioso",Alfa Omega TV (Romanian)(Christian)
-				
+				http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
 
 		#EXTINF:-1,CBS (Koreia Sul) (Christian)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cC5Br5/CBS_Koreia_Sul_Christian.png" group-title="Religioso",CBS (Koreia Sul) (Christian)
@@ -2201,9 +2251,21 @@
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",UCSG
 				http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Religioso",
-				
+		#EXTINF:-1,CTV (Ortodoxa Copta)
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/10vpvPq/logo-ctv.jpg" group-title="Religioso",CTV (Ortodoxa Copta)
+				http://media4.smc-host.com:1935/ctvchannel.tv/ctv.smil/playlist.m3u8
+
+		#EXTINF:-1,Esperanza TV (cristão) (espanhol)
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",Esperanza TV (cristão) (espanhol)
+				http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
+
+		#EXTINF:-1,RED ADVENIR (cristão) (Bolivia)
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/QnPWNCb/images.jpg" group-title="Religioso",RED ADVENIR (cristão) (Bolivia)
+				http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
+
+		#EXTINF:-1,CBN Español (cristão)
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",CBN Español (cristão)
+				http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",
@@ -2328,6 +2390,26 @@
  
 		#EXTINF:-1,ROKUM TV (Albanian)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/neSw65/ROKUM_TV.png" group-title="Albanian",ROKUM TV (Albanian)
+				
+ 
+		#EXTINF:-1,Albanian TV of America
+			#EXTINF:-1 tvg-logo="" group-title="Albanian",Albanian TV of America
+				http://stream.shqiptv.com:7080/altvusa/index.m3u8
+ 
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Albanian",
+				
+ 
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Albanian",
+				
+ 
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Albanian",
+				
+ 
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Albanian",
 				
  
  
@@ -2541,9 +2623,41 @@
 			#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 4 Jujuy
 				
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Argentina",
-				
+		#EXTINF:-1,Multivisión Federal (Argentina) (Espanhol)
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",Multivisión Federal (Argentina) (Espanhol)
+				http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+		#EXTINF:-1,5TV Corrientes
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/3sYWvTR/5tv-Corrientes.png" group-title="Argentina",5TV Corrientes
+				http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
+
+		#EXTINF:-1,Aire de Santa Fe
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",Aire de Santa Fe
+				http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
+
+		#EXTINF:-1,Channel 10 – Río Negro
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",Channel 10 – Río Negro
+				http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+
+		#EXTINF:-1,Canal 3 Pinamar
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 3 Pinamar
+				http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+
+		#EXTINF:-1,Canal 4 Posadas
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 4 Posadas
+				http://184.154.28.210:1935/canal4/canal4/live.m3u8
+
+		#EXTINF:-1,Canal 9 Comodoro Rivadavia
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 9 Comodoro Rivadavia
+				http://live.canalnueve.tv:8082/hls/canal.m3u8
+
+		#EXTINF:-1,Canal 9 Salta
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 9 Salta
+				http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+		#EXTINF:-1,Canal Local Olavarria
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal Local Olavarria
+				http://186.0.180.11:1935/festival/mp4:festival/playlist.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Argentina",
@@ -2578,7 +2692,26 @@
 		
 		
 		#EXTINF:-1,GLIZ (Espanhol) (BOLIVIA)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/gEaqR6/GLIZ.jpg" group-title="Armenia",GLIZ (Espanhol) (BOLIVIA)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gEaqR6/GLIZ.jpg" group-title="BOLIVIA",GLIZ (Espanhol) (BOLIVIA)
+				
+		#EXTINF:-1,ATB
+			#EXTINF:-1 tvg-logo="" group-title="BOLIVIA",ATB
+				http://stmv1.questreaming.com/atb/atb/playlist.m3u8
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="BOLIVIA",
+				
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="BOLIVIA",
+				
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="BOLIVIA",
+				
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="BOLIVIA",
 				
 				
 
@@ -2698,13 +2831,13 @@
 			#EXTINF:-1 tvg-logo="" group-title="Chile",Ñuble Tv
 				
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Chile",
-				
+		#EXTINF:-1,UESTV NOTICIAS
+			#EXTINF:-1 tvg-logo="" group-title="Chile",UESTV NOTICIAS
+				http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Chile",
-				
+		#EXTINF:-1,elpinguino (Radio)
+			#EXTINF:-1 tvg-logo="" group-title="Chile",elpinguino (Radio)
+				http://streaming.elpinguino.com:1935/live/pinguinotv_360p/live.m3u8?
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Chile",
@@ -2779,9 +2912,9 @@
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/F5wst9B/rtAznnQ.jpg" group-title="Croacia",Trend TV
 				rtmp://185.62.75.22:1935/trend/myStream
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Croacia",
-				
+		#EXTINF:-1,777 Tehnika TV
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/ry19kmG/images.jpg" group-title="Croacia",777 Tehnika TV
+				http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Croacia",
@@ -2809,9 +2942,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Colômbia",Canal Capital
 				
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Colômbia",
-				
+		#EXTINF:-1,Canal Regional Teleislas
+			#EXTINF:-1 tvg-logo="" group-title="Colômbia",Canal Regional Teleislas
+				http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Colômbia",
@@ -2925,6 +3058,18 @@
 			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/JrG1Msz/TV-Syd.png" group-title="Dinamarca",TV Syd
 				http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8
 
+		#EXTINF:-1,TV 2 BRONHOLM
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Dinamarca",TV 2 BRONHOLM
+				http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Dinamarca",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Dinamarca",
+				
+
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Dinamarca",
 				
@@ -2940,6 +3085,36 @@
 				
 				
 			
+
+#EXTINF:-1,[B][COLOR yellow]<== El Salvador ==>[/COLOR][/B]
+	#EXTINF:-1 tvg-logo="https://i.ibb.co/Pc9KPqf/elsalvador.gif" group-title="El Salvador",[B][COLOR yellow]<== El Salvador ==>[/COLOR][/B]
+		http://0.0.0.0:1234
+		
+		#EXTINF:-1,wowtv el salvador
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/Jj6bZf8/wow-tv.png" group-title="El Salvador",wowtv el salvador
+				http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="El Salvador",
+				
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="El Salvador",
+				
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="El Salvador",
+				
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="El Salvador",
+				
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="El Salvador",
+				
+				
+
 
 #EXTINF:-1,[B][COLOR yellow]<== Eslováquia ==>[/COLOR][/B]
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/dm1DS6/Eslov_quia.jpg" group-title="Eslováquia",[B][COLOR yellow]<== Eslováquia ==>[/COLOR][/B]
@@ -3087,6 +3262,18 @@
 			#EXTINF:-0 group-title="Espanha" tvg-logo="https://i.ibb.co/BGGt679/mediterraneo-tv.jpg",TV Mediterraneo (Espanha)
 				http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
 				
+		#EXTINF:-1,tv3cat (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="",tv3cat (Espanha)
+				http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/playlist.m3u8
+				
+		#EXTINF:-1,Canal Parlamento (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="",Canal Parlamento (Espanha)
+				http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8
+				
+		#EXTINF:-1, (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="", (Espanha)
+				
+				
 		#EXTINF:-1, (Espanha)
 			#EXTINF:-0 group-title="Espanha" tvg-logo="", (Espanha)
 				
@@ -3107,6 +3294,14 @@
 
 		#EXTINF:-1,YLE TV1 (Filandia)
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/P1dpyB7/Px-BNKRt-T-400x400.jpg" group-title="Filandia",YLE TV1 (Filandia)
+				http://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/index_2764_av-p.m3u8
+			
+		#EXTINF:-1, (Filandia)
+			#EXTINF:-1 tvg-logo="" group-title="Filandia",
+				
+			
+		#EXTINF:-1, (Filandia)
+			#EXTINF:-1 tvg-logo="" group-title="Filandia",
 				
 			
 
@@ -3171,17 +3366,17 @@
 			#EXTINF:-1 tvg-logo="" group-title="Franca",BX1 (Franca)
 				https://59959724487e3.streamlock.net:443/stream/live/playlist.m3u8
 
-		#EXTINF:-1, (Franca)
-			#EXTINF:-1 tvg-logo="" group-title="Franca", (Franca)
+		#EXTINF:-1,Tébéo (Franca)
+			#EXTINF:-1 tvg-logo="" group-title="Franca",Tébéo (Franca)
 				http://live2.awedia.com/hls/tebeo.m3u8
 
 		#EXTINF:-1,Tebeo (Franca)
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/jGdfK60/1736504-2352454.jpg" group-title="Franca",Tebeo (Franca)
 				http://live2.awedia.com/hls/tebeo.m3u8
 
-		#EXTINF:-1, (Franca)
-			#EXTINF:-1 tvg-logo="" group-title="Franca", (Franca)
-				
+		#EXTINF:-1,Alsace 20 (Franca)
+			#EXTINF:-1 tvg-logo="" group-title="Franca",Alsace 20 (Franca)
+				http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 
 		#EXTINF:-1, (Franca)
 			#EXTINF:-1 tvg-logo="" group-title="Franca", (Franca)
@@ -3209,9 +3404,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Grecia",Vouli TV
 				 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Grecia",
-				 
+		#EXTINF:-1,syros tv1
+			#EXTINF:-1 tvg-logo="" group-title="Grecia",syros tv1
+				 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Grecia",
@@ -3469,17 +3664,29 @@
 			#EXTINF:-1 tvg-logo="" group-title="Italian",CASTROVILLA (Italy)
 				rtmp://msh0062.stream.seeweb.it:1935/live/stream00.sdp
 				
-		#EXTINF:-1, (Italy)
-			#EXTINF:-1 tvg-logo="" group-title="Italian", (Italy)
+		#EXTINF:-1,CAFETV24 (Italy)
+			#EXTINF:-1 tvg-logo="" group-title="Italian",CAFETV24 (Italy)
+				http://srv3.meway.tv:1957/cafe/live/playlist.m3u8
 				
+		#EXTINF:-1,TV 2000 (Italy)
+			#EXTINF:-1 tvg-logo="" group-title="Italian",TV 2000 (Italy)
+				http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
 				
-		#EXTINF:-1, (Italy)
-			#EXTINF:-1 tvg-logo="" group-title="Italian", (Italy)
+		#EXTINF:-1,TV 100 (Italy)
+			#EXTINF:-1 tvg-logo="" group-title="Italian",TV 100 (Italy)
+				http://178.62.176.153/hls/tv100/index.m3u8
 				
+		#EXTINF:-1,radio 105 network tv (Italy)
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/xM3cZvd/1475051109007.jpg" group-title="Italian",radio 105 network tv (Italy)
+				http://fms.105.net:1935/live/105Test1/playlist.m3u8
 				
-		#EXTINF:-1, (Italy)
-			#EXTINF:-1 tvg-logo="" group-title="Italian", (Italy)
+		#EXTINF:-1,Radio 51 TV (Italy)
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/QMtghnS/Radio51-20-Music-TV-20133.png" group-title="Italian",Radio 51 TV (Italy)
+				http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
 				
+		#EXTINF:-1,Canale 10 (Italy)
+			#EXTINF:-1 tvg-logo="" group-title="Italian",Canale 10 (Italy)
+				http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
 				
 		#EXTINF:-1, (Italy)
 			#EXTINF:-1 tvg-logo="" group-title="Italian", (Italy)
@@ -3690,6 +3897,42 @@
 		#EXTINF:-1,A+
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/7vc1JSc/270px-Logo-a-canal-svg.png" group-title="Mexico",A+
 				https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
+ 
+		#EXTINF:-1,telemar campeche
+			#EXTINF:-1 tvg-logo="" group-title="Mexico",telemar campeche
+				http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+
+		#EXTINF:-1,TV Coahuila
+			#EXTINF:-1 tvg-logo="" group-title="Mexico",TV Coahuila
+				http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+
+		#EXTINF:-1,RCG 1
+			#EXTINF:-1 tvg-logo="" group-title="Mexico",RCG 1
+				http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+
+		#EXTINF:-1,RTQ Queretaro
+			#EXTINF:-1 tvg-logo="" group-title="Mexico",RTQ Queretaro
+				http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+
+		#EXTINF:-1,15TV Sabinas
+			#EXTINF:-1 tvg-logo="" group-title="Mexico",15TV Sabinas
+				http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
+
+		#EXTINF:-1,Canal 10 Cancun
+			#EXTINF:-1 tvg-logo="" group-title="Mexico",Canal 10 Cancun
+				http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+		#EXTINF:-1,canal once
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/9gz8wqF/once-1.jpg" group-title="Mexico",canal once
+				http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+
+		#EXTINF:-1,Canal 20 Zacatecas
+			#EXTINF:-1 tvg-logo="" group-title="Mexico",Canal 20 Zacatecas
+				http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Mexico",
+				
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Mexico",
@@ -3893,9 +4136,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Peru",Central TV Perú
 				http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Peru",
-				
+		#EXTINF:-1,BHtv
+			#EXTINF:-1 tvg-logo="" group-title="Peru",BHtv
+				http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Peru",
@@ -3929,6 +4172,28 @@
 
 
 
+#EXTINF:-1,[B][COLOR yellow]<== República Checa ==>[/COLOR][/B]
+	#EXTINF:-1 tvg-logo="" group-title="República Checa",[B][COLOR yellow]<== República Checa ==>[/COLOR][/B]
+		http://0.0.0.0:1234
+	
+		#EXTINF:-1,CGTRK Grozny
+			#EXTINF:-1 tvg-logo="" group-title="República Checa",CGTRK Grozny
+				http://live2.mediacdn.ru/sr1/grozny/playlist.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="República Checa",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="República Checa",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="República Checa",
+				
+
+
+
 #EXTINF:-1,[B][COLOR yellow]<== República Dominicana ==>[/COLOR][/B]
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/f8M2LR/Rep_blica_Dominicana.png" group-title="República Dominicana",[B][COLOR yellow]<== República Dominicana ==>[/COLOR][/B]
 		http://0.0.0.0:1234
@@ -3949,13 +4214,13 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/bGNCOm/Telenord_14.jpg" group-title="República Dominicana",Telenord 14
 				
 				
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="República Dominicana",
+		#EXTINF:-1,LINIORER TV 36
+			#EXTINF:-1 tvg-logo="" group-title="República Dominicana",LINIORER TV 36
+				http://cm.hostlagarto.com:8081/LinierosTV/linieros.myStream/chunks.m3u8
 
-
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="República Dominicana",
-				
+		#EXTINF:-1,Telesistema 11 
+			#EXTINF:-1 tvg-logo="" group-title="República Dominicana",Telesistema 11 
+				http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="República Dominicana",
@@ -3972,7 +4237,11 @@
 		
 	
 		#EXTINF:-1,Accent TV Romania (Romania)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cRXOUR/Accent_TV_Romania.png" group-title="",Accent TV Romania (Romania)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cRXOUR/Accent_TV_Romania.png" group-title="Romania",Accent TV Romania (Romania)
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Romania",
 				
 
 				
@@ -4030,6 +4299,22 @@
 		#EXTINF:-1,TRO Soyuz (Russia)
 			#EXTINF:-1 tvg-logo="" group-title="Russia",TRO Soyuz (Russia)
 				http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+
+		#EXTINF:-1,TV 1000 ACTION (Russia)
+			#EXTINF:-1 tvg-logo="" group-title="Russia",TV 1000 ACTION (Russia)
+				http://ott-cdn.ucom.am/s91/04.m3u8
+
+		#EXTINF:-1,CP Info
+			#EXTINF:-1 tvg-logo="" group-title="Russia",CP Info
+				http://109.68.40.67/life/magnolia.m3u8
+
+		#EXTINF:-1, (Russia)
+			#EXTINF:-1 tvg-logo="" group-title="Russia", (Russia)
+				
+
+		#EXTINF:-1, (Russia)
+			#EXTINF:-1 tvg-logo="" group-title="Russia", (Russia)
+				
 
 		#EXTINF:-1, (Russia)
 			#EXTINF:-1 tvg-logo="" group-title="Russia", (Russia)
@@ -4199,6 +4484,28 @@
 
 
 
+#EXTINF:-1,[B][COLOR yellow]<== Uruguai ==>[/COLOR][/B]
+	#EXTINF:-1 tvg-logo="" group-title="Uruguai",[B][COLOR yellow]<== Uruguai ==>[/COLOR][/B]
+		http://0.0.0.0:1234
+	
+		#EXTINF:-1,Canal M
+			#EXTINF:-1 tvg-logo="" group-title="Uruguai",Canal M
+				http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Uruguai",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Uruguai",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Uruguai",
+				
+
+
+
 #EXTINF:-1,[B][COLOR yellow]<== USA ==>[/COLOR][/B]
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/kRpmEm/USA.png" group-title="USA",[B][COLOR yellow]<== USA ==>[/COLOR][/B]
 		http://0.0.0.0:1234
@@ -4271,6 +4578,22 @@
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/Bqshbwc/7zieaS3.png" group-title="USA",Voice of America
 				http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 
+		#EXTINF:-1,WHPRT TV3
+			#EXTINF:-1 tvg-logo="" group-title="USA",WHPRT TV3
+				http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
+
+		#EXTINF:-1,CBTV 17
+			#EXTINF:-1 tvg-logo="" group-title="USA",CBTV 17
+				https://streaminglibrary.iwcc.edu/iwtv/iwtv/chunklist_w526205618.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="USA",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="USA",
+				
+
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="USA",
 				
@@ -4313,13 +4636,25 @@
 			#EXTINF:-1 tvg-logo="" group-title="Venezuela",TVO - TELEVISORA DE ORIENTE
 				http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8?iptvgratis?chile.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Venezuela",
-				
+		#EXTINF:-1,Telesur
+			#EXTINF:-1 tvg-logo="" group-title="Venezuela",Telesur
+				http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Venezuela",
-				
+		#EXTINF:-1,antares tv
+			#EXTINF:-1 tvg-logo="" group-title="Venezuela",antares tv
+				http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+
+		#EXTINF:-1,PromarTV
+			#EXTINF:-1 tvg-logo="" group-title="Venezuela",PromarTV
+				http://edge.wms28.lorini.net/promar/promar/live.m3u8
+
+		#EXTINF:-1,tvo
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/YcT3FG0/images.png" group-title="Venezuela",tvo
+				http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8
+
+		#EXTINF:-1,vale tv
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/TgVzxF1/Logo-de-VALE-TV.png" group-title="Venezuela",vale tv
+				http://edge.wms28.lorini.net/valetv/valetv/playlist.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Venezuela",
