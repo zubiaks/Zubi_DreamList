@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 	#EXTINF:-1,Zubi DreamList 
-		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.73 (17/08/2019)
+		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.74 (18/08/2019)
 			http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== LÍNGUA PORTUGUESA ==>[/COLOR][/B]
@@ -23,7 +23,7 @@
 			#EXTINF:-1 group-title="Generalistas" tvg-id="sic.pt" tvg-logo="https://image.ibb.co/mGcbik/SIC.png",SIC  (Generalistas)
 				http://live.impresa.pt/live/sic/sic540p.m3u8
 			#EXTINF:-1 group-title="Generalistas" tvg-id="sic.pt" tvg-logo="https://image.ibb.co/mGcbik/SIC.png",SIC (Alternativa)(Generalistas)
-				
+				https://p30.quest123.top:8088/live/ficabruno/playlist.m3u8?id=98407&wowzasessionid=098840250&pk=342b2d96d4f0554af5433dbf9ea83e2c02e1c9a0eed5fd36fc36de9133918a59
 
 		#EXTINF:-1,TVI
 			#EXTINF:-1 group-title="Generalistas"  tvg-name="tvi.pt" audio-track="pt" tvg-logo="https://image.ibb.co/gx1rG5/TVI.png",TVI (Generalistas)
@@ -51,7 +51,7 @@
 			
 		#EXTINF:-1,PORTO Canal
 			#EXTINF:-1 group-title="Generalistas" tvg-id="PortoCanal.pt" tvg-logo="https://image.ibb.co/gjrV9Q/PORTO_Canal.png",PORTO Canal (Generalistas)
-				
+				https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w1350687174.m3u8
 			#EXTINF:-1 group-title="Generalistas" tvg-id="PortoCanal.pt" tvg-logo="https://image.ibb.co/gjrV9Q/PORTO_Canal.png",PORTO Canal (Generalistas)(Alternativa)
 				
 
@@ -90,6 +90,8 @@
 		#EXTINF:-1,SIC Noticias
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/nicxPQ/SIC_Noticias.png" group-title="Informacao",SIC Noticias (Informacao)
 				http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nicxPQ/SIC_Noticias.png" group-title="Informacao",SIC Noticias (Informacao)
+				https://p03.quest123.top:8088/live/motoratos/playlist.m3u8?id=92008&wowzasessionid=258246797&pk=342b2d96d4f0554af5433dbf9ea83e2c02e1c9a0eed5fd36fc36de9133918a59
 
 		#EXTINF:-1,TVI 24
 			#EXTINF:-1 group-title="Informacao" tvg-id="TVI24.pt" tvg-logo="https://image.ibb.co/g2oVtk/TVI_24.png",TVI 24 (Informacao)
@@ -126,6 +128,8 @@
 		#EXTINF:-1,SIC Radical
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/jwMVdk/Sic_radical.png" group-title="Entretenimento",SIC Radical (Entretenimento)
 				http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jwMVdk/Sic_radical.png" group-title="Entretenimento",SIC Radical (Entretenimento)
+				https://p29.quest123.top:8088/live/sicradx/playlist.m3u8?id=109838&wowzasessionid=3581309375&pk=342b2d96d4f0554af5433dbf9ea83e2c02e1c9a0eed5fd36fc36de9133918a59
 
 		#EXTINF:-1,TVI Ficcao
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/mPNVYk/TVI_Ficcao.jpg" group-title="Entretenimento",TVI Ficcao (Entretenimento)
@@ -161,19 +165,27 @@
 			
 		#EXTINF:-1,SPORT TV 1 (PORTUGAL)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/fj71ik/SPORT_TV_1_PORTUGAL.png" group-title="Desporto",SPORT TV 1 (Desporto)
-
+				http://ul.cdn946.net:8080/hls/cyqomyts14egn.m3u8?s=g_EWbaVE2ygSIZ87Z8Uh6w&e=1566125605
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fj71ik/SPORT_TV_1_PORTUGAL.png" group-title="Desporto",SPORT TV 1 (Desporto) (-1)
+				http://tv.b4ucast.me/tv/7cTtkFd2m020180322/chunklist_w409110635_tkaGxzZW5kdGltZT0xNTY2MTA3MjgwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9T1ZETmJQbmV5QmdVN0Y0YmhfT2FnLTNLODZGcWZ3TWw2dnpGWWJiWldWbz0=.m3u8
 
 		#EXTINF:-1,SPORT TV 2 (PORTUGAL)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/iSUspQ/SPORT_TV_2_PORTUGAL.png" group-title="Desporto",SPORT TV 2 (Desporto)
-
+				http://ul.cdn946.net:8080/hls/dftsbx86z8qhvbg.m3u8?s=R49ocoMIJjtEpV-Z65pbEQ&e=1566125744
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iSUspQ/SPORT_TV_2_PORTUGAL.png" group-title="Desporto",SPORT TV 2 (Desporto) (-1)
+				http://tv.b4ucast.me/tv/X1cgbFLQIz20180322/chunklist_w1265338135_tkaGxzZW5kdGltZT0xNTY2MTA3NDAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9WmZtS2l3WVEza2gwWkpld3ZnZmhTVlhjQTNwZUZHb2J5cFZzLW1wRWxtRT0=.m3u8
 
 		#EXTINF:-1,SPORT TV 3 (PORTUGAL)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/gsPmG5/SPORT_TV_3_PORTUGAL.png" group-title="Desporto",SPORT TV 3 (Desporto)
-
+				http://ul.cdn946.net:8080/hls/rxujvy5u40gwel.m3u8?s=LYYkaRsi8YqYdz3ZZkBr6w&e=1566125795
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gsPmG5/SPORT_TV_3_PORTUGAL.png" group-title="Desporto",SPORT TV 3 (Desporto)
+				http://tv.b4ucast.me/tv/egBRiUfZ2f20180322/chunklist_w1637348051_tkaGxzZW5kdGltZT0xNTY2MTA3NDYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9WDRnNWkwTUtrMG5HdkdsT0laWkFKYW1RanBVRkZIa3B5SVRIYnRoYlNHMD0=.m3u8
 
 		#EXTINF:-1,SPORT TV 4 (PORTUGAL)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/dnKgik/SPORT_TV_4_PORTUGAL.png" group-title="Desporto",SPORT TV 4 (Desporto)
-
+				http://ul.cdn946.net:8080/hls/oh66wnqhpbdcy.m3u8?s=YpAnqwmpI5CzqT32Twb8nA&e=1566125868
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dnKgik/SPORT_TV_4_PORTUGAL.png" group-title="Desporto",SPORT TV 4 (Desporto)
+				http://tv.b4ucast.me/tv/KArorS9lt820180322/chunklist_w1378717584_tkaGxzZW5kdGltZT0xNTY2MTA3NTIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9eE9PaWlPYldFbnZ3VXJrZ1ozQk8tVHhTU1lyVjFUUXpCT1NQTUtiQndnaz0=.m3u8
 
 		#EXTINF:-1,SPORT TV 5 (PORTUGAL)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/jUP8UQ/SPORT_TV_5_PORTUGAL.png" group-title="Desporto",SPORT TV 5 (Desporto)
@@ -497,8 +509,64 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/e26iJw/IMPD_TV_SP_Envagelica_Brasil.png" group-title="Religioso",IMPD TV SP (Envagelica)(Brasil)(Religioso)
 
 			
+		#EXTINF:-1,RecordTV Espirito Santo
+			#EXTINF:-1 tvg-logo="" group-title="Brasil",RecordTV Espirito Santo
+				http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+			
+		#EXTINF:-1,Rede Atividade
+			#EXTINF:-1 tvg-logo="" group-title="Brasil",Rede Atividade
+				http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+			
+		#EXTINF:-1,Rede Minas
+			#EXTINF:-1 tvg-logo="" group-title="Brasil",Rede Minas
+				http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+			
+		#EXTINF:-1,Rede TV Rondonia
+			#EXTINF:-1 tvg-logo="" group-title="Brasil",Rede TV Rondonia
+				http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
+			
+		#EXTINF:-1,TV Cidade Verde
+			#EXTINF:-1 tvg-logo="" group-title="Brasil",TV Cidade Verde
+				http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+			
+		#EXTINF:-1,Sol TV
+			#EXTINF:-1 tvg-logo="" group-title="Brasil",Sol TV
+				http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
+			
+		#EXTINF:-1,tve bahia
+			#EXTINF:-1 tvg-logo="" group-title="Brasil",tve bahia
+				http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+			
+		#EXTINF:-1,TV Diario do Sertao
+			#EXTINF:-1 tvg-logo="" group-title="Brasil",TV Diario do Sertao
+				http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+			
+		#EXTINF:-1,TV Faap
+			#EXTINF:-1 tvg-logo="" group-title="Brasil",TV Faap
+				http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
+			
+		#EXTINF:-1,TV O Povo
+			#EXTINF:-1 tvg-logo="" group-title="Brasil",TV O Povo
+				http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
+			
+		#EXTINF:-1,TV Tuba
+			#EXTINF:-1 tvg-logo="" group-title="Brasil",TV Tuba
+				http://69.46.0.170:1935/rcr_tuba/tv.stream/live.m3u8
+			
+		#EXTINF:-1,Web TV Minas
+			#EXTINF:-1 tvg-logo="" group-title="Brasil",Web TV Minas
+				http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
+			
+		#EXTINF:-1,SOBRENATURAL TV
+			#EXTINF:-1 tvg-logo="" group-title="Portugal",SOBRENATURAL TV
+				https://streamer-b02.videos.sapo.pt/live/sobrenaturaltv/chunklist_w314081523.m3u8
+			
 		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Religioso",
+			#EXTINF:-1 tvg-logo="" group-title="Brasil",
+				
+			
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Brasil",
 				
 			
 
@@ -815,6 +883,18 @@
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",News 24
 				http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 				
+		#EXTINF:-1,Report-TV
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",Report-TV
+				http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+				
+		#EXTINF:-1,tsn lecco
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",tsn lecco
+				http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
+				
+		#EXTINF:-1,Teleformula (Mexico)
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",Teleformula (Mexico)
+				http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+				
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",
 				
@@ -961,7 +1041,7 @@
 			#EXTINF:-1 group-title="Desporto" tvg-id="RMTV.pt" tvg-logo="https://image.ibb.co/miocpQ/REAL_MADRID_TV.png",Real Madrid TV
 				http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/master.m3u8
 			#EXTINF:-1 group-title="Desporto" tvg-id="RMTV.pt" tvg-logo="https://image.ibb.co/miocpQ/REAL_MADRID_TV.png",Real Madrid TV (Alternativa)
-				http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+				http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
 		#EXTINF:-1,Eurosport
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/gMnCpQ/EUROSPORT.jpg" group-title="Desporto",Eurosport (Russo)
@@ -1132,12 +1212,12 @@
 			
 			
 		#EXTINF:-1,FOX SPORTS 1 HD
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/hi9Mtb/FOX_SPORTS_1_HD.jpg" group-title="Desporto",FOX SPORTS 2 HD (Espanhol)
-				
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hi9Mtb/FOX_SPORTS_1_HD.jpg" group-title="Desporto",FOX SPORTS 1 HD (Brasil)
+				https://ul.cdn946.net:8443/hls/q8ihkz93.m3u8?s=DCkGU1DzRFa8Nj1gg17vBw&e=1566126510
 			
 		#EXTINF:-1,FOX SPORTS 2 HD
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/nQqGRw/FOX_SPORTS_2_HD.png" group-title="Desporto",FOX SPORTS 2 HD (Espanhol)
-
+				http://tv.b4ucast.me/tv/wYgS7K34lW20180322/chunklist_w78224764_tkaGxzZW5kdGltZT0xNTY2MTA3NTgwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9M25fYV9DYjNtLVFpRzlZLXVwbzZoVjhOYW9yM0hpMm92a2ZHdV9ENXZncz0=.m3u8
 			
 		#EXTINF:-1,FOX SPORTS 3 HD
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/iXy36w/FOX_SPORTS_3_HD.png" group-title="Desporto",FOX SPORTS 3 HD (Espanhol)
@@ -1279,7 +1359,43 @@
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",Monterrico TV
 				http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 
+		#EXTINF:-1,Sport TV Brasil
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",Sport TV Brasil
+				http://fan.kastream.biz:8081/edge/ver878f19adfcdec53523dfc988d1cd2532/chunks.m3u8?nimblesessionid=3119714&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDE5IDU6MTA6NTYgQU0maGFzaF92YWx1ZT1SU2l6SW1pZ29aUEdCNmdMeEZsSmRRPT0mdmFsaWRtaW51dGVzPTEyMA==
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",Sport TV Brasil
+				http://ul.cdn946.net:8080/hls/a07uu6w5c1td2td.m3u8?s=PNmCYaaVw3d9_dq8udejsA&e=1566127210
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",Sport TV Brasil
+				
+
 		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",
+				
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",
+				
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",
+				
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",
+				
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",
+				
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",
+				
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",
+				
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",
+				
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",
 				
 
@@ -1913,9 +2029,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Musica",Portal Foxmix
 				http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Musica",
-				
+		#EXTINF:-1,Top Latino
+			#EXTINF:-1 tvg-logo="" group-title="Musica",Top Latino
+				http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Musica",
@@ -1937,7 +2053,7 @@
 				
 		#EXTINF:-1,Discovery Channel (Ingles)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/nFrZ65/Discovery_channel.png" group-title="Documentarios",Discovery Channel (Russia)
-				
+				http://50.7.186.123:8081/live/30/chunks.m3u8?nimblesessionid=11268718&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDE5IDU6MzY6MzAgQU0maGFzaF92YWx1ZT1MSk53cTE1Y3lidy83TS92K0ZkU1hBPT0mdmFsaWRtaW51dGVzPTE2MCZzdHJtX2xlbj03
 				
 		#EXTINF:-1,Discovery Science (Ingles)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/iNAXpR/Discovery_Science.jpg" group-title="Documentarios",Discovery Science  (Ingles)
@@ -2448,9 +2564,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Africa",RTV - Rwanda
 				http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
 			
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Africa",
-				
+		#EXTINF:-1,Vision 4
+			#EXTINF:-1 tvg-logo="" group-title="Africa",Vision 4
+				http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
 			
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Africa",
@@ -2592,17 +2708,17 @@
 			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha", RTL
 				http://live01.rtl.lu/channel1/smil:channel1/chunklist.m3u8
 				
-		#EXTINF:-1, 
-			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha", 
+		#EXTINF:-1, TV Touring Wurzburg
+			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha", TV Touring Wurzburg
+				http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8
 				
+		#EXTINF:-1, TVA Ostbayern
+			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha", TVA Ostbayern
+				http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8
 				
-		#EXTINF:-1, 
-			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha", 
-				
-				
-		#EXTINF:-1, 
-			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha", 
-				
+		#EXTINF:-1, Tirol TV
+			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha", Tirol TV
+				http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
 				
 		#EXTINF:-1, 
 			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha", 
@@ -2752,6 +2868,18 @@
 		#EXTINF:-1,Medios Rioja
 			#EXTINF:-1 tvg-logo="" group-title="Argentina",Medios Rioja
 				http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8
+
+		#EXTINF:-1,Telered
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",Telered
+				http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+
+		#EXTINF:-1,Telpin TV Canal 2 HD
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",Telpin TV Canal 2 HD
+				http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",
+				
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Argentina",
@@ -2933,6 +3061,14 @@
 			#EXTINF:-1 tvg-logo="" group-title="Chile",Futuro 88.9
 				http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
 
+		#EXTINF:-1,TVN - Televisión Nacional de Chile
+			#EXTINF:-1 tvg-logo="" group-title="Chile",TVN - Televisión Nacional de Chile
+				http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+
+		#EXTINF:-1,UESTV | Red de Televisión Universidades del Estado de Chile
+			#EXTINF:-1 tvg-logo="" group-title="Chile",UESTV | Red de Televisión Universidades del Estado de Chile
+				http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Chile",
 				
@@ -3032,8 +3168,8 @@
 			#EXTINF:-1 tvg-logo="" group-title="Colômbia",Canal Capital
 				
 
-		#EXTINF:-1,Canal Regional Teleislas
-			#EXTINF:-1 tvg-logo="" group-title="Colômbia",Canal Regional Teleislas
+		#EXTINF:-1,Teleislas (Regional)
+			#EXTINF:-1 tvg-logo="" group-title="Colômbia",Teleislas (Regional)
 				http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 
 		#EXTINF:-1,
@@ -3062,9 +3198,9 @@
 			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/rx8SxvL/15977915-1331614376860617-5054855370716335928-n.jpg" group-title="Costa Rica",Extra TV
 				rtmp://k3.usastreams.com:1935/canal42/canal42
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Costa Rica",
-				
+		#EXTINF:-1,TV Sur 14
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Costa Rica",TV Sur 14
+				http://186.227.165.118:1935/insatv/livestream/live.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Costa Rica",
@@ -3164,6 +3300,24 @@
 			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Dinamarca",
 				
 
+
+
+#EXTINF:-1,[B][COLOR yellow]<== Equador ==>[/COLOR][/B]
+	#EXTINF:-1 tvg-logo="" group-title="Equador",[B][COLOR yellow]<== Equador ==>[/COLOR][/B]
+		http://0.0.0.0:1234
+		
+		#EXTINF:-1,UCSG Radio TV
+			#EXTINF:-1 tvg-logo="" group-title="Equador",UCSG Radio TV
+				http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Equador",
+				
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Equador",
+				
+				
 
 
 #EXTINF:-1,[B][COLOR yellow]<== Egypt ==>[/COLOR][/B]
@@ -3304,7 +3458,7 @@
 				
 		#EXTINF:-1,TELEMADRID (Espanha)
 			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/cM1Oym/TELEMADRID_Espanha.png",TELEMADRID (Espanha)
-				
+				http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
 				
 		#EXTINF:-1,LA OTRA (Espanha)
 			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/fSgCr6/LA_OTRA_Espanha.png",LA OTRA (Espanha)
@@ -3401,6 +3555,18 @@
 		#EXTINF:-1,RTVCE (Espanha)
 			#EXTINF:-0 group-title="Espanha" tvg-logo="",RTVCE (Espanha)
 				http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+				
+		#EXTINF:-1,TeleSafor (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="",TeleSafor (Espanha)
+				http://video.telesafor.com/hls/video_low.m3u8
+				
+		#EXTINF:-1,TeleValencia (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="",TeleValencia (Espanha)
+				http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+				
+		#EXTINF:-1,Vega Baja TV (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="",Vega Baja TV (Espanha)
+				http://185.29.68.24/tvb.m3u8
 				
 		#EXTINF:-1, (Espanha)
 			#EXTINF:-0 group-title="Espanha" tvg-logo="", (Espanha)
@@ -3760,7 +3926,7 @@
 				
 		#EXTINF:-1,Video Brescia (Italian)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/m65QjQ/Video_Brescia_Italian.jpg" group-title="Italian",Video Brescia (Italian)
-				
+				http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
 				
 		#EXTINF:-1,Tele Arena (Italian)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/hMszB5/Tele_Arena_Italian.jpg" group-title="Italian",Tele Arena (Italian)
@@ -3878,13 +4044,21 @@
 			#EXTINF:-1 tvg-logo="" group-title="Italian",Radionorba TV (Italy)
 				http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
 				
-		#EXTINF:-1, (Italy)
-			#EXTINF:-1 tvg-logo="" group-title="Italian", (Italy)
+		#EXTINF:-1,SuperTV (Italy)
+			#EXTINF:-1 tvg-logo="" group-title="Italian",SuperTV (Italy)
+				http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
 				
+		#EXTINF:-1,Video Calabria (Italy)
+			#EXTINF:-1 tvg-logo="" group-title="Italian",Video Calabria (Italy)
+				http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
 				
-		#EXTINF:-1, (Italy)
-			#EXTINF:-1 tvg-logo="" group-title="Italian", (Italy)
+		#EXTINF:-1,teleMonteneve (Italy)
+			#EXTINF:-1 tvg-logo="" group-title="Italian",teleMonteneve (Italy)
+				http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
 				
+		#EXTINF:-1,telePAVIA (Italy)
+			#EXTINF:-1 tvg-logo="" group-title="Italian",telePAVIA (Italy)
+				http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
 				
 		#EXTINF:-1, (Italy)
 			#EXTINF:-1 tvg-logo="" group-title="Italian", (Italy)
@@ -4146,6 +4320,14 @@
 			#EXTINF:-1 tvg-logo="" group-title="Mexico",Canal 20 Zacatecas
 				http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
 
+		#EXTINF:-1,Ultra TV Aguascalientes
+			#EXTINF:-1 tvg-logo="" group-title="Mexico",Ultra TV Aguascalientes
+				https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
+
+		#EXTINF:-1,Ultra TV Puebla
+			#EXTINF:-1 tvg-logo="" group-title="Mexico",Ultra TV Puebla
+				https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
+
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Mexico",
 				
@@ -4240,9 +4422,9 @@
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/7CNzknz/600x600bb.jpg" group-title="Noruega",Kanal 10
 				http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
 				
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Noruega",
-				
+		#EXTINF:-1,Stortinget
+			#EXTINF:-1 tvg-logo="" group-title="Noruega",Stortinget
+				http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/playlist.m3u8
 				
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Noruega",
@@ -4618,9 +4800,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Suica",Radio Pilatus TV
 				https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
 
-		#EXTINF:-1, (Suica)
-			#EXTINF:-1 tvg-logo="" group-title="Suica",
-				
+		#EXTINF:-1,Tele M1 (Suica)
+			#EXTINF:-1 tvg-logo="" group-title="Suica",Tele M1
+				http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
 
 		#EXTINF:-1, (Suica)
 			#EXTINF:-1 tvg-logo="" group-title="Suica",
@@ -4758,6 +4940,22 @@
 		
 		#EXTINF:-1,London Live (Umited Kingdom)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/gBWwkb/London_Live_UK.jpg" group-title="Umited Kingdom",London Live (Umited Kingdom)
+				
+
+		#EXTINF:-1,UTV 
+			#EXTINF:-1 tvg-logo="" group-title="Umited Kingdom",UTV 
+				http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Umited Kingdom",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Umited Kingdom",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Umited Kingdom",
 				
 
 				
@@ -4947,6 +5145,8 @@
 		#EXTINF:-1,Telesur
 			#EXTINF:-1 tvg-logo="" group-title="Venezuela",Telesur
 				http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+			#EXTINF:-1 tvg-logo="" group-title="Venezuela",Telesur (Alternativa)
+				http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
 		#EXTINF:-1,antares tv
 			#EXTINF:-1 tvg-logo="" group-title="Venezuela",antares tv
