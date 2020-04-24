@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 	#EXTINF:-1,Zubi DreamList 
-		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.76 (23/04/2020)
+		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.77 (25/04/2020)
 			http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== LÍNGUA PORTUGUESA ==>[/COLOR][/B]
@@ -371,10 +371,6 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/mSzVjG/REDE_BRASIL.png" group-title="Brasil",REDE BRASIL (Brasil)
 				
 				
-		#EXTINF:-1,SBT (Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/iQaaJb/SBT.png" group-title="Brasil",SBT (Brasil)
-				
-				
 		#EXTINF:-1,Pocos Tv (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/iXK3G5/Pocos_Tv_Brasil.png" group-title="Brasil",Pocos Tv (Brasil)
 				
@@ -396,9 +392,11 @@
 				
 
 		#EXTINF:-1,REDE TV! (Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/b8VAR6/REDE_TV.jpg" group-title="Brasil",REDE TV! (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/b8VAR6/REDE_TV.jpg" group-title="Brasil",REDE TV SP (Brasil)
+				http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/b8VAR6/REDE_TV.jpg" group-title="Brasil",REDE TV RJ (Brasil)
+				http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
 				
-			
 		#EXTINF:-1,BAND (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/eJiQtm/BAND.png" group-title="Brasil",BAND (Brasil)
 				
@@ -428,8 +426,8 @@
 				http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
 			
 		#EXTINF:-1,TV CULTURA (Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/eB6Fdm/TV_CULTURA_Brasil.png" group-title="Brasil",TV CULTURA (Brasil)
-				
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eB6Fdm/TV_CULTURA_Brasil.png" group-title="Brasil",TV CULTURA PA (Brasil)
+				http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
 			
 		#EXTINF:-1,TV NA ILHA (Brasil)(FILMES E SERIES)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/h3SKpR/TV_NA_ILHA.jpg" group-title="Brasil",TV NA ILHA (Brasil)(FILMES E SERIES)
@@ -525,10 +523,6 @@
 			#EXTINF:-1 tvg-logo="" group-title="Brasil",Sol TV
 				
 			
-		#EXTINF:-1,tve bahia
-			#EXTINF:-1 tvg-logo="" group-title="Brasil",tve bahia
-				
-			
 		#EXTINF:-1,TV Diario do Sertao
 			#EXTINF:-1 tvg-logo="" group-title="Brasil",TV Diario do Sertao
 				http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
@@ -556,6 +550,38 @@
 		#EXTINF:-1,Rede Parana
 			#EXTINF:-1 tvg-logo="" group-title="Brasil",Rede Parana
 				http://200.189.113.201/hls/tve.m3u8
+			
+		#EXTINF:-1,SBT (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iQaaJb/SBT.png" group-title="Brasil",SBT PI HD (Brasil)
+				http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iQaaJb/SBT.png" group-title="Brasil",SBT - PE | CARUARÚ (Brasil)
+				http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iQaaJb/SBT.png" group-title="Brasil",SBT MA (Brasil)
+				http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iQaaJb/SBT.png" group-title="Brasil",SBT - MA | IMPERATRIZ (Brasil)
+				http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8
+				
+		#EXTINF:-1,TVE BRASIL
+			#EXTINF:-1 tvg-id="TVE BRASIL" tvg-logo="" group-title="Brasil",TVE BRASIL
+				http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+			
+		#EXTINF:-1,TV EDUCATIVA
+			#EXTINF:-1 tvg-logo="" group-title="Brasil",TV EDUCATIVA
+				http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+			#EXTINF:-1 tvg-logo="" group-title="Brasil",TV EDUCATIVA (alternativa)
+				http://rbc.directradios.com:1935/rbc/rbc_720p/playlist.m3u8
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Brasil",
+				
+			
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Brasil",
+				
+			
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Brasil",
+				
 			
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Brasil",
@@ -1529,10 +1555,34 @@
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",Discovery Kids
 				
 
+		#EXTINF:-1,ABN KIDS
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",ABN KIDS
+				https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8?ANTONYGTV
+
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",
 				
 
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",
+				
+				
 				
 			
 #EXTINF:-1,[B][COLOR yellow]<== Filmes e Series ==>[/COLOR][/B]
@@ -1730,6 +1780,14 @@
 		#EXTINF:-1,AMC
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",AMC
 				
+
+		#EXTINF:-1,GOSPEL MOVIES TELEVISION
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",GOSPEL MOVIES TELEVISION
+				http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
+
+		#EXTINF:-1,CINE ANTONIO FILMES 24HS
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",CINE ANTONIO FILMES 24HS
+				http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?ANTONYGTV
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",
@@ -2086,6 +2144,30 @@
 		#EXTINF:-1,Top Latino
 			#EXTINF:-1 tvg-logo="" group-title="Musica",Top Latino
 				http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+
+		#EXTINF:-1,ONE 0
+			#EXTINF:-1 tvg-logo="" group-title="Musica",ONE 0
+				http://rtmp.one.by:1200
+
+		#EXTINF:-1,ONE 1 HD
+			#EXTINF:-1 tvg-logo="" group-title="Musica",ONE 1 HD
+				http://rtmp.one.by:1300
+
+		#EXTINF:-1,ONE 4 HD
+			#EXTINF:-1 tvg-logo="" group-title="Musica",ONE 4 HD
+				http://rtmp.one.by:2300
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Musica",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Musica",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Musica",
+				
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Musica",
@@ -2458,7 +2540,9 @@
 		#EXTINF:-1,Hope channel (Poland)(Seventh-day Adventist)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cCRTeR/Hope_channel.jpg" group-title="Religioso",Hope channel (Poland)(Seventh-day Adventist)
 				http://rtmp.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
-
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cCRTeR/Hope_channel.jpg" group-title="Religioso",Hope channel (Poland)(Seventh-day Adventist)(1)
+				https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on 
+				
 		#EXTINF:-1,Trinity TV (English)(Christian)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/dCxteR/Trinity_TV.png" group-title="Religioso",Trinity TV (English)(Christian)
 				
@@ -2511,9 +2595,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",The Impact Network (cristão)
 				http://206.190.141.27:1935/live/impact/playlist.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Religioso",
-				
+		#EXTINF:-1,Tv Novo Tempo
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",Tv Novo Tempo
+				http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",
@@ -5508,6 +5592,18 @@
 			#EXTINF:-1 group-title="WebCams BRASIL" tvg-logo="",Rio de Janeiro - Praia de Copacabana
 				
 
+		#EXTINF:-1,FM O DIA TV
+			#EXTINF:-1 group-title="WebCams BRASIL" tvg-logo="",FM O DIA TV
+				http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 group-title="WebCams BRASIL" tvg-logo="",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 group-title="WebCams BRASIL" tvg-logo="",
+				
+
 		#EXTINF:-1,
 			#EXTINF:-1 group-title="WebCams BRASIL" tvg-logo="",
 				
@@ -6193,6 +6289,184 @@ https://archive.org/download/FreeFall2014720p/Free%20Fall%20(2014)%20720p.mp4
 
 
 
+#EXTINF:-1,[B][COLOR yellow]<== RADIOS BRASIL ==>[/COLOR][/B]
+	#EXTINF:-1 tvg-logo="" group-title="RADIOS BRASIL",[B][COLOR yellow]<== RADIOS PORTUGUESAS ==>[/COLOR][/B]
+		http://0.0.0.0:1234
+
+		#EXTINF:-1,Kids
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Kids
+				http://192.99.150.31:9431/stream
+
+		#EXTINF:-1,MPB
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",MPB
+				http://192.99.150.31:8775/stream
+
+		#EXTINF:-1,Bossa Nova
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Bossa Nova
+				http://6d9a.webradio.upx.net.br:9974/stream
+
+		#EXTINF:-1,Forró
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Forró
+				http://192.99.150.31:9019/stream
+
+		#EXTINF:-1,Pagode
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Pagode
+				http://6d9a.webradio.upx.net.br:9061/stream
+
+		#EXTINF:-1,Anos 2000
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Anos 2000
+				http://6d9a.webradio.upx.net.br:9940/stream
+
+		#EXTINF:-1,Sertanejo
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Sertanejo
+				http://192.99.150.31:9485/stream
+
+		#EXTINF:-1,Funk
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Funk
+				http://192.99.150.31:9089/stream
+
+		#EXTINF:-1,Rock Clássico
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Rock Clássico
+				http://192.99.150.31:9125/stream
+
+		#EXTINF:-1,Lounge
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Lounge
+				http://6d9a.webradio.upx.net.br:9064/stream
+
+		#EXTINF:-1,Pop Rock
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Pop Rock
+				http://6d9a.webradio.upx.net.br:8016/stream
+
+		#EXTINF:-1,Anos 70
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Anos 70
+				http://192.99.150.31:8241/stream
+
+		#EXTINF:-1,Anos 80
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Anos 80
+				http://192.99.150.31:8697/stream
+
+		#EXTINF:-1,Anos 90
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Anos 90
+				http://192.99.150.31:8056/stream
+
+		#EXTINF:-1,Românticas
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Românticas
+				http://192.99.150.31:8962/stream
+
+		#EXTINF:-1,Rap Nacional
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Rap Nacional
+				http://192.99.150.31:8377/stream
+				
+		#EXTINF:-1,Eletrônica
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Eletrônica
+				http://192.99.150.31:9095/stream
+
+		#EXTINF:-1,Festa
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Festa
+				http://6d9a.webradio.upx.net.br:9070/stream
+
+		#EXTINF:-1,Gospel
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Gospel
+				http://192.99.150.31:9101/stream
+
+		#EXTINF:-1,Hip Hop
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Hip Hop
+				http://192.99.150.31:8721/stream
+	
+		#EXTINF:-1,Jazz
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Jazz
+				http://192.99.150.31:8042/stream
+
+		#EXTINF:-1,Axé
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Axé
+				http://192.99.150.31:8305/stream
+
+		#EXTINF:-1,Brega
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Brega
+				http://192.99.150.31:9007/stream
+
+		#EXTINF:-1,Música Clássica
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Música Clássica
+				http://6d9a.webradio.upx.net.br:9970/stream
+	
+		#EXTINF:-1,New Rock
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",New Rock
+				http://6d9a.webradio.upx.net.br:8028/stream
+
+		#EXTINF:-1,Reggae
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Reggae
+				http://192.99.150.31:8715/stream
+
+		#EXTINF:-1,Sertanejo Universitário
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Sertanejo Universitário
+				http://192.99.150.31:9191/stream
+
+		#EXTINF:-1,Pop Hits
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Pop Hits
+				http://6d9a.webradio.upx.net.br:9046/stream
+	
+		#EXTINF:-1,Metal
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Metal
+				http://6d9a.webradio.upx.net.br:9898/stream
+
+		#EXTINF:-1,Trilhas Sonoras
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Trilhas Sonoras
+				http://6d9a.webradio.upx.net.br:9896/stream
+
+		#EXTINF:-1,BIGMIX
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",BIGMIX
+				https://servidor39-1.brlogic.com:8130/live
+	
+		#EXTINF:-1,FM O DIA
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",FM O DIA
+				http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist_w1559633248.m3u8
+	
+		#EXTINF:-1,Estação SAT FM
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Estação SAT FM
+				http://s32.maxcast.com.br:8022/live
+	
+		#EXTINF:-1,Coca Cola FM
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Coca Cola FM
+				https://str2b.openstream.co/1084
+	
+		#EXTINF:-1,Vibe FM
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Vibe FM
+				http://servidor36.brlogic.com:8180/live
+	
+		#EXTINF:-1,Vagalume Vibe
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Vagalume Vibe
+				https://stream.vagalume.fm/hls/14623883771774082279/index.m3u8
+	
+		#EXTINF:-1,Vagalume Funk
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Vagalume Funk
+				https://stream.vagalume.fm/hls/1470154922349875/index.m3u8
+	
+		#EXTINF:-1,Vagalume Sertanejo Hits
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Vagalume Sertanejo Hits
+				https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
+	
+		#EXTINF:-1,Vagalume Pagode
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",Vagalume Pagode
+				https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
+	
+		#EXTINF:-1,BH FM
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",BH FM
+				https://medias.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
+	
+		#EXTINF:-1,
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",
+				
+	
+		#EXTINF:-1,
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS BRASIL",
+				
+	
+
+
 #EXTINF:-1,[B][COLOR yellow]<== RADIOS ==>[/COLOR][/B]
 	#EXTINF:-1 tvg-logo="" group-title="RADIOS",[B][COLOR yellow]<== RADIOS ==>[/COLOR][/B]
 		http://0.0.0.0:1234
@@ -6235,55 +6509,19 @@ https://archive.org/download/FreeFall2014720p/Free%20Fall%20(2014)%20720p.mp4
 
 		#EXTINF:-1,
 			#EXTINF:-1, tvg-logo="" group-title="RADIOS",
-
-
-		#EXTINF:-1,
-			#EXTINF:-1, tvg-logo="" group-title="RADIOS",
-
+				
 
 		#EXTINF:-1,
 			#EXTINF:-1, tvg-logo="" group-title="RADIOS",
-
-
-		#EXTINF:-1,
-			#EXTINF:-1, tvg-logo="" group-title="RADIOS",
-
+				
 
 		#EXTINF:-1,
 			#EXTINF:-1, tvg-logo="" group-title="RADIOS",
-
-
+				
+	
 		#EXTINF:-1,
 			#EXTINF:-1, tvg-logo="" group-title="RADIOS",
-
-
-		#EXTINF:-1,
-			#EXTINF:-1, tvg-logo="" group-title="RADIOS",
-
-
-		#EXTINF:-1,
-			#EXTINF:-1, tvg-logo="" group-title="RADIOS",
-
-
-		#EXTINF:-1,
-			#EXTINF:-1, tvg-logo="" group-title="RADIOS",
-
-
-		#EXTINF:-1,
-			#EXTINF:-1, tvg-logo="" group-title="RADIOS",
-
-
-		#EXTINF:-1,
-			#EXTINF:-1, tvg-logo="" group-title="RADIOS",
-
-
-		#EXTINF:-1,
-			#EXTINF:-1, tvg-logo="" group-title="RADIOS",
-
-
-		#EXTINF:-1,
-			#EXTINF:-1, tvg-logo="" group-title="RADIOS",
-
+				
 
 			
 			
