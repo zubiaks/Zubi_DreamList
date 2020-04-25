@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 	#EXTINF:-1,Zubi DreamList 
-		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.77 (25/04/2020)
+		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.78 (25/04/2020)
 			http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== LÍNGUA PORTUGUESA ==>[/COLOR][/B]
@@ -5970,8 +5970,8 @@
 	#EXTINF:-1 tvg-logo="https://i.ibb.co/ThgnFqn/VOD.png" group-title="VOD",[B][COLOR yellow]<== VOD ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Almost_Christmas_%28film%29.png" group-title="MOVIES",Almost Christmas (2016)
-https://archive.org/download/AlmostChristmas20161080pRemux/Almost%20Christmas%20(2016)%201080p%20Remux.mp4
+		#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Almost_Christmas_%28film%29.png" group-title="MOVIES",Almost Christmas (2016)
+			https://archive.org/download/AlmostChristmas20161080pRemux/Almost%20Christmas%20(2016)%201080p%20Remux.mp4
 
 #EXTINF:-1 tvg-logo="http://images.mymovies.net/images/film/cin/350x522/fid16760.jpg" group-title="MOVIES",Bad Santa 2 (2016)
 https://archive.org/download/BadSanta22016UNRATED1080pRemux/Bad%20Santa%202%20(2016)%20UNRATED%201080p%20Remux.mp4
@@ -6204,6 +6204,1024 @@ https://archive.org/download/FreeFall2014720p/Free%20Fall%20(2014)%20720p.mp4
 		#EXTINF:-1, 
             #EXTINF:-1 tvg-logo="" group-title="VOD Kids",
                 
+
+
+
+#EXTINF:-1,[B][COLOR yellow]<== VOD SERIES ==>[/COLOR][/B]
+	#EXTINF:-1 tvg-logo="https://i.ibb.co/ThgnFqn/VOD.png" group-title="VOD",[B][COLOR yellow]<== VOD ==>[/COLOR][/B]
+		http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="https://imgur.com/517wwle.jpg" group-title="12 Monkeys" pltv-subgroup="1ÂªT",T1EP01 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EbIrfGy2rIFMtyHspp7UIh4BiiNPoutcWFD-QWyeg7JP1Q?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/517wwle.jpg" group-title="12 Monkeys" pltv-subgroup="1ÂªT",T1EP02 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EfNrghcahDtDiAIt61jCMa0BGLP1sFvFGDb2JI5fBKX1zw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/517wwle.jpg" group-title="12 Monkeys" pltv-subgroup="1ÂªT",T1EP03 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EdGXgyebxh9OkrBUbW__KuQBlX6WpgW_4PyD-dUuseKe-w?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/517wwle.jpg" group-title="12 Monkeys" pltv-subgroup="1ÂªT",T1EP04 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EblYe2sXjjVAoX0xXh699-MBd8vHR7fxoQGnjLd0hDkMGg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/517wwle.jpg" group-title="12 Monkeys" pltv-subgroup="1ÂªT",T1EP05 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ES9uh4PdB8ZDsMvRnOS5YHoBoR2J3_knlhMYvD6G5XZ2JQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/517wwle.jpg" group-title="12 Monkeys" pltv-subgroup="1ÂªT",T1EP06 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EZZHAXkRcWNDm5jxBaBz3CsBbzaplRQmGjUHl7HV-8p1aQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/517wwle.jpg" group-title="12 Monkeys" pltv-subgroup="1ÂªT",T1EP07 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EaEfjeeNYAtCsqP9ftAa_3YBufPOo8_xxp0nR9IiSQIUiw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/517wwle.jpg" group-title="12 Monkeys" pltv-subgroup="1ÂªT",T1EP08 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EaE_DYrPBzpLgCtXDR5vteoB56ej489nGzbgdaMWQDWIYg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/517wwle.jpg" group-title="12 Monkeys" pltv-subgroup="1ÂªT",T1EP09 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EcFoYOK4AHBGoKq7Hv9oTxgBLYgxCTmxcaO9sDnZu7jqxA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/517wwle.jpg" group-title="12 Monkeys" pltv-subgroup="1ÂªT",T1EP10 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ERYv3KPQDRVNsuxpR0a5IKkBAj-7X2BW7hhr0-Bi9BillA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/517wwle.jpg" group-title="12 Monkeys" pltv-subgroup="1ÂªT",T1EP11 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EWENNzJZ1FZCl6ePHMFtrP0BOUIssTNoGxcdVkKgKy9Yvw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/517wwle.jpg" group-title="12 Monkeys" pltv-subgroup="1ÂªT",T1EP12 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EYzF82DU8KxGkY1dZAJzAPsBj-Frqnw1omBxXT5KtimxTw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/517wwle.jpg" group-title="12 Monkeys" pltv-subgroup="1ÂªT",T1EP13 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ESCFjWR2FARAksCDP7luvw4Bdt1txUelBEbYqFWOUAbo6A?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/a5zQ3Mz.jpg" group-title="12 Monkeys" pltv-subgroup="2ÂªT",T2EP01 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EXiNxJ4ht1dPmb0QOepU9nsB41h2yNTJNZwnrAnwP3bGqw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/a5zQ3Mz.jpg" group-title="12 Monkeys" pltv-subgroup="2ÂªT",T2EP02 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EUc1z5hGr8xOl4Z-EC-Br3MBKudu54Z6I8l15TC9hX_6pQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/a5zQ3Mz.jpg" group-title="12 Monkeys" pltv-subgroup="2ÂªT",T2EP03 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EcPTyOFInIFMovuRfmDwlRABYMlnm-1tJZpaTraSVYQ_eQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/a5zQ3Mz.jpg" group-title="12 Monkeys" pltv-subgroup="2ÂªT",T2EP04 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EXHglNIPOkhEqbFMeVSi0aEBhePKV1yJL6CiR_oApIS-qg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/a5zQ3Mz.jpg" group-title="12 Monkeys" pltv-subgroup="2ÂªT",T2EP05 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EcK0oDivPmZHmVivdGpbgLcBcZ2OW-mR_EXAg71tss8ulQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/a5zQ3Mz.jpg" group-title="12 Monkeys" pltv-subgroup="2ÂªT",T2EP06 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ERdwPjDiMzxOi_uzayLhgzgBn82gkqDjVXPOt0jkTe_VSQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/a5zQ3Mz.jpg" group-title="12 Monkeys" pltv-subgroup="2ÂªT",T2EP07 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EYB94Vw5ILtLs5ufmySrmmsBGUF249ipfp0h2SzaNM-SeQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/a5zQ3Mz.jpg" group-title="12 Monkeys" pltv-subgroup="2ÂªT",T2EP08 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ERgRYOHu4elLvPmnG8CmI5kBgru4jZTYfnEYSF1JUf5Faw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/a5zQ3Mz.jpg" group-title="12 Monkeys" pltv-subgroup="2ÂªT",T2EP09 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EZQPsYb0EhxIrMyyxhNx6SwBK4FGeLoW0gQ9u1xy3TxTKg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/a5zQ3Mz.jpg" group-title="12 Monkeys" pltv-subgroup="2ÂªT",T2EP10 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ES4PXXAqdltFr0T9vv7HLOYBKbcwrcwn5AkbKMl8e0m5Vg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/a5zQ3Mz.jpg" group-title="12 Monkeys" pltv-subgroup="2ÂªT",T2EP11 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EZKpsKKJMXlFskmxT-fxrYQBfOfCDkL5OhYt71O7y3PLwQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/a5zQ3Mz.jpg" group-title="12 Monkeys" pltv-subgroup="2ÂªT",T2EP12 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ETBBUbma2tZHgpj6Dzh4SewB5DNCb02owvSs1uYMnXOHsw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/a5zQ3Mz.jpg" group-title="12 Monkeys" pltv-subgroup="2ÂªT",T2EP13 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EaDOiRRn-8tKmQ9dwpUJV1IB8LPDg0_-VWSZOZ1I1Zs7MQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/EIUEmon.jpg" group-title="12 Monkeys" pltv-subgroup="3ÂªT",T3EP01 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Edm9GfnaUoRAipL5g0mzjkwBVyyk04xwocN-0gy-1G1PAQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/EIUEmon.jpg" group-title="12 Monkeys" pltv-subgroup="3ÂªT",T3EP02 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ETXlw3YvVvFFtwlnKoUnWagBG5n9xVOZpbL6aeGPj5W0Ww?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/EIUEmon.jpg" group-title="12 Monkeys" pltv-subgroup="3ÂªT",T3EP03 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Efm8mj-xiWpBpB-A88cdFugBmulyYwu_goTJAaBzD_4Sxw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/EIUEmon.jpg" group-title="12 Monkeys" pltv-subgroup="3ÂªT",T3EP04 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ERnO-9N7D4BGlWRx2yF1vp8B_i5FYo2ISUpYNGhipGymlg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/EIUEmon.jpg" group-title="12 Monkeys" pltv-subgroup="3ÂªT",T3EP05 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EUVMloZ7505Gt1egltk4unUBcmUanktWU7HIzbrO7Sx34A?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/EIUEmon.jpg" group-title="12 Monkeys" pltv-subgroup="3ÂªT",T3EP06 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EakeOMg3AMFHnO14BOi9Ns0BJ35HIOlAqAT-jWonrqm4nA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/EIUEmon.jpg" group-title="12 Monkeys" pltv-subgroup="3ÂªT",T3EP07 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ef6AwplUoeJNujZgaKmhJFsBgLV_xz6k4McORs7Po_Sxjw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/EIUEmon.jpg" group-title="12 Monkeys" pltv-subgroup="3ÂªT",T3EP08 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EbOFbkhgVTJMoh1aEImP5LcBC1Gt56TNbJu-qVrerHQoYg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/EIUEmon.jpg" group-title="12 Monkeys" pltv-subgroup="3ÂªT",T3EP09 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ETalarD7oApAl32N4wr6akABhI2IvWT8CndTkmZt4Smslw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/EIUEmon.jpg" group-title="12 Monkeys" pltv-subgroup="3ÂªT",T3EP10 DUB 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ebb1JYT04CpGrDf5plPI3iABqzp0ehy4SILZO_rdSwWOaQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/X0ixDgR.jpg" group-title="12 Monkeys" pltv-subgroup="4ÂªT",T4EP01 LEG 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EUF4BvPyVv9DqA6pak2PavUBXsGO6uniGzv7ty1B2Bh2Yw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/X0ixDgR.jpg" group-title="12 Monkeys" pltv-subgroup="4ÂªT",T4EP02 LEG 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ec_r_uGQyCpBoENj7zBOk3IBtcdvLev2zr0lpkAMDiO0Og?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/X0ixDgR.jpg" group-title="12 Monkeys" pltv-subgroup="4ÂªT",T4EP03 LEG 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EcDy2eq2LV1Ap8CH-9Z1RAsB5xXJcOwrD4zovEKJUncyWg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/X0ixDgR.jpg" group-title="12 Monkeys" pltv-subgroup="4ÂªT",T4EP04 LEG 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ETydR1bJFlNPlZ8tUlKPjcIBzjhmXlZERcYN0pKvUeZ3vA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/X0ixDgR.jpg" group-title="12 Monkeys" pltv-subgroup="4ÂªT",T4EP05 LEG 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EZ5norZijetHoaIVM5UfvxcBnBl0XOYhla5AdUhZpVAAOA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/X0ixDgR.jpg" group-title="12 Monkeys" pltv-subgroup="4ÂªT",T4EP06 LEG 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EZX-_o91AeRHh0_odPEP3KUB-g1zs1SCsVjJUwg6sKo5Gw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/X0ixDgR.jpg" group-title="12 Monkeys" pltv-subgroup="4ÂªT",T4EP07 LEG 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EeVYcWvrHLFOijg_px7Z_9ABmcg0aLrt5Fkug7hbBcpqOg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/X0ixDgR.jpg" group-title="12 Monkeys" pltv-subgroup="4ÂªT",T4EP08 LEG 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EavI45TRg5VNilNyifrFgpYByKUJljJb5FP94ZjjkgFrlQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/X0ixDgR.jpg" group-title="12 Monkeys" pltv-subgroup="4ÂªT",T4EP09 LEG 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ETGIylA8l_dPkmYAHZQ2v6gBjsLsF9X8cJFQrUiWdmEG_w?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/X0ixDgR.jpg" group-title="12 Monkeys" pltv-subgroup="4ÂªT",T4EP10 LEG 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ER-fXiKU-X1AsfUjTsjwBs8BTdtcZeWwy_XWRo_S6JcBgQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/X0ixDgR.jpg" group-title="12 Monkeys" pltv-subgroup="4ÂªT",T4EP11 LEG 12 Monkeys
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ESvpm-9i4lZDk3ZEdBsfWpEBGbp3T4QNyqIDvZOrk_NABg?&download=1
+
+EXTINF:-1 tvg-logo="https://imgur.com/qvMNiaz.jpg" group-title="Arrow" pltv-subgroup="1ÂªT",T1EP01 DUB Arrow
+https://1drv.ws/v/s!Aq_9sdQvnXaTxVmu8FTWQaCscy2r
+
+EXTINF:-1 tvg-logo="https://imgur.com/qvMNiaz.jpg" group-title="Arrow" pltv-subgroup="1ÂªT",T1EP02 DUB Arrow
+https://1drv.ws/v/s!Apxt66WLyWF-cZPsmN8IQxh-7Jk
+
+EXTINF:-1 tvg-logo="https://imgur.com/qvMNiaz.jpg" group-title="Arrow" pltv-subgroup="1ÂªT",T1EP03 DUB Arrow
+https://1drv.ws/v/s!Apxt66WLyWF-cpC2khRlGAPyNH8
+
+EXTINF:-1 tvg-logo="https://imgur.com/qvMNiaz.jpg" group-title="Arrow" pltv-subgroup="1ÂªT",T1EP04 DUB Arrow
+https://1drv.ws/v/s!Apxt66WLyWF-c1bnUtWEoQArsM4
+
+EXTINF:-1 tvg-logo="https://imgur.com/qvMNiaz.jpg" group-title="Arrow" pltv-subgroup="1ÂªT",T1EP05 DUB Arrow
+https://1drv.ws/v/s!Apxt66WLyWF-dJDc7eTFp5A4GLM
+
+EXTINF:-1 tvg-logo="https://imgur.com/qvMNiaz.jpg" group-title="Arrow" pltv-subgroup="1ÂªT",T1EP06 DUB Arrow
+https://1drv.ws/v/s!Apxt66WLyWF-dRGCO3aoDwrt1P4
+
+EXTINF:-1 tvg-logo="https://imgur.com/qvMNiaz.jpg" group-title="Arrow" pltv-subgroup="1ÂªT",T1EP07 DUB Arrow
+https://onedrive.live.com/download?resid=40667E2D7ECB25E7!109&authkey=!AAvDcu23i7j5Klo
+
+EXTINF:-1 tvg-logo="https://imgur.com/qvMNiaz.jpg" group-title="Arrow" pltv-subgroup="1ÂªT",T1EP08 DUB Arrow
+https://onedrive.live.com/download?resid=40667E2D7ECB25E7!110&authkey=!AA69DELv6bI_iv4
+
+EXTINF:-1 tvg-logo="https://imgur.com/qvMNiaz.jpg" group-title="Arrow" pltv-subgroup="1ÂªT",T1EP09 DUB Arrow
+https://onedrive.live.com/download?resid=40667E2D7ECB25E7!111&authkey=!ADGoASEU9JgcyzA
+
+EXTINF:-1 tvg-logo="https://imgur.com/qvMNiaz.jpg" group-title="Arrow" pltv-subgroup="1ÂªT",T1EP10 DUB Arrow
+https://onedrive.live.com/download?resid=40667E2D7ECB25E7!112&authkey=!AGZL-5R9N5852oA
+
+EXTINF:-1 tvg-logo="https://imgur.com/qvMNiaz.jpg" group-title="Arrow" pltv-subgroup="1ÂªT",T1EP11 DUB Arrow
+https://onedrive.live.com/download?resid=40667E2D7ECB25E7!113&authkey=!AIMKxgEpVqZYPzs
+
+EXTINF:-1 tvg-logo="https://imgur.com/qvMNiaz.jpg" group-title="Arrow" pltv-subgroup="1ÂªT",T1EP12 DUB Arrow
+https://onedrive.live.com/download?resid=40667E2D7ECB25E7!114&authkey=!APcKUxvqfxNoDw8
+
+EXTINF:-1 tvg-logo="https://imgur.com/qvMNiaz.jpg" group-title="Arrow" pltv-subgroup="1ÂªT",T1EP13 DUB Arrow
+https://onedrive.live.com/download?resid=40667E2D7ECB25E7!115&authkey=!AFFDp-ZltOuQJAM
+
+EXTINF:-1 tvg-logo="https://imgur.com/qvMNiaz.jpg" group-title="Arrow" pltv-subgroup="1ÂªT",T1EP14 DUB Arrow
+https://onedrive.live.com/download?resid=40667E2D7ECB25E7!116&authkey=!AG8tFJrlybXPX-Y
+
+EXTINF:-1 tvg-logo="https://imgur.com/qvMNiaz.jpg" group-title="Arrow" pltv-subgroup="1ÂªT",T1EP15 DUB Arrow
+https://onedrive.live.com/download?resid=40667E2D7ECB25E7!117&authkey=!AFOeHzIbOLlA9t4
+
+EXTINF:-1 tvg-logo="https://imgur.com/qvMNiaz.jpg" group-title="Arrow" pltv-subgroup="1ÂªT",T1EP16 DUB Arrow
+https://onedrive.live.com/download?resid=40667E2D7ECB25E7!118&authkey=!AL_9v5429sVWd4g
+
+EXTINF:-1 tvg-logo="https://imgur.com/qvMNiaz.jpg" group-title="Arrow" pltv-subgroup="1ÂªT",T1EP17 DUB Arrow
+https://onedrive.live.com/download?resid=40667E2D7ECB25E7!119&authkey=!AOwX5eqgH681M5k
+
+EXTINF:-1 tvg-logo="https://imgur.com/qvMNiaz.jpg" group-title="Arrow" pltv-subgroup="1ÂªT",T1EP18 DUB Arrow
+https://onedrive.live.com/download?resid=40667E2D7ECB25E7!120&authkey=!AG-ijjwPMFiulhs
+
+EXTINF:-1 tvg-logo="https://imgur.com/qvMNiaz.jpg" group-title="Arrow" pltv-subgroup="1ÂªT",T1EP19 DUB Arrow
+https://onedrive.live.com/download?resid=40667E2D7ECB25E7!121&authkey=!AJ6ZwbKX8BKAPT8
+
+EXTINF:-1 tvg-logo="https://imgur.com/qvMNiaz.jpg" group-title="Arrow" pltv-subgroup="1ÂªT",T1EP20 DUB Arrow
+https://onedrive.live.com/download?resid=40667E2D7ECB25E7!122&authkey=!AEY7xNF6NuSJDZs
+
+EXTINF:-1 tvg-logo="https://imgur.com/qvMNiaz.jpg" group-title="Arrow" pltv-subgroup="1ÂªT",T1EP21 DUB Arrow
+https://onedrive.live.com/download?resid=40667E2D7ECB25E7!124&authkey=!ALMMrtgqosJNvn4
+
+EXTINF:-1 tvg-logo="https://imgur.com/qvMNiaz.jpg" group-title="Arrow" pltv-subgroup="1ÂªT",T1EP22 DUB Arrow
+https://onedrive.live.com/download?resid=40667E2D7ECB25E7!125&authkey=!AJahWu9Fkk0svYI
+
+EXTINF:-1 tvg-logo="https://imgur.com/qvMNiaz.jpg" group-title="Arrow" pltv-subgroup="1ÂªT",T1EP23 DUB Arrow
+https://onedrive.live.com/download?resid=40667E2D7ECB25E7!127&authkey=!ANHhYLKX_68j52c
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VMVXpr5.jpg" group-title="Breaking Bad" pltv-subgroup="1ÂªT",T1EP01 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EauNl4S1SHtJqvV8OFuYanoBsb1apG4hMSpJS_o77YgYyg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VMVXpr5.jpg" group-title="Breaking Bad" pltv-subgroup="1ÂªT",T1EP02 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EZi9SxPruMVMsxm-MbZaH5ABdrge_mioxW0b-dC4qYoCgA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VMVXpr5.jpg" group-title="Breaking Bad" pltv-subgroup="1ÂªT",T1EP03 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EShKYQSEORhOtb_kD39X_2MBuXxu2n_07cF7q8WX6ekQbg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VMVXpr5.jpg" group-title="Breaking Bad" pltv-subgroup="1ÂªT",T1EP04 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EYpUEoGz0NFHkLT2V--GXZcBwva1GN7SS1ya3ZkOcRfAXA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VMVXpr5.jpg" group-title="Breaking Bad" pltv-subgroup="1ÂªT",T1EP05 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ESH9dq5E1ZVLnS8OCmIvff0Br-PNBPb5H1EMxzS1Y1nS2Q?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VMVXpr5.jpg" group-title="Breaking Bad" pltv-subgroup="1ÂªT",T1EP06 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EVeCICnJWJBEp8TfliS5gjMBOHAf065PjUU256cz6P-T9g?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VMVXpr5.jpg" group-title="Breaking Bad" pltv-subgroup="1ÂªT",T1EP07 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ESPyg0x_KexMmD-Fne00OPEB0dg5xz5hhBnEjf7MQyp67g?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/82am8WI.jpg" group-title="Breaking Bad" pltv-subgroup="2ÂªT",T2EP01 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EWK3OhZ5d6pEhwajeGh6MvEBssP1gY_2McWzQIu3gKglOA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/82am8WI.jpg" group-title="Breaking Bad" pltv-subgroup="2ÂªT",T2EP02 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EW52ISh1RWBCjFpf1hfdNqQBRW2HOy-b88RTJa9NnHZUwQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/82am8WI.jpg" group-title="Breaking Bad" pltv-subgroup="2ÂªT",T2EP03 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ee5zEe3ZjjlDnrt3Gb9Kf2ABzuQnEPJ8bvcaNH1pQplKRQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/82am8WI.jpg" group-title="Breaking Bad" pltv-subgroup="2ÂªT",T2EP04 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EZDsk0MehHVKulwxzLZs4qoBQ-2ZZQYdfWCHit2PpDfxnw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/82am8WI.jpg" group-title="Breaking Bad" pltv-subgroup="2ÂªT",T2EP05 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EeqgaN9pb3BClQjsZzK1scMBjhoUlcIx8E5RV3qrf6V4HA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/82am8WI.jpg" group-title="Breaking Bad" pltv-subgroup="2ÂªT",T2EP06 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ESGa8s1Gv5ZLmW0aTinHHxQBsNjT17rVOQUuvwukGKk0_g?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/82am8WI.jpg" group-title="Breaking Bad" pltv-subgroup="2ÂªT",T2EP07 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EWbxP9TvOVZKnfYF-l_qGwUBQ6ooOjWopKZGMAqUutkY6g?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/82am8WI.jpg" group-title="Breaking Bad" pltv-subgroup="2ÂªT",T2EP08 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EdsNO1DLYG1EiBl9pyZyjeQByyiPosYo8qPnzonn9HNCpQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/82am8WI.jpg" group-title="Breaking Bad" pltv-subgroup="2ÂªT",T2EP09 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EY-5v678TGpLqzmjGX-ceIwBzFzhlB2vCa5kDTtL9Ikqag?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/82am8WI.jpg" group-title="Breaking Bad" pltv-subgroup="2ÂªT",T2EP10 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EaM-7DRl-YtMgA9HwyV-_pMBOI8vw_abPOookMy3beBNNw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/82am8WI.jpg" group-title="Breaking Bad" pltv-subgroup="2ÂªT",T2EP11 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ETmXifxMVohGinawl_2hfFcBNunBcsZB1pSWwMiAIctFSw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/82am8WI.jpg" group-title="Breaking Bad" pltv-subgroup="2ÂªT",T2EP12 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EQEEDcv3KvhFiZrrYPfoG44BW70_5lUcfeOh1fpYZnJXMA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/82am8WI.jpg" group-title="Breaking Bad" pltv-subgroup="2ÂªT",T2EP13 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EW3-HGODhvhGoS5ulTEQvKAByo0oM0RLHra_qoqfSwByZA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Cf08iKF.jpg" group-title="Breaking Bad" pltv-subgroup="3ÂªT",T3EP01 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ee9rM-7LTT9FjwbQNs8FINEB1o4RLhMKWXGpdGe7GQ6l3Q?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Cf08iKF.jpg" group-title="Breaking Bad" pltv-subgroup="3ÂªT",T3EP02 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EffLzOMzgUhMo-uv_ADI0kEBhftItT41YF2HjwJuHApchw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Cf08iKF.jpg" group-title="Breaking Bad" pltv-subgroup="3ÂªT",T3EP03 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EdpOHNTe7FlDomnhAS2oQvYB2eNE5c0mMJ0u8MYHIZr7bw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Cf08iKF.jpg" group-title="Breaking Bad" pltv-subgroup="3ÂªT",T3EP04 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ed4eVwbgeS1EolbDnqECbZwBGhF8hIC94xbm60gTB4la1g?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Cf08iKF.jpg" group-title="Breaking Bad" pltv-subgroup="3ÂªT",T3EP05 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EW3Oq2CUqilBoz0HeZQBwtoB6O0g8tPYTuMyinvN73roGg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Cf08iKF.jpg" group-title="Breaking Bad" pltv-subgroup="3ÂªT",T3EP06 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EXsCh8B-vchHsTLihX9458QB1dKRBKAbTsVAm9gsJqFxKA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Cf08iKF.jpg" group-title="Breaking Bad" pltv-subgroup="3ÂªT",T3EP07 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ec9M7voMlbxBghZtnS-VvcUBgWrG5oYgwPg3HYdHrYQNtw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Cf08iKF.jpg" group-title="Breaking Bad" pltv-subgroup="3ÂªT",T3EP08 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EWJ2mU0YSJFHrbQqnLkhthoBPK12pAb1aPB94UucZhn8TQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Cf08iKF.jpg" group-title="Breaking Bad" pltv-subgroup="3ÂªT",T3EP09 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ER5xszCbNPJEmzKK_J2yrZsBocohff24PLbBd-gJBlP86A?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Cf08iKF.jpg" group-title="Breaking Bad" pltv-subgroup="3ÂªT",T3EP10 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EXoFm3c2gAlHo4pPPDEJBSoB0qta9kSDVDHxnpFFNS_PLQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Cf08iKF.jpg" group-title="Breaking Bad" pltv-subgroup="3ÂªT",T3EP11 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ea_qbnn4gvNBmheec2y1yWgBUCv5EkH8PUtcNom1pOLgSw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Cf08iKF.jpg" group-title="Breaking Bad" pltv-subgroup="3ÂªT",T3EP12 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EVWCCrVwuehKmDZ2Azc9Z_MBouRztDKzClNb4lk5Zh_GrQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Cf08iKF.jpg" group-title="Breaking Bad" pltv-subgroup="3ÂªT",T3EP13 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EUw-I2C2mCFLleNujQILHSQBgxeV-IxETugqRI9OtKRW4Q?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/k1xedIC.jpg" group-title="Breaking Bad" pltv-subgroup="4ÂªT",T4EP01 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ETyQbbtevP1BtcQHSoVhQ8IBjdqkau73-z-Glgh7HJwYRA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/k1xedIC.jpg" group-title="Breaking Bad" pltv-subgroup="4ÂªT",T4EP02 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EYSS5_nT8SBCu587lwBzeT0BCWyrV6NbJlrtBqX9bVL8Iw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/k1xedIC.jpg" group-title="Breaking Bad" pltv-subgroup="4ÂªT",T4EP03 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EW4QKSgwZZlGneNOwiq7LzQBUI3V7UZJFNLt17djVmYmHQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/k1xedIC.jpg" group-title="Breaking Bad" pltv-subgroup="4ÂªT",T4EP04 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EZDNlo50qu1CgKOwS44GVZsBlNmU8jK8lu22wsW2nkETYw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/k1xedIC.jpg" group-title="Breaking Bad" pltv-subgroup="4ÂªT",T4EP05 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EfRHDeTxGidKgcsdzdDNV1IB3gaNW4QSbmQrvKAN-cKdPA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/k1xedIC.jpg" group-title="Breaking Bad" pltv-subgroup="4ÂªT",T4EP06 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EWUzLlFz2vZHhh08T_2vgpEBxUgb_loNDt0gfjWgFVkJGQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/k1xedIC.jpg" group-title="Breaking Bad" pltv-subgroup="4ÂªT",T4EP07 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ETo4i7cxKYhNvaLJytyk3kIBPqg8SnOcJGzoMhuA4wrJiw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/k1xedIC.jpg" group-title="Breaking Bad" pltv-subgroup="4ÂªT",T4EP08 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EUL7DN39eHFGirYHA6u6XK8BmIVdzILsj5nMiVyvoqs1lw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/k1xedIC.jpg" group-title="Breaking Bad" pltv-subgroup="4ÂªT",T4EP09 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EanQfJDA32RKrqmlfZbUPxoBGTSrBMtbrAnJWnGfp5sKFw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/k1xedIC.jpg" group-title="Breaking Bad" pltv-subgroup="4ÂªT",T4EP10 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EbHMvMwOjQRBhHgZabQJssEBpr_jZyMn3h9zkXAmS44Nlw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/k1xedIC.jpg" group-title="Breaking Bad" pltv-subgroup="4ÂªT",T4EP11 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EbByw-L2-GhLmbyko4ascoUBagAuHqlLT3D6RqZ-nbfncA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/k1xedIC.jpg" group-title="Breaking Bad" pltv-subgroup="4ÂªT",T4EP12 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EXYymjEHKhtDhq6vtUaI1IgBglZNFDmzmYZsQUy5-mIX1Q?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/k1xedIC.jpg" group-title="Breaking Bad" pltv-subgroup="4ÂªT",T4EP13 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ESgn0ZjUhkpIsdhxi3x_L4sBxvkWjlM5Es0xrmfPLduk3w?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/K3qI3cK.jpg" group-title="Breaking Bad" pltv-subgroup="5ÂªT",T5EP01 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ebe7d0Dt5ZBGpLy9N-H8kMcBeZbOtXL6DhUJkoGB9yW0jQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/K3qI3cK.jpg" group-title="Breaking Bad" pltv-subgroup="5ÂªT",T5EP02 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EakV3jiCj-lHqAfOpl0-P8EBTHXouvOz-bm4VgUb7nEDmA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/K3qI3cK.jpg" group-title="Breaking Bad" pltv-subgroup="5ÂªT",T5EP03 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Eee9zUmEs29NvNL_yC6gELQBKnwGffzLnCtsFIN96xnUow?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/K3qI3cK.jpg" group-title="Breaking Bad" pltv-subgroup="5ÂªT",T5EP04 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EQXKc8cBk69OtXG0rGl8rh4BFuXIEcVApMwxvuE-1us5PQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/K3qI3cK.jpg" group-title="Breaking Bad" pltv-subgroup="5ÂªT",T5EP05 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ec-1jZANlOxGsiEwn5XmU-kB78WCK2R6AI-0O7glp_590A?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/K3qI3cK.jpg" group-title="Breaking Bad" pltv-subgroup="5ÂªT",T5EP06 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EWhkJW--mldKs3Jgff6_JrEBflv7_b70Kxgd5sazPMj1aw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/K3qI3cK.jpg" group-title="Breaking Bad" pltv-subgroup="5ÂªT",T5EP07 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EQnlgG-4leBPscETHVFxG2QBkf9rI0HyrdRfjn3D4Ff7OA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/K3qI3cK.jpg" group-title="Breaking Bad" pltv-subgroup="5ÂªT",T5EP08 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EbI5AFybosxBuqmInp7FT9sB9a_378rqNcbDeGEKyYElFQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/K3qI3cK.jpg" group-title="Breaking Bad" pltv-subgroup="5ÂªT",T5EP09 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EYCZr9uHBwlJs0aNI0MdKDwB90F6L8SAFGNNkhOAXCDSaw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/K3qI3cK.jpg" group-title="Breaking Bad" pltv-subgroup="5ÂªT",T5EP10 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EapqBIFOiXVMq6i4H8Q_mOUB-KNJPy7QevK8EeUwNxtjYw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/K3qI3cK.jpg" group-title="Breaking Bad" pltv-subgroup="5ÂªT",T5EP11 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Efo0S5_h3hdDhNX2DeZpsBMBKZA7yDaWUJFeLwvGIZ-SqQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/K3qI3cK.jpg" group-title="Breaking Bad" pltv-subgroup="5ÂªT",T5EP12 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ETCjvhhPYKxMgspr2c1AMvkBY_2Gu5rx0tBjIzFc6sf2Wg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/K3qI3cK.jpg" group-title="Breaking Bad" pltv-subgroup="5ÂªT",T5EP13 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EfufiZQbXtFPn39HR1IBLRkB_ioEm4p8PXcZaZ-RCSKkZg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/K3qI3cK.jpg" group-title="Breaking Bad" pltv-subgroup="5ÂªT",T5EP14 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EYJtFf-OJ3xCq1u3heRvXOcBj9a_LTWYrVNst4oBjKHefw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/K3qI3cK.jpg" group-title="Breaking Bad" pltv-subgroup="5ÂªT",T5EP15 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EUPUHGgGkEpBk0FsGh8RNAABsqJw-iP3TaesbjsP6klbwQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/K3qI3cK.jpg" group-title="Breaking Bad" pltv-subgroup="5ÂªT",T5EP16 DUB Breaking Bad
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EY1eWtum8FxPkkjuac7Xb8gB-Y7K03Xzh89q2DplwPdIew?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/epSyVoa.jpg" group-title="Game of Thrones" pltv-subgroup="1ÂªT",T1EP01 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EdL9GK1YCUJIpRpREHfk-jsBd_faTSU3tcsNm9Isp0K_yQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/epSyVoa.jpg" group-title="Game of Thrones" pltv-subgroup="1ÂªT",T1EP02 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EUnkdeCaRV1Ml8BK7F9hK14BN354vGkDvV3yZSdd8xGvhQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/epSyVoa.jpg" group-title="Game of Thrones" pltv-subgroup="1ÂªT",T1EP03 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EUA4SGq4vvdLg32CjQBwup0BXmizq2Yu8geDTdk-wsIkYQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/epSyVoa.jpg" group-title="Game of Thrones" pltv-subgroup="1ÂªT",T1EP04 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ETFkhZKaDbBNltMzIGzfaGsBQQ0OF0aRqa47Nsd0jGx91w?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/epSyVoa.jpg" group-title="Game of Thrones" pltv-subgroup="1ÂªT",T1EP05 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EXlS6vOo40VAn6410KzA3YwBuREaVPa1CY2yURrneGvwtw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/epSyVoa.jpg" group-title="Game of Thrones" pltv-subgroup="1ÂªT",T1EP06 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EbkP-IJhGuNKh-DbjdKycCYBhXfPImYv_Q78Tjaw-uTUGA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/epSyVoa.jpg" group-title="Game of Thrones" pltv-subgroup="1ÂªT",T1EP07 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EZeq6ij-mYRHtorezdkf6EsBKEr18P7Dd3SzukFdz9uckg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/epSyVoa.jpg" group-title="Game of Thrones" pltv-subgroup="1ÂªT",T1EP08 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ESWqWaWounRBoNB6qOSg9YsBuRC8no-qsvy26OxOLEBtNQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/epSyVoa.jpg" group-title="Game of Thrones" pltv-subgroup="1ÂªT",T1EP09 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Efz4wBzxKBdLoXCqC-b_KCEBv2s7vmuU3s3xXiSr-8TgWA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/epSyVoa.jpg" group-title="Game of Thrones" pltv-subgroup="1ÂªT",T1EP10 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EXMkS1sZF6VAh4oo2ay45NwBdzmwqRRznArC0cfRFWmZsg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2ZswRkn.jpg" group-title="Game of Thrones" pltv-subgroup="2ÂªT",T2EP01 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EcpTu04Fe7NKuOB5ScGx87kBXrndl3F8T7FprO29QhICyw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2ZswRkn.jpg" group-title="Game of Thrones" pltv-subgroup="2ÂªT",T2EP02 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EZ25_QdEfX9On6LkIXUiRxIB4WQ8yu5TdKnnVfj7UkV2Ig?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2ZswRkn.jpg" group-title="Game of Thrones" pltv-subgroup="2ÂªT",T2EP03 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EcEwXTH9IIhIl2vdeAsqHq0BJMcpFVxWb5lUfNwTGxwHRA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2ZswRkn.jpg" group-title="Game of Thrones" pltv-subgroup="2ÂªT",T2EP04 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EesOjaZV1-hOsLoxJ6eiTaUBXhuzgf_EmImfw8Cww9vahQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2ZswRkn.jpg" group-title="Game of Thrones" pltv-subgroup="2ÂªT",T2EP05 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EXNDXuBWHr9BjnXhJqWSYBgBvL9T5rVCqMEcpxi5iBXqqw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2ZswRkn.jpg" group-title="Game of Thrones" pltv-subgroup="2ÂªT",T2EP06 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EeYEolBSghxLltoLAiaY1sIB6x_gth80EXMA9I0R0N5qjg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2ZswRkn.jpg" group-title="Game of Thrones" pltv-subgroup="2ÂªT",T2EP07 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EelgsCRA0WRFgDAz5jXFv7gBCdiqUAQ8iZG8IY-z_lOGtg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2ZswRkn.jpg" group-title="Game of Thrones" pltv-subgroup="2ÂªT",T2EP08 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EXH40ppGS4pDnxkjk8B-3MgBo2Dl-CiAGtuiuvRwK0zFFQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2ZswRkn.jpg" group-title="Game of Thrones" pltv-subgroup="2ÂªT",T2EP09 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EeCbDN6hfAlEpW_loYsHBi4BTciq0JDr1XtqIxoueZ1cqQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2ZswRkn.jpg" group-title="Game of Thrones" pltv-subgroup="2ÂªT",T2EP10 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EXGq_E3q749KvSqrvvtLDnoBoo_dPcfjJK9rGHQjrhqpow?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RXnjd3X.jpg" group-title="Game of Thrones" pltv-subgroup="3ÂªT",T3EP01 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EcOizEqF37ZEqC69p4iW6ckByxpmOJ3KpHk2khgvnyCnlQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RXnjd3X.jpg" group-title="Game of Thrones" pltv-subgroup="3ÂªT",T3EP02 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ERQjTAg6jVhMsWo-4j8SR1YB0Bm9nOLVm5XiC2oUN08wkw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RXnjd3X.jpg" group-title="Game of Thrones" pltv-subgroup="3ÂªT",T3EP03 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EVmPvAcaiDhMozDu8LzY00ABWMcHoSQKc3cgz3myXXr3YQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RXnjd3X.jpg" group-title="Game of Thrones" pltv-subgroup="3ÂªT",T3EP04 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ESZ5uzGsGZhOub0l1QVoSK8BK52pOS3faD3JZPSAwFQSiA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RXnjd3X.jpg" group-title="Game of Thrones" pltv-subgroup="3ÂªT",T3EP05 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ERj_l8Jx1GZArCOox5nxyaYBHxKNRsYeZ_AQJ8hUdsOz6Q?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RXnjd3X.jpg" group-title="Game of Thrones" pltv-subgroup="3ÂªT",T3EP06 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Eb1fLcRNT6pFmpQrIycZgBEBnLSUkeQUYrL2Cdta6obTTA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RXnjd3X.jpg" group-title="Game of Thrones" pltv-subgroup="3ÂªT",T3EP07 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ETeDZFVq19lBsBRdcA-zeCABpkhkPtu9GJB3PIy6DKtD_Q?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RXnjd3X.jpg" group-title="Game of Thrones" pltv-subgroup="3ÂªT",T3EP08 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Eay7Yai0In9GlqRWEoE8q0EBSDaGSwEzZr-6PllMeRkwxA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RXnjd3X.jpg" group-title="Game of Thrones" pltv-subgroup="3ÂªT",T3EP09 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EXaVDfLijbpAj7I8J-xXxrwBIhCNVuT80numwChvua3WuQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RXnjd3X.jpg" group-title="Game of Thrones" pltv-subgroup="3ÂªT",T3EP10 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EQQ0_qpw_zNArVtbYtdGKwYBL3PwzBxMqyG4r4J7SpR_VA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Osl9gB8.jpg" group-title="Game of Thrones" pltv-subgroup="4ÂªT",T4EP01 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EcqnIZ0U_8BJpeo_aOZM3fsBhIyx9pOZ3Gmx93DLyjmkww?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Osl9gB8.jpg" group-title="Game of Thrones" pltv-subgroup="4ÂªT",T4EP02 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EfIp_75Sl6JMhhiVnOURNKoBxMg38dwSalvYLGlzXZrpaw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Osl9gB8.jpg" group-title="Game of Thrones" pltv-subgroup="4ÂªT",T4EP03 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ER7h41SeqxRKgD0NUtn4mvIBRuyMWxX0-7dNRbiNjm_toQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Osl9gB8.jpg" group-title="Game of Thrones" pltv-subgroup="4ÂªT",T4EP04 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EYR4siKpaORGlqW3W_UHyWoBXFMTjSv5wk6kvEUXvS5T4g?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Osl9gB8.jpg" group-title="Game of Thrones" pltv-subgroup="4ÂªT",T4EP05 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EVQioFspp2RCndZhAChrw_kBUy-dD6BEqOIYJ_3z-iPPVg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Osl9gB8.jpg" group-title="Game of Thrones" pltv-subgroup="4ÂªT",T4EP06 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EXkecTCyv5FKqCUJfyoXFxEBHTXJ3FpoySMGLL-A3igAvg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Osl9gB8.jpg" group-title="Game of Thrones" pltv-subgroup="4ÂªT",T4EP07 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EUdbJAX7SK9CsyMC2mheaxIBSfDOCdwUcyJNaLdDY804yA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Osl9gB8.jpg" group-title="Game of Thrones" pltv-subgroup="4ÂªT",T4EP08 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ES-tn-FYR6tJukzAbBdprkMBuNibYGs-j0QNmZKU3F839w?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Osl9gB8.jpg" group-title="Game of Thrones" pltv-subgroup="4ÂªT",T4EP09 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EZqwXWGLYRROo7MOn4ky1xMBK_EpDLNd2xjHOq2lF-kbuw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Osl9gB8.jpg" group-title="Game of Thrones" pltv-subgroup="4ÂªT",T4EP10 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ERm6nI4XzbxOmiKRXaQLh30BbZSdQmzE4RcFRiJenTuJJg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VcsCu22.jpg" group-title="Game of Thrones" pltv-subgroup="5ÂªT",T5EP01 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ec2r7cSFsZ1AmlOnZyvZwAUB8qr8qnmg7AClhHb6-44m1g?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VcsCu22.jpg" group-title="Game of Thrones" pltv-subgroup="5ÂªT",T5EP02 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EZGkvfUBsylMi7yArrMbQZoBHJsjkJzr68W2nDnz1UWEMQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VcsCu22.jpg" group-title="Game of Thrones" pltv-subgroup="5ÂªT",T5EP03 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EUEoo2ZW7qlCr349frWIslUB7C87mVzofzKyuQ7fhjDeRQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VcsCu22.jpg" group-title="Game of Thrones" pltv-subgroup="5ÂªT",T5EP04 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ER_kQA_jWKFKs1Jdf5nSXGUBtXPmMDMFR1G8ArNnKGTbIw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VcsCu22.jpg" group-title="Game of Thrones" pltv-subgroup="5ÂªT",T5EP05 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EVVFzkmNEWZJsfG_racbwPoBEb8woLZOqROZWIE8VAEyQA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VcsCu22.jpg" group-title="Game of Thrones" pltv-subgroup="5ÂªT",T5EP06 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EZ_6KUbwsDtDpYFf4MoIu8oBkNNsevZCAxqwAkjF9x72HQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VcsCu22.jpg" group-title="Game of Thrones" pltv-subgroup="5ÂªT",T5EP07 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EbjOc6D9UbdOg92i4nYf_hwBZQAIlq8FmekQvKyXkpR4gQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VcsCu22.jpg" group-title="Game of Thrones" pltv-subgroup="5ÂªT",T5EP08 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ESTfVBE_80hIrRkOFo5jJloB95DqrlSJ314o-aR0Z1hjdA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VcsCu22.jpg" group-title="Game of Thrones" pltv-subgroup="5ÂªT",T5EP09 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ETyab3J8qVBAuxfP9MNwFacBn-S2tfXpoRPJ3LNxd0Z26Q?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VcsCu22.jpg" group-title="Game of Thrones" pltv-subgroup="5ÂªT",T5EP10 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ERXcxs1PeGBLhjk1VVI5d6gB59gFYXRAlOOOa2EuEmob5w?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QxUs89w.jpg" group-title="Game of Thrones" pltv-subgroup="6ÂªT",T6EP01 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ET209F7FmFFHh9cI8-0Uo3EBfoFVkVZ4TUaOtH6p4U2aOw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QxUs89w.jpg" group-title="Game of Thrones" pltv-subgroup="6ÂªT",T6EP02 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ER6NqFiz7-5Bv6RzOyVEvuEBxUPwQ8LvrSlL_vj8foqRag?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QxUs89w.jpg" group-title="Game of Thrones" pltv-subgroup="6ÂªT",T6EP03 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ET4j0X-z43JMhmKxCw8WwngB3hO3ISn2NvJe4FZbI_rTMg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QxUs89w.jpg" group-title="Game of Thrones" pltv-subgroup="6ÂªT",T6EP04 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ESpcse8WKWdOugiTwAOCtLYB7lmj1p3BHKS5HjjFhS9kfg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QxUs89w.jpg" group-title="Game of Thrones" pltv-subgroup="6ÂªT",T6EP05 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EYPg20VEMYRFmTqw7-OGeGMBBe7xAXuSX2QqJrrJMERUDQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QxUs89w.jpg" group-title="Game of Thrones" pltv-subgroup="6ÂªT",T6EP06 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ESUlRQZvgqBIkUT2i1OuhCUB8S2nQlGQ8UhF5MDze4iPWg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QxUs89w.jpg" group-title="Game of Thrones" pltv-subgroup="6ÂªT",T6EP07 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EcePDD4Or4JKt8bEK0c1smABnoqf8VaaV4dNpRFTCOyxzw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QxUs89w.jpg" group-title="Game of Thrones" pltv-subgroup="6ÂªT",T6EP08 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Eck9NwjBnW1HmIA4BameEI4BqcEo_HO0Hvxh8mb8Eec_ew?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QxUs89w.jpg" group-title="Game of Thrones" pltv-subgroup="6ÂªT",T6EP09 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EWuVKFnYlltJko9mmZ2PsuABQSatN6qrEXYxRs-5r8yiyQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QxUs89w.jpg" group-title="Game of Thrones" pltv-subgroup="6ÂªT",T6EP10 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ES6ZPrwR2spAoevwSsQ2V4EBzkDN_x0VAz-YmAAv2SCnDQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Hp62qOA.jpg" group-title="Game of Thrones" pltv-subgroup="7ÂªT",T7EP01 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EU_2MvzA8WJBk6m81nU7XnsBnZF7Sb1HiRMKxrpa7J6xYQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Hp62qOA.jpg" group-title="Game of Thrones" pltv-subgroup="7ÂªT",T7EP02 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EVd_g4dj995BndeYdHI70sEBzlWjZSs5AxMr0OTa3YKqHQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Hp62qOA.jpg" group-title="Game of Thrones" pltv-subgroup="7ÂªT",T7EP03 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EZleV0qqOKhKlPgQgYtYcJcBN1Vs8pfMPvISF90xfZTIsg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Hp62qOA.jpg" group-title="Game of Thrones" pltv-subgroup="7ÂªT",T7EP04 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Eag7T0Xs7i9FuBqXxTv7mp4Bh-IVtzdqe7EX6nMTh36n6w?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Hp62qOA.jpg" group-title="Game of Thrones" pltv-subgroup="7ÂªT",T7EP05 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EVMiMDkZHx5FnEn80etzmJIB6FgQmg7lNxvuLtEqzlYZqQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Hp62qOA.jpg" group-title="Game of Thrones" pltv-subgroup="7ÂªT",T7EP06 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EZyWViuurdlOjlNaT4Eb0LwBgcUVHXkQ2pr44NBrgEElkw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Hp62qOA.jpg" group-title="Game of Thrones" pltv-subgroup="7ÂªT",T7EP07 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EYrm4_FjiWFBtNOi255Pma0BH_Ud8DQvKIbb8HoBwb_nqA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VAbubGY.jpg" group-title="Game of Thrones" pltv-subgroup="8ÂªT",T8EP01 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EeKBs-gVo-tDnmptm21ZjIkBiqV5BSn--dOshqFFvO5oXQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VAbubGY.jpg" group-title="Game of Thrones" pltv-subgroup="8ÂªT",T8EP02 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EXobVEY1Z7NIr-HcUlMIxtkBpG8WxKN__OnoC2OgR8yPdQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VAbubGY.jpg" group-title="Game of Thrones" pltv-subgroup="8ÂªT",T8EP03 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ES2di8wvt2xHpXEYVCJZN4EB6dOycaromEeCNxgYvPj40w?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VAbubGY.jpg" group-title="Game of Thrones" pltv-subgroup="8ÂªT",T8EP04 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EbGR4DbGlCVKjMVwV8yTX3ABqA4PAFc4iYu1_orpH7PY2A?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VAbubGY.jpg" group-title="Game of Thrones" pltv-subgroup="8ÂªT",T8EP05 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Efd388RWijRAhwV6NZ-iiuYBA_KGauBI3kQw5OosEe_qng?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VAbubGY.jpg" group-title="Game of Thrones" pltv-subgroup="8ÂªT",T8EP06 DUB Game of Thrones
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EQld01Y40PRFvOXVlBlkfrwBA8LtcXlnUdgrjly1T-Ds-w?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QHregWi.jpg" group-title="Lucifer" pltv-subgroup="1ÂªT",T1EP01 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ebnu8bAFV7BCm9gooZXFFEQBbpi7oEuzh-j4njZOFkyGoA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QHregWi.jpg" group-title="Lucifer" pltv-subgroup="1ÂªT",T1EP02 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EbQC_bHcvnhBuc5VS5xD2Y8BYAmnlH8rySvvZAxjnPoNFQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QHregWi.jpg" group-title="Lucifer" pltv-subgroup="1ÂªT",T1EP03 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EVaDM5l6TetOsqO-5WVC0a0BLjpo0bPMkrYRyZhR2nfDJw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QHregWi.jpg" group-title="Lucifer" pltv-subgroup="1ÂªT",T1EP04 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ET2Km43ObgdNm7xf6zxL5HABsGmU6tTVtOgsxj2tumgfjQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QHregWi.jpg" group-title="Lucifer" pltv-subgroup="1ÂªT",T1EP05 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EXFh9k58n9lBsikvph55wpsBPAdF81FxkUZr3agcRdgZ7w?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QHregWi.jpg" group-title="Lucifer" pltv-subgroup="1ÂªT",T1EP06 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ETijj15cr_JOsJqlN9iRjOYBW_F_ROZVDffiFcp64IgGJQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QHregWi.jpg" group-title="Lucifer" pltv-subgroup="1ÂªT",T1EP07 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ESbu6qPikv1KnLccshxXFy0BY8AQM-If3cI1fMAVdg-oIg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QHregWi.jpg" group-title="Lucifer" pltv-subgroup="1ÂªT",T1EP08 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EWZfGdM2i6FHrSGLDSb2vt0BS1MkmBq-akqgQgFwWj9g9w?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QHregWi.jpg" group-title="Lucifer" pltv-subgroup="1ÂªT",T1EP09 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EZBS_0FvtltGnHEL-ycWZs8BlUxUqTNlGZV6-UBKp8t-zQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QHregWi.jpg" group-title="Lucifer" pltv-subgroup="1ÂªT",T1EP10 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EbPU4catbcJOp1aF_sctxw4BnTGJl3JonZgWC7aTBRnDfA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QHregWi.jpg" group-title="Lucifer" pltv-subgroup="1ÂªT",T1EP11 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ee7H4rVUX8dGijseY22BSCwBkRj7NzarAhlF_9LdLd6-BQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QHregWi.jpg" group-title="Lucifer" pltv-subgroup="1ÂªT",T1EP12 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ee0urKkvnChNnrFNR8gYPIcBF0rSGuPGidSKqYFX4uhxEw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QHregWi.jpg" group-title="Lucifer" pltv-subgroup="1ÂªT",T1EP13 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EVLTXVNaJcJJhx3KnjW7qXwBP35ojwkDj0eJK57zi9i9OQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Ww1chCW.jpg" group-title="Lucifer" pltv-subgroup="2ÂªT",T2EP01 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ETwY30QpH7lKjvPZMx6IPLIBvzp7jpiGTqlmmlzw9Y7urw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Ww1chCW.jpg" group-title="Lucifer" pltv-subgroup="2ÂªT",T2EP02 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EUZQtAD5Mt1LmNHZwQA3LmEBYPN2fUgCFfwcr8KOOESUvw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Ww1chCW.jpg" group-title="Lucifer" pltv-subgroup="2ÂªT",T2EP03 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EZmITiFtEiRLksrXChFfch0BcM_ea14v0Gbms0x7mNuEZg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Ww1chCW.jpg" group-title="Lucifer" pltv-subgroup="2ÂªT",T2EP04 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EdaP5RtvJtZMt1oJepuLRfQBPT_g8cuJifpX-2bnWci7Dg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Ww1chCW.jpg" group-title="Lucifer" pltv-subgroup="2ÂªT",T2EP05 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EbPleX6ZC89ApjYSzRsynMQBr9C9ViHWZs3pb3GzERV3FQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Ww1chCW.jpg" group-title="Lucifer" pltv-subgroup="2ÂªT",T2EP06 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EbK33sbYAtRKuEdFnBIWwjgBDaLAf9AcMw38JtUxDHtsFA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Ww1chCW.jpg" group-title="Lucifer" pltv-subgroup="2ÂªT",T2EP07 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EfjQ49z3B4dLndo8yObldPEBqos8x1A7lqZDDu07ldsNwg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Ww1chCW.jpg" group-title="Lucifer" pltv-subgroup="2ÂªT",T2EP08 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EWwf3S8RkIRNs0xJVX1vYVwBZq3IMxzv0ZhSsm8xaJQyRg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Ww1chCW.jpg" group-title="Lucifer" pltv-subgroup="2ÂªT",T2EP09 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EdrSe0yd185Ml6Y33yM8fRsBYXu3hQB1eyodZVbqqjNeUg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Ww1chCW.jpg" group-title="Lucifer" pltv-subgroup="2ÂªT",T2EP10 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EVVirMmUNnZIo63-14Zon10BAHqdkfHxy-WDRtgrUQP5OQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Ww1chCW.jpg" group-title="Lucifer" pltv-subgroup="2ÂªT",T2EP11 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EYLCLYa7RJ9Gtzln2H_Y4TEBkep-zHV5msVDRM4MfHo0xQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Ww1chCW.jpg" group-title="Lucifer" pltv-subgroup="2ÂªT",T2EP12 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EWc-Ui3rVptIvb18JX0amgwB5ZXjRrQTrScGMTWeDJZt9Q?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Ww1chCW.jpg" group-title="Lucifer" pltv-subgroup="2ÂªT",T2EP13 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ef-Mn6OAALRMqIiDLwu9VrkBekj0HaiJv3PipLmRUAOLqg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Ww1chCW.jpg" group-title="Lucifer" pltv-subgroup="2ÂªT",T2EP14 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EUGJju2Iwh1JjHCu9tUfW8gBqG7pJcUxi84YoPFEXncsxg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Ww1chCW.jpg" group-title="Lucifer" pltv-subgroup="2ÂªT",T2EP15 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ERVxgtSqjItBnRP1PsdrD54B9l9bv-WgiFkPZIsQYQgWow?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Ww1chCW.jpg" group-title="Lucifer" pltv-subgroup="2ÂªT",T2EP16 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ETwea4jukm9PvcxRL7tiLFkBWXRT8e1K3P3qhQSqk7LLWQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Ww1chCW.jpg" group-title="Lucifer" pltv-subgroup="2ÂªT",T2EP17 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EYRzR7S6MiBOvVEEjw7lFYoBHokxDuhLlxqXSm3uYFYz1g?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Ww1chCW.jpg" group-title="Lucifer" pltv-subgroup="2ÂªT",T2EP18 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EUlH1k6x4gVCrbc-9bpvAgwBrMYwkFJXhZQ5F-AeeSKnWw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/N0AM3rz.jpg" group-title="Lucifer" pltv-subgroup="3ÂªT",T3EP01 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ESd0urHGQw1AjcfLg5pgyN4BzRMt3GuMwk-zv6EMEnxa7A?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/N0AM3rz.jpg" group-title="Lucifer" pltv-subgroup="3ÂªT",T3EP02 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EUmkLpXzB3xOqdUt2LP3CRcBa-7MhG-Wm4WGv_isWtk52g?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/N0AM3rz.jpg" group-title="Lucifer" pltv-subgroup="3ÂªT",T3EP03 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ERCAOhA7mshMmfSKaBc7XDEBDeqvCjMObiKRBcHYY0TbRg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/N0AM3rz.jpg" group-title="Lucifer" pltv-subgroup="3ÂªT",T3EP04 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EYSJPUT1etZDodN2CVRAfVgBMxGno9fY5J7zrcoC0u9vPw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/N0AM3rz.jpg" group-title="Lucifer" pltv-subgroup="3ÂªT",T3EP05 DUB Lucifer
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EWGuLLJNsmJHguEF-A-LfVABeJkb70XhqunjROzSxrQrXQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BCN7DRu.jpg" group-title="Smallville" pltv-subgroup="1ÂªT",T1EP01 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EVksnPmZ7wxJjv9vapKAA9YBWj8PwXRonDr3zR4VUkKE0g?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BCN7DRu.jpg" group-title="Smallville" pltv-subgroup="1ÂªT",T1EP02 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Eb3JzS63gcRGmJq-DrdDFOQBZ8DqYD2tj9ctbiSinCuH0g?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BCN7DRu.jpg" group-title="Smallville" pltv-subgroup="1ÂªT",T1EP03 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ec-5N-m69kdJnMiFMRLhLygB1UuHI7MPYzPGRgZEB3vGAA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BCN7DRu.jpg" group-title="Smallville" pltv-subgroup="1ÂªT",T1EP04 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EWXiC6K4zR5Fi7c_v1qTI48BmQfMtGhdDXRLHvwdJ9o2lQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BCN7DRu.jpg" group-title="Smallville" pltv-subgroup="1ÂªT",T1EP05 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EasG6TU7vo9HtmaQG7d4vhYBk3_jgAPpmheS_q_ODRJ_nw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BCN7DRu.jpg" group-title="Smallville" pltv-subgroup="1ÂªT",T1EP06 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EdK1RwLcMGpCkCZuEpefbZwBRvxDwief-rhBCH5LxI0XUA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BCN7DRu.jpg" group-title="Smallville" pltv-subgroup="1ÂªT",T1EP07 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EVCZCoWd9x1LpXrHICkKFBAB84Hejv-wfKq3hlVamh3Jhg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BCN7DRu.jpg" group-title="Smallville" pltv-subgroup="1ÂªT",T1EP08 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ed5Q06UNM11KnryRMBuEJo0BZfkTDX9mlctEXPRcR1xQKw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BCN7DRu.jpg" group-title="Smallville" pltv-subgroup="1ÂªT",T1EP09 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EaTsXtyh3MxOkUqV1RIq-GkBJ7s27MkVehubOOy4QJMjpw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BCN7DRu.jpg" group-title="Smallville" pltv-subgroup="1ÂªT",T1EP10 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EYog5A_iDb1Oj_EJpue4yucB-HpWFHR-TXFtBGqMsM65OQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BCN7DRu.jpg" group-title="Smallville" pltv-subgroup="1ÂªT",T1EP11 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EWhE41ody2BMikoW-OcJ1k8BJT0bODCyqXuwrvsXet_tuw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BCN7DRu.jpg" group-title="Smallville" pltv-subgroup="1ÂªT",T1EP12 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EcHuETA7PDtJuSWvaF_ImKsBBZRnAOXwzQjGEGE8qF_zBw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BCN7DRu.jpg" group-title="Smallville" pltv-subgroup="1ÂªT",T1EP13 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ed2MoS153LNOnB8VK6iw7dwBVyVeLSfzUiMqmascMKrsSg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BCN7DRu.jpg" group-title="Smallville" pltv-subgroup="1ÂªT",T1EP14 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EUFyKD6AQehHmlHmxsHcsF8BsNxZTr1jotuKQFLT3_mhTQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BCN7DRu.jpg" group-title="Smallville" pltv-subgroup="1ÂªT",T1EP15 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EXzJtgqVxEdIrioZxhxX9BQBGEIw8Go50sDSDS2x6F4dFQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BCN7DRu.jpg" group-title="Smallville" pltv-subgroup="1ÂªT",T1EP16 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ETrwucHSH55OgESmb-91x88BgUREuYylJCdf0k5kSDLgmg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BCN7DRu.jpg" group-title="Smallville" pltv-subgroup="1ÂªT",T1EP17 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EYxZiEdkZg1AnWxcD2mYeTwBJz-L8yYhPwqvdf4GxHxSXw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BCN7DRu.jpg" group-title="Smallville" pltv-subgroup="1ÂªT",T1EP18 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EdbsK7jyRQFLjcSBJP5LAHQBr4rBy3W_n0_bDAVyzsRo9w?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BCN7DRu.jpg" group-title="Smallville" pltv-subgroup="1ÂªT",T1EP19 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EYLzKatngJtNppOwhdC4FWQB4TuOig1kQD9rr6qJZ4TysA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BCN7DRu.jpg" group-title="Smallville" pltv-subgroup="1ÂªT",T1EP20 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EVLm85nF2-5PmZj5Eu7xHiIBghoLF5pxUtpzV_Dv9gw6iA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BCN7DRu.jpg" group-title="Smallville" pltv-subgroup="1ÂªT",T1EP21 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EUs2QC3FLEBFgsVq_zkTtwkBbFdDgfHtD7gV9tAJzIqEag?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/j39rG2v.jpg" group-title="Smallville" pltv-subgroup="2ÂªT",T2EP01 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EWkShuTYvj1MjhH5Sz9ELBEBemIsbyTTM85G-xyIvlfriQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/j39rG2v.jpg" group-title="Smallville" pltv-subgroup="2ÂªT",T2EP02 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EWcAtf5FUzBFqo4i76LNtQQB184ejWt1ivt9zhCteLADvg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/j39rG2v.jpg" group-title="Smallville" pltv-subgroup="2ÂªT",T2EP03 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EY846mHXSFFLl60tLiToAnYB5KEJfhw6cgCBLKCi3WyDKQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/j39rG2v.jpg" group-title="Smallville" pltv-subgroup="2ÂªT",T2EP04 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ebc5-lJf1l9FgO-Ry1L0aO4BwgoXZ1cgvfO3-_ZSFzvQOQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/j39rG2v.jpg" group-title="Smallville" pltv-subgroup="2ÂªT",T2EP05 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EUeVRvu-HiJEphEPwD6RceIBbWU__0-x8FZ3Hyair-YIbQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/j39rG2v.jpg" group-title="Smallville" pltv-subgroup="2ÂªT",T2EP06 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EVuX0c9voWtMroSRKtHJuVsBcyIMgAu00pqbeMO8iNZYTQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/j39rG2v.jpg" group-title="Smallville" pltv-subgroup="2ÂªT",T2EP07 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EcZLErkEqS1CtThiEV3lv5sBrGda36YcNBoSOROQWEKwTg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/j39rG2v.jpg" group-title="Smallville" pltv-subgroup="2ÂªT",T2EP08 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EXWFLt163uNEqQZW585iwNUBRZbYE7LQVZA2_-7LbGKU9A?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/j39rG2v.jpg" group-title="Smallville" pltv-subgroup="2ÂªT",T2EP09 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ET7B3hZ3raZAkoZZfbDaC-ABMkzaDarAJYupXTElBMflFQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/j39rG2v.jpg" group-title="Smallville" pltv-subgroup="2ÂªT",T2EP10 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EeqhRcaAkANEkE1-jmxx3pQBvDFPP5yh33jsw5PlRgVy1w?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/j39rG2v.jpg" group-title="Smallville" pltv-subgroup="2ÂªT",T2EP11 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EUjEm7SgBsJHljnneBSd_zUBajopJ7JkpqOJRux1tpfv6w?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/j39rG2v.jpg" group-title="Smallville" pltv-subgroup="2ÂªT",T2EP12 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EbEbwYXGTC5Cp4mTDCBo98YB3xT-xClxc16Ymu8RcEAQAw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/j39rG2v.jpg" group-title="Smallville" pltv-subgroup="2ÂªT",T2EP13 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EcBtzYaYkyRMq5qrE2XlrJwBFNtUI65HItsU6cGFGtgwcA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/j39rG2v.jpg" group-title="Smallville" pltv-subgroup="2ÂªT",T2EP14 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EVjcwwJA1axHg3w9Z3-d7AcBrk27nLdH0-kOPpTbJcEnCg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/j39rG2v.jpg" group-title="Smallville" pltv-subgroup="2ÂªT",T2EP15 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EdBFm3AWCuhBhTd6L_eB6E0B1A5rlXJbw_0w2zfNGSx0Xw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/j39rG2v.jpg" group-title="Smallville" pltv-subgroup="2ÂªT",T2EP16 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Edydzd4_SWJDl6ZjiB2VWmkB4_2ADTtnURj4tlhnwqEH1w?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/j39rG2v.jpg" group-title="Smallville" pltv-subgroup="2ÂªT",T2EP17 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EV5isXmPIXhIpf1H_jM2cCQBWYfctqvsoeQQS8gMkUJpGA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/j39rG2v.jpg" group-title="Smallville" pltv-subgroup="2ÂªT",T2EP18 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ETYQdCprqgpPpKcO74JLgK0B-zEhcwJ6iQlG_ht7eiC57A?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/j39rG2v.jpg" group-title="Smallville" pltv-subgroup="2ÂªT",T2EP19 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ebz10Phm2RpGtofWJgk0IMsB8jsWQERHOCZBBjisC-x-Kw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/j39rG2v.jpg" group-title="Smallville" pltv-subgroup="2ÂªT",T2EP20 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EQVrgca5kBpFqTLwbF_6zNYBzEWrGUHSAK4Iyigv8TQAKA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/j39rG2v.jpg" group-title="Smallville" pltv-subgroup="2ÂªT",T2EP21 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ESrsq9W_bfpNhpbxY_5mC6EBCogLYexWsT3bk7-w0NqTPw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/j39rG2v.jpg" group-title="Smallville" pltv-subgroup="2ÂªT",T2EP22 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EYoeZmoSBOJDj1qZTtdKGyQBeyrBYwyD_cCCeO4mYRgZIQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/j39rG2v.jpg" group-title="Smallville" pltv-subgroup="2ÂªT",T2EP23 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EcAPGy6YZWFOm9ko3fKvWu8BwoRvAtVsE3MOoCSVOUhF4Q?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jikY4qn.jpg" group-title="Smallville" pltv-subgroup="3ÂªT",T3EP01 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ETdb0tnHSwRPmygQkjU1fQMBpiPhE6O6bnzvPXg82WLMlw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jikY4qn.jpg" group-title="Smallville" pltv-subgroup="3ÂªT",T3EP02 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ESihmc6OWzFGpQA2ySfB1L0BiY0_Xex62ZfvKe7GqJiF0g?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jikY4qn.jpg" group-title="Smallville" pltv-subgroup="3ÂªT",T3EP03 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EevKFkO8DNJBr4NW-ubJWnYBno2Mf_PGDMRgvCrcVUr5Qg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jikY4qn.jpg" group-title="Smallville" pltv-subgroup="3ÂªT",T3EP04 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ea8HTCtmeOZAn65VAWmMeT0B0I3cLNblYkA3wgGoI6zvJQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jikY4qn.jpg" group-title="Smallville" pltv-subgroup="3ÂªT",T3EP05 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EcaQCa663BZAiwJYP8HeQq0Bh3130ZVt00WuF-Wc2uvtHQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jikY4qn.jpg" group-title="Smallville" pltv-subgroup="3ÂªT",T3EP06 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ETEZzy_TR7ZIpg2sRa6la_oBQoEER-ydDYHy9kko1mDc1g?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jikY4qn.jpg" group-title="Smallville" pltv-subgroup="3ÂªT",T3EP07 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EYt86c_ddxBLvgjxspPtHD8BvlW_Ez7Hklnol3q6AqC2Pg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jikY4qn.jpg" group-title="Smallville" pltv-subgroup="3ÂªT",T3EP08 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EcVtN3KhSnFPinjAKUVBzXcBBFaIZB6SMndjN-9Ye1ENWA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jikY4qn.jpg" group-title="Smallville" pltv-subgroup="3ÂªT",T3EP09 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EQA99k0tvsJEmPSH7-JmhTkBGSZpnQENeDVEenRwp940aQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jikY4qn.jpg" group-title="Smallville" pltv-subgroup="3ÂªT",T3EP10 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EQ0h2THIK65Fi97PBE9IMmUBvqhY_wL_OTL4dgS5HFfJdQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jikY4qn.jpg" group-title="Smallville" pltv-subgroup="3ÂªT",T3EP11 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EZRzN1lq74ZMiJYkzVfquUYB58naJR8eO2yixCEAHNTtMg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jikY4qn.jpg" group-title="Smallville" pltv-subgroup="3ÂªT",T3EP12 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EXOy4g_JlL1Mje16_NORzoQBhZ9M6mA04miMD7zKVy9EuA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jikY4qn.jpg" group-title="Smallville" pltv-subgroup="3ÂªT",T3EP13 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ed538f1PSN9Fk7BqEBF-Y7EBlydv1iTa4JEk9-DMfjtzPQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jikY4qn.jpg" group-title="Smallville" pltv-subgroup="3ÂªT",T3EP14 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EXTc7gce1AZGlCpZLeHbS_EBCDiSERkREn0YdaaoGsfdCQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jikY4qn.jpg" group-title="Smallville" pltv-subgroup="3ÂªT",T3EP15 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Eb2wZDRSPPBBvCCQZ8ydftAByJUI2undVK12vZEdm6vjEQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jikY4qn.jpg" group-title="Smallville" pltv-subgroup="3ÂªT",T3EP16 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ebg6M60WVqRKoYFgRA6nQGgBMiRlRFGJtywVEbgEzm4oAg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jikY4qn.jpg" group-title="Smallville" pltv-subgroup="3ÂªT",T3EP17 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ebnxlp0_kJtGh1-g3u9fNXwBe9D2q6W499Y8xYVDRLO_3g?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jikY4qn.jpg" group-title="Smallville" pltv-subgroup="3ÂªT",T3EP18 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EW3TcqiaQ_5BjLASp0rlylkBB_Y8ci0CMM57lCEeMjcccA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jikY4qn.jpg" group-title="Smallville" pltv-subgroup="3ÂªT",T3EP19 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ETu9DOgVf99JlSrih2Bjg1MBW28ptreMpSopQZZ9wpUatQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jikY4qn.jpg" group-title="Smallville" pltv-subgroup="3ÂªT",T3EP20 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EYVyM97X5jtHsnmS-Lz33JUBcE7y0kwy491fogXifmNBEw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jikY4qn.jpg" group-title="Smallville" pltv-subgroup="3ÂªT",T3EP21 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EYFAdTtdxllPn3xPlTqkRBMBkeILZaGxJswwhAr6NmJV1g?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jikY4qn.jpg" group-title="Smallville" pltv-subgroup="3ÂªT",T3EP22 DUB Smallville
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EThgABxmsNxAnH4VmyCs2d4BZqkRxRXTD74-rEIRfyd_QA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4dpbPjP.jpg" group-title="The Good Doctor" pltv-subgroup="1ÂªT",T1EP01 DUB The Good Doctor
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EbBqVfpozBxAqU2dlIkOPFwBUFJIyex9Fgdy8Cyj8c0ikA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4dpbPjP.jpg" group-title="The Good Doctor" pltv-subgroup="1ÂªT",T1EP02 DUB The Good Doctor
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EUdZ0MewTyRHpWmBDHke_1sBrc7bxzgLOgewXbgRfebttA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4dpbPjP.jpg" group-title="The Good Doctor" pltv-subgroup="1ÂªT",T1EP03 DUB The Good Doctor
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Efy8tCFsKtFOsQNr9gMUfkoBxUFlsHSZgMISeYF6AWODQA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4dpbPjP.jpg" group-title="The Good Doctor" pltv-subgroup="1ÂªT",T1EP04 DUB The Good Doctor
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EVWG2rwA-zlHrk0i7cxMpD8BH5GEYjfSpw2WZ2HDubQzIw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4dpbPjP.jpg" group-title="The Good Doctor" pltv-subgroup="1ÂªT",T1EP05 DUB The Good Doctor
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EU0F_04mCsFGpe5tFMS-d6cB2T1fQPeUTjKk6Iu_EFJuqg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4dpbPjP.jpg" group-title="The Good Doctor" pltv-subgroup="1ÂªT",T1EP06 DUB The Good Doctor
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EcJDFFHUvuRBjZ3BZUOo69IB7p_d3tIZqwOBNN9q-gvw7A?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4dpbPjP.jpg" group-title="The Good Doctor" pltv-subgroup="1ÂªT",T1EP07 DUB The Good Doctor
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EbO0CqR0Us9CgDzKKryNk_0B-_BOLqaWLefsla1hKziHnQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4dpbPjP.jpg" group-title="The Good Doctor" pltv-subgroup="1ÂªT",T1EP08 DUB The Good Doctor
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EarZKFtO3OBDmoqscmEmIXkBfdLcLDHMKUtf66JaWGK0yg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4dpbPjP.jpg" group-title="The Good Doctor" pltv-subgroup="1ÂªT",T1EP09 DUB The Good Doctor
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EQXuIqdwVRFMhdr6_8iaoiUBAP4n1kOwAaVh0ba-EeoHlA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4dpbPjP.jpg" group-title="The Good Doctor" pltv-subgroup="1ÂªT",T1EP10 DUB The Good Doctor
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EXsBuxOma6BErFFq4Y05jYsBhJVRZTFJg1BggEvdDhRrpg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4dpbPjP.jpg" group-title="The Good Doctor" pltv-subgroup="1ÂªT",T1EP11 DUB The Good Doctor
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EXHYejaUJZtMqwEFugDbKxsBOULaGM5E9NOG6jf__Dn-6A?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4dpbPjP.jpg" group-title="The Good Doctor" pltv-subgroup="1ÂªT",T1EP12 DUB The Good Doctor
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EYgWgNI0DvdEhM2JHTFbRgoBvUNF40wH-30Ss1AHw9ROEw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4dpbPjP.jpg" group-title="The Good Doctor" pltv-subgroup="1ÂªT",T1EP13 DUB The Good Doctor
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ee91_0ISA_dBlad6DD8yyicBA583h9Z6WfX-zsv936kaDw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4dpbPjP.jpg" group-title="The Good Doctor" pltv-subgroup="1ÂªT",T1EP14 DUB The Good Doctor
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EUcaRd9xhXpBsh_81Yw9rPcBe6ZFIVLakDSZ5hD-cGEyRg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4dpbPjP.jpg" group-title="The Good Doctor" pltv-subgroup="1ÂªT",T1EP15 DUB The Good Doctor
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EYsdU6N0DitLm1BSEsMTc5YBR8cV07w90xOOYacNVPFlkg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4dpbPjP.jpg" group-title="The Good Doctor" pltv-subgroup="1ÂªT",T1EP16 DUB The Good Doctor
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Eahhy308ZLZNlLvnjjPrki0B05HpmdukZaPzkfIfYLjPrg?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4dpbPjP.jpg" group-title="The Good Doctor" pltv-subgroup="1ÂªT",T1EP17 DUB The Good Doctor
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EcBol6mcCkdPmJ0xCFUnoAQBQ4FwaRPi_5v4-Dq-7iUJpA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4dpbPjP.jpg" group-title="The Good Doctor" pltv-subgroup="1ÂªT",T1EP18 DUB The Good Doctor
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ETEOQQyf2DdEi6NwvLRSWvkBNp3M4-VZpu9H3aPCNEpbyQ?
+
+#EXTINF:-1 tvg-logo="https://imgur.com/zl8TiHZ.jpg" group-title="The Pacific" pltv-subgroup="1ÂªT",T1EP01 DUB The Pacific
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EZmlLjgSpZRDv6m2r9HITngBDQy1lqxGd8LGMxdtzsBdQA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/zl8TiHZ.jpg" group-title="The Pacific" pltv-subgroup="1ÂªT",T1EP02 DUB The Pacific
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EarQSZFy9EhHqhIjPOJi8xABfYL1sSfDkLWk3PXon8fIaQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/zl8TiHZ.jpg" group-title="The Pacific" pltv-subgroup="1ÂªT",T1EP03 DUB The Pacific
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EXT4EQNxMLRArYbOvAyofGQBpmMW5fWHLLZ6M6gsC_-Hgw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/zl8TiHZ.jpg" group-title="The Pacific" pltv-subgroup="1ÂªT",T1EP04 DUB The Pacific
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ec72Yi_2PbJAtQNdrYagSmEBeIbVFQPVhXFTfgF31T8CjA?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/zl8TiHZ.jpg" group-title="The Pacific" pltv-subgroup="1ÂªT",T1EP05 DUB The Pacific
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EfBLdp627WlMmkzdBIE9h5MB6SDjujXalScRODpPyWQPTQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/zl8TiHZ.jpg" group-title="The Pacific" pltv-subgroup="1ÂªT",T1EP06 DUB The Pacific
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EWmBI15l3b5EkbO92Tc0P3IBVXs8y-1g-3ncm7z5FkxvOw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/zl8TiHZ.jpg" group-title="The Pacific" pltv-subgroup="1ÂªT",T1EP07 DUB The Pacific
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/ES66hMLUOt5OhX9bhjCWPYIB28P_9vjTnS4WRz0AnTXm5Q?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/zl8TiHZ.jpg" group-title="The Pacific" pltv-subgroup="1ÂªT",T1EP08 DUB The Pacific
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EZ7FdzA78HtMgxsvMJ49S6YBNAyPxBMe_VCQo53QFshZjQ?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/zl8TiHZ.jpg" group-title="The Pacific" pltv-subgroup="1ÂªT",T1EP09 DUB The Pacific
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EX-Qo_DaO95Amvvrar3niJYBga_wqZnpQk3qJW2keQaFTw?&download=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/zl8TiHZ.jpg" group-title="The Pacific" pltv-subgroup="1ÂªT",T1EP10 DUB The Pacific
+https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ef6am6LX3CREgPc5wyrGQEgBlEx5nrOOHfGNPwM9tFgWOQ?&download=1
+
+
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="VOD SERIES",
+				
+
 
 
 
@@ -6877,65 +7895,3 @@ https://archive.org/download/FreeFall2014720p/Free%20Fall%20(2014)%20720p.mp4
 			#EXTINF:-1 tvg-logo="" group-title="VOD XXX",
 				
 			
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD XXX",
-				
-			
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD XXX",
-				
-			
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD XXX",
-				
-			
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD XXX",
-				
-			
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD XXX",
-				
-			
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD XXX",
-				
-			
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD XXX",
-				
-			
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD XXX",
-				
-			
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD XXX",
-				
-			
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD XXX",
-				
-			
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD XXX",
-				
-			
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD XXX",
-				
-			
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD XXX",
-				
-			
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD XXX",
-				
-			
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD XXX",
-				
-			
-
-
