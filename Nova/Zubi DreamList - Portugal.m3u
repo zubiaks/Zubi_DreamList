@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 	#EXTINF:-1,Zubi DreamList 
-		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.78 (25/04/2020)
+		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.79 (26/04/2020)
 			http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== LÍNGUA PORTUGUESA ==>[/COLOR][/B]
@@ -5997,111 +5997,1361 @@ https://archive.org/download/BuckWild2013720p/Buck.Wild.2013.720p.BluRay.x264.YI
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mXKkuCn.jpg" group-title="MOVIES",Free Fall (2014)
 https://archive.org/download/FreeFall2014720p/Free%20Fall%20(2014)%20720p.mp4
 
+		#EXTINF:-1,O Banqueiro
+			#EXTINF:-1 tvg-logo="" group-title="VOD",O Banqueiro
+				http://sume.lhmtv.gq/Filmes/O.Banqueiro.2020.MP4.DUB.BaixarSeriesMP4.org.mp4?LHMTv
+			#EXTINF:-1 tvg-logo="" group-title="VOD",O Banqueiro LEG
+				http://sume.lhmtv.gq/Filmes/O.Banqueiro.2020.MP4.LEG.BaixarSeriesMP4.org.mp4?LHMTv
 
-		
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD",
-				
+		#EXTINF:-1,O Escandalo
+			#EXTINF:-1 tvg-logo="" group-title="VOD",O Escandalo
+				http://sume.lhmtv.gq/Filmes/O.Escandalo.2020.720p.MP4.DUB.BaixarSeriesMP4.org.mp4?LHMTv
+			#EXTINF:-1 tvg-logo="" group-title="VOD",O Escandalo LEG
+				http://sume.lhmtv.gq/Filmes/O.Escandalo.2020.720p.MP4.LEG.BaixarSeriesMP4.org.mp4?LHMTv
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD",
-				
+		#EXTINF:-1,Ultras
+			#EXTINF:-1 tvg-logo="" group-title="VOD",Ultras
+				http://sume.lhmtv.gq/Filmes/Ultras.2020.MP4.DUB.BaixarSeriesMP4.org.mp4?LHMTv
+			#EXTINF:-1 tvg-logo="" group-title="VOD",Ultras LEG
+				http://sume.lhmtv.gq/Filmes/Ultras.2020.MP4.LEG.BaixarSeriesMP4.org.mp4?LHMTv
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD",
-				
+		#EXTINF:-1,A Grande Luta
+			#EXTINF:-1 tvg-logo="" group-title="VOD",A Grande Luta
+				http://sume.lhmtv.gq/Filmes/A.Grande.Luta.2020.720p.MP4.DUB.BaixarSeriesMP4.org.mp4?LHMTv
+			#EXTINF:-1 tvg-logo="" group-title="VOD",A Grande Luta LEG
+				http://sume.lhmtv.gq/Filmes/A.Grande.Luta.2020.720p.MP4.LEG.BaixarSeriesMP4.org.mp4?LHMTv
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD",
-				
+		#EXTINF:-1,Jexi - Um Celular Sem Filtro
+			#EXTINF:-1 tvg-logo="" group-title="VOD",Jexi - Um Celular Sem Filtro
+				http://sume.lhmtv.gq/Filmes/Jexi.Um.Celular.Sem.Filtro.2020.720p.MP4.DUB.BaixarSeriesMP4.org.mp4?LHMTv
+			#EXTINF:-1 tvg-logo="" group-title="VOD",Jexi - Um Celular Sem Filtro LEG
+				http://sume.lhmtv.gq/Filmes/Jexi.Um.Celular.Sem.Filtro.2020.720p.MP4.LEG.BaixarSeriesMP4.org.mp4?LHMTv
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD",
-				
+		#EXTINF:-1,Socias em Guerra
+			#EXTINF:-1 tvg-logo="" group-title="VOD",Socias em Guerra
+				http://sume.lhmtv.gq/Filmes/Socias.em.Guerra.2020.720p.MP4.DUB.BaixarSeriesMP4.org.mp4?LHMTv
+			#EXTINF:-1 tvg-logo="" group-title="VOD",Socias em Guerra LEG
+				http://sume.lhmtv.gq/Filmes/Socias.em.Guerra.2020.720p.MP4.LEG.BaixarSeriesMP4.org.mp4?LHMTv
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD",
-				
+		#EXTINF:-1,Parasita
+			#EXTINF:-1 tvg-logo="" group-title="VOD",Parasita
+				http://anhanga.lhmtv.gq/filmes/parasita-dub-720p.mp4?LHMTv
+			#EXTINF:-1 tvg-logo="" group-title="VOD",Parasita LEG
+				http://topvod.tk/LHMTvPlay/ParasiteLEG?LHMTv
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD",
-				
+		#EXTINF:-1,O Poco
+			#EXTINF:-1 tvg-logo="" group-title="VOD",O Poco
+				http://anhanga.lhmtv.gq/filmes/opoco-dub-1080p.mp4?LHMTv
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD",
-				
+		#EXTINF:-1,A Arte da Autodefesa
+			#EXTINF:-1 tvg-logo="" group-title="VOD",A Arte da Autodefesa
+				http://anhanga.lhmtv.gq/filmes/aartedaautodefesa-dub-1080p.mp4?LHMTv
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD",
-				
+		#EXTINF:-1,Os Orfaos
+			#EXTINF:-1 tvg-logo="" group-title="VOD",Os Orfaos
+				http://anhanga.lhmtv.gq/filmes/osorfaosts-dub-720p.mp4?LHMTv
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD",
-				
+		#EXTINF:-1,Ameaca Profunda
+			#EXTINF:-1 tvg-logo="" group-title="VOD",Ameaca Profunda
+				http://anhanga.lhmtv.gq/filmes/ameacaprofundats-dub-720p.mp4?LHMTv
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD",
-				
+		#EXTINF:-1,O Caso Richard Jewell
+			#EXTINF:-1 tvg-logo="" group-title="VOD",O Caso Richard Jewell
+				http://anhanga.lhmtv.gq/filmes/ocasoderichardjewell-dub-720p.mp4?LHMTv
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD",
-				
+		#EXTINF:-1,Star Wars: A Ascensao Skywalker
+			#EXTINF:-1 tvg-logo="" group-title="VOD",Star Wars: A Ascensao Skywalker
+				http://anhanga.lhmtv.gq/filmes/starwarsaascensaoskywalker-dub-720p.mp4?LHMTv
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD",
-				
+		#EXTINF:-1,Jumanji: Proxima Fase
+			#EXTINF:-1 tvg-logo="" group-title="VOD",Jumanji: Proxima Fase
+				http://anhanga.lhmtv.gq/filmes/jumanjiproximafase-dub-720p.mp4?LHMTv
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD",
-				
+		#EXTINF:-1,Aves de Rapina
+			#EXTINF:-1 tvg-logo="" group-title="VOD",Aves de Rapina
+				http://anhanga.lhmtv.gq/filmes/birdsofpreyts-dub-720p.mp4?LHMTv
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD",
-				
+		#EXTINF:-1,Os ParCas 2
+			#EXTINF:-1 tvg-logo="" group-title="VOD",Os ParCas 2
+				http://anhanga.lhmtv.gq/filmes/osparcas2-dub-720p.mp4?LHMTv
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD",
-				
+		#EXTINF:-1,Era uma Vez em… Hollywood
+			#EXTINF:-1 tvg-logo="" group-title="VOD",Era uma Vez em… Hollywood
+				http://anhanga.lhmtv.gq/filmes/eraumavezemhollywood-dub-720p.mp4?LHMTv
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD",
-				
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,It: A Coisa – Capitulo 2 HD SRv1
+http://anhanga.lhmtv.gq/filmes/itcapitulodois-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Pesadelo
+http://anhanga.lhmtv.gq/filmes/pesadelo-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Limbo: Entre o Ceu e o Inferno
+http://anhanga.lhmtv.gq/filmes/limboentreoceueoinferno-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Ford vs Ferrari
+http://anhanga.lhmtv.gq/filmes/fordvsferrarits-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,As Panteras 2019
+http://anhanga.lhmtv.gq/filmes/aspanterasts-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Malevola: Dona do Mal
+http://anhanga.lhmtv.gq/filmes/malevoladonadomalts-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Coringa
+http://anhanga.lhmtv.gq/filmes/coringats-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Crypto
+http://anhanga.lhmtv.gq/filmes/crypto-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Rambo: Ate o Fim
+http://anhanga.lhmtv.gq/filmes/ramboateofim-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Homem-Aranha: Longe de Casa HD
+http://anhanga.lhmtv.gq/filmes/homemaranhalongedecasa-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,MIB: Homens de Preto – Internacional HD
+http://anhanga.lhmtv.gq/filmes/mibinternational-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Annabelle 3: De Volta para Casa
+http://anhanga.lhmtv.gq/filmes/annabelle3-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Ma
+http://anhanga.lhmtv.gq/filmes/ma-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Velozes & Furiosos: Hobbs & Shaw
+http://anhanga.lhmtv.gq/filmes/hobbseshaw-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Abigail e a Cidade Proibida
+http://anhanga.lhmtv.gq/filmes/abigaileacidadeproibida-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Luce
+http://anhanga.lhmtv.gq/filmes/luce-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Midway – Batalha em Alto Mar
+http://anhanga.lhmtv.gq/filmes/midwaybatalhaemaltomar-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Pesadelo
+http://anhanga.lhmtv.gq/filmes/pesadelo-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Doutor Sono
+http://anhanga.lhmtv.gq/filmes/doctorsleep-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Hellboy 2019 HD
+http://anhanga.lhmtv.gq/filmes/hellboy-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Misterio no Mediterraneo
+http://anhanga.lhmtv.gq/filmes/murdermystery-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,A Rebeliao
+http://anhanga.lhmtv.gq/filmes/arebeliao-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Gloria Bell
+http://anhanga.lhmtv.gq/filmes/gloriabell-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Nas Trevas
+http://anhanga.lhmtv.gq/filmes/nastrevas-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Copias – De Volta a Vida
+http://anhanga.lhmtv.gq/filmes/replicas-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,A Cinco Passos de voce
+http://anhanga.lhmtv.gq/filmes/acincopassosdevoce-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Cinderela Pop
+http://anhanga.lhmtv.gq/filmes/cinderelapop-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,X-Men: Fenix Negra
+http://anhanga.lhmtv.gq/filmes/xmenfenixnegrats-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,A Maldicao da Chorona
+http://anhanga.lhmtv.gq/filmes/amaldicaodachoronats-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,John Wick 3 – Parabellum
+http://anhanga.lhmtv.gq/filmes/johnwick3ts-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Cemiterio Maldito
+http://anhanga.lhmtv.gq/filmes/cemiteriomalditots-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Shazam
+http://anhanga.lhmtv.gq/filmes/shazam-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Poderia Me Perdoar?
+http://anhanga.lhmtv.gq/filmes/poderiameperdoar-dub-480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,O 12 Homem
+http://anhanga.lhmtv.gq/filmes/o12homem-dub-480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,O Soldado de Cristo
+http://anhanga.lhmtv.gq/filmes/osoldadodecristo-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Capita Marvel
+http://anhanga.lhmtv.gq/filmes/cptmarvel-dub-hdts.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Operacao Fronteira
+http://anhanga.lhmtv.gq/filmes/operacaofronteira-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,10 Segundos para Vencer
+http://anhanga.lhmtv.gq/filmes/10segundosparavencer-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Alita: Anjo de Combate
+http://anhanga.lhmtv.gq/filmes/alitaanjocombate-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,A Caminho de Casa
+http://anhanga.lhmtv.gq/filmes/acaminhodecasa-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Poderia Me Perdoar?
+http://anhanga.lhmtv.gq/filmes/poderiameperdoar-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Green Book – O Guia
+http://anhanga.lhmtv.gq/filmes/greenbook-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,1964: O Brasil Entre Armas e Livros
+http://anhanga.lhmtv.gq/filmes/1964ofilme-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Sexo, MUsica e Amor
+http://anhanga.lhmtv.gq/filmes/sexomusicaeamor-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,A Maquina de Lembrancas
+http://anhanga.lhmtv.gq/filmes/amaquinadelembrancas-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Escape Room
+http://anhanga.lhmtv.gq/filmes/escaperoom-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Justica – Entre a Lei e a Vinganca
+http://anhanga.lhmtv.gq/filmes/justicaentrealeieavinganca-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Tudo Acaba Em Festa
+http://anhanga.lhmtv.gq/filmes/tudoacabaemfesta-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Durante a Tormenta
+http://anhanga.lhmtv.gq/filmes/duranteatormenta-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Holmes & Watson
+http://anhanga.lhmtv.gq/filmes/holmesewatson-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,O Retorno de Mary Poppins
+http://anhanga.lhmtv.gq/filmes/themarypoppinsreturn-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,A Quimica do Amor
+http://anhanga.lhmtv.gq/filmes/aquimicadoamor-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Durante a Tormenta
+http://anhanga.lhmtv.gq/filmes/duranteatormenta-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,IO
+http://anhanga.lhmtv.gq/filmes/io2019-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,A Caminho de Casa
+http://anhanga.lhmtv.gq/filmes/acaminhodecasa-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Minha Vida em Marte
+http://anhanga.lhmtv.gq/filmes/minhavidaemmartei-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,O Menino que Descobriu o Vento
+http://anhanga.lhmtv.gq/filmes/omeninoquedescobriuovento-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Maquinas Mortais
+http://anhanga.lhmtv.gq/filmes/corridasmortais-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Bumblebee
+http://anhanga.lhmtv.gq/filmes/buumblebee-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Parque do Inferno
+http://anhanga.lhmtv.gq/filmes/parquedoinferno-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Mulheres Alteradas
+http://anhanga.lhmtv.gq/filmes/mulheresalteradas-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Sexta-feira Muito Louca
+http://anhanga.lhmtv.gq/filmes/sextafeiramuitodoida-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Aquaman
+http://anhanga.lhmtv.gq/filmes/aquamanhd-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Cadaver
+http://anhanga.lhmtv.gq/filmes/ocadaver-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Sequestro Relampago
+http://anhanga.lhmtv.gq/filmes/sequestrorelampago-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Animais Fantasticos: Os Crimes de Grindelwald
+http://anhanga.lhmtv.gq/filmes/animaisfantasticoscrimesgrindelwald-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,O Primeiro Homem
+http://anhanga.lhmtv.gq/filmes/oprimeirohomem-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,O Paradoxo Cloverfield
+http://anhanga.lhmtv.gq/filmes/thecloverfieldparadox-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Intimidade Entre Estranhos
+http://anhanga.lhmtv.gq/filmes/intimidadeentreestranhos-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Creed 2
+http://anhanga.lhmtv.gq/filmes/creed2-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Furia em Alto Mar
+http://anhanga.lhmtv.gq/filmes/furiaemaltomar-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Podres de Ricos
+http://anhanga.lhmtv.gq/filmes/podresdericos-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Circus Kane – O Circo dos Horrores
+http://anhanga.lhmtv.gq/filmes//circuskaneocircodoshorrores-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,O Grande Circo Místico
+http://anhanga.lhmtv.gq/filmes/ograndecircomistico-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,A Casa do Medo – Incidente em Ghostland
+http://anhanga.lhmtv.gq/filmes/acasadomedoincedenteemghostland-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Resgate no Oeste
+http://anhanga.lhmtv.gq/filmes/resgatenooeste-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,O Legado Kennedy
+http://anhanga.lhmtv.gq/filmes/olegadokennedy-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Os Domesticos
+http://anhanga.lhmtv.gq/filmes/osdomesticos-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Johnny English 3.0
+http://anhanga.lhmtv.gq/filmes/johnnyenglishstrikesagain-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Encolhi a Professora
+http://anhanga.lhmtv.gq/filmes/encolhiaprofessora-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Maus Momentos no Hotel Royale
+http://anhanga.lhmtv.gq/filmes/mausmomentosnohotelroyale-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,O Doutrinador
+http://anhanga.lhmtv.gq/filmes/odoutrinador-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Goosebumps 2 – Halloween Assombrado
+http://anhanga.lhmtv.gq/filmes/goosegumps2halloween-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,O Bem-Aventurado
+http://anhanga.lhmtv.gq/filmes/obemaventurado-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Pelo Direito de Ser Feliz
+http://anhanga.lhmtv.gq/filmes/pelodireitodeserfeliz-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Bird Box – Caixa de Passaros
+http://anhanga.lhmtv.gq/filmes/birdbox-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Sansao – 2018
+http://anhanga.lhmtv.gq/filmes/sansao2018-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Arcade – Voce vai entrar nesse jogo
+http://anhanga.lhmtv.gq/filmes/arcadevocevaientrarnessejogo-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Talvez uma Historia de Amor
+http://anhanga.lhmtv.gq/filmes/talvezumahistoriadeamor-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,O Candidato Honesto 2
+http://anhanga.lhmtv.gq/filmes/ocandidatohonesto2-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Venom
+http://anhanga.lhmtv.gq/filmes/venom-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Meu Ex e um Espiao
+http://anhanga.lhmtv.gq/filmes/meuexeumespiao-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Para Todos os Garotos que Ja Amei
+http://anhanga.lhmtv.gq/filmes/paratodososgarotosqueamei-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,O Predador
+http://anhanga.lhmtv.gq/filmes/opredador2018-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Missao Impossível – Efeito Fallout
+http://anhanga.lhmtv.gq/filmes/missaoimpossivelefeitofallout-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,A Freira
+http://anhanga.lhmtv.gq/filmes/afreiranovohd-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Para Sempre Minha Garota
+http://anhanga.lhmtv.gq/filmes/parasempreminhagarota-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Slender Man: Pesadelo Sem Rosto
+http://anhanga.lhmtv.gq/filmes/slenderman-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Apostolo
+http://anhanga.lhmtv.gq/filmes/apostolo-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Todo Dia
+http://anhanga.lhmtv.gq/filmes/tododia-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Homem-Formiga e a Vespa
+http://anhanga.lhmtv.gq/filmes/homemformigaevespa-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Fahrenheit 451
+http://anhanga.lhmtv.gq/filmes/fahrenheit451-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,A Noite Devorou o Mundo
+http://anhanga.lhmtv.gq/filmes/thenightseatstheworld-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Thor
+http://anhanga.lhmtv.gq/filmes/thor-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Thor: O Mundo Sombrio
+http://anhanga.lhmtv.gq/filmes/thormundosombrio-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Thor: Ragnarok
+http://anhanga.lhmtv.gq/filmes/thorrag-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Festa da Salsicha
+http://anhanga.lhmtv.gq/filmes/festasalsicha-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Cinquenta Tons Mais Escuros SRv1
+http://anhanga.lhmtv.gq/filmes/50tonsescuros-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Cinquenta Tons de Liberdade
+http://anhanga.lhmtv.gq/filmes/fiftyshadesfreed-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,A Gripe
+http://anhanga.lhmtv.gq/filmes/agripe-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Ted
+http://anhanga.lhmtv.gq/filmes/ted-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Ted 2
+http://anhanga.lhmtv.gq/filmes/ted2-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Horror em Amityville
+http://anhanga.lhmtv.gq/filmes/horroremamityville-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Os Infiltrados
+http://anhanga.lhmtv.gq/filmes/osinfiltrados-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,O Codigo da Vinci
+http://anhanga.lhmtv.gq/filmes/ocodigodavinci-dub-360p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Premonição
+http://anhanga.lhmtv.gq/filmes/premonicao-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Premonição 2
+http://anhanga.lhmtv.gq/filmes/premonicao2-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Premonição 3
+http://anhanga.lhmtv.gq/filmes/premonicao3-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Premonição 4
+http://anhanga.lhmtv.gq/filmes/premonicao4-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,A Hora do Rush
+http://anhanga.lhmtv.gq/filmes/rush-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,A Hora do Rush 2
+http://anhanga.lhmtv.gq/filmes/rush2-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Detonando em Barcelona
+http://anhanga.lhmtv.gq/filmes/detonandobarcelona-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Alta Velocidade
+http://anhanga.lhmtv.gq/filmes/altavelocidade-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Cidade de Deus
+http://anhanga.lhmtv.gq/filmes/cidadededeus-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,O Albergue
+http://anhanga.lhmtv.gq/filmes/oalbergue-dub-360p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,A Espera de um milagre
+http://anhanga.lhmtv.gq/filmes/aesperadeummilagre-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Uma saida de Mestre
+http://anhanga.lhmtv.gq/filmes/umasaidademestre-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Totalmente Sem Rumo
+http://anhanga.lhmtv.gq/filmes/totalmentesemrumo-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,O Escorpiao Rei
+http://anhanga.lhmtv.gq/filmes/oescorpiaorei-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,O Escorpiao Rei 2: A Saga De Um Guerreiro
+http://anhanga.lhmtv.gq/filmes/oescorpiaorei2-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,A Casa do Lago
+http://anhanga.lhmtv.gq/filmes/acasadolago-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,A Batalha de Riddick
+http://anhanga.lhmtv.gq/filmes/abatalhaderiddick-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Pequenos Guerreiros
+http://anhanga.lhmtv.gq/filmes/pequenosguerreiros-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Doze e Demais
+http://anhanga.lhmtv.gq/filmes/dozeehdemais-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Alma Perdida
+http://anhanga.lhmtv.gq/filmes/almaperdida-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,60 Segundos
+http://anhanga.lhmtv.gq/filmes/60segundos-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Sete Vidas
+http://anhanga.lhmtv.gq/filmes/setevidas-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Carandiru
+http://anhanga.lhmtv.gq/filmes/carandiru-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Conexao Jamaica
+http://anhanga.lhmtv.gq/filmes/conexaojamaica-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mad Max
+http://topvod.tk/LHMTvPlay/Mad-Max?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mad Max 2 - A Cacada Continua
+http://topvod.tk/LHMTvPlay/Mad-Max-2?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mad Max - Alem da Cupula do Trovao
+http://topvod.tk/LHMTvPlay/Mad-Max-3?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mad Max - Estrada da Furia
+http://topvod.tk/LHMTvPlay/Mad-Max-4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Harry Potter e a Pedra Filosofal
+http://iara.lhmtv.gq/Filmes/Dublados/Harry.Potter/Harry.Potter.e.a.Pedra.Filosofal.2001.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Harry Potter e a Camara Secreta
+http://iara.lhmtv.gq/Filmes/Dublados/Harry.Potter/Harry.Potter.e.a.Camara.Secreta.2002.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Harry Potter e o Prisioneiro de Azkaban
+http://iara.lhmtv.gq/Filmes/Dublados/Harry.Potter/Harry.Potter.e.o.Prisioneiro.de.Azkaban.2004.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Harry Potter e o Calice de Fogo
+http://iara.lhmtv.gq/Filmes/Dublados/Harry.Potter/Harry.Potter.e.o.Calice.de.Fogo.2005.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Harry Potter e a Ordem da Fenix
+http://iara.lhmtv.gq/Filmes/Dublados/Harry.Potter/Harry.Potter.e.a.Ordem.da.Fenix.2007.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Harry Potter e o Enigma do Principe
+http://iara.lhmtv.gq/Filmes/Dublados/Harry.Potter/Harry.Potter.e.o.Enigma.do.Principe.2009.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Harry Potter e as Reliquias da Morte - Parte 1
+http://iara.lhmtv.gq/Filmes/Dublados/Harry.Potter/Harry.Potter.e.as.Reliquias.da.Morte.Parte.1.2010.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Harry Potter e as Reliquias da Morte - Parte 2
+http://iara.lhmtv.gq/Filmes/Dublados/Harry.Potter/Harry.Potter.e.as.Reliquias.da.Morte.Parte.2.2011.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Projeto X – Uma Festa Fora de Controle
+http://anhanga.lhmtv.gq/filmes/projetox-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,500 dias com ela
+http://anhanga.lhmtv.gq/filmes/500dias-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Advogado do Diabo
+http://anhanga.lhmtv.gq/filmes/advogadododiabo-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Dracula – O Príncipe das Trevas
+http://anhanga.lhmtv.gq/filmes/draculaprincipedastrevas-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Forrest Gump – O Contador de Historias
+http://anhanga.lhmtv.gq/filmes/forrestgump-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,A Espera de um milagre
+http://anhanga.lhmtv.gq/filmes/aesperadeummilagre-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Um Grito de liberdade
+http://anhanga.lhmtv.gq/filmes/gritodeliberdade-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Um Sonho de liberdade
+http://anhanga.lhmtv.gq/filmes/umsonhodeliberdade-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - Nadando em Dinheiro
+http://lhmtv.gq/mazzaropi/(1952)%20Mazzaropi%20-%20Nadando%20em%20Dinheiro.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - Sai da Frente
+http://lhmtv.gq/mazzaropi/(1952)%20Mazzaropi%20-%20Sai%20da%20frente.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - Candinho
+http://lhmtv.gq/mazzaropi/(1953)%20Mazzaropi%20-%20Candinho.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - A Carrocinha
+http://lhmtv.gq/mazzaropi/(1955)%20Mazzaropi%20-%20A%20Carrocinha.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - Fuzileiro do Amor
+http://lhmtv.gq/mazzaropi/(1956)%20Mazzaropi%20-%20Fuzileiro%20Do%20Amor.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - Gato de Madame
+http://lhmtv.gq/mazzaropi/(1956)%20Mazzaropi%20-%20Gato%20de%20Madame.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - O Noivo da Girafa
+http://lhmtv.gq/mazzaropi/(1957)%20Mazzaropi-%20O%20Noivo%20Da%20Girafa.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - Chico Fumaca
+http://lhmtv.gq/mazzaropi/(1958)%20Mazzaropi%20-%20Chico%20Fuma%c3%a7a.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - Chofer de Praca
+http://lhmtv.gq/mazzaropi/(1959)%20Mazzaropi%20-%20Chofer%20de%20Pra%c3%a7a.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - Jeca Tatu
+http://lhmtv.gq/mazzaropi/(1959)%20Mazzaropi%20-%20Jeca%20Tat%c3%ba.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - As Aventuras de Pedro Malasartes
+http://lhmtv.gq/mazzaropi/(1960)%20Mazzaropi%20-%20As%20Aventuras%20de%20Pedro%20Malazartes.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - Ze Periquito
+http://lhmtv.gq/mazzaropi/(1960)%20Mazzaropi%20-%20Z%c3%a9%20Periquito.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - Tristeza do Jeca
+http://lhmtv.gq/mazzaropi/(1961)%20Mazzaropi%20-%20Tristeza%20do%20Jeca.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - O Vendedor de Linguica
+http://lhmtv.gq/mazzaropi/(1962)%20Mazzaropi%20-%20O%20Vendedor%20de%20Ling%c3%bci%c3%a7a.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - Casinha Pequenina
+http://lhmtv.gq/mazzaropi/(1963)%20Mazzaropi%20-%20Casinha%20Pequenina.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - Meu Japao Brasileiro
+http://lhmtv.gq/mazzaropi/(1964)%20Mazzaropi%20-%20Meu%20Jap%c3%a3o%20Brasileiro.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - O Lamparina
+http://lhmtv.gq/mazzaropi/(1964)%20Mazzaropi%20-%20O%20Lamparina.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - O Puritano da rua augusta
+http://lhmtv.gq/mazzaropi/(1965)%20Mazzaropi%20-%20O.Puritano.da.rua.augusta.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - O Corintiano
+http://lhmtv.gq/mazzaropi/(1966)%20Mazzaropi%20-%20O%20Corintiano.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - O Jeca e a Freira
+http://lhmtv.gq/mazzaropi/(1967)%20Mazzaropi%20-%20O%20Jeca%20e%20a%20Freira.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - No paraiso das solteironas
+http://lhmtv.gq/mazzaropi/(1968)%20Mazzaropi%20-%20No%20paraiso%20das%20solteironas.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - Uma Pistola para Djeca
+http://lhmtv.gq/mazzaropi/(1969)%20Mazzaropi%20-%20Uma.Pistola.para%20Djeca.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - Betao Ronca Ferro
+http://lhmtv.gq/mazzaropi/(1970)%20Mazzaropi%20-%20Betao%20Ronca%20Ferro.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - O Grande Xerife
+http://lhmtv.gq/mazzaropi/(1972)%20Mazzaropi%20-%20O%20Grande%20Xerife.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - Portugal Minha Saudade
+http://lhmtv.gq/mazzaropi/(1973)%20Mazzaropi%20-%20Portugal%20Minha%20Saudade.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - Um Caipira em Bariloche
+http://lhmtv.gq/mazzaropi/(1973)%20Mazzaropi%20-%20Um%20Caipira%20em%20Bariloche.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - Jeca Macumbeiro
+http://lhmtv.gq/mazzaropi/(1974)%20Mazzaropi%20-%20O%20Jeca%20Macumbeiro.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - O cineasta das plateias
+http://lhmtv.gq/mazzaropi/(1975)%20Mazzaropi%20-%20O%20cineasta%20das%20plateias.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - Jeca contra o Capeta
+http://lhmtv.gq/mazzaropi/(1976)%20Mazzaropi%20-%20Jeca%20contra%20o%20Capeta.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - Jecao Um Fofoqueiro No Ceu
+http://lhmtv.gq/mazzaropi/(1977)%20Mazzaropi%20-%20Jec%c3%a3o%20Um%20Fofoqueiro%20No%20C%c3%a9u.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - Jeca e Seu Filho Preto
+http://lhmtv.gq/mazzaropi/(1978)%20Mazzaropi%20-%20Jeca%20e%20Seu%20Filho%20Preto.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - A Banda Das Velhas Virgens
+http://lhmtv.gq/mazzaropi/(1979)%20Mazzaropi%20-%20A%20Banda%20Das%20Velhas%20Virgens.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mazzaropi - O Jeca e a Egua Milagrosa
+http://lhmtv.gq/mazzaropi/(1980)%20Mazzaropi%20-%20O%20Jeca%20e%20a%20Egua%20Milagrosa.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,O Silencio dos Inocentes
+http://lhmtv.gq/hannibal/O%20Sil%c3%aancio%20dos%20Inocentes%20(1991)%20-%205.1%20Dublado%20720p%20(By-LuanHarper).mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Hannibal
+http://lhmtv.gq/hannibal/Hannibal%20(2001)%20-%205.1%20Dublado%20720p%20(By-LuanHarper).mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Dragao Vermelho
+http://lhmtv.gq/hannibal/Drag%c3%a3o%20Vermelho%20(2002)%20-%20Dublado%20720p%20(By-LuanHarper).mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Hannibal - A Origem do Mal
+http://lhmtv.gq/hannibal/Hannibal%20-%20A%20Origem%20do%20Mal%20(2007)%20-%20Dublado%20720p%20(By-Luanharper).mp4?LHMTv
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD",
-				
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Porkys
+http://lhmtv.gq/bonus/Porkys/Porky1.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Porkys 2 - O Dia Seguinte
+http://lhmtv.gq/bonus/Porkys/Porky2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Porkys 3 Contra-Ataca
+http://lhmtv.gq/bonus/Porkys/Porky3.mp4?LHMTv
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD",
-				
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Braddock – O Super Comando – Edicao Especial
+http://lhmtv.gq/bonus/Braddock/Braddock%20%e2%80%93%20O%20Super%20Comando%20%e2%80%93%20Edi%c3%a7%c3%a3o%20Especial.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Braddock 2 - O Inicio da Missao – Edicao Especial
+http://lhmtv.gq/bonus/Braddock/Braddock%202%20-%20O%20Inicio%20da%20Miss%c3%a3o%20%e2%80%93%20Edi%c3%a7%c3%a3o%20Especial.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Braddock 3 - O Resgate – Edicao Especial
+http://lhmtv.gq/bonus/Braddock/Braddock%203%20-%20O%20Resgate%20%e2%80%93%20Edi%c3%a7%c3%a3o%20Especial.avi?LHMTv
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD",
-				
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Carga Explosiva
+http://lhmtv.gq/bonus/Carga/Carga1.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Carga Explosiva 2
+http://lhmtv.gq/bonus/Carga/Carga2.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Carga Explosiva 3
+http://lhmtv.gq/bonus/Carga/Carga3.mkv?LHMTv
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD",
-				
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Efeito Borboleta
+http://lhmtv.gq/bonus/EfeitoBorboleta/The.Butterfly.Effect.2004.DVDRip.XviD.Dual.Audio-jmsmarcelo.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Efeito Borboleta 2
+http://lhmtv.gq/bonus/EfeitoBorboleta/The.Butterfly.Effect.2.2006.DVDRip.XviD.Dual.Audio-jmsmarcelo.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Efeito Borboleta 3
+http://lhmtv.gq/bonus/EfeitoBorboleta/The.Butterfly.Effect.3-Revelations.2009.DVDRip.XviD.Dual.Audio-jmsmarcelo.avi?LHMTv
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD",
-				
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,A Hora do Pesadelo
+http://lhmtv.gq/bonus/ahorapesadelo/horapesadelo1.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,A Hora do Pesadelo 2 - A Vingança de Freddy
+http://lhmtv.gq/bonus/ahorapesadelo/horapesadelo2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,A Hora do Pesadelo: Os Guerreiros dos Sonhos
+http://lhmtv.gq/bonus/ahorapesadelo/horapesadelo3.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,A Hora do Pesadelo: O Mestre dos Sonhos
+http://lhmtv.gq/bonus/ahorapesadelo/horapesadelo4.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,A Hora do Pesadelo 5 - O Maior Horror de Freddy
+http://lhmtv.gq/bonus/ahorapesadelo/horapesadelo5.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,A Hora do Pesadelo 6 - Pesadelo Final - A Morte de Freddy
+http://lhmtv.gq/bonus/ahorapesadelo/horapesadelo6.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,A Hora do Pesadelo 7: O Novo Pesadelo - O Retorno de Freddy
+http://lhmtv.gq/bonus/ahorapesadelo/horapesadelo7.mp4?LHMTv
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD",
-				
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Alien. o Oitavo Passageiro
+http://lhmtv.gq/bonus/alien/Alien%20Director's%20Cut%201979%201080p%20BluRay%20x264-Belex%20-%20Dual%20Audio%20+%20Legenda.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Aliens. O Resgate
+http://lhmtv.gq/bonus/alien/Aliens%20O%20Resgate%20Special%20Edition%201986%201080p%20BluRay%20x264-Belex%20-%20Dual%20Audio%20+%20Legenda.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Alien 3
+http://lhmtv.gq/bonus/alien/Alien%203%20Special%20Edition%201992%201080p%20BluRay%20x264-Belex%20-%20Dual%20Audio%20+%20Legenda.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Alien Ressureicao
+http://lhmtv.gq/bonus/alien/Alien%20A%20Ressurrei%c3%a7%c3%a3o%20Special%20Edition%201997%201080p%20BluRay%20x264-Belex%20-%20Dual%20Audio%20+%20Legenda.mkv?LHMTv
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD",
-				
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Os Deuses Devem Estar Loucos
+http://lhmtv.gq/bonus/deuseloucos/Os%20Deuses%20Devem%20Estar%20Loucos%201.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Os Deuses Devem Estar Loucos II
+http://lhmtv.gq/bonus/deuseloucos/Os%20Deuses%20Devem%20Estar%20Loucos%202.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Os Deuses Devem Estar Loucos 3
+http://lhmtv.gq/bonus/deuseloucos/Os%20Deuses%20Devem%20Estar%20Loucos%203.avi?LHMTv
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD",
-				
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,De Volta Para o Futuro
+http://lhmtv.gq/bonus/devoltaparaofuturo/De.Volta.Para.o.Futuro.1.DVDRip.XviD.%5bDublagem.BKS%5d.Portugues.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,De Volta para o Futuro 2
+http://lhmtv.gq/bonus/devoltaparaofuturo/De.Volta.Para.o.Futuro.2.DVDRip.XviD.%5bDublagem.BKS%5d.Portugues.avi?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,De Volta para o Futuro 3
+http://lhmtv.gq/bonus/devoltaparaofuturo/De.Volta.Para.o.Futuro.3.DVDRip.XviD.%5bDublagem.BKS%5d.Portugues.avi?LHMTv
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD",
-				
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,O Exterminador do Futuro
+http://lhmtv.gq/bonus/exterminador/exterminador1.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,O Exterminador do Futuro 2 - O Julgamento Final
+http://lhmtv.gq/bonus/exterminador/exterminador2.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,O Exterminador do Futuro 3 - A Rebeliao das Maquinas
+http://lhmtv.gq/bonus/exterminador/exterminador3.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,O Exterminador do Futuro: A Salvacao
+http://lhmtv.gq/bonus/exterminador/exterminador4.mkv?LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Maquina Mortifera
+http://lhmtv.gq/maquina/M%c3%a1quinaMort%c3%adfera1.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Maquina Mortifera 2
+http://lhmtv.gq/maquina/M%c3%a1quinaMort%c3%adfera2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Maquina Mortifera 3
+http://lhmtv.gq/maquina/M%c3%a1quinaMort%c3%adfera3.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Maquina Mortifera 4
+http://lhmtv.gq/maquina/M%c3%a1quinaMort%c3%adfera4.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,American Pie — A Primeira Vez e Inesquecivel
+http://lhmtv.gq/bonus/movies/Cole%c3%a7%c3%a3o%20American%20Pie/1036.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,American Pie 2 - A Segunda Vez e Ainda Melhor
+http://lhmtv.gq/bonus/movies/Cole%c3%a7%c3%a3o%20American%20Pie/1037.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,American Pie - O Casamento
+http://lhmtv.gq/bonus/movies/Cole%c3%a7%c3%a3o%20American%20Pie/1038.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,American Pie - Tocando a Maior Zona
+http://lhmtv.gq/bonus/movies/Cole%c3%a7%c3%a3o%20American%20Pie/1039.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,American Pie - O Último Stifler Virgem
+http://lhmtv.gq/bonus/movies/Cole%c3%a7%c3%a3o%20American%20Pie/1040.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,American Pie - Caindo em Tentacao
+http://lhmtv.gq/bonus/movies/Cole%c3%a7%c3%a3o%20American%20Pie/1041.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,American Pie: O Livro do Amor
+http://lhmtv.gq/bonus/movies/Cole%c3%a7%c3%a3o%20American%20Pie/1042.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,American Pie: O Reencontro
+http://lhmtv.gq/bonus/movies/Cole%c3%a7%c3%a3o%20American%20Pie/1043.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Busca Implacavel
+http://lhmtv.gq/bonus/movies/Cole%c3%a7%c3%a3o%20Busca%20Implac%c3%a1vel/Busca%20Implac%c3%a1vel.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Busca Implacavel 2
+http://lhmtv.gq/bonus/movies/Cole%c3%a7%c3%a3o%20Busca%20Implac%c3%a1vel/Busca%20Implac%c3%a1vel%202.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Busca Implacavel 3
+http://lhmtv.gq/bonus/movies/Cole%c3%a7%c3%a3o%20Busca%20Implac%c3%a1vel/Busca%20Implac%c3%a1vel%203.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Jurassic Park - Parque dos Dinossauros
+http://lhmtv.gq/bonus/movies/Cole%c3%a7%c3%a3o%20Jurassic%20Park/Jurassic%20Park:%20O%20Parque%20dos%20Dinossauros.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,O Mundo Perdido: Jurassic Park
+http://lhmtv.gq/bonus/movies/Cole%c3%a7%c3%a3o%20Jurassic%20Park/Jurassic%20Park%202%20-%20O%20mundo%20perdido.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Jurassic Park III
+http://lhmtv.gq/bonus/movies/Cole%c3%a7%c3%a3o%20Jurassic%20Park/Jurassic%20Park%20III.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Jurassic World: Reino Ameacado
+http://lhmtv.gq/bonus/movies/Cole%c3%a7%c3%a3o%20Jurassic%20Park/Jurassic%20World:%20Reino%20Amea%c3%a7ado.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mad Max
+http://lhmtv.gq/bonus/movies/Cole%c3%a7%c3%a3o%20Mad%20Max/1063.MKV?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mad Max 2 - A Cacada Continua
+http://lhmtv.gq/bonus/movies/Cole%c3%a7%c3%a3o%20Mad%20Max/1064.MKV?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Mad Max - Alem da Cupula do Trovao
+http://lhmtv.gq/bonus/movies/Cole%c3%a7%c3%a3o%20Mad%20Max/1080.MKV?LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Rocky: Um Lutador
+http://lhmtv.gq/bonus/movies/Cole%c3%a7%c3%a3o%20Rocky:%20Um%20Lutador/1106.MKV?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Rocky II - A revanche
+http://lhmtv.gq/bonus/movies/Cole%c3%a7%c3%a3o%20Rocky:%20Um%20Lutador/1107.MKV?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Rocky III - O desafio supremo
+http://lhmtv.gq/bonus/movies/Cole%c3%a7%c3%a3o%20Rocky:%20Um%20Lutador/1108.MKV?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Rocky IV
+http://lhmtv.gq/bonus/movies/Cole%c3%a7%c3%a3o%20Rocky:%20Um%20Lutador/1110.MKV?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Rocky V
+http://lhmtv.gq/bonus/movies/Cole%c3%a7%c3%a3o%20Rocky:%20Um%20Lutador/1111.MKV?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Rocky Balboa
+http://lhmtv.gq/bonus/movies/Cole%c3%a7%c3%a3o%20Rocky:%20Um%20Lutador/1112.MKV?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Creed
+http://lhmtv.gq/bonus/movies/Cole%c3%a7%c3%a3o%20Rocky:%20Um%20Lutador/1113.MKV?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Creed II
+http://lhmtv.gq/bonus/movies/Cole%c3%a7%c3%a3o%20Rocky:%20Um%20Lutador/1114.MKV?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,MIB - Homens de Preto
+http://lhmtv.gq/bonus/movies/MIB%20-%20Homens%20de%20Preto.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,MIB - Homens de Preto II
+http://lhmtv.gq/bonus/movies/MIB%20-%20Homens%20de%20Preto%20II.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Um Tira da Pesada
+http://lhmtv.gq/bonus/tim2610/tirapesada/tira1.rmvb?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Um Tira da Pesada 2
+http://lhmtv.gq/bonus/tim2610/tirapesada/tira2.rmvb?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Um Tira da Pesada 3
+http://lhmtv.gq/bonus/tim2610/tirapesada/tira3.rmvb?LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Uma Noite Alucinante: A Morte do Demonio
+http://lhmtv.gq/bonus/tim2610/noitealu/noite1.rmvb?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Uma Noite Alucinante 2
+http://lhmtv.gq/bonus/tim2610/noitealu/noite2.rmvb?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Uma Noite Alucinante 3
+http://lhmtv.gq/bonus/tim2610/noitealu/noite3.WMV?LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,La bamba
+http://lhmtv.gq/bonus/tim2610/labamba.avi?LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Harry Potter e a Pedra Filosofal
+http://lhmtv.gq/harry/Harry%20Potter%20e%20a%20Pedra%20Filosofal%20(2001)%20Dublado%205.1%20CH%20720p%20(By-LuanHarper).mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Harry Potter e a Camara Secreta
+http://lhmtv.gq/harry/Harry%20Potter%20e%20a%20C%c3%a2mara%20Secreta%20(2002)%20Dublado%205.1%20CH%20720p%20(By-LuanHarper).mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Harry Potter e o Prisioneiro de Azkaban
+http://lhmtv.gq/harry/Harry%20Potter%20e%20o%20Prisioneiro%20de%20Azkaban%20(2004)%20Dublado%205.1%20CH%20720p%20(By-LuanHarper).mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Harry Potter e o Calice de Fogo
+http://lhmtv.gq/harry/Harry%20Potter%20e%20o%20C%c3%a1lice%20de%20Fogo%20(2005)%20Dublado%205.1%20CH%20720p%20(By-LuanHarper).mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Harry Potter e a Ordem da Fenix
+http://lhmtv.gq/harry/Harry%20Potter%20e%20a%20Ordem%20da%20F%c3%aanix%20(2007)%20Dublado%205.1%20CH%20720p%20(By-LuanHarper).mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Harry Potter e o Enigma do Príncipe
+http://lhmtv.gq/harry/Harry%20Potter%20e%20o%20Enigma%20do%20Pr%c3%adncipe%20(2009)%20Dublado%205.1%20CH%20720p%20(By-LuanHarper).mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Harry Potter e as Relíquias da Morte - Parte 1
+http://lhmtv.gq/harry/Harry%20Potter%20e%20as%20Rel%c3%adquias%20da%20Morte%20-%20Parte%201%20(2010)%20%20Dublado%205.1%20CH%20720p%20(By-LuanHarper).mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Harry Potter e as Relíquias da Morte - Parte 2
+http://lhmtv.gq/harry/Harry%20Potter%20e%20as%20Rel%c3%adquias%20da%20Morte%20-%20Parte%202%20(2010)%20%20Dublado%205.1%20CH%20720p%20(By-LuanHarper).mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,VovZona
+http://lhmtv.gq/vovozona/VovZona.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,VovZona 2
+http://lhmtv.gq/vovozona/VovZona2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,VovZona 3
+http://lhmtv.gq/vovozona/VovZona3.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,O Melhor da Warner
+http://lhmtv.gq/tim/warner/O%20Melhor%20da%20Warner%20Bros.CD%201.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,O Melhor da Warner II
+http://lhmtv.gq/tim/warner/O%20Melhor%20da%20Warner%20Bros-%20CD%202.2013.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Velozes e Furiosos
+http://lhmtv.gq/tim/velozesfuriosos/Velozes&Furiosos1(2001.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Velozes e Furiosos 2
+http://lhmtv.gq/tim/velozesfuriosos/Velozes&Furiosos2.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Velozes e Furiosos 3
+http://lhmtv.gq/tim/velozesfuriosos/Velozes&Furiosos3(2006).mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Velozes e Furiosos 4
+http://lhmtv.gq/tim/velozesfuriosos/Velozes&Furioso4.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Velozes e Furiosos 5
+http://lhmtv.gq/tim/velozesfuriosos/Velozes&Furiosos5.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Velozes e Furiosos 6
+http://lhmtv.gq/tim/velozesfuriosos/Velozes&Furiosos6(2013.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,Uma saida de mestre
+http://anhanga.lhmtv.gq/filmes/umasaidademestre-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,Atividade Paranormal - Dimensao Fantasma
+http://anhanga.lhmtv.gq/filmes/dimensaofantasma-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,Atividade Paranormal 2
+http://anhanga.lhmtv.gq/filmes/atividadeparanormal2-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,Amizade Desfeita
+http://anhanga.lhmtv.gq/filmes/amizadedesfeita-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,Amizade Desfeita 2
+http://anhanga.lhmtv.gq/filmes/amizadedesfeita2-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,Jogos Mortais
+http://anhanga.lhmtv.gq/filmes/jogosmortais-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,Jogos Mortais 2
+http://anhanga.lhmtv.gq/filmes/jogosmortais2-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,Jogos Mortais 3
+http://anhanga.lhmtv.gq/filmes/jogosmortais3-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,Jogos Mortais 4
+http://anhanga.lhmtv.gq/filmes/jogosmortais4-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,Jogos Mortais 5
+http://anhanga.lhmtv.gq/filmes/jogosmortais5-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,Jogos Mortais 6
+http://anhanga.lhmtv.gq/filmes/jogosmortais6-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,O Escorpiao Rei
+http://anhanga.lhmtv.gq/filmes/oescorpiaorei-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,O Escorpiao Rei 2: A Saga De Um Guerreiro
+http://anhanga.lhmtv.gq/filmes/oescorpiaorei2-dub-720p.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,Sai de Baixo – O Filme
+http://anhanga.lhmtv.gq/filmes/saidebaixoofilme-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,Minha Vida em Marte
+http://anhanga.lhmtv.gq/filmes/minhavidaemmartei-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,Nao se Aceitam Devolucoes
+http://anhanga.lhmtv.gq/filmes/naoseaceitamdevolucoes-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,10 Segundos para Vencer
+http://anhanga.lhmtv.gq/filmes/10segundosparavencer-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,Os Parcas
+http://anhanga.lhmtv.gq/filmes/osparcas-dub-1080p.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus",Rock - Um Lutador Op2
+http://iara.lhmtv.gq/Filmes/Dublados/Trilogia.Rock.Um.Lutador/Rocky1.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus",Rock 2 - A Revanche Op2
+http://iara.lhmtv.gq/Filmes/Dublados/Trilogia.Rock.Um.Lutador/Rocky2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus",Rock 3 - O Desafio Supremo Op2
+http://iara.lhmtv.gq/Filmes/Dublados/Trilogia.Rock.Um.Lutador/Rocky3.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus",Rock 4 Op2
+http://iara.lhmtv.gq/Filmes/Dublados/Trilogia.Rock.Um.Lutador/Rocky4.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus",Rock V Op2
+http://iara.lhmtv.gq/Filmes/Dublados/Trilogia.Rock.Um.Lutador/Rocky5.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus",Rock 6 Op2
+http://iara.lhmtv.gq/Filmes/Dublados/Trilogia.Rock.Um.Lutador/Rocky6.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,Dia De Casamento 4
+http://aranami.lhmtv.gq/filmes/Dia-De-Casamento-4.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,007 Cassino Royale
+http://aranami.lhmtv.gq/filmes/007-Cassino-Royale.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,007 Contra Spectre
+http://aranami.lhmtv.gq/filmes/007-Contra-Spectre.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,007 Operacao Skyfall
+http://aranami.lhmtv.gq/filmes/007-Operacao-Skyfall.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,007 Quantum of Solace
+http://aranami.lhmtv.gq/filmes/007-Quantum-of-Solace.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,10 Anos de Pura Amizade
+http://aranami.lhmtv.gq/filmes/10-Anos-de-Pura-Amizade.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,10 Coisas que Eu Odeio em Voce
+http://aranami.lhmtv.gq/filmes/10-Coisas-que-Eu-Odeio-em-Voce.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,10 Segundos para Vencer
+http://aranami.lhmtv.gq/filmes/10-Segundos-para-Vencer.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,100 Coisas
+http://aranami.lhmtv.gq/filmes/100-Coisas.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,101 Dalmatas
+http://aranami.lhmtv.gq/filmes/101-Dalmatas.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,10x10 O Cativeiro
+http://aranami.lhmtv.gq/filmes/10x10---O-Cativeiro.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,12 Anos De Escravidao
+http://aranami.lhmtv.gq/filmes/12-Anos-De-Escravidao.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,12 Herois
+http://aranami.lhmtv.gq/filmes/12-Herois.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,12 Rounds
+http://aranami.lhmtv.gq/filmes/12-Rounds.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,127 Horas
+http://aranami.lhmtv.gq/filmes/127-Horas.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,13 Assassinos
+http://aranami.lhmtv.gq/filmes/13-Assassinos.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,13 Fantasmas
+http://aranami.lhmtv.gq/filmes/13-Fantasmas.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,13 Horas Os Soldados Secretos de Benghazi
+http://aranami.lhmtv.gq/filmes/13-Horas-Os-Soldados-Secretos-de-Benghazi.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,15 Minutos de Guerra
+http://aranami.lhmtv.gq/filmes/15-Minutos-de-Guerra.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,15h17 - Trem Para Paris 4K
+http://aranami.lhmtv.gq/filmes/15h17---Trem-Para-Paris-4K.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,15h17 - Trem para Paris
+http://aranami.lhmtv.gq/filmes/15h17-Trem-para-Paris.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,17 Outra Vez
+http://aranami.lhmtv.gq/filmes/17-Outra-Vez.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,1917 TS 
+http://aranami.lhmtv.gq/filmes/1917-Cinema.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,1964 - O Brasil Entre Armas e Livros
+http://aranami.lhmtv.gq/filmes/1964---O-Brasil-Entre-Armas-e-Livros.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,Harry-Potter e A Pedra Filosofal 4K
+http://aranami.lhmtv.gq/filmes/1---Harry-Potter-E-A-Pedra-Filosofal-4K.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,Harry-Potter e A Camera Secreta 4K
+http://aranami.lhmtv.gq/filmes/2---Harry-Potter-E-A-Camera-Secreta-4K.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,Harry-Potter e O Prisioneiro De Azkaban 4K
+http://aranami.lhmtv.gq/filmes/3---Harry-Potter-E-O-Prisioneiro-De-Azkaban-4K.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,Harry-Potter e O Calice De Fogo 4K
+http://aranami.lhmtv.gq/filmes/4---Harry-Potter-E-O-Calice-De-Fogo-4K.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,Harry-Potter e A Ordem Da Fenix 4K
+http://aranami.lhmtv.gq/filmes/5---Harry-Potter-E-A-Ordem-Da-Fenix-4K.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,Harry-Potter e O Enigma Do Principe 4K
+http://aranami.lhmtv.gq/filmes/6---Harry-Potter-E-O-Enigma-Do-Principe-4K.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,Harry-Potter e as Reliquias da Morte Parte 1 4K
+http://aranami.lhmtv.gq/filmes/7---Harry-Potter-e-as-Reliquias-da-Morte---Parte-1-4K.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,Harry-Potter e as Reliquias da Morte Parte 2 4K
+http://aranami.lhmtv.gq/filmes/8---Harry-Potter-e-as-Reliquias-da-Morte---Parte-2-4K.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,2 Filhos de Francisco
+http://aranami.lhmtv.gq/filmes/2-Filhos-de-Francisco.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,20 Anos Mais Jovem
+http://aranami.lhmtv.gq/filmes/20-Anos-Mais-Jovem.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,2012
+http://aranami.lhmtv.gq/filmes/2012.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,2036 Origem Descohecida
+http://aranami.lhmtv.gq/filmes/2036-Origem-Descohecida.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,211 O Grande Assalto
+http://aranami.lhmtv.gq/filmes/211-O-Grande-Assalto.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,22 Balas
+http://aranami.lhmtv.gq/filmes/22-Balas.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,22 De Julho
+http://aranami.lhmtv.gq/filmes/22-De-Julho.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,22 Milhas
+http://aranami.lhmtv.gq/filmes/22-Milhas.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,3 Dias para Matar
+http://aranami.lhmtv.gq/filmes/3-Dias-para-Matar.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,3 Pedidos
+http://aranami.lhmtv.gq/filmes/3-Pedidos.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,30 Dias de Noite 
+http://aranami.lhmtv.gq/filmes/30-Dias-de-Noite-1.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,30 Dias de Noite 2
+http://aranami.lhmtv.gq/filmes/30-Dias-de-Noite-2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,300
+http://aranami.lhmtv.gq/filmes/300.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,300 A Ascensao do Imperio
+http://aranami.lhmtv.gq/filmes/300-A-Ascensao-do-Imperio.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,303 Squadron
+http://aranami.lhmtv.gq/filmes/303-Squadron-Legendado.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,4 Latas
+http://aranami.lhmtv.gq/filmes/4-Latas.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,47 Meters Down-Uncaged
+http://aranami.lhmtv.gq/filmes/47-Meters-Down-Uncaged-Legendado.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,500 Dias com ela
+http://aranami.lhmtv.gq/filmes/500-Dias-com-ela.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,55 Passos
+http://aranami.lhmtv.gq/filmes/55-Passos.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,60 Minutos para Morrer
+http://aranami.lhmtv.gq/filmes/60-Minutos-para-Morrer.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,60 Segundos
+http://aranami.lhmtv.gq/filmes/60-Segundos.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,7-Desejos
+http://aranami.lhmtv.gq/filmes/7-Desejos.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,7 Dias em Entebbe
+http://aranami.lhmtv.gq/filmes/7-Dias-em-Entebbe.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,72 Horas
+http://aranami.lhmtv.gq/filmes/72-Horas.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,8 Mulheres e 1 Segredo
+http://aranami.lhmtv.gq/filmes/8-Mulheres-e-1-Segredo.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A 100-Passos-De-Um-Sonho
+http://aranami.lhmtv.gq/filmes/A-100-Passos-De-Um-Sonho.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A 13o Emenda
+http://aranami.lhmtv.gq/filmes/A-13o-Emenda.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A 5a Onda
+http://aranami.lhmtv.gq/filmes/A-5a-Onda.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Abelhinha Maya O Filme
+http://aranami.lhmtv.gq/filmes/A-Abelhinha-Maya-O-Filme.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Arqueira
+http://aranami.lhmtv.gq/filmes/A-Arqueira.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Arte da Autodefesa
+http://aranami.lhmtv.gq/filmes/A-Arte-da-Autodefesa.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Arte da Conquista
+http://aranami.lhmtv.gq/filmes/A-Arte-da-Conquista.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Autopsia
+http://aranami.lhmtv.gq/filmes/A-Autopsia.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Baba
+http://aranami.lhmtv.gq/filmes/A-Baba.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Bailarina
+http://aranami.lhmtv.gq/filmes/A-Bailarina.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Balada de Buster Scruggs
+http://aranami.lhmtv.gq/filmes/A-Balada-de-Buster-Scruggs.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Balada do Pistoleiro
+http://aranami.lhmtv.gq/filmes/A-Balada-do-Pistoleiro.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Barraca do Beijo
+http://aranami.lhmtv.gq/filmes/A-Barraca-do-Beijo.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Bela Adormecida
+http://aranami.lhmtv.gq/filmes/A-Bela-Adormecida.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Bela e a Fera
+http://aranami.lhmtv.gq/filmes/A-Bela-e-a-Fera.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Boneca Que Virou Gente 2
+http://aranami.lhmtv.gq/filmes/A-Boneca-Que-Virou-Gente-2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Cabana
+http://aranami.lhmtv.gq/filmes/A-Cabana.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Caca
+http://aranami.lhmtv.gq/filmes/A-Caca.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Caminho da Fe
+http://aranami.lhmtv.gq/filmes/A-Caminho-da-Fe.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Caminho de Casa
+http://aranami.lhmtv.gq/filmes/A-Caminho-de-Casa.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Carga
+http://aranami.lhmtv.gq/filmes/A-Carga.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Casa Caiu Um Cassino na Vizinhanca
+http://aranami.lhmtv.gq/filmes/A-Casa-Caiu-Um-Cassino-na-Vizinhanca.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Casa Torta
+http://aranami.lhmtv.gq/filmes/A-Casa-Torta.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Casa de Cera
+http://aranami.lhmtv.gq/filmes/A-Casa-de-Cera.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Casa de Vidro
+http://aranami.lhmtv.gq/filmes/A-Casa-de-Vidro.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Casa do Lago
+http://aranami.lhmtv.gq/filmes/A-Casa-do-Lago.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Casa do Medo - Incidente em Ghostland
+http://aranami.lhmtv.gq/filmes/A-Casa-do-Medo---Incidente-em-Ghostland.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Casa do Medo
+http://aranami.lhmtv.gq/filmes/A-Casa-do-Medo.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Casa dos Sonhos
+http://aranami.lhmtv.gq/filmes/A-Casa-dos-Sonhos.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Caverna Perigo Subterraneo
+http://aranami.lhmtv.gq/filmes/A-Caverna-Perigo-Subterraneo.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Centopeia Humana
+http://aranami.lhmtv.gq/filmes/A-Centopeia-Humana.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Chefa
+http://aranami.lhmtv.gq/filmes/A-Chefa.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Chegada
+http://aranami.lhmtv.gq/filmes/A-Chegada.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Cinco Passos de Voce
+http://aranami.lhmtv.gq/filmes/A-Cinco-Passos-de-Voce.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Cinderella-Story-Christmas-Wish
+http://aranami.lhmtv.gq/filmes/A-Cinderella-Story-Christmas-Wish-Legendado.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Colina-Escarlate
+http://aranami.lhmtv.gq/filmes/A-Colina-Escarlate.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Comedia-Divina
+http://aranami.lhmtv.gq/filmes/A-Comedia-Divina.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Conquista Da Lua Parte 1
+http://aranami.lhmtv.gq/filmes/A-Conquista-Da-Lua-Parte-1.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Conquista Da Lua Parte 2
+http://aranami.lhmtv.gq/filmes/A-Conquista.Da-Lua-Parte-2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Copa do Peru
+http://aranami.lhmtv.gq/filmes/A-Copa-do-Peru.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Cor Purpura
+http://aranami.lhmtv.gq/filmes/A-Cor-Purpura.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Corrente do Bem
+http://aranami.lhmtv.gq/filmes/A-Corrente-do-Bem.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Creche do Papai
+http://aranami.lhmtv.gq/filmes/A-Creche-do-Papai.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Criada
+http://aranami.lhmtv.gq/filmes/A-Criada.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Culpa e das Estrelas
+http://aranami.lhmtv.gq/filmes/A-Culpa-e-das-Estrelas.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Cura
+http://aranami.lhmtv.gq/filmes/A-Cura.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Dama e o Vagabundo
+http://aranami.lhmtv.gq/filmes/A-Dama-e-o-Vagabundo.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Dogs Journey
+http://aranami.lhmtv.gq/filmes/A-Dogs-Journey-Legendado.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Encruzilhada
+http://aranami.lhmtv.gq/filmes/A-Encruzilhada.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Entidade-
+http://aranami.lhmtv.gq/filmes/A-Entidade.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Entidade-2
+http://aranami.lhmtv.gq/filmes/A-Entidade-2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Epoca Mais Maravilhosa Do Ano
+http://aranami.lhmtv.gq/filmes/A-Epoca-Mais-Maravilhosa-Do-Ano.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Era do Gelo
+http://aranami.lhmtv.gq/filmes/A-Era-do-Gelo-1.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Era do Gelo 2
+http://aranami.lhmtv.gq/filmes/A-Era-do-Gelo-2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Era do Gelo 3
+http://aranami.lhmtv.gq/filmes/A-Era-do-Gelo-3.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Era do Gelo 4
+http://aranami.lhmtv.gq/filmes/A-Era-do-Gelo-4.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Era do Gelo 5
+http://aranami.lhmtv.gq/filmes/A-Era-do-Gelo-5.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A-Escala-Amizade-Em-Segundo-Lugar
+http://aranami.lhmtv.gq/filmes/A-Escala-Amizade-Em-Segundo-Lugar.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A-Escola-da-Vida
+http://aranami.lhmtv.gq/filmes/A-Escola-da-Vida.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Escolha-Perfeita-1
+http://aranami.lhmtv.gq/filmes/A-Escolha-Perfeita-1.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Escolha-Perfeita-2
+http://aranami.lhmtv.gq/filmes/A-Escolha-Perfeita-2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Escolha-Perfeita-3
+http://aranami.lhmtv.gq/filmes/A-Escolha-Perfeita-3.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Escolha 4
+http://aranami.lhmtv.gq/filmes/A-Escolha.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Escuridao
+http://aranami.lhmtv.gq/filmes/A-Escuridao.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Espada do Imortal
+http://aranami.lhmtv.gq/filmes/A-Espada-do-Imortal.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Espada do Imortal 2
+http://aranami.lhmtv.gq/filmes/A-Espada-do-Imortal-2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Espera de um Milagre
+http://aranami.lhmtv.gq/filmes/A-Espera-de-um-Milagre.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Espia Vermelha
+http://aranami.lhmtv.gq/filmes/A-Espia-Vermelha.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Esposa
+http://aranami.lhmtv.gq/filmes/A-Esposa.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Estrela de Belem
+http://aranami.lhmtv.gq/filmes/A-Estrela-de-Belem.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Experiencia 
+http://aranami.lhmtv.gq/filmes/A-Experiencia-1.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Experiencia 2
+http://aranami.lhmtv.gq/filmes/A-Experiencia-2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Experiencia 3
+http://aranami.lhmtv.gq/filmes/A-Experiencia-3.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Experiencia 4
+http://aranami.lhmtv.gq/filmes/A-Experiencia-4.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Extraordinaria Jornada do Faquir
+http://aranami.lhmtv.gq/filmes/A-Extraordinaria-Jornada-do-Faquir.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Face da Morte
+http://aranami.lhmtv.gq/filmes/A-Face-da-Morte.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Familia Addams
+http://aranami.lhmtv.gq/filmes/A-Familia-Addams-Cinema.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Familia Belier
+http://aranami.lhmtv.gq/filmes/A-Familia-Belier.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Familia do Futuro
+http://aranami.lhmtv.gq/filmes/A-Familia-do-Futuro.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Fantastica Fabrica De Chocolate
+http://aranami.lhmtv.gq/filmes/A-Fantastica-Fabrica-De-Chocolate.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Favorita
+http://aranami.lhmtv.gq/filmes/A-Favorita.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Fera
+http://aranami.lhmtv.gq/filmes/A-Fera.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Filha do Pastor
+http://aranami.lhmtv.gq/filmes/A-Filha-do-Pastor.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Filha do Presidente
+http://aranami.lhmtv.gq/filmes/A-Filha-do-Presidente.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Forca 2
+http://aranami.lhmtv.gq/filmes/A-Forca-2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Forma da Agua
+http://aranami.lhmtv.gq/filmes/A-Forma-da-Agua.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Fraternidade
+http://aranami.lhmtv.gq/filmes/A-Fraternidade.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Freira 4K
+http://aranami.lhmtv.gq/filmes/A-Freira-4K.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Freira
+http://aranami.lhmtv.gq/filmes/A-Freira.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Fuga Das Galinhas
+http://aranami.lhmtv.gq/filmes/A-Fuga-Das-Galinhas.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Garota da Capa Vermelha
+http://aranami.lhmtv.gq/filmes/A-Garota-da-Capa-Vermelha.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Garota do Armario
+http://aranami.lhmtv.gq/filmes/A-Garota-do-Armario.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Garota no Trem
+http://aranami.lhmtv.gq/filmes/A-Garota-no-Trem.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Gente Se Ve Ontem
+http://aranami.lhmtv.gq/filmes/A-Gente-Se-Ve-Ontem.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Grande Aposta
+http://aranami.lhmtv.gq/filmes/A-Grande-Aposta.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Grande Cacada
+http://aranami.lhmtv.gq/filmes/A-Grande-Cacada.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Grande Jogada
+http://aranami.lhmtv.gq/filmes/A-Grande-Jogada.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Grande Mentira
+http://aranami.lhmtv.gq/filmes/A-Grande-Mentira.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Grande Muralha
+http://aranami.lhmtv.gq/filmes/A-Grande-Muralha.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Guarda do Leao Um Novo Rugido
+http://aranami.lhmtv.gq/filmes/A-Guarda-do-Leao-Um-Novo-Rugido.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Historia Sem Fim
+http://aranami.lhmtv.gq/filmes/A-Historia-Sem-Fim.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Historia Verdadeira
+http://aranami.lhmtv.gq/filmes/A-Historia-Verdadeira.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Historia de Gabby Douglas
+http://aranami.lhmtv.gq/filmes/A-Historia-de-Gabby-Douglas.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Hora do Pesadelo
+http://aranami.lhmtv.gq/filmes/A-Hora-do-Pesadelo.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Hora do Pesadelo 2
+http://aranami.lhmtv.gq/filmes/A-Hora-do-Pesadelo-2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Hora do Pesadelo 3
+http://aranami.lhmtv.gq/filmes/A-Hora-do-Pesadelo-3.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Hora do Pesadelo 4
+http://aranami.lhmtv.gq/filmes/A-Hora-do-Pesadelo-4.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Hora do Pesadelo 5
+http://aranami.lhmtv.gq/filmes/A-Hora-do-Pesadelo-5.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Hora do Pesadelo 6
+http://aranami.lhmtv.gq/filmes/A-Hora-do-Pesadelo-6.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Hora do Pesadelo 7
+http://aranami.lhmtv.gq/filmes/A-Hora-do-Pesadelo-7.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Hora do Rush
+http://aranami.lhmtv.gq/filmes/A-Hora-do-Rush.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Hora do Rush 2
+http://aranami.lhmtv.gq/filmes/A-Hora-do-Rush-2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Hora do Rush 3
+http://aranami.lhmtv.gq/filmes/A-Hora-do-Rush-3.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Hospedeira
+http://aranami.lhmtv.gq/filmes/A-Hospedeira.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Identidade Bourne
+http://aranami.lhmtv.gq/filmes/A-Identidade-Bourne-1.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Identidade Bourne 2
+http://aranami.lhmtv.gq/filmes/A-Identidade-Bourne-2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Identidade Bourne 3
+http://aranami.lhmtv.gq/filmes/A-Identidade-Bourne-3.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Identidade Bourne 4
+http://aranami.lhmtv.gq/filmes/A-Identidade-Bourne-4.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Ilha da Morte
+http://aranami.lhmtv.gq/filmes/A-Ilha-da-Morte.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Ilha
+http://aranami.lhmtv.gq/filmes/A-Ilha.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Incrivel Historia de Adaline
+http://aranami.lhmtv.gq/filmes/A-Incrivel-Historia-de-Adaline.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Invasora
+http://aranami.lhmtv.gq/filmes/A-Invasora.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Inveja-Mata
+http://aranami.lhmtv.gq/filmes/A-Inveja-Mata.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Invocacao
+http://aranami.lhmtv.gq/filmes/A-Invocacao.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Invocacao 2
+http://aranami.lhmtv.gq/filmes/A-Invocacao-2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Justiceira
+http://aranami.lhmtv.gq/filmes/A-Justiceira.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Lagoa Azul
+http://aranami.lhmtv.gq/filmes/A-Lagoa-Azul.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Lagoa Azul 2
+http://aranami.lhmtv.gq/filmes/A-Lagoa-Azul-2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Lavanderia
+http://aranami.lhmtv.gq/filmes/A-Lavanderia.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Lenda Do Tesouro Perdido - Livro Dos Segredos
+http://aranami.lhmtv.gq/filmes/A-Lenda-Do-Tesouro-Perdido---Livro-Dos-Segredos.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Lenda Do Tesouro Perdido
+http://aranami.lhmtv.gq/filmes/A-Lenda-Do-Tesouro-Perdido.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Lenda Dos-Guardioes
+http://aranami.lhmtv.gq/filmes/A-Lenda-Dos-Guardioes.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Lenda de Beowulf
+http://aranami.lhmtv.gq/filmes/A-Lenda-de-Beowulf.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Lenda de Golem
+http://aranami.lhmtv.gq/filmes/A-Lenda-de-Golem.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Lenda de Tarzan
+http://aranami.lhmtv.gq/filmes/A-Lenda-de-Tarzan.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Lenda do Cavalo-Prateado
+http://aranami.lhmtv.gq/filmes/A-Lenda-do-Cavalo-Prateado.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Lenda do Pato Sol
+http://aranami.lhmtv.gq/filmes/A-Lenda-do-Pato-Sol.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Lenda
+http://aranami.lhmtv.gq/filmes/A-Lenda.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Liga Extraordinaria
+http://aranami.lhmtv.gq/filmes/A-Liga-Extraordinaria.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Lista de Schindler
+http://aranami.lhmtv.gq/filmes/A-Lista-de-Schindler.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Luneta do Tempo
+http://aranami.lhmtv.gq/filmes/A-Luneta-do-Tempo.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Luz Divina
+http://aranami.lhmtv.gq/filmes/A-Luz-Divina.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Luz Entre Oceanos
+http://aranami.lhmtv.gq/filmes/A-Luz-Entre-Oceanos.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Madea Family Funeral
+http://aranami.lhmtv.gq/filmes/A-Madea-Family-Funeral-Legendado.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Magia de um Sonho
+http://aranami.lhmtv.gq/filmes/A-Magia-de-um-Sonho.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Maldicao De Chucky
+http://aranami.lhmtv.gq/filmes/A-Maldicao-De-Chucky.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Maldicao da Bela Adormecida
+http://aranami.lhmtv.gq/filmes/A-Maldicao-da-Bela-Adormecida.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Maldicao da Casa Winchester
+http://aranami.lhmtv.gq/filmes/A-Maldicao-da-Casa-Winchester.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Maldicao da Chorona
+http://aranami.lhmtv.gq/filmes/A-Maldicao-da-Chorona.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Maldicao da Freira
+http://aranami.lhmtv.gq/filmes/A-Maldicao-da-Freira.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Maldicao de Sharon Tate
+http://aranami.lhmtv.gq/filmes/A-Maldicao-de-Sharon-Tate.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Maquina de Lembrancas
+http://aranami.lhmtv.gq/filmes/A-Maquina-de-Lembrancas.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Maratona de Brittany
+http://aranami.lhmtv.gq/filmes/A-Maratona-de-Brittany.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Marca Negra
+http://aranami.lhmtv.gq/filmes/A-Marca-Negra.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Mascara do Zorro
+http://aranami.lhmtv.gq/filmes/A-Mascara-do-Zorro.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Melhor Escolha
+http://aranami.lhmtv.gq/filmes/A-Melhor-Escolha.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Menina e o Leao
+http://aranami.lhmtv.gq/filmes/A-Menina-e-o-Leao.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Mentira
+http://aranami.lhmtv.gq/filmes/A-Mentira.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Metas de Jessica Darling
+http://aranami.lhmtv.gq/filmes/A-Metas-de-Jessica-Darling.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Moda Antiga
+http://aranami.lhmtv.gq/filmes/A-Moda-Antiga.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Morte Lhe Cai Bem
+http://aranami.lhmtv.gq/filmes/A-Morte-Lhe-Cai-Bem.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Morte te da Parabens
+http://aranami.lhmtv.gq/filmes/A-Morte-te-da-Parabens.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Morte Te Da Parabens 2
+http://aranami.lhmtv.gq/filmes/A-Morte-Te-Da-Parabens-2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Morte de Stalin
+http://aranami.lhmtv.gq/filmes/A-Morte-de-Stalin.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Morte do Superman
+http://aranami.lhmtv.gq/filmes/A-Morte-do-Superman.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Mosca
+http://aranami.lhmtv.gq/filmes/A-Mosca.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Mula
+http://aranami.lhmtv.gq/filmes/A-Mula.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Mula 4K
+http://aranami.lhmtv.gq/filmes/A-Mula-4K.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Mulher De Preto
+http://aranami.lhmtv.gq/filmes/A-Mulher-De-Preto.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Mulher do Meu Marido
+http://aranami.lhmtv.gq/filmes/A-Mulher-do-Meu-Marido.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Mumia 1999
+http://aranami.lhmtv.gq/filmes/A-Mumia-1999.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Mumia
+http://aranami.lhmtv.gq/filmes/A-Mumia.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Mumia 2
+http://aranami.lhmtv.gq/filmes/A-Mumia-2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Mumia 3
+http://aranami.lhmtv.gq/filmes/A-Mumia-3.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Musica da Minha Vida
+http://aranami.lhmtv.gq/filmes/A-Musica-da-Minha-Vida..mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Namorada do Meu Irmao
+http://aranami.lhmtv.gq/filmes/A-Namorada-do-Meu-Irmao.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Noite Devorou o Mundo
+http://aranami.lhmtv.gq/filmes/A-Noite-Devorou-o-Mundo.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Noite do Jogo
+http://aranami.lhmtv.gq/filmes/A-Noite-do-Jogo.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Noite nos Persegue
+http://aranami.lhmtv.gq/filmes/A-Noite-nos-Persegue.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Noiva Cadaver
+http://aranami.lhmtv.gq/filmes/A-Noiva-Cadaver.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Noiva De Chucky
+http://aranami.lhmtv.gq/filmes/A-Noiva-De-Chucky.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Noiva
+http://aranami.lhmtv.gq/filmes/A-Noiva.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Nova onda do Imperador
+http://aranami.lhmtv.gq/filmes/A-Nova-onda-do-Imperador.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Novica Rebelde
+http://aranami.lhmtv.gq/filmes/A-Novica-Rebelde.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Odisseia De Jacques
+http://aranami.lhmtv.gq/filmes/A-Odisseia-De-Jacques.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Onda
+http://aranami.lhmtv.gq/filmes/A-Onda.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Orfa
+http://aranami.lhmtv.gq/filmes/A-Orfa.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Origem dos Guardioes
+http://aranami.lhmtv.gq/filmes/A-Origem-dos-Guardioes.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Origem
+http://aranami.lhmtv.gq/filmes/A-Origem.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Outra Face
+http://aranami.lhmtv.gq/filmes/A-Outra-Face.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Outra Filha
+http://aranami.lhmtv.gq/filmes/A-Outra-Filha.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Outra Historia Americana
+http://aranami.lhmtv.gq/filmes/A-Outra-Historia-Americana.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Outra Mae
+http://aranami.lhmtv.gq/filmes/A-Outra-Mae.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Outra Terra
+http://aranami.lhmtv.gq/filmes/A-Outra-Terra.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Paixao de Cristo
+http://aranami.lhmtv.gq/filmes/A-Paixao-de-Cristo.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Pe Ele Nao Vai Longe
+http://aranami.lhmtv.gq/filmes/A-Pe-Ele-Nao-Vai-Longe.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Pele Que Habito
+http://aranami.lhmtv.gq/filmes/A-Pele-Que-Habito.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Pequena Morte
+http://aranami.lhmtv.gq/filmes/A-Pequena-Morte.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Pequena Sereia
+http://aranami.lhmtv.gq/filmes/A-Pequena-Sereia.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Pequena Suica
+http://aranami.lhmtv.gq/filmes/A-Pequena-Suica.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Primeira Noite de Crime
+http://aranami.lhmtv.gq/filmes/A-Primeira-Noite-de-Crime.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Princesa e a Plebeia
+http://aranami.lhmtv.gq/filmes/A-Princesa-e-a-Plebeia.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Princesa e o Dragao
+http://aranami.lhmtv.gq/filmes/A-Princesa-e-o-Dragao.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Princesa e o Sapo
+http://aranami.lhmtv.gq/filmes/A-Princesa-e-o-Sapo.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Princesinha
+http://aranami.lhmtv.gq/filmes/A-Princesinha.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Procura da Felicidade
+http://aranami.lhmtv.gq/filmes/A-Procura-Da-Felicidade.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Professora Do Jardim De Infancia
+http://aranami.lhmtv.gq/filmes/A-Professora-Do-Jardim-De-Infancia.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Proposta
+http://aranami.lhmtv.gq/filmes/A-Proposta.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Prova-de-Fogo
+http://aranami.lhmtv.gq/filmes/A-Prova-de-Fogo.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Queda de Berlim
+http://aranami.lhmtv.gq/filmes/A-Queda-de-Berlim.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Queima Roupa
+http://aranami.lhmtv.gq/filmes/A-Queima-Roupa.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Quimica do Amor
+http://aranami.lhmtv.gq/filmes/A-Quimica-do-Amor.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Rainy Day In New-York
+http://aranami.lhmtv.gq/filmes/A-Rainy-Day-In-New-York-L.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Rebeliao
+http://aranami.lhmtv.gq/filmes/A-Rebeliao.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Rede-Social
+http://aranami.lhmtv.gq/filmes/A-Rede-Social.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Reviravolta
+http://aranami.lhmtv.gq/filmes/A-Reviravolta.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Senha-Swordfish
+http://aranami.lhmtv.gq/filmes/A-Senha-Swordfish.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Senhora-da-Van
+http://aranami.lhmtv.gq/filmes/A-Senhora-da-Van.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Sereia Lago dos Mortos
+http://aranami.lhmtv.gq/filmes/A-Sereia-Lago-dos-Mortos.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Serie Divergente Convergente
+http://aranami.lhmtv.gq/filmes/A-Serie-Divergente-Convergente.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Serie Divergente Insurgente
+http://aranami.lhmtv.gq/filmes/A-Serie-Divergente-Insurgente.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Sombra e A Escuridao
+http://aranami.lhmtv.gq/filmes/A-Sombra-E-A-Escuridao.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Sombra de Summer
+http://aranami.lhmtv.gq/filmes/A-Sombra-de-Summer.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Sua Parte Fragil
+http://aranami.lhmtv.gq/filmes/A-Sua-Parte-Fragil.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Teoria De Tudo
+http://aranami.lhmtv.gq/filmes/A-Teoria-De-Tudo.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Torre Negra
+http://aranami.lhmtv.gq/filmes/A-Torre-Negra.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Travessia
+http://aranami.lhmtv.gq/filmes/A-Travessia.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Troca
+http://aranami.lhmtv.gq/filmes/A-Troca.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Ultima Gargalhada
+http://aranami.lhmtv.gq/filmes/A-Ultima-Gargalhada.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Ultima Jornada
+http://aranami.lhmtv.gq/filmes/A-Ultima-Jornada.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Ultima Missao
+http://aranami.lhmtv.gq/filmes/A-Ultima-Missao.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Ultima Musica
+http://aranami.lhmtv.gq/filmes/A-Ultima-Musica.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Ultima Resistencia
+http://aranami.lhmtv.gq/filmes/A-Ultima-Resistencia.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Verdade Nua e Crua
+http://aranami.lhmtv.gq/filmes/A-Verdade-Nua-e-Crua.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Viagem
+http://aranami.lhmtv.gq/filmes/A-Viagem.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Vida Em Mim
+http://aranami.lhmtv.gq/filmes/A-Vida-Em-Mim.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Vida Moderna De Rocko Volta Ao Lar
+http://aranami.lhmtv.gq/filmes/A-Vida-Moderna-De-Rocko-Volta-Ao-Lar.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Vida Secreta de Walter Mitty
+http://aranami.lhmtv.gq/filmes/A-Vida-Secreta-de-Walter-Mitty.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Vida Secreta de Zoe
+http://aranami.lhmtv.gq/filmes/A-Vida-Secreta-de-Zoe.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Vida e Bela
+http://aranami.lhmtv.gq/filmes/A-Vida-e-Bela.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Vida em Si
+http://aranami.lhmtv.gq/filmes/A-Vida-em-Si.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Vigilante do Amanha
+http://aranami.lhmtv.gq/filmes/A-Vigilante-do-Amanha.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Vigilante
+http://aranami.lhmtv.gq/filmes/A-Vigilante.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Vila
+http://aranami.lhmtv.gq/filmes/A-Vila.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Virada
+http://aranami.lhmtv.gq/filmes/A-Virada.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Volta do Espirito de Natal
+http://aranami.lhmtv.gq/filmes/A-Volta-do-Espirito-de-Natal.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A-Volta-do-Todo-Poderoso
+http://aranami.lhmtv.gq/filmes/A-Volta-do-Todo-Poderoso.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Volta dos Mortos Vivos
+http://aranami.lhmtv.gq/filmes/A-Volta-dos-Mortos-Vivos-1.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Volta dos Mortos Vivos 2
+http://aranami.lhmtv.gq/filmes/A-Volta-dos-Mortos-Vivos-2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A Young Man With High Potential
+http://aranami.lhmtv.gq/filmes/A-Young-Man-With-High-Potential-Legendado.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/bonus.png" group-title="Sessao Bonus" ,A.X.L O Cao Robo
+http://aranami.lhmtv.gq/filmes/A.X.L-O-Cao-Robo.mp4?LHMTv
+
+		#EXTINF:-1,Vingadores: Ultimato
+			#EXTINF:-1 tvg-logo="" group-title="VOD",Vingadores: Ultimato HD
+				http://anhanga.lhmtv.gq/filmes/avengersendgamenew-dub-1080p.mp4?LHMTv
+
+		#EXTINF:-1,Bohemian Rhapsody
+			#EXTINF:-1 tvg-logo="" group-title="VOD",Bohemian Rhapsody
+				http://anhanga.lhmtv.gq/filmes/bohemianrhapsody-dub-720p.mp4?LHMTv
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="VOD",
@@ -6137,53 +7387,95 @@ https://archive.org/download/FreeFall2014720p/Free%20Fall%20(2014)%20720p.mp4
             #EXTINF:-1 tvg-logo="https://i.ibb.co/1bddFNY/MV5-BY2-I0-ODQ3-Mm-Mt-Yzk5-Zi00-OGQz-LWFh-ODUt-Mjlh-Ym-I4-Mjgw-ODVh-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Mx-Nz-Q2-NTQ-V1-UX182-CR0-0-182-268-AL.jpg" group-title="VOD Kids",space tunder (1991)
                 https://archive.org/download/SpaceThunderKids/SpaceThunderKidsDIVX_512kb.mp4
 
-		#EXTINF:-1, 
-            #EXTINF:-1 tvg-logo="" group-title="VOD Kids",
-                
+		#EXTINF:-1, Mortal Kombat Legends: Scorpions Revenge LEG
+            #EXTINF:-1 tvg-logo="" group-title="VOD Kids",Mortal Kombat Legends: Scorpions Revenge LEG
+                http://sume.lhmtv.gq/CDN2/Mortal.Kombat.Legends.Scorpions.Revenge.2020.720p.MP4.LEG.BaixarSeriesMP4.org.mp4?LHMTv
 
-		#EXTINF:-1, 
-            #EXTINF:-1 tvg-logo="" group-title="VOD Kids",
-                
+		#EXTINF:-1, Frozen 2 LEG
+            #EXTINF:-1 tvg-logo="" group-title="VOD Kids",Frozen 2 LEG
+                http://anhanga.lhmtv.gq/filmes/frozen2-leg-720p.mp4?LHMTv
 
-		#EXTINF:-1, 
-            #EXTINF:-1 tvg-logo="" group-title="VOD Kids",
-                
+		#EXTINF:-1, Klaus
+            #EXTINF:-1 tvg-logo="" group-title="VOD Kids",Klaus
+                http://anhanga.lhmtv.gq/filmes/klaus-dub-720p.mp4?LHMTv
 
-		#EXTINF:-1, 
-            #EXTINF:-1 tvg-logo="" group-title="VOD Kids",
-                
+		#EXTINF:-1, Toy Story 4
+            #EXTINF:-1 tvg-logo="" group-title="VOD Kids",Toy Story 4 HD
+                http://anhanga.lhmtv.gq/filmes/toystory4-dub-1080p.mp4?LHMTv
 
-		#EXTINF:-1, 
-            #EXTINF:-1 tvg-logo="" group-title="VOD Kids",
-                
+		#EXTINF:-1, O Rei Leao
+            #EXTINF:-1 tvg-logo="" group-title="VOD Kids",O Rei Leao
+                http://anhanga.lhmtv.gq/filmes/reileaots-dub-720p.mp4?LHMTv
 
-		#EXTINF:-1, 
-            #EXTINF:-1 tvg-logo="" group-title="VOD Kids",
-                
+		#EXTINF:-1, Pets – A Vida Secreta dos Bichos 2
+            #EXTINF:-1 tvg-logo="" group-title="VOD Kids",Pets – A Vida Secreta dos Bichos 2
+                http://anhanga.lhmtv.gq/filmes/pets2ts-dub-720p.mp4?LHMTv
 
-		#EXTINF:-1, 
-            #EXTINF:-1 tvg-logo="" group-title="VOD Kids",
-                
+		#EXTINF:-1, O Parque dos Sonhos
+            #EXTINF:-1 tvg-logo="" group-title="VOD Kids",O Parque dos Sonhos
+                http://anhanga.lhmtv.gq/filmes/oparquedossonhosts-dub-720p.mp4?LHMTv
 
-		#EXTINF:-1, 
-            #EXTINF:-1 tvg-logo="" group-title="VOD Kids",
-                
+		#EXTINF:-1, Pokemon: Detetive Pikachu
+            #EXTINF:-1 tvg-logo="" group-title="VOD Kids",Pokemon: Detetive Pikachu
+                http://anhanga.lhmtv.gq/filmes/detetivepikachu-dub-360p.mp4?LHMTv
 
-		#EXTINF:-1, 
-            #EXTINF:-1 tvg-logo="" group-title="VOD Kids",
-                
+		#EXTINF:-1, Dumbo
+            #EXTINF:-1 tvg-logo="" group-title="VOD Kids",Dumbo
+                http://anhanga.lhmtv.gq/filmes/dumbo-dub-1080p.mp4?LHMTv
 
-		#EXTINF:-1, 
-            #EXTINF:-1 tvg-logo="" group-title="VOD Kids",
-                
+		#EXTINF:-1, Homem Aranha: No Aranhaverso
+            #EXTINF:-1 tvg-logo="" group-title="VOD Kids",Homem Aranha: No Aranhaverso
+                http://anhanga.lhmtv.gq/filmes/aranhaverso-dub-720p.mp4?LHMTv
 
-		#EXTINF:-1, 
-            #EXTINF:-1 tvg-logo="" group-title="VOD Kids",
-                
+		#EXTINF:-1, WiFi Ralph: Quebrando a Internet
+            #EXTINF:-1 tvg-logo="" group-title="VOD Kids",WiFi Ralph: Quebrando a Internet
+                http://anhanga.lhmtv.gq/filmes/wifiralphh-dub-720p.mp4?LHMTv
 
-		#EXTINF:-1, 
-            #EXTINF:-1 tvg-logo="" group-title="VOD Kids",
-                
+		#EXTINF:-1, O Grinch
+            #EXTINF:-1 tvg-logo="" group-title="VOD Kids",O Grinch
+                http://anhanga.lhmtv.gq/filmes/ogrinch-dub-720p.mp4?LHMTv
+
+		#EXTINF:-1, A Morte do Superman
+            #EXTINF:-1 tvg-logo="" group-title="VOD Kids",A Morte do Superman
+                http://anhanga.lhmtv.gq/filmes/thedeathofsuperman-dub-720p.mp4?LHMTv
+
+		#EXTINF:-1, Amigos Alienigenas
+            #EXTINF:-1 tvg-logo="" group-title="VOD Kids",Amigos Alienigenas
+                http://anhanga.lhmtv.gq/filmes/amigosalienigenas-dub-1080p.mp4?LHMTv
+
+		#EXTINF:-1, O Resgate da Princesa
+            #EXTINF:-1 tvg-logo="" group-title="VOD Kids",O Resgate da Princesa
+               http://anhanga.lhmtv.gq/filmes/oresgatedaprincesa-dub-720p.mp4?LHMTv
+
+		#EXTINF:-1, PePequeno
+            #EXTINF:-1 tvg-logo="" group-title="VOD Kids",PePequeno
+                http://anhanga.lhmtv.gq/filmes/pepequeno-dub-1080p.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Os Incriveis 2
+http://anhanga.lhmtv.gq/filmes/osincriveis2new-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Constantine: Cidade dos Demonios
+http://anhanga.lhmtv.gq/filmes/constantinecidadedemonio-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Hotel Transilvania 3: Ferias Monstruosas
+http://anhanga.lhmtv.gq/filmes/hoteltransilvania3-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,DC Super Hero Girls: Lendas de Atlantida
+http://anhanga.lhmtv.gq/filmes/dcsuperheroeslendasdeatlantida-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Tem Alienígenas no Meu Quarto
+http://anhanga.lhmtv.gq/filmes/temalienigenasnomeuquarto-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Bleach – Filme
+http://anhanga.lhmtv.gq/filmes/bleachmovie-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Toy Story
+http://lhmtv.gq/bonus/movies/Cole%c3%a7%c3%a3o%20Toy%20Storie/1071.MKV?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Toy Story 2
+http://lhmtv.gq/bonus/movies/Cole%c3%a7%c3%a3o%20Toy%20Storie/1072.MKV?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,Toy Story 3
+http://lhmtv.gq/bonus/movies/Cole%c3%a7%c3%a3o%20Toy%20Storie/1073.MKV?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,O Bicho Vai Pegar
+http://lhmtv.gq/bonus/obichopegar/bicho1.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,O Bicho Vai Pegar 2
+http://lhmtv.gq/bonus/obichopegar/bicho2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/classicos.png" group-title="Classicos" ,O Bicho Vai Pegar 3
+http://lhmtv.gq/bonus/obichopegar/bicho3.mp4?LHMTv
+
 
 		#EXTINF:-1, 
             #EXTINF:-1 tvg-logo="" group-title="VOD Kids",
