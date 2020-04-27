@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 	#EXTINF:-1,Zubi DreamList 
-		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.79 (26/04/2020)
+		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.80 (27/04/2020)
 			http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR yellow]<== LÍNGUA PORTUGUESA ==>[/COLOR][/B]
@@ -23,7 +23,7 @@
 			#EXTINF:-1 group-title="Generalistas" tvg-id="sic.pt" tvg-logo="https://image.ibb.co/mGcbik/SIC.png",SIC  (Generalistas)
 				http://live.impresa.pt/live/sic/sic540p.m3u8
 			#EXTINF:-1 group-title="Generalistas" tvg-id="sic.pt" tvg-logo="https://image.ibb.co/mGcbik/SIC.png",SIC (Alternativa)(Generalistas)
-				
+				http://live.impresa.pt/live/sic/sic.m3u8
 
 		#EXTINF:-1,TVI
 			#EXTINF:-1 group-title="Generalistas"  tvg-name="tvi.pt" audio-track="pt" tvg-logo="https://image.ibb.co/gx1rG5/TVI.png",TVI (Generalistas)
@@ -53,7 +53,7 @@
 			#EXTINF:-1 group-title="Generalistas" tvg-id="PortoCanal.pt" tvg-logo="https://image.ibb.co/gjrV9Q/PORTO_Canal.png",PORTO Canal (Generalistas)
 				https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w1350687174.m3u8
 			#EXTINF:-1 group-title="Generalistas" tvg-id="PortoCanal.pt" tvg-logo="https://image.ibb.co/gjrV9Q/PORTO_Canal.png",PORTO Canal (Generalistas)(Alternativa)
-				
+				http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
 
 		#EXTINF:-1,RTP Africa
 			#EXTINF:-1 group-title="Generalistas" tvg-id="RTPAfrica.pt" tvg-logo="https://image.ibb.co/mS9BG5/RTP_Africa.png",RTP Africa (Generalistas)*
@@ -91,7 +91,7 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/nicxPQ/SIC_Noticias.png" group-title="Informacao",SIC Noticias (Informacao)
 				http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/nicxPQ/SIC_Noticias.png" group-title="Informacao",SIC Noticias (-1)(Informacao)
-				
+				http://live.impresa.pt/live/sicnot/sicnot.m3u8
 
 		#EXTINF:-1,TVI 24
 			#EXTINF:-1 group-title="Informacao" tvg-id="TVI24.pt" tvg-logo="https://image.ibb.co/g2oVtk/TVI_24.png",TVI 24 (Informacao)
@@ -309,7 +309,7 @@
 			
 		#EXTINF:-1,Discovery Channel
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/nFrZ65/Discovery_channel.png" group-title="Documentarios",Discovery Channel (Documentarios)
-				
+				http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w1942549659.m3u8?IMDSFULL
 
 		#EXTINF:-1,National Geographic
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cFQZdb/National_Geographic.gif" group-title="Documentarios",National Geographic (Documentarios)
@@ -377,7 +377,7 @@
 				
 		#EXTINF:-1,TV Brasil (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/nqnZ8w/TV_Brasil_Brasil.jpg" group-title="Brasil",TV Brasil (Brasil)
-				
+				http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 				
 		#EXTINF:-1,ANTV – TV Andradas (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/ftnbow/ANTV_TV_Andradas_Brasil.jpg" group-title="Brasil",ANTV – TV Andradas (Brasil)
@@ -561,10 +561,6 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/iQaaJb/SBT.png" group-title="Brasil",SBT - MA | IMPERATRIZ (Brasil)
 				http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8
 				
-		#EXTINF:-1,TVE BRASIL
-			#EXTINF:-1 tvg-id="TVE BRASIL" tvg-logo="" group-title="Brasil",TVE BRASIL
-				http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-			
 		#EXTINF:-1,TV EDUCATIVA
 			#EXTINF:-1 tvg-logo="" group-title="Brasil",TV EDUCATIVA
 				http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
@@ -603,11 +599,13 @@
 	
 		#EXTINF:-1,CNN
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/f925eQ/CNN.png" group-title="Informacao",CNN (Ingles)
-
+				http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8?IMDSFULL
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/f925eQ/CNN.png" group-title="Informacao",CNN (Ingles)
+				http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8?IMDSFULL
 
 		#EXTINF:-1,CBS NEWS HD
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cVrDm5/CBSN.jpg" group-title="Informacao",CBS NEWS HD (Informacao)
-				
+				http://cbsnewshd-lh.akamaihd.net/i/CBSNDC_4@199302/index_4000_av-b.m3u8?sd=10&rebase=on
 								
 		#EXTINF:-1,CBS 4 News (Indianapolis)
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/dGv8Kd3/cropped-cbs4512.png" group-title="Informacao",CBS 4 News (Indianapolis) (Informacao)
@@ -631,7 +629,9 @@
 			
 		#EXTINF:-1,BBC World News
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/eyZw3k/BBC_World_News.png" group-title="Informacao",BBC World News (Ingles)
-
+				http://ott-cdn.ucom.am/s24/index.m3u8?IMDSFULL?fluxustv.m3u8?IMDSFULL
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eyZw3k/BBC_World_News.png" group-title="Informacao",BBC World News (Ingles)
+				http://92.43.140.249/s24/04.m3u8?IMDSFULL?fluxustv.m3u8?IMDSFULL
 
 		#EXTINF:-1,BBC News
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/gBqaw5/BBC_News.png" group-title="Informacao",BBC World News (Ingles)
@@ -918,6 +918,30 @@
 		#EXTINF:-1,Teleformula (Mexico)
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",Teleformula (Mexico)
 				http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+				
+		#EXTINF:-1,Palestin Today
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",Palestin Today
+				http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
+				
+		#EXTINF:-1,TV JORNAL LIMEIRA
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",TV JORNAL LIMEIRA
+				http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8
+				
+		#EXTINF:-1,Catve HD
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",Catve HD
+				http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",
+				
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",
+				
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",
+				
 				
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",
@@ -1429,9 +1453,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",Willow HD
 				
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",
-				
+		#EXTINF:-1,RED BULL TV
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",RED BULL TV
+				https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?IMDSFULL
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",
@@ -1883,7 +1907,7 @@
 				
 		#EXTINF:-1,Melody Channel
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/ePzYUR/Melody_Channel.png" group-title="Musica",Melody Channel
-				
+				http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 				
 		#EXTINF:-1,OneTV (Arg)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/hA8cpR/OneTV.png" group-title="Musica",OneTV (Arg)
@@ -2139,7 +2163,7 @@
 
 		#EXTINF:-1,Portal Foxmix
 			#EXTINF:-1 tvg-logo="" group-title="Musica",Portal Foxmix
-				
+				http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 
 		#EXTINF:-1,Top Latino
 			#EXTINF:-1 tvg-logo="" group-title="Musica",Top Latino
@@ -2157,9 +2181,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Musica",ONE 4 HD
 				http://rtmp.one.by:2300
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Musica",
-				
+		#EXTINF:-1,Telemusica HD (Latino)
+			#EXTINF:-1 tvg-logo="" group-title="Musica",Telemusica HD (Latino)
+				rtmp://186.155.200.118:1935/live/Televitrola
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Musica",
@@ -2427,6 +2451,47 @@
 
 			
 
+EXTINF:-1 tvg-logo="https://www.ezshield.com/wp-content/uploads/images/differentiators/24-7-icon.png" group-title=, 24/7 (INGLES )
+		http://0.0.0.0:1234
+
+		#EXTINF:-1,Black Jesus (INGLES )
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://when-will.net/images/artikel/2015/september/Black-Jesus.jpg" group-title="24/7",Black Jesus (INGLES )
+				http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+
+		#EXTINF:-1,Mr. Pickles (INGLES )
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/SgoRKIpGIs0/maxresdefault.jpg" group-title="24/7",Mr. Pickles (INGLES )
+				http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+
+		#EXTINF:-1,Off The Air (INGLES )
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4974.jpg" group-title="24/7",Off The Air (INGLES )
+				http://adultswim-vodlive.cdn.turner.com/off-the-air/stream.m3u8
+
+		#EXTINF:-1,Rick and Morty (INGLES )
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://userscontent2.emaze.com/images/3aad53e1-b1ed-4615-b73f-5da38c50f186/b6e7a922-ea23-4d64-aaa1-47f1ad5ce794.png" group-title="24/7",Rick and Morty (INGLES )
+				http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+
+		#EXTINF:-1,Squidbillies (INGLES )
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/d6/8c/dd/d68cdd473f7a56f574b7514e24fbc1ce.jpg" group-title="24/7",Squidbillies (INGLES )
+				https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
+
+		#EXTINF:-1,The Eric Andre Show (INGLES )
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/theericandreshow/images/6/69/The_Eric_Andre_Logo.png" group-title="24/7",The Eric Andre Show (INGLES )
+				http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+
+		#EXTINF:-1,The Venture Bros. (INGLES )
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4835.jpg" group-title="24/7",The Venture Bros. (INGLES )
+				http://adultswim-vodlive.cdn.turner.com/the-venture-bros/stream.m3u8
+
+		#EXTINF:-1,Tim and Eric (INGLES )
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4874.png" group-title="24/7",Tim and Eric (INGLES )
+				http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
+
+		#EXTINF:-1,Williams Stream (INGLES )
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Williams_Street.png" group-title="24/7",Williams Stream (INGLES )
+				http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
+
+
+
 #EXTINF:-1,[B][COLOR yellow]<== Shopping TV ==>[/COLOR][/B]
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/bBftum/014_Shopping_TV.jpg" group-title="Shopping TV",[B][COLOR yellow]<== Shopping TV ==>[/COLOR][/B]
 		http://0.0.0.0:1234
@@ -2598,6 +2663,38 @@
 		#EXTINF:-1,Tv Novo Tempo
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",Tv Novo Tempo
 				http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
+
+		#EXTINF:-1,Rede Super
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",Rede Super
+				http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?PEDROJUNIORTUTORIAIS
+
+		#EXTINF:-1,Boa Vontade
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",Boa Vontade
+				http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8?PEDROJUNIORTUTORIAIS
+
+		#EXTINF:-1,TV Verdade
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",TV Verdade
+				http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+		#EXTINF:-1,TV Terceiro Anjo
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",TV Terceiro Anjo
+				http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+		#EXTINF:-1,EVANGELIZAR PR
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",EVANGELIZAR PR
+				http://flash32k.crossdigital.com.br/evangelizar/tv/chunklist_w1578717857.m3u8?IMDSFULL
+
+		#EXTINF:-1,TV APARECIDA 
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",TV APARECIDA 
+				https://caikron.com.br:8082/tvap/tvap/playlist.m3u8?IMDSFULL
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",
+				
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",
@@ -4426,9 +4523,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Mexico",telemar campeche
 				http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
 
-		#EXTINF:-1,TV Coahuila
-			#EXTINF:-1 tvg-logo="" group-title="Mexico",TV Coahuila
-				
+		#EXTINF:-1,RCG TV Coahuila
+			#EXTINF:-1 tvg-logo="" group-title="Mexico",RCG TV Coahuila
+				http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
 
 		#EXTINF:-1,RCG 1
 			#EXTINF:-1 tvg-logo="" group-title="Mexico",RCG 1
@@ -4449,6 +4546,8 @@
 		#EXTINF:-1,canal once
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/9gz8wqF/once-1.jpg" group-title="Mexico",canal once
 				http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/9gz8wqF/once-1.jpg" group-title="Mexico",canal once (1)
+				http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
 		#EXTINF:-1,Canal 20 Zacatecas
 			#EXTINF:-1 tvg-logo="" group-title="Mexico",Canal 20 Zacatecas
@@ -4460,6 +4559,22 @@
 
 		#EXTINF:-1,Ultra TV Puebla
 			#EXTINF:-1 tvg-logo="" group-title="Mexico",Ultra TV Puebla
+				
+
+		#EXTINF:-1,CANAL 15 FRESNILLO
+			#EXTINF:-1 tvg-logo="" group-title="Mexico",CANAL 15 FRESNILLO
+				rtmp://live.zuperdns.net/zuperhosting.live.grupob.canal15fresnillo/livestream
+
+		#EXTINF:-1,Milenio TV 
+			#EXTINF:-1 tvg-logo="" group-title="Mexico",Milenio TV [Opt-1]
+				http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Mexico",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Mexico",
 				
 
 		#EXTINF:-1,
@@ -5320,7 +5435,7 @@
 	
 		#EXTINF:-1,LIVE ISS STREAM
 			#EXTINF:-1 group-title="WebCams" tvg-id="n/a" tvg-logo="https://image.ibb.co/d8OMYk/LIVE_ISS_STREAM.png",LIVE ISS STREAM
-				
+				http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
 
 		#EXTINF:-1,Christmas Fireplace
 			#EXTINF:-1 group-title="WebCams" tvg-id="n/a" tvg-logo="",Christmas Fireplace
@@ -5378,6 +5493,86 @@
 			#EXTINF:-1 group-title="WebCams" tvg-id="n/a" tvg-logo="",
 				
 
+#EXTINF:0 tvg-logo="https://tinyurl.com/y2w8su8p" group-title="CÂMERAS",BALTIMORA AO VIVO
+https://videos3.earthcam.com/fecnetwork/15658.flv/chunklist_w331834704.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y2w8su8p" group-title="CÂMERAS",BANJA LUKA AO VIVO
+http://edith03.blictv.blic.net:1935/live/ngrp:kamera02.stream_all/chunklist.m3u8?IMDSFULL 
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y2w8su8p" group-title="CÂMERAS", CAMERA DOS TIGRES AO VIVO
+http://zssd-tiger.hls.camzonecdn.com/CamzoneStreams/zssd-tiger/Playlist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y2w8su8p" group-title="CÂMERAS",FRANÇA SERRA PARIS AO VIVO
+http://live.webcam-hd.fr/64connections/chamrousse2.stream/chunklist_w689467311.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y2w8su8p" group-title="CÂMERAS",HOLLYWOOD AO VIVO
+https://videos3.earthcam.com/fecnetwork/lacitytours1.flv/chunklist_w683585821.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y2w8su8p" group-title="CÂMERAS",MIAMI BEACHES AO VIVO
+https://videos3.earthcam.com/fecnetwork/13862.flv/chunklist_w309672791.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y2w8su8p" group-title="CÂMERAS",NEW YORK CENTER AO VIVO
+https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w246661914.m3u8?IMDSFULL 
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y2w8su8p" group-title="CÂMERAS",NEW YORK TIMES SQUARE CAM 1
+https://videos3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist_w48750913.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y2w8su8p" group-title="CÂMERAS", PONTE DA AMIZADE - SENTIDO PARAGUAI - AO VIVO
+https://cdn.jmvstream.com/w/IPC-7044/camera.stream/playlist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y2w8su8p" group-title="CÂMERAS", PRAIA BASE NAUTIC FRANÇA - AO VIVO
+http://live.webcam-hd.fr/64connections/ronce.stream/chunklist_w2060603395.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y2w8su8p" group-title="CÂMERAS", PRAIA ANGLET - MADRAGUE
+http://live.webcam-hd.fr/64connections/angletmadrague.stream/chunklist_w538216640.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y2w8su8p" group-title="CÂMERAS", PRAIA ANGLET - MADRAGUE
+http://live.webcam-hd.fr/64connections/angletmadrague.stream/chunklist_w538216640.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y2w8su8p" group-title="CÂMERAS", PRAIA BIARRITZ LA GRANDE PLAGE FRANÇA
+http://live.webcam-hd.fr/64connections/biarritzgrandeplage.stream/chunklist_w295965600.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y2w8su8p" group-title="CÂMERAS", PRAIA DESERTO FRANÇA - AO VIVO
+http://live.webcam-hd.fr/64connections/biarritzgrandeplage.stream/chunklist_w295965600.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y2w8su8p" group-title="CÂMERAS", PRAIA FRANÇA AO VIVO
+http://live.webcam-hd.fr/64connections/hossegor.stream/chunklist_w1153937984.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y2w8su8p" group-title="CÂMERAS", PRAIA FRANÇA AO VIVO(2)
+http://live.webcam-hd.fr/64connections/seignossebourdaines.stream/chunklist_w797396608.m3u8?IDMSFULL
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y2w8su8p" group-title="CÂMERAS", PRAIA FRANÇA SEIGNOSSE - LES BOURDAINES
+http://live.webcam-hd.fr/64connections/ronce.stream/chunklist_w1815044778.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y2w8su8p" group-title="CÂMERAS", PRAIA LA TREMBLADE - BASE NAUTIQUE
+http://live.webcam-hd.fr/64connections/hossegor.stream/chunklist_w622108662.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y2w8su8p" group-title="CÂMERAS", PRAIA LE HAVRE FRANÇA - AO VIVO
+http://live.webcam-hd.fr/64connections/lehavre.stream/chunklist_w338268426.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y2w8su8p" group-title="CÂMERAS", PRAIA HENDAYE VUE FIXE FRANÇA - AO VIVO
+http://live.webcam-hd.fr/64connections/hendayevuefixe.stream/chunklist_w545247319.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y2w8su8p" group-title="CÂMERAS", PRAIA PONTAILLAC FRANÇA - AO VIVO
+http://live.webcam-hd.fr/64connections/royanpontaillac.stream/chunklist_w34224111.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y2w8su8p" group-title="CÂMERAS", PRAIA SAINT BRÉVIN FRANÇA - AO VIVO
+http://live.webcam-hd.fr/64connections/saintbrevin.stream/chunklist_w961795737.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y2w8su8p" group-title="CÂMERAS", PRAIA SAINT-JEAN-DE-LUZ FRANÇA - AO VIVO
+http://live.webcam-hd.fr/64connections/stjeandeluz.stream/chunklist_w1710448646.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y2w8su8p" group-title="CÂMERAS", PRAIA SIOUVILLE FRANÇA - AO VIVO
+http://live.webcam-hd.fr/64connections/siouville.stream/chunklist_w2022378642.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y2w8su8p" group-title="CÂMERAS", PRAIA ZARAUTZ TAHIT
+http://live.webcam-hd.fr/64connections/zarautz.stream/chunklist_w636387154.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y2w8su8p" group-title="CÂMERAS",SAN FRANCISCO 360° AO VIVO
+https://videos3.earthcam.com/fecnetwork/6961.flv/chunklist_w335961271.m3u8?IMDSFULL
+
+
+
 				
 
 #EXTINF:-1,[B][COLOR yellow]<== WebCams Radios ==>[/COLOR][/B]
@@ -5426,6 +5621,36 @@
 
 				
 				
+#EXTINF:-1,[B][COLOR yellow]<== WebCams Africa ==>[/COLOR][/B]
+	#EXTINF:-1 tvg-logo="" group-title="WebCams Africa",[B][COLOR yellow]<== WebCams Africa ==>[/COLOR][/B]
+		http://0.0.0.0:1234
+	
+		#EXTINF:-1,Animais África do Sul 
+			#EXTINF:-1 group-title="WebCams Africa" tvg-id="n/a" tvg-logo="",Animais África do Sul 
+				http://stream.africam.com:1935/tm/tm.stream_360p/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+
+		#EXTINF:-1,
+			#EXTINF:-1 group-title="WebCams Africa" tvg-id="n/a" tvg-logo="",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 group-title="WebCams Africa" tvg-id="n/a" tvg-logo="",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 group-title="WebCams Africa" tvg-id="n/a" tvg-logo="",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 group-title="WebCams Africa" tvg-id="n/a" tvg-logo="",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 group-title="WebCams Africa" tvg-id="n/a" tvg-logo="",
+				
+
+
+
 #EXTINF:-1,[B][COLOR yellow]<== WebCams Alemanha ==>[/COLOR][/B]
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/hVLbEm/023_German_Cams.png " group-title="WebCams Alemanha",[B][COLOR yellow]<== WebCams Alemanha ==>[/COLOR][/B]
 		
@@ -5596,6 +5821,22 @@
 			#EXTINF:-1 group-title="WebCams BRASIL" tvg-logo="",FM O DIA TV
 				http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
 
+		#EXTINF:-1,Estúdio 100.5 FM Rio de Janeiro - RJ
+			#EXTINF:-1 group-title="WebCams BRASIL" tvg-logo="",Estúdio 100.5 FM Rio de Janeiro - RJ
+				http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+
+		#EXTINF:-1,AEROPORTO MAJOR BRIGADEIRO(CÂMERA 1)
+			#EXTINF:-1 group-title="WebCams BRASIL" tvg-logo="",AEROPORTO MAJOR BRIGADEIRO(CÂMERA 1)
+				http://cameras.interaviation.com.br/camera01/interaviation1.m3u8?IMDSFULL
+
+		#EXTINF:-1,AEROPORTO MAJOR BRIGADEIRO(CÂMERA 2)
+			#EXTINF:-1 group-title="WebCams BRASIL" tvg-logo="",AEROPORTO MAJOR BRIGADEIRO(CÂMERA 2)
+				http://cameras.interaviation.com.br/camera02/interaviation2.m3u8?IMDSFULL
+
+		#EXTINF:-1,
+			#EXTINF:-1 group-title="WebCams BRASIL" tvg-logo="",
+				
+
 		#EXTINF:-1,
 			#EXTINF:-1 group-title="WebCams BRASIL" tvg-logo="",
 				
@@ -5664,43 +5905,47 @@
 
 		#EXTINF:-1,Capelinha Fatima
 			#EXTINF:-1 group-title=WebCams Potugal" tvg-id="" tvg-logo="https://image.ibb.co/bTYYeQ/Capelinha_Fatima.png" group-title=PORTUGAL,Capelinha Fatima
-				
+				http://213.13.26.11:1935/live/santuario.stream/KodiPortugal.pt.m3u8
 
 		#EXTINF:-1,PRAIA DE CARCAVELOS
 			#EXTINF:-1, tvg-logo="https://image.ibb.co/eu6x4m/PRAIA_DE_CARCAVELOS.jpg" group-title="WebCams Potugal", PRAIA DE CARCAVELOS 
-				
+				http://video-auth1.iol.pt:1935/beachcam/carcavelos/chunks.m3u8
 		
 		#EXTINF:-1,PRAIA DA LUZ - ALGARVE
 			#EXTINF:-1, tvg-logo="https://image.ibb.co/ivD5qR/PRAIA_DA_LUZ_ALGARVE.jpg" group-title="WebCams Potugal", PRAIA DA LUZ - ALGARVE 
-				
+				http://video-auth1.iol.pt:1935/beachcam/luz/chunks.m3u8
 		
 		#EXTINF:-1,Duna Beach, Lagos
 			#EXTINF:-1, tvg-logo="https://image.ibb.co/hT3S4m/Duna_Beach_Lagos.jpg" group-title="WebCams Potugal", Duna Beach, Lagos
 				
 
-		#EXTINF:-1,PRAIA COSTA DE CAPARICA
-			#EXTINF:-1, tvg-logo="https://image.ibb.co/eaoc4m/PRAIA_COSTA_DE_CAPARICA.jpg" group-title="WebCams Potugal", PRAIA COSTA DE CAPARICA 
-				
+		#EXTINF:-1,CAPARICA CDS [SD]
+			#EXTINF:-1, tvg-logo="https://image.ibb.co/eaoc4m/PRAIA_COSTA_DE_CAPARICA.jpg" group-title="WebCams Potugal",CAPARICA CDS [SD]
+				http://video-auth1.iol.pt:1935/beachcam/costacaparicacds/chunks.m3u8
+
+		#EXTINF:-1,CAPARICA S.JOÃO [SD]
+			#EXTINF:-1, tvg-logo="https://image.ibb.co/eaoc4m/PRAIA_COSTA_DE_CAPARICA.jpg" group-title="WebCams Potugal",CAPARICA S.JOÃO [SD]
+				http://video-auth1.iol.pt:1935/beachcam/costacaparicasaojoao/chunks.m3u8
 
 		#EXTINF:-1,PRAIA DO GUINCHO DO SUL
 			#EXTINF:-1, tvg-logo="https://image.ibb.co/hSeBVR/PRAIA_DO_GUINCHO_DO_SUL.jpg" group-title="WebCams Potugal", PRAIA DO GUINCHO DO SUL
-				
+				http://video-auth1.iol.pt:1935/beachcam/praiaguinchosul/chunks.m3u8
 
 		#EXTINF:-1,PRAIA MATOSINHOS
 			#EXTINF:-1, tvg-logo="https://image.ibb.co/kZWN4m/PRAIA_MATOSINHOS.jpg" group-title="WebCams Potugal", PRAIA MATOSINHOS 
-				
+				http://video-auth1.iol.pt:1935/beachcam/matosinhos/chunks.m3u8
 
 		#EXTINF:-1,PRAIA FONTE DA TELHA
 			#EXTINF:-1, tvg-logo="https://image.ibb.co/e0DVqR/FONTE_DA_TELHA.jpg" group-title="WebCams Potugal",PRAIA FONTE DA TELHA
-				
+				http://video-auth1.iol.pt:1935/beachcam/fontedatelha/chunks.m3u8
 
 		#EXTINF:-1,Vilamoura, Algarve
 			#EXTINF:-1, tvg-logo="https://image.ibb.co/mzRpjm/Vilamoura_Algarve.jpg" group-title="WebCams Potugal", Vilamoura - Algarve
-				
+				http://video-auth1.iol.pt:1935/beachcam/vilamoura/chunks.m3u8
 
 		#EXTINF:-1,Praia Da Ericeira
 			#EXTINF:-1, tvg-logo="" group-title="WebCams Potugal",Praia Da Ericeira
-				
+				http://video-auth1.iol.pt:1935/beachcam/ericeiraspots/chunks.m3u8
 
 		#EXTINF:-1,Praia De Aveiro
 			#EXTINF:-1, tvg-logo="" group-title="WebCams Potugal",Praia De Aveiro
@@ -5716,7 +5961,7 @@
 
 		#EXTINF:-1,Praia De Sao Pedro
 			#EXTINF:-1, tvg-logo="" group-title="WebCams Potugal",Praia De Sao Pedro
-				
+				http://video-auth1.iol.pt:1935/beachcam/saopedroestoria/chunks.m3u8
 
 		#EXTINF:-1,Praia De Sao Torpes
 			#EXTINF:-1, tvg-logo="" group-title="WebCams Potugal",Praia De Sao Torpes
@@ -5730,20 +5975,92 @@
 			#EXTINF:-1, tvg-logo="" group-title="WebCams Potugal",Praia Grande
 				
 
-		#EXTINF:-1,Praia Leca Da Palmeira
-			#EXTINF:-1, tvg-logo="" group-title="WebCams Potugal",Praia Leca Da Palmeira
-				
-
 		#EXTINF:-1,Praia Madeira Jardim Do Mar
 			#EXTINF:-1, tvg-logo="" group-title="WebCams Potugal",Praia Madeira Jardim Do Mar
 				
 
 		#EXTINF:-1,Praia Santa Cruz
 			#EXTINF:-1, tvg-logo="" group-title="WebCams Potugal",Praia Santa Cruz
-				
+				http://video-auth1.iol.pt:1935/beachcam/santacruz/chunks.m3u8
 
 		#EXTINF:-1,Praia Supertubos
 			#EXTINF:-1, tvg-logo="" group-title="WebCams Potugal",Praia Supertubos
+				http://video-auth1.iol.pt:1935/beachcam/supertubos/chunks.m3u8
+
+		#EXTINF:-1,LEÇA DA PALMEIRA [SD]
+			#EXTINF:-1, tvg-logo="" group-title="WebCams Potugal", LEÇA DA PALMEIRA [SD]
+				http://video-auth1.iol.pt:1935/beachcam/lecadapalmeira/chunks.m3u8
+
+		#EXTINF:-1,FURADOURO [SD]
+			#EXTINF:-1, tvg-logo="" group-title="WebCams Potugal",FURADOURO [SD]
+				http://video-auth1.iol.pt:1935/beachcam/furadouro/chunks.m3u8
+
+		#EXTINF:-1,TORREIRA [SD]
+			#EXTINF:-1, tvg-logo="" group-title="WebCams Potugal",TORREIRA [SD]
+				http://video-auth1.iol.pt:1935/beachcam/torreira/chunks.m3u8
+
+		#EXTINF:-1,MIRA [SD]
+			#EXTINF:-1, tvg-logo="" group-title="WebCams Potugal",MIRA [SD]
+				http://video-auth1.iol.pt:1935/beachcam/bcmira/chunks.m3u8
+
+		#EXTINF:-1,BUARCOS [SD]
+			#EXTINF:-1, tvg-logo="" group-title="WebCams Potugal",BUARCOS [SD]
+				http://video-auth1.iol.pt:1935/beachcam/figueiradafoz/chunks.m3u8
+
+		#EXTINF:-1,NAZARÉ [SD]
+			#EXTINF:-1, tvg-logo="" group-title="WebCams Potugal",NAZARÉ [SD]
+				http://video-auth1.iol.pt:1935/beachcam/nazareparadonorte/chunks.m3u8
+
+		#EXTINF:-1,LAGIDE [SD]
+			#EXTINF:-1, tvg-logo="" group-title="WebCams Potugal",LAGIDE [SD]
+				http://video-auth1.iol.pt:1935/beachcam/lagide/chunks.m3u8
+
+		#EXTINF:-1,ARRIFANA [SD]
+			#EXTINF:-1, tvg-logo="" group-title="WebCams Potugal",ARRIFANA [SD]
+				http://video-auth1.iol.pt:1935/beachcam/arrifana/chunks.m3u8
+
+		#EXTINF:-1,MEIA PRAIA [SD]
+			#EXTINF:-1, tvg-logo="" group-title="WebCams Potugal",MEIA PRAIA [SD]
+				http://video-auth1.iol.pt:1935/beachcam/meiapraia/chunks.m3u8
+
+		#EXTINF:-1,ALVOR [SD]
+			#EXTINF:-1, tvg-logo="" group-title="WebCams Potugal",ALVOR [SD]
+				http://video-auth1.iol.pt:1935/beachcam/alvor/chunks.m3u8
+
+		#EXTINF:-1,PRAIA DA ROCHA [SD]
+			#EXTINF:-1, tvg-logo="" group-title="WebCams Potugal",PRAIA DA ROCHA [SD]
+				http://video-auth1.iol.pt:1935/beachcam/praiadarocha/chunks.m3u8
+
+		#EXTINF:-1,PRAIA DA GALÉ [SD]
+			#EXTINF:-1, tvg-logo="" group-title="WebCams Potugal",PRAIA DA GALÉ [SD]
+				http://video-auth1.iol.pt:1935/beachcam/bcgale/chunks.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1, tvg-logo="" group-title="WebCams Potugal",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1, tvg-logo="" group-title="WebCams Potugal",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1, tvg-logo="" group-title="WebCams Potugal",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1, tvg-logo="" group-title="WebCams Potugal",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1, tvg-logo="" group-title="WebCams Potugal",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1, tvg-logo="" group-title="WebCams Potugal",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1, tvg-logo="" group-title="WebCams Potugal",
 				
 
 		#EXTINF:-1,
@@ -5903,26 +6220,6 @@
 		#EXTINF:-1,Sandusky - Ohio - Cedar Point Park 03 (USA)
 			#EXTINF:-1 group-title="WebCams USA" tvg-logo="",Sandusky - Ohio - Cedar Point Park 03 (USA)
 				http://cs2.pixelcaster.com:1935/live/cedar2.stream/playlist.m3u8
-				
-		#EXTINF:-1, (USA)
-			#EXTINF:-1 group-title="WebCams USA" tvg-logo="",
-				
-				
-		#EXTINF:-1, (USA)
-			#EXTINF:-1 group-title="WebCams USA" tvg-logo="",
-				
-				
-		#EXTINF:-1, (USA)
-			#EXTINF:-1 group-title="WebCams USA" tvg-logo="",
-				
-				
-		#EXTINF:-1, (USA)
-			#EXTINF:-1 group-title="WebCams USA" tvg-logo="",
-				
-				
-		#EXTINF:-1, (USA)
-			#EXTINF:-1 group-title="WebCams USA" tvg-logo="",
-				
 				
 		#EXTINF:-1, (USA)
 			#EXTINF:-1 group-title="WebCams USA" tvg-logo="",
@@ -8543,7 +8840,7 @@ https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ef6am6LX
 
 		#EXTINF:-1,94 FM
 			#EXTINF:-1, tvg-logo="https://image.ibb.co/eF5REm/94_FM.jpg" group-title="RADIOS PORTUGUESAS", 94 FM
-
+				http://195.8.58.150:35022/;stream.mp3
 			
 		#EXTINF:-1,SUPER FM
 			#EXTINF:-1, tvg-logo="https://image.ibb.co/bDXv76/SUPER_FM.gif" group-title="RADIOS PORTUGUESAS", SUPER FM
@@ -8597,10 +8894,18 @@ https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ef6am6LX
 			#EXTINF:0, tvg-logo="https://image.ibb.co/mLup0R/Radio_Vodafone_FM.jpg" group-title="RADIOS PORTUGUESAS", Radio Vodafone FM
 
 
+		#EXTINF:-1,Rádio Zero
+			#EXTINF:0, tvg-logo="" group-title="RADIOS PORTUGUESAS",Rádio Zero
+				http://stream.radiozero.pt:8000/zero128.mp3
+
+		#EXTINF:-1,Rádio Quântica
+			#EXTINF:0, tvg-logo="" group-title="RADIOS PORTUGUESAS",Rádio Quântica
+				
+
 
 
 #EXTINF:-1,[B][COLOR yellow]<== RADIOS BRASIL ==>[/COLOR][/B]
-	#EXTINF:-1 tvg-logo="" group-title="RADIOS BRASIL",[B][COLOR yellow]<== RADIOS PORTUGUESAS ==>[/COLOR][/B]
+	#EXTINF:-1 tvg-logo="" group-title="RADIOS BRASIL",[B][COLOR yellow]<== RADIOS BRASIL ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 
 		#EXTINF:-1,Kids
@@ -8817,24 +9122,58 @@ https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ef6am6LX
 			#EXTINF:-1, tvg-logo="" group-title="RADIOS",ELMAR (estoniana)
 				http://striiming.trio.ee/elmar.mp3
 
-		#EXTINF:-1,
-			#EXTINF:-1, tvg-logo="" group-title="RADIOS",
-				
+		#EXTINF:-1,ARC MUSIQUE
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS",ARC MUSIQUE
+				http://broadcast.infomaniak.net/arcmusique-128.mp3
 
-		#EXTINF:-1,
+		#EXTINF:-1,ARJ 128kbs mp3
 			#EXTINF:-1, tvg-logo="" group-title="RADIOS",
-				
+				http://broadcast.infomaniak.net/arj-france-high.mp3
 
 		#EXTINF:-1,
 			#EXTINF:-1, tvg-logo="" group-title="RADIOS",
 				
 	
-		#EXTINF:-1,
-			#EXTINF:-1, tvg-logo="" group-title="RADIOS",
-				
+		#EXTINF:-1,THIRD ROCK RADIO MP3 (NASA)
+			#EXTINF:-1, tvg-logo="" group-title="RADIOS",THIRD ROCK RADIO MP3 (NASA)
+				http://rfcmedia2.streamguys1.com/thirdrock.mp3
 
 			
 			
+#EXTINF:-1,[B][COLOR yellow]<== 24 Music ==>[/COLOR][/B]
+	#EXTINF:-1 tvg-logo="" group-title="24 Music",[B][COLOR yellow]<== 24 Music ==>[/COLOR][/B]
+		http://0.0.0.0:1234
+
+		#EXTINF:-1,
+			#EXTINF:-1, tvg-logo="" group-title="24 Music",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1, tvg-logo="" group-title="24 Music",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1, tvg-logo="" group-title="24 Music",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1, tvg-logo="" group-title="24 Music",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1, tvg-logo="" group-title="24 Music",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1, tvg-logo="" group-title="24 Music",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1, tvg-logo="" group-title="24 Music",
+				
+
+
+
 #EXTINF:-1,[COLOR blue][I][B]-------------------------------------------------------------[/B][/I][/COLOR]
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/mmU3um/024.jpg" group-title="----",[COLOR red][I][B]-------------------------------------------------------------[/B][/I][/COLOR]
 		http://0.0.0.0:1234
