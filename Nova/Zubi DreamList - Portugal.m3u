@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 	#EXTINF:-1,Zubi DreamList 
-		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.83 (29/04/2020)
+		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.84 (29/04/2020)
 			http://0.0.0.0:1234
 			
 #EXTINF:-1,[B][COLOR yellow]<== LÍNGUA PORTUGUESA ==>[/COLOR][/B]
@@ -158,6 +158,10 @@
 		#EXTINF:-1,0033 Record TV
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/mr61PG/TV_Record.png" group-title="Entretenimento",0033 Record TV (Entretenimento)
 				
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nLaVtm/RECORD_SP_Brasil.jpg" group-title="Brasil",0093 RECORD SP (Brasil)
+				
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nQq4Qb/RECORD_MT_Brasil.jpg" group-title="Brasil",0093 RECORD MT (Brasil)
+				
 
 		#EXTINF:-1,0034 RTP Arena eSports
 			#EXTINF:-1 group-title="Entretenimento" tvg-id="n/a" tvg-logo="https://image.ibb.co/gx9Ltk/RTP_Arena_e_Sports.png",0034 RTP Arena eSports (Entretenimento)
@@ -283,162 +287,150 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/m7rMrw/FOX_Comedy.jpg" group-title="Filmes e Series",0064 FOX Comedy (Filmes e Series)
 				
 
-		#EXTINF:-1,AXN Black
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/jpyjBw/AXN_Black.jpg" group-title="Filmes e Series",AXN Black (Filmes e Series)
+		#EXTINF:-1,0065 AXN Black
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jpyjBw/AXN_Black.jpg" group-title="Filmes e Series",0065 AXN Black (Filmes e Series)
 
 
-		#EXTINF:-1,AXN White
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/iRK8yk/axn_white.jpg" group-title="Filmes e Series",AXN White (Filmes e Series)
+		#EXTINF:-1,0066 AXN White
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iRK8yk/axn_white.jpg" group-title="Filmes e Series",0066 AXN White (Filmes e Series)
 
 
-		#EXTINF:-1,MOV
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/nFGRPG/MOV.jpg" group-title="Filmes e Series",MOV (Filmes e Series)
+		#EXTINF:-1,0067 MOV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nFGRPG/MOV.jpg" group-title="Filmes e Series",0067 MOV (Filmes e Series)
 
 
-		#EXTINF:-1,Syfy
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/ng2fJb/Syfy.jpg" group-title="Filmes e Series",Syfy (Brasil)(Filmes e Series)
+		#EXTINF:-1,0068 Syfy
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ng2fJb/Syfy.jpg" group-title="Filmes e Series",0068 Syfy (Brasil)(Filmes e Series)
 				
 			
-		#EXTINF:-1,MTV Portugal
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/iOi4db/MTV_Portugal.jpg" group-title="Musica",MTV Portugal (Musica)
+		#EXTINF:-1,0069 MTV (Portugal)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iOi4db/MTV_Portugal.jpg" group-title="Musica",0069 MTV Portugal (Musica)
 
 
-		#EXTINF:-1,AFRO MUSIC
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/gGsxyb/AFRO_MUSIC.png" group-title="Musica",AFRO MUSIC (Musica)
+		#EXTINF:-1,0070 AFRO MUSIC
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gGsxyb/AFRO_MUSIC.png" group-title="Musica",0070 AFRO MUSIC (Musica)
 
 			
-		#EXTINF:-1,Discovery Channel
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/nFrZ65/Discovery_channel.png" group-title="Documentarios",Discovery Channel (Documentarios)
+		#EXTINF:-1,0071 Discovery Channel (Documentarios)(Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nFrZ65/Discovery_channel.png" group-title="Documentarios",0071 Discovery Channel (Documentarios)(Brasil)
 				http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w1942549659.m3u8?IMDSFULL
 
-		#EXTINF:-1,National Geographic
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cFQZdb/National_Geographic.gif" group-title="Documentarios",National Geographic (Documentarios)
+		#EXTINF:-1,0072 National Geographic
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cFQZdb/National_Geographic.gif" group-title="Documentarios",0072 National Geographic (Documentarios)
 				
 
-		#EXTINF:-1,Historia
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cEZAJb/Historia.jpg" group-title="Documentarios",Historia (Documentarios)
+		#EXTINF:-1,0073 Historia
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cEZAJb/Historia.jpg" group-title="Documentarios",0073 Historia (Documentarios)
 
 			
-		#EXTINF:-1,Odisseia
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/iwOy4G/Odisseia.jpg" group-title="Documentarios",Odisseia (Documentarios)
+		#EXTINF:-1,0074 Odisseia
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iwOy4G/Odisseia.jpg" group-title="Documentarios",0074 Odisseia (Documentarios)
 
 
-		#EXTINF:-1,Agueda TV
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cvVjdb/Agueda_TV.png" group-title="Regionais",Agueda TV (Regionais)
+		#EXTINF:-1,0075 Agueda TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cvVjdb/Agueda_TV.png" group-title="Regionais",0075 Agueda TV (Regionais)
 
 
-		#EXTINF:-1,ARROIOS TV
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/eS0xR6/ARROIOS_TV.jpg" group-title="Regionais",ARROIOS TV (Regionais)
-				                                                     
+		#EXTINF:-1,0076 ARROIOS TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eS0xR6/ARROIOS_TV.jpg" group-title="Regionais",0076 ARROIOS TV (Regionai)
+				
+				
+		#EXTINF:-1,0077 ESEC TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ftdQER/ESEC_TV.jpg" group-title="Regionais",0077 ESEC TV (Regionais)
+				
+				
+		#EXTINF:-1,0078 AMAZON SAT (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/edCmZQ/amazon_sat.png" tvg-id="" tvg-name=" group-title="Brasil",0078 AMAZON SAT (Brasil)
+				
+				
+		#EXTINF:-1,0079 MULTITV (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hRWKok/MULTITV.png" tvg-id="" tvg-name=" group-title="Brasil",0079 MULTITV (Brasil)
+				
 
-		#EXTINF:-1,ESEC TV
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/ftdQER/ESEC_TV.jpg" group-title="Regionais",ESEC TV (Regionais)
+		#EXTINF:-1,0080 TV CAMARA 1 (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fhGvDk/CAMARA_2_Brasil.png" group-title="Brasil",0080 TV CAMARA 1 (Brasil)
 				
 				
-		#EXTINF:-1,AMAZON SAT (Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/edCmZQ/amazon_sat.png" tvg-id="" tvg-name=" group-title="Brasil",AMAZON SAT (Brasil)
+		#EXTINF:-1,0081 TV GUARA (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jC2VeQ/TV_GUARA_Brasil.png" group-title="Brasil",0081 TV GUARA (Brasil)
 				
 				
-		#EXTINF:-1,MULTITV (Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/hRWKok/MULTITV.png" tvg-id="" tvg-name=" group-title="Brasil",MULTITV (Brasil)
+		#EXTINF:-1,0082 CANAL FUTURA (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/njbWKQ/canal_futura.png" group-title="Brasil",0082 CANAL FUTURA (Brasil)
 				
-
-		#EXTINF:-1,TV CAMARA 1 (Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/fhGvDk/CAMARA_2_Brasil.png" group-title="Brasil",TV CAMARA 1 (Brasil)
-				
-				
-		#EXTINF:-1,TV CAMARA 2 (Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/fhGvDk/CAMARA_2_Brasil.png" group-title="Brasil",TV CAMARA 2 (Brasil)
+					
+		#EXTINF:-1,0083 TV DIARIO (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dD9CR5/TV_DIARIO_Brasil.png" group-title="Brasil",0083 TV DIARIO (Brasil)
 				
 				
-		#EXTINF:-1,TV GUARA (Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/jC2VeQ/TV_GUARA_Brasil.png" group-title="Brasil",TV GUARA (Brasil)
+		#EXTINF:-1,0084 TV ESCOLA (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cN1wrw/TV_ESCOLA.jpg" group-title="Brasil",0084 TV ESCOLA (Brasil)
 				
 				
-		#EXTINF:-1,CANAL FUTURA (Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/njbWKQ/canal_futura.png" group-title="Brasil",CANAL FUTURA (Brasil)
-				
-							
-		#EXTINF:-1,TV DIARIO (Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/dD9CR5/TV_DIARIO_Brasil.png" group-title="Brasil",TV DIARIO (Brasil)
+		#EXTINF:-1,0085 REDE BRASIL (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mSzVjG/REDE_BRASIL.png" group-title="Brasil",0085 REDE BRASIL (Brasil)
 				
 				
-		#EXTINF:-1,TV ESCOLA (Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cN1wrw/TV_ESCOLA.jpg" group-title="Brasil",TV ESCOLA (Brasil)
+		#EXTINF:-1,0086 Pocos Tv (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iXK3G5/Pocos_Tv_Brasil.png" group-title="Brasil",0086 Pocos Tv (Brasil)
 				
 				
-		#EXTINF:-1,REDE BRASIL (Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/mSzVjG/REDE_BRASIL.png" group-title="Brasil",REDE BRASIL (Brasil)
-				
-				
-		#EXTINF:-1,Pocos Tv (Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/iXK3G5/Pocos_Tv_Brasil.png" group-title="Brasil",Pocos Tv (Brasil)
-				
-				
-		#EXTINF:-1,TV Brasil (Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/nqnZ8w/TV_Brasil_Brasil.jpg" group-title="Brasil",TV Brasil (Brasil)
+		#EXTINF:-1,0087 TV Brasil (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nqnZ8w/TV_Brasil_Brasil.jpg" group-title="Brasil",0087 TV Brasil (Brasil)
 				http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 				
-		#EXTINF:-1,ANTV – TV Andradas (Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/ftnbow/ANTV_TV_Andradas_Brasil.jpg" group-title="Brasil",ANTV – TV Andradas (Brasil)
+		#EXTINF:-1,0088 ANTV – TV Andradas (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ftnbow/ANTV_TV_Andradas_Brasil.jpg" group-title="Brasil",0088 ANTV – TV Andradas (Brasil)
 				
 				
-		#EXTINF:-1,CANAL DE TUPÃ SP (BRASIL) 
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cu6ayw/CANAL_DE_TUP_SP.png" group-title="Brasil",CANAL DE TUPÃ SP (BRASIL) 
+		#EXTINF:-1,0089 TV Universitária - Canal 7 - Tupã, SP (BRASIL) 
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cu6ayw/CANAL_DE_TUP_SP.png" group-title="Brasil",0089 TV Universitária - Canal 7 - Tupã, SP (BRASIL) 
 				
 			
-		#EXTINF:-1,CARIRI TV PB (Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cxfDkb/CARIRI_TV_PB_Brasil.jpg" group-title="Brasil",CARIRI TV PB (Brasil)
+		#EXTINF:-1,0090 CARIRI TV PB (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cxfDkb/CARIRI_TV_PB_Brasil.jpg" group-title="Brasil",0090 CARIRI TV PB (Brasil)
 				
 
-		#EXTINF:-1,REDE TV! (Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/b8VAR6/REDE_TV.jpg" group-title="Brasil",REDE TV SP (Brasil)
+		#EXTINF:-1,0091 REDE TV! (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/b8VAR6/REDE_TV.jpg" group-title="Brasil",0091 REDE TV SP (Brasil)
 				http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/b8VAR6/REDE_TV.jpg" group-title="Brasil",REDE TV RJ (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/b8VAR6/REDE_TV.jpg" group-title="Brasil",0091 REDE TV RJ (Brasil)
 				http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
 				
-		#EXTINF:-1,BAND (Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/eJiQtm/BAND.png" group-title="Brasil",BAND (Brasil)
+		#EXTINF:-1,0092 BAND (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eJiQtm/BAND.png" group-title="Brasil",0092 BAND (Brasil)
+				
+				
+		#EXTINF:-1,0093 Aperipe TV (Brasil)
+			#EXTINF:-1 tvg-logo="" group-title="Brasil",0093 Aperipe TV (Brasil)
 				
 			
-		#EXTINF:-1,RECORD SP (Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/nLaVtm/RECORD_SP_Brasil.jpg" group-title="Brasil",RECORD SP (Brasil)
-				
-			
-		#EXTINF:-1,RECORD MT (Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/nQq4Qb/RECORD_MT_Brasil.jpg" group-title="Brasil",RECORD MT (Brasil)
-				
-			
-		#EXTINF:-1,Aperipe TV (Brasil)
-			#EXTINF:-1 tvg-logo="" group-title="Brasil",Aperipe TV (Brasil)
-				
-			
-		#EXTINF:-1,E-Parana (Brasil)
-			#EXTINF:-1 tvg-logo="" group-title="Brasil",E-Parana
+		#EXTINF:-1,0094 E-Parana (Brasil)
+			#EXTINF:-1 tvg-logo="" group-title="Brasil",0094 E-Parana
 				http://200.189.113.201/hls/tve.m3u8
 			
-		#EXTINF:-1,G2P TV (Brasil)
-			#EXTINF:-1 tvg-logo="" group-title="Brasil",G2P TV (Brasil)
+		#EXTINF:-1,0095 G2P TV (Brasil)
+			#EXTINF:-1 tvg-logo="" group-title="Brasil",0095 G2P TV (Brasil)
 				
 			
-		#EXTINF:-1,PUC TV Goias (Brasil)
-			#EXTINF:-1 tvg-logo="" group-title="Brasil",PUC TV Goias
+		#EXTINF:-1,0096 PUC TV Goias (Brasil)
+			#EXTINF:-1 tvg-logo="" group-title="Brasil",0096 PUC TV Goias
 				http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
 			
-		#EXTINF:-1,TV CULTURA (Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/eB6Fdm/TV_CULTURA_Brasil.png" group-title="Brasil",TV CULTURA PA (Brasil)
+		#EXTINF:-1,0097 TV CULTURA (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eB6Fdm/TV_CULTURA_Brasil.png" group-title="Brasil",0097 TV CULTURA PA (Brasil)
 				http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
 			
-		#EXTINF:-1,TV NA ILHA (Brasil)(FILMES E SERIES)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/h3SKpR/TV_NA_ILHA.jpg" group-title="Brasil",TV NA ILHA (Brasil)(FILMES E SERIES)
+		#EXTINF:-1,0098 TV NA ILHA (Brasil)(FILMES E SERIES)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/h3SKpR/TV_NA_ILHA.jpg" group-title="Brasil",0098 TV NA ILHA (Brasil)(FILMES E SERIES)
 				
 			
-		#EXTINF:-1,Cine Sky (Brasil)(FILMES E SERIES)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/io5YG6/Cine_Sky.png" group-title="Brasil",Cine Sky (Brasil)(FILMES E SERIES)
+		#EXTINF:-1,0099 Cine Sky (Brasil)(FILMES E SERIES)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/io5YG6/Cine_Sky.png" group-title="Brasil",0099 Cine Sky (Brasil)(FILMES E SERIES)
 				
 			
-		#EXTINF:-1,TVU - TV Universitária - Recife-PE (Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/nGd8zR/TVU_TV_Universit_ria_Recife_PE_Brasil.jpg" group-title="Brasil",TVU - TV Universitária - Recife-PE (Brasil)
+		#EXTINF:-1,0100 TVU - TV Universitária - Recife-PE (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nGd8zR/TVU_TV_Universit_ria_Recife_PE_Brasil.jpg" group-title="Brasil",0100 TVU - TV Universitária - Recife-PE (Brasil)
 				
 			
 		#EXTINF:-1,UNIVERSAL CHANNEL (Brasil)
@@ -8804,6 +8796,25 @@ https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/EX-Qo_Da
 
 #EXTINF:-1 tvg-logo="https://imgur.com/zl8TiHZ.jpg" group-title="The Pacific" pltv-subgroup="1ÂªT",T1EP10 DUB The Pacific
 https://emcc-my.sharepoint.com/:v:/g/personal/ciscowalker_86_ondrive_pw/Ef6am6LX3CREgPc5wyrGQEgBlEx5nrOOHfGNPwM9tFgWOQ?&download=1
+
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OEKLOlF.jpg" group-title="1 Contra Todos", 1T-E01 A Justica e Cega
+https://www.seuanime.com/players/novo/?contentId=8456caa16d815a93
+#EXTINF:0 tvg-logo="http://i.imgur.com/OEKLOlF.jpg" group-title="1 Contra Todos", 1T-E02 Lei Vem do Rei
+https://www.seuanime.com/players/novo/?contentId=430d3373b780bdef
+#EXTINF:0 tvg-logo="http://i.imgur.com/OEKLOlF.jpg" group-title="1 Contra Todos", 1T-E03 Caminho do Crime
+https://www.seuanime.com/players/novo/?contentId=7b1102fc3dd528b0
+#EXTINF:0 tvg-logo="http://i.imgur.com/OEKLOlF.jpg" group-title="1 Contra Todos", 1T-E04 Reino Encantado
+https://www.seuanime.com/players/novo/?contentId=d1094e35f6cdc063
+#EXTINF:0 tvg-logo="http://i.imgur.com/OEKLOlF.jpg" group-title="1 Contra Todos", 1T-E05 Dr X Dr
+https://www.seuanime.com/players/novo/?contentId=87fc7dd91a4dac52
+#EXTINF:0 tvg-logo="http://i.imgur.com/OEKLOlF.jpg" group-title="1 Contra Todos", 1T-E06 Verdade nao se Cria
+https://www.seuanime.com/players/novo/?contentId=f2ea2f0177a6aa99
+#EXTINF:0 tvg-logo="http://i.imgur.com/OEKLOlF.jpg" group-title="1 Contra Todos", 1T-E07 Final
+https://www.seuanime.com/players/novo/?contentId=93bc9f78846463da
+#EXTINF:0 tvg-logo="http://i.imgur.com/OEKLOlF.jpg" group-title="1 Contra Todos", 1T-E08 Agora e Contra Todos
+https://www.seuanime.com/players/novo/?contentId=ec251c24ffcafc6b
 
 
 
