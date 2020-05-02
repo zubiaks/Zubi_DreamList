@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 	#EXTINF:-1,Zubi DreamList 
-		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.85 (30/04/2020)
+		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.86 (02/05/2020)
 			http://0.0.0.0:1234
 			
 #EXTINF:-1,[B][COLOR yellow]<== LÍNGUA PORTUGUESA ==>[/COLOR][/B]
@@ -940,100 +940,98 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/kj3Lmw/A_E.png" group-title="Entretenimento",0203 A&E (Espanhol)
 
 			
-		#EXTINF:-1,0205 Funbox 4K
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/k4bbtb/Funbox_4_K.jpg" group-title="Entretenimento",0205 Funbox 4K (Ingles)
+		#EXTINF:-1,0204 Funbox 4K
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/k4bbtb/Funbox_4_K.jpg" group-title="Entretenimento",0204 Funbox 4K (Ingles)
 
 
-		#EXTINF:-1,TLC
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/g8ipDb/TLC.gif" group-title="Entretenimento",TLC (INGLATERRA)
+		#EXTINF:-1,0205 TLC
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/g8ipDb/TLC.gif" group-title="Entretenimento",0205 TLC (INGLATERRA)
 				
 			
-		#EXTINF:-1,E! Entertainment
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/bz086w/E_Entertainment.png" group-title="Entretenimento",E! Entertainment
+		#EXTINF:-1,0206 E! Entertainment
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bz086w/E_Entertainment.png" group-title="Entretenimento",0206 E! Entertainment
 
 
-		#EXTINF:-1,Domashniy (family TV) (Russo)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cXJpDb/Domashniy.jpg" group-title="Entretenimento",Domashniy (family TV) (Russo)
+		#EXTINF:-1,0207 Domashniy (family TV) (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cXJpDb/Domashniy.jpg" group-title="Entretenimento",0207 Domashniy (family TV) (Russo)
 
 			
-		#EXTINF:-1,Travel Channel
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/ebCczG/Travel_Channel.jpg" group-title="Entretenimento",Travel Channel
+		#EXTINF:-1,0208 Travel Channel
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ebCczG/Travel_Channel.jpg" group-title="Entretenimento",0208 Travel Channel
 
 
-		#EXTINF:-1,Travel Channel +1 (UK)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/io3jeG/Travel_Channel_1.png" group-title="Entretenimento",Travel Channel +1
+		#EXTINF:-1,0209 Travel Channel +1 (UK)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/io3jeG/Travel_Channel_1.png" group-title="Entretenimento",0209 Travel Channel +1
 
 
-		#EXTINF:-1,Fashion TV
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kVrWRw/Fashion_TV.gif" group-title="Entretenimento",Fashion TV
+		#EXTINF:-1,0210 Fashion TV (HD)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kVrWRw/Fashion_TV.gif" group-title="Entretenimento",0210 Fashion TV
 				https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-			
-		#EXTINF:-1,Fashion TV BRIDAL
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kVrWRw/Fashion_TV.gif" group-title="Entretenimento",Fashion TV BRIDAL
-				http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-			
-		#EXTINF:-1,Fashion TV PG13
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kVrWRw/Fashion_TV.gif" group-title="Entretenimento",Fashion TV PG13
-				
-			
-		#EXTINF:-1,Fashion TV PG16
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kVrWRw/Fashion_TV.gif" group-title="Entretenimento",Fashion TV PG16
-				http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
-			
-		#EXTINF:-1,Fashion TV HD 
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/dQszDb/Fashion_TV_HD.jpg" group-title="Entretenimento",Fashion TV HD (Ingles)
 				
-
-		#EXTINF:-1,FOOD NETWORK
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/dDuPeG/FOOD_NETWORK.jpg" group-title="Entretenimento",FOOD NETWORK
+			
+		#EXTINF:-1,0211 Fashion TV BRIDAL
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kVrWRw/Fashion_TV.gif" group-title="Entretenimento",0211 Fashion TV BRIDAL
+				http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+			
+		#EXTINF:-1,0212 Fashion TV PG13
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kVrWRw/Fashion_TV.gif" group-title="Entretenimento",0212 Fashion TV PG13
+				
+			
+		#EXTINF:-1,0213 Fashion TV PG16
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kVrWRw/Fashion_TV.gif" group-title="Entretenimento",0213 Fashion TV PG16
+				http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
+			
+		#EXTINF:-1,0214 FOOD NETWORK
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dDuPeG/FOOD_NETWORK.jpg" group-title="Entretenimento",0214 FOOD NETWORK
 				
 
-		#EXTINF:-1,BBC Entertainment
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/mkXGtb/BBC_Entertainment.jpg" group-title="Entretenimento",BBC Entertainment (Ingles)
+		#EXTINF:-1,0215 BBC Entertainment
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mkXGtb/BBC_Entertainment.jpg" group-title="Entretenimento",0215 BBC Entertainment (Ingles)
 				
 
-		#EXTINF:-1,My Zen HD
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/jDZCYb/My_Zen_HD.png" group-title="Entretenimento",My Zen HD (Ingles)
+		#EXTINF:-1,0216 My Zen HD
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jDZCYb/My_Zen_HD.png" group-title="Entretenimento",0216 My Zen HD (Ingles)
 				
 
-		#EXTINF:-1,LUXE TV HD 
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/jdO6tb/LUXE_TV_HD.jpg" group-title="Entretenimento",LUXE TV HD (Ingles)
+		#EXTINF:-1,0217 LUXE TV HD
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jdO6tb/LUXE_TV_HD.jpg" group-title="Entretenimento",0217 LUXE TV HD (Ingles)
 				
 
-		#EXTINF:-1,GINX
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/gRDT6w/GINX.jpg" group-title="Entretenimento",GINX (Ingles)
+		#EXTINF:-1,0218 GINX
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gRDT6w/GINX.jpg" group-title="Entretenimento",0218 GINX (Ingles)
 				
 
-		#EXTINF:-1,The QYOU
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/e2Famw/The_QYOU.png" group-title="Entretenimento",The QYOU (Ingles)
+		#EXTINF:-1,0219 The QYOU
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/e2Famw/The_QYOU.png" group-title="Entretenimento",0219 The QYOU (Ingles)
 				
 
-		#EXTINF:-1,Kitchen TV (Russia)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cyGjDb/Kitchen_TV.jpg" group-title="Entretenimento",Kitchen TV (Russia)
+		#EXTINF:-1,0220 Kitchen TV (Russia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cyGjDb/Kitchen_TV.jpg" group-title="Entretenimento",0220 Kitchen TV (Russia)
 
 			
-		#EXTINF:-1,Insight TV UHD
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/eSx2zG/Insight_TV_UHD.jpg" group-title="Entretenimento",Insight TV UHD (Ingles)
+		#EXTINF:-1,0221 Insight TV UHD
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eSx2zG/Insight_TV_UHD.jpg" group-title="Entretenimento",0221 Insight TV UHD (Ingles)
 				
 
-		#EXTINF:-1,Canal 180 
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/dV1HYb/Canal_180.jpg" group-title="Entretenimento",Canal 180 
+		#EXTINF:-1,0222 Canal 180
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dV1HYb/Canal_180.jpg" group-title="Entretenimento",0222 Canal 180 
 
 
-		#EXTINF:-1,LİFESTYLE TV (Danish)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/b3S64Q/L_FESTYLE_TV_Danish.png" group-title="Entretenimento",LİFESTYLE TV (Danish)
+		#EXTINF:-1,0223 LİFESTYLE TV (Danish)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/b3S64Q/L_FESTYLE_TV_Danish.png" group-title="Entretenimento",0223 LİFESTYLE TV (Danish)
 
 			
-		#EXTINF:-1,Gong (Frances)(Anime)(Drama)(K-pop)(e-Sports)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/gq9hzG/Gong.png" group-title="Entretenimento",Gong (Frances)(Anime)(Drama)(K-pop)(e-Sports)
+		#EXTINF:-1,0224 Gong (Frances)(Anime)(Drama)(K-pop)(e-Sports)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gq9hzG/Gong.png" group-title="Entretenimento",0224 Gong (Frances)(Anime)(Drama)(K-pop)(e-Sports)
 				
 
-		#EXTINF:-1,TBD
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/Wycmv49/Tbd-logo.png" group-title="Entretenimento",TBD
+		#EXTINF:-1,0225 TBD
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/Wycmv49/Tbd-logo.png" group-title="Entretenimento",0225 TBD
 				http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 			
-		#EXTINF:-1,Adult Swim Live
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/NrqWVPd/streaming-adult.png" group-title="Entretenimento",Adult Swim Live
+		#EXTINF:-1,0226 Adult Swim Live
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/NrqWVPd/streaming-adult.png" group-title="Entretenimento",0226 Adult Swim Live
 				
 			
 		#EXTINF:-1,
@@ -1054,22 +1052,22 @@
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/hJ9N4m/006_Desporto.jpg" group-title="Desporto",[B][COLOR yellow]<== Desporto ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 			
-		#EXTINF:-1,Manchester United TV
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kfUbRw/Manchester_United_TV.png" group-title="Desporto",Manchester United TV
+		#EXTINF:-1,0227 Manchester United TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kfUbRw/Manchester_United_TV.png" group-title="Desporto",0227 Manchester United TV
 
 
-		#EXTINF:-1,Real Madrid TV
-			#EXTINF:-1 group-title="Desporto" tvg-id="RMTV.pt" tvg-logo="https://image.ibb.co/miocpQ/REAL_MADRID_TV.png",Real Madrid TV
+		#EXTINF:-1,0228 Real Madrid TV
+			#EXTINF:-1 group-title="Desporto" tvg-id="RMTV.pt" tvg-logo="https://image.ibb.co/miocpQ/REAL_MADRID_TV.png",0228 Real Madrid TV
 				http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/master.m3u8
-			#EXTINF:-1 group-title="Desporto" tvg-id="RMTV.pt" tvg-logo="https://image.ibb.co/miocpQ/REAL_MADRID_TV.png",Real Madrid TV (Alternativa)
+			#EXTINF:-1 group-title="Desporto" tvg-id="RMTV.pt" tvg-logo="https://image.ibb.co/miocpQ/REAL_MADRID_TV.png",0228 Real Madrid TV (Alternativa)
 				http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
-		#EXTINF:-1,Eurosport 1 HD
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/gMnCpQ/EUROSPORT.jpg" group-title="Desporto",Eurosport 1 HD (Ingles)
+		#EXTINF:-1,0229 Eurosport 1 HD
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gMnCpQ/EUROSPORT.jpg" group-title="Desporto",0229 Eurosport 1 HD (Ingles)
 				
 			
-		#EXTINF:-1,Eurosport 2 (Ingles)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/iaAAb5/EUROSPORT_2.jpg" group-title="Desporto",Eurosport 2 (Russo)
+		#EXTINF:-1,0230 Eurosport 2 (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iaAAb5/EUROSPORT_2.jpg" group-title="Desporto",0230 Eurosport 2 (Russo)
 				
 			
 		#EXTINF:-1,Sports Tonight (UK)
@@ -8807,6 +8805,939 @@ https://www.seuanime.com/players/novo/?contentId=ec251c24ffcafc6b
 
 
 
+############################MINI SÉRIE - GUERRA E PAZ#################################
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/eULbvGv.jpg" group-title="MINISÉRIE - GUERRA E PAZ" ,GUERRA E PAZ EP.01
+https://ia601209.us.archive.org/34/items/GUERRAEPAZEPISODIO01/GUERRA%20E%20PAZ%20EPISODIO%2001.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/eULbvGv.jpg" group-title="MINISÉRIE - GUERRA E PAZ" ,GUERRA E PAZ EP.02
+https://ia801205.us.archive.org/24/items/GUERRAEPAZEPISODIO02/GUERRA%20E%20PAZ%20EPISODIO%2002.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/eULbvGv.jpg" group-title="MINISÉRIE - GUERRA E PAZ" ,GUERRA E PAZ EP.03
+https://ia601205.us.archive.org/15/items/GUERRAEPAZEPISODIO03/GUERRA%20E%20PAZ%20EPISODIO%2003.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/eULbvGv.jpg" group-title="MINISÉRIE - GUERRA E PAZ" ,GUERRA E PAZ EP.04
+https://ia801200.us.archive.org/5/items/GUERRAEPAZEPISODIO04/GUERRA%20E%20PAZ%20EPISODIO%2004.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/eULbvGv.jpg" group-title="MINISÉRIE - GUERRA E PAZ" ,GUERRA E PAZ EP.05
+https://ia601207.us.archive.org/19/items/GUERRAEPAZEPISODIO05/GUERRA%20E%20PAZ%20EPISODIO%2005.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/eULbvGv.jpg" group-title="MINISÉRIE - GUERRA E PAZ" ,GUERRA E PAZ EP.06
+https://ia601201.us.archive.org/25/items/GUERRAEPAZEPISODIO06/GUERRA%20E%20PAZ%20EPISODIO%2006.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/eULbvGv.jpg" group-title="MINISÉRIE - GUERRA E PAZ" ,GUERRA E PAZ EP.07
+https://ia801208.us.archive.org/5/items/GUERRAEPAZEPISODIO07/GUERRA%20E%20PAZ%20%20EPIS%C3%93DIO%2007.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/eULbvGv.jpg" group-title="MINISÉRIE - GUERRA E PAZ" ,GUERRA E PAZ EP.08
+https://ia801203.us.archive.org/27/items/GUERRAEPAZEPISODIO08/GUERRA%20E%20PAZ%20EPISODIO%2008.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/eULbvGv.jpg" group-title="MINISÉRIE - GUERRA E PAZ" ,GUERRA E PAZ EP.09
+https://ia601202.us.archive.org/35/items/GUERRAEPAZEPISODIO09/GUERRA%20E%20PAZ%20EPISODIO%2009.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/eULbvGv.jpg" group-title="MINISÉRIE - GUERRA E PAZ" ,GUERRA E PAZ EP.10
+https://ia601203.us.archive.org/4/items/GUERRAEPAZEPISODIO10/GUERRA%20E%20PAZ%20EPISODIO%2010.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/eULbvGv.jpg" group-title="MINISÉRIE - GUERRA E PAZ" ,GUERRA E PAZ EP.11
+https://ia801202.us.archive.org/9/items/GUERRAEPAZEPISODIO11/GUERRA%20E%20PAZ%20EPISODIO%2011.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/eULbvGv.jpg" group-title="MINISÉRIE - GUERRA E PAZ" ,GUERRA E PAZ EP.12
+https://ia801209.us.archive.org/35/items/GUERRAEPAZEPISODIO12/GUERRA%20E%20PAZ%20EPISODIO%2012.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/eULbvGv.jpg" group-title="MINISÉRIE - GUERRA E PAZ" ,GUERRA E PAZ EP.13
+https://ia601204.us.archive.org/25/items/GUERRAEPAZEPISODIO13/GUERRA%20E%20PAZ%20EPISODIO%2013.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/eULbvGv.jpg" group-title="MINISÉRIE - GUERRA E PAZ" ,GUERRA E PAZ EP.14
+https://ia801206.us.archive.org/6/items/GUERRAEPAZEPISODIO14/GUERRA%20E%20PAZ%20EPISODIO%2014.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/eULbvGv.jpg" group-title="MINISÉRIE - GUERRA E PAZ" ,GUERRA E PAZ EP.15
+https://ia801208.us.archive.org/33/items/GUERRAEPAZEPISODIO15/GUERRA%20E%20PAZ%20EPISODIO%2015.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/eULbvGv.jpg" group-title="MINISÉRIE - GUERRA E PAZ" ,GUERRA E PAZ EP.16
+https://ia801207.us.archive.org/26/items/GUERRAEPAZEPISODIO16/GUERRA%20E%20PAZ%20EPISODIO%2016.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/eULbvGv.jpg" group-title="MINISÉRIE - GUERRA E PAZ" ,GUERRA E PAZ EP.17
+https://ia801206.us.archive.org/0/items/GUERRAEPAZEPISODIO17/GUERRA%20E%20PAZ%20EPISODIO%2017.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/eULbvGv.jpg" group-title="MINISÉRIE - GUERRA E PAZ" ,GUERRA E PAZ EP.FINAL 18
+https://ia801203.us.archive.org/9/items/GUERRAEPAZEPISODIO18FINAL/GUERRA%20E%20PAZ%20EPISODIO%2018%20FINAL.mp4?IMDSFULL
+
+
+
+
+
+
+############################MINI SÉRIE - GUERRA E PAZ#################################
+
+
+
+
+
+############################MINI SÉRIE - A CASA DAS 7 MULHERES#################################
+
+
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 01 
+https://ia600402.us.archive.org/30/items/ACASADASSETEMULHERESCAPTULO1/A%20CASA%20DAS%20SETE%20MULHERES%20CAP%C3%8DTULO%201.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 02
+https://ia600402.us.archive.org/29/items/ACASADASSETEMULHERESCAPITULO2/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%202.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 03
+https://ia800406.us.archive.org/20/items/ACASADASSETEMULHERESCAPITULO3/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%203.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 04
+https://ia800406.us.archive.org/3/items/ACASADASSETEMULHERESCAPITULO4/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%204.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 05
+https://ia800403.us.archive.org/10/items/ACASADASSETEMULHERESCAPITULO5/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%205.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 06
+https://ia600409.us.archive.org/11/items/ACASADASSETEMULHERESCAPTULO6/A%20CASA%20DAS%20SETE%20MULHERES%20CAP%C3%8DTULO%206.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 07
+https://ia800400.us.archive.org/32/items/ACASADASSETEMULHERESCAPITULO7/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%207.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 08
+https://ia800402.us.archive.org/33/items/ACASADASSETEMULHERESCAPITULO8/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%208.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 09
+https://ia600406.us.archive.org/11/items/ACASADASSETEMULHERESCAPITULO9/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%209.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 10
+https://ia800406.us.archive.org/22/items/ACASADASSETEMULHERESCAPITULO10/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2010.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 11 
+https://ia800305.us.archive.org/30/items/ACASADASSETEMULHERESCAPITULO11/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2011.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 12
+https://ia800408.us.archive.org/28/items/ACASADASSETEMULHERESCAPITULO12/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2012.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 13
+https://ia800400.us.archive.org/30/items/ACASADASSETEMULHERESCAPITULO13/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2013.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 14
+https://ia600401.us.archive.org/12/items/ACASADASSETEMULHERESCAPITULO14/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2014.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 15
+https://ia800405.us.archive.org/18/items/ACASADASSETEMULHERESCAPITULO15/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2015.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 16
+https://ia600400.us.archive.org/5/items/ACASADASSETEMULHERESCAPITULO16/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2016.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 17
+https://ia600405.us.archive.org/14/items/ACASADASSETEMULHERESCAPITULO17/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2017.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 18
+https://ia800400.us.archive.org/16/items/ACASADASSETEMULHERESCAPITULO18/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2018.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 19
+https://ia800409.us.archive.org/20/items/ACASADASSETEMULHERESCAPITULO19/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2019.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 20
+https://ia600406.us.archive.org/24/items/ACASADASSETEMULHERESCAPITULO20/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2020.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 21 
+https://ia801008.us.archive.org/12/items/ACASADASSETEMULHERESCAPITULO21/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2021.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 22
+https://ia800400.us.archive.org/12/items/ACASADASSETEMULHERESCAPITULO22/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2022.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 23
+https://ia800404.us.archive.org/27/items/ACASADASSETEMULHERESCAPITULO23/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2023.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 24
+https://ia800402.us.archive.org/3/items/ACASADASSETEMULHERESCAPITULO24/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2024.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 25
+https://ia800405.us.archive.org/5/items/ACASADASSETEMULHERESCAPITULO25/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2025.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 26
+https://ia800408.us.archive.org/3/items/ACASADASSETEMULHERESCAPITULO26/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2026.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 27
+https://ia800405.us.archive.org/21/items/ACASADASSETEMULHERESCAPITULO27/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2027.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 28
+https://ia600400.us.archive.org/22/items/ACASADASSETEMULHERESCAPITULO28/A%20CASA%20DAS%20SETE%20MULHERES%20-%20CAPITULO%2028.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 29
+https://ia800408.us.archive.org/24/items/ACASADASSETEMULHERESCAPITULO29/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2029.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 30
+https://ia601301.us.archive.org/26/items/ACASADASSETEMULHERESCAPITULO30/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2030.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 31 
+https://ia800404.us.archive.org/17/items/ACASADASSETEMULHERESCAPITULO31/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2031.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 32
+https://ia800400.us.archive.org/5/items/ACASADASSETEMULHERESCAPITULO32/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2032.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 33
+https://ia800406.us.archive.org/3/items/ACASADASSETEMULHERESCAPITULO33/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2033.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 34
+https://ia800408.us.archive.org/20/items/ACASADASSETEMULHERESCAPITULO34/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2034.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 35
+https://ia800405.us.archive.org/19/items/ACASADASSETEMULHERESCAPITULO35/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2035.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 36
+https://ia800409.us.archive.org/9/items/ACASADASSETEMULHERESCAPITULO36/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2036.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 37
+https://ia800402.us.archive.org/6/items/ACASADASSETEMULHERESCAPITULO37/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2037.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 38
+https://ia601307.us.archive.org/11/items/ACASADASSETEMULHERESCAPITULO38/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2038.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 39
+https://ia800401.us.archive.org/7/items/ACASADASSETEMULHERESCAPITULO39/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2039.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 40
+https://ia800401.us.archive.org/13/items/ACASADASSETEMULHERESCAPITULO40/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2040.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 41
+https://ia800404.us.archive.org/3/items/ACASADASSETEMULHERESCAPITULO41/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2041.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 42
+https://ia800404.us.archive.org/35/items/ACASADASSETEMULHERESCAPITULO42/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2042.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 43
+https://ia800403.us.archive.org/27/items/ACASADASSETEMULHERESCAPITULO43/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2043.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 44
+https://ia801308.us.archive.org/22/items/ACASADASSETEMULHERESCAPITULO44/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2044.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 45
+https://ia800401.us.archive.org/23/items/ACASADASSETEMULHERESCAPITULO45/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2045.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 46
+https://ia800409.us.archive.org/22/items/ACASADASSETEMULHERESCAPITULO46/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2046.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 47
+https://ia800407.us.archive.org/21/items/ACASADASSETEMULHERESCAPITULO47/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2047.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/yxukbcee" group-title="MINISÉRIE - A CASA DAS 7 MULHERES" , EP 48 Fim
+https://ia800408.us.archive.org/4/items/ACASADASSETEMULHERESCAPITULO48FIM/A%20CASA%20DAS%20SETE%20MULHERES%20CAPITULO%2048%20FIM.mp4?IMDSFULL
+
+
+
+
+
+
+
+############################MINI SÉRIE - A CASA DAS 7 MULHERES#################################
+
+
+
+############################NOVELA - VIVER A VIDA#################################
+
+
+
+
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 01
+https://ia800200.us.archive.org/2/items/ViverAVida01_201603/viver%20a%20vida%2001.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 02
+https://ia800201.us.archive.org/14/items/ViverAVida02_201603/viver%20a%20vida%2002.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 03
+https://ia800203.us.archive.org/13/items/ViverAVida03/viver%20a%20vida%2003.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 04
+https://ia800201.us.archive.org/25/items/ViverAVida04/viver%20a%20vida%2004.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 05
+https://ia800206.us.archive.org/29/items/ViverAVida05/viver%20a%20vida%2005.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 06
+https://ia800203.us.archive.org/30/items/ViverAVida06/viver%20a%20vida%2006.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 07
+https://ia600209.us.archive.org/34/items/ViverAVida07/viver%20a%20vida%2007.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 08
+https://ia800204.us.archive.org/9/items/ViverAVida08/viver%20a%20vida%2008.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 09
+https://ia800201.us.archive.org/3/items/ViverAVida09/viver%20a%20vida%2009.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 10
+https://ia800200.us.archive.org/33/items/ViverAVida10/viver%20a%20vida%2010.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 11
+https://ia800206.us.archive.org/17/items/ViverAVida11/viver%20a%20vida%2011.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 12
+https://ia800208.us.archive.org/5/items/ViverAVida12/viver%20a%20vida%2012.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 13
+https://ia800201.us.archive.org/0/items/ViverAVida13/viver%20a%20vida%2013.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 14
+https://ia800208.us.archive.org/20/items/ViverAVida14/viver%20a%20vida%2014.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 15
+https://ia800200.us.archive.org/22/items/ViverAVida15/viver%20a%20vida%2015.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 16
+https://ia800200.us.archive.org/28/items/ViverAVida16/viver%20a%20vida%2016.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 17
+https://ia800208.us.archive.org/1/items/ViverAVida17/viver%20a%20vida%2017.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 18
+https://ia800200.us.archive.org/16/items/ViverAVida18/viver%20a%20vida%2018.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 19
+https://ia800200.us.archive.org/18/items/ViverAVida19/viver%20a%20vida%2019.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 20
+https://ia800209.us.archive.org/16/items/ViverAVida20/viver%20a%20vida%2020.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 21
+https://ia800207.us.archive.org/15/items/ViverAVida21/viver%20a%20vida%2021.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 22
+https://ia800206.us.archive.org/14/items/ViverAVida22/viver%20a%20vida%2022.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 23
+https://ia600205.us.archive.org/29/items/ViverAVidaCap23/Viver%20a%20Vida%20cap%2023.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 24
+https://ia600208.us.archive.org/6/items/ViverAVida24/viver%20a%20vida%2024.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 25
+https://ia800206.us.archive.org/35/items/ViverAVida25/viver%20a%20vida%2025.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 26
+https://ia800209.us.archive.org/20/items/ViverAVida26/viver%20a%20vida%2026.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 27
+https://ia800205.us.archive.org/24/items/ViverAVida27/viver%20a%20vida%2027.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 28
+https://ia600208.us.archive.org/23/items/ViverAVida28/viver%20a%20vida%2028.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 29
+https://ia800201.us.archive.org/26/items/ViverAVida29/viver%20a%20vida%2029.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 30
+https://ia800208.us.archive.org/20/items/ViverAVida30/viver%20a%20vida%2030.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 31
+https://ia600201.us.archive.org/29/items/ViverAVida31/viver%20a%20vida%2031.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 32
+https://ia800200.us.archive.org/19/items/ViverAVidaCap32/Viver%20a%20Vida%20cap%2032.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 33
+https://ia800201.us.archive.org/16/items/ViverAVida33/viver%20a%20vida%2033.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 34
+https://ia600206.us.archive.org/16/items/ViverAVida34/viver%20a%20vida%2034.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 35
+https://ia800208.us.archive.org/18/items/ViverAVida35/viver%20a%20vida%2035.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 36
+https://ia800201.us.archive.org/26/items/ViverAVida36/viver%20a%20vida%2036.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 37
+https://ia800208.us.archive.org/2/items/ViverAVida37/viver%20a%20vida%2037.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 38
+https://ia800205.us.archive.org/14/items/ViverAVida38/viver%20a%20vida%2038.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 39
+https://ia800205.us.archive.org/16/items/ViverAVida39/viver%20a%20vida%2039.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 40
+https://ia800208.us.archive.org/27/items/ViverAVida40/viver%20a%20vida%2040.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 41
+https://ia800206.us.archive.org/0/items/ViverAVidaCap41/Viver%20a%20Vida%20cap%2041.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 42
+https://ia600206.us.archive.org/29/items/ViverAVida42/viver%20a%20vida%2042.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 43
+https://ia800206.us.archive.org/5/items/ViverAVida43/viver%20a%20vida%2043.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 44
+https://ia800202.us.archive.org/26/items/ViverAVida44/viver%20a%20vida%2044.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 45
+https://ia800201.us.archive.org/17/items/ViverAVida45/viver%20a%20vida%2045.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 46
+https://ia600204.us.archive.org/29/items/ViverAVida46/viver%20a%20vida%2046.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 47
+https://ia800208.us.archive.org/19/items/ViverAVida47/viver%20a%20vida%2047.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 48
+https://ia800208.us.archive.org/33/items/ViverAVida48/viver%20a%20vida%2048.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 49
+https://ia800208.us.archive.org/34/items/ViverAVida49/viver%20a%20vida%2049.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 50
+https://ia800201.us.archive.org/18/items/ViverAVida50/viver%20a%20vida%2050.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 51
+https://ia800203.us.archive.org/26/items/ViverAVida51/viver%20a%20vida%2051.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 52
+https://ia800205.us.archive.org/4/items/ViverAVida52/viver%20a%20vida%2052.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 53
+https://ia800204.us.archive.org/0/items/ViverAVida53/viver%20a%20vida%2053.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 54
+https://ia800207.us.archive.org/4/items/ViverAVida54/viver%20a%20vida%2054.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 55
+https://ia600200.us.archive.org/25/items/ViverAVida55/viver%20a%20vida%2055.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 56
+https://ia800202.us.archive.org/18/items/ViverAVida56/viver%20a%20vida%2056.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 57
+https://ia600205.us.archive.org/4/items/ViverAVida57/viver%20a%20vida%2057.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 58
+https://ia800200.us.archive.org/23/items/ViverAVida58/viver%20a%20vida%2058.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 59
+https://ia800201.us.archive.org/9/items/ViverAVida59/viver%20a%20vida%2059.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 60
+https://ia800205.us.archive.org/8/items/ViverAVida60/viver%20a%20vida%2060.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 61
+https://ia800209.us.archive.org/35/items/ViverAVida61/viver%20a%20vida%2061.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 62
+https://ia800205.us.archive.org/30/items/ViverAVida62/viver%20a%20vida%2062.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 63
+https://ia800209.us.archive.org/28/items/ViverAVida63/viver%20a%20vida%2063.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 64
+https://ia800201.us.archive.org/9/items/ViverAVida64/viver%20a%20vida%2064.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 65
+https://ia800206.us.archive.org/14/items/ViverAVida65/viver%20a%20vida%2065.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 66
+https://ia800202.us.archive.org/18/items/ViverAVida66/viver%20a%20vida%2066.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 67
+https://ia800206.us.archive.org/9/items/ViverAVida67/viver%20a%20vida%2067.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 68
+https://ia800204.us.archive.org/13/items/ViverAVida68/viver%20a%20vida%2068.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 69
+https://ia800209.us.archive.org/1/items/ViverAVida69/viver%20a%20vida%2069.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 70
+https://ia800206.us.archive.org/18/items/ViverAVida70/viver%20a%20vida%2070.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 71
+https://ia800205.us.archive.org/3/items/VIVERAVIDACAPITULO71/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%2071.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 72
+https://ia800207.us.archive.org/0/items/ViverAVida72/viver%20a%20vida%2072.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 73
+https://ia800202.us.archive.org/23/items/ViverAVida73/viver%20a%20vida%2073.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 74
+https://ia800208.us.archive.org/29/items/ViverAVidaCap74/Viver%20a%20Vida%20cap%2074.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 75
+https://ia600206.us.archive.org/31/items/ViverAVida75/viver%20a%20vida%2075.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 76
+https://ia800203.us.archive.org/9/items/ViverAVida76/viver%20a%20vida%2076.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 77
+https://ia800205.us.archive.org/7/items/ViverAVida77/viver%20a%20vida%2077.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 78
+https://ia800203.us.archive.org/3/items/ViverAVida78/viver%20a%20vida%2078.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 79
+https://ia800202.us.archive.org/11/items/ViverAVida79/viver%20a%20vida%2079.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 80
+https://ia800208.us.archive.org/29/items/ViverAVida80/viver%20a%20vida%2080.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 81
+https://ia800201.us.archive.org/1/items/ViverAVida81/viver%20a%20vida%2081.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 82
+https://ia800202.us.archive.org/27/items/ViverAVidaCap82/Viver%20a%20Vida%20cap%2082.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 83
+https://ia800201.us.archive.org/32/items/ViverAVida83/viver%20a%20vida%2083.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 84
+https://ia800201.us.archive.org/8/items/ViverAVida84/viver%20a%20vida%2084.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 85
+https://ia800200.us.archive.org/18/items/ViverAVida85/viver%20a%20vida%2085.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 86
+https://ia800202.us.archive.org/26/items/ViverAVida86/viver%20a%20vida%2086.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 87
+https://ia800202.us.archive.org/7/items/ViverAVida87/viver%20a%20vida%2087.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 88
+https://ia800204.us.archive.org/10/items/ViverAVida88/viver%20a%20vida%2088.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 89
+https://ia800205.us.archive.org/25/items/ViverAVida89/viver%20a%20vida%2089.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 90
+https://ia600208.us.archive.org/27/items/ViverAVida90/viver%20a%20vida%2090.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 91
+https://ia600206.us.archive.org/27/items/ViverAVida91/viver%20a%20vida%2091.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 92
+https://ia800207.us.archive.org/29/items/ViverAVida92/viver%20a%20vida%2092.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 93
+https://ia800206.us.archive.org/8/items/ViverAVida93/viver%20a%20vida%2093.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 94
+https://ia800208.us.archive.org/28/items/ViverAVida94/viver%20a%20vida%2094.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 95
+https://ia800208.us.archive.org/35/items/ViverAVida95/viver%20a%20vida%2095.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 96
+https://ia800200.us.archive.org/29/items/ViverAVida96/viver%20a%20vida%2096.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 97
+https://ia800203.us.archive.org/35/items/ViverAVida97/viver%20a%20vida%2097.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 98
+https://ia800202.us.archive.org/10/items/ViverAVida98/viver%20a%20vida%2098.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 99
+https://ia800202.us.archive.org/18/items/ViverAVida99/viver%20a%20vida%2099.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 100
+https://ia800200.us.archive.org/11/items/ViverAVida100/viver%20a%20vida%20100.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 101
+https://ia800207.us.archive.org/5/items/ViverAVida101/viver%20a%20vida%20101.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 102
+https://ia800206.us.archive.org/28/items/ViverAVida102/viver%20a%20vida%20102.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 103
+https://ia800209.us.archive.org/12/items/ViverAVida103/viver%20a%20vida%20103.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 104
+https://ia800200.us.archive.org/1/items/ViverAVida104/viver%20a%20vida%20104.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 105
+https://ia800203.us.archive.org/20/items/ViverAVida105/viver%20a%20vida%20105.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 106
+https://ia800205.us.archive.org/3/items/ViverAVida106/viver%20a%20vida%20106.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 107
+https://ia800206.us.archive.org/2/items/ViverAVida107/viver%20a%20vida%20107.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 108
+https://ia800203.us.archive.org/11/items/ViverAVida108/viver%20a%20vida%20108.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 109
+https://ia800201.us.archive.org/27/items/ViverAVida109/viver%20a%20vida%20109.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 110
+https://ia800206.us.archive.org/15/items/ViverAVida110/viver%20a%20vida%20110.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 111
+https://ia800207.us.archive.org/24/items/ViverAVida111/viver%20a%20vida%20111.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 112
+https://ia800207.us.archive.org/18/items/ViverAVidaCap112/Viver%20a%20Vida%20cap%20112.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 113
+https://ia800207.us.archive.org/1/items/ViverAVida113/viver%20a%20vida%20113.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 114
+https://ia600202.us.archive.org/7/items/ViverAVida114/viver%20a%20vida%20114.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 115
+https://ia800205.us.archive.org/19/items/ViverAVida115/viver%20a%20vida%20115.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 116
+https://ia600200.us.archive.org/0/items/ViverAVida116/viver%20a%20vida%20116.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 117
+https://ia800200.us.archive.org/24/items/ViverAVidaCap117/Viver%20a%20Vida%20cap%20117.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 118
+https://ia800202.us.archive.org/5/items/ViverAVida118/viver%20a%20vida%20118.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 119
+https://ia800208.us.archive.org/17/items/ViverAVida119/viver%20a%20vida%20119.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 120
+https://ia800200.us.archive.org/25/items/ViverAVida120/viver%20a%20vida%20120.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 121
+https://ia800209.us.archive.org/20/items/ViverAVida121/viver%20a%20vida%20121.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 122
+https://ia800201.us.archive.org/21/items/ViverAVida122/viver%20a%20vida%20122.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 123
+https://ia800209.us.archive.org/28/items/ViverAVida123/viver%20a%20vida%20123.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 124
+https://ia800202.us.archive.org/23/items/ViverAVida124/viver%20a%20vida%20124.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 125
+https://ia800209.us.archive.org/10/items/ViverAVida125/viver%20a%20vida%20125.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 126
+https://ia800201.us.archive.org/7/items/ViverAVida126/viver%20a%20vida%20126.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 127
+https://ia800202.us.archive.org/24/items/ViverAVida127/viver%20a%20vida%20127.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 128
+https://ia800204.us.archive.org/32/items/ViverAVida128/viver%20a%20vida%20128.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 129
+https://ia800202.us.archive.org/27/items/ViverAVida129/viver%20a%20vida%20129.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 130
+https://ia800203.us.archive.org/14/items/ViverAVida130/viver%20a%20vida%20130.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 131
+https://ia800206.us.archive.org/27/items/ViverAVida131/viver%20a%20vida%20131.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 132
+https://ia800206.us.archive.org/32/items/ViverAVidaCap132/Viver%20a%20Vida%20cap%20132.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 133
+https://ia800200.us.archive.org/10/items/ViverAVida133/viver%20a%20vida%20133.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 134
+https://ia800205.us.archive.org/14/items/ViverAVida134/viver%20a%20vida%20134.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 135
+https://ia600208.us.archive.org/4/items/ViverAVida135/viver%20a%20vida%20135.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 136
+https://ia800209.us.archive.org/24/items/ViverAVida136/viver%20a%20vida%20136.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 137
+https://ia800204.us.archive.org/1/items/ViverAVida137/viver%20a%20vida%20137.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 138
+https://ia600207.us.archive.org/21/items/ViverAVida138/viver%20a%20vida%20138.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 139
+https://ia800207.us.archive.org/31/items/VIVERAVIDACAPTULO139/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20139.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 140
+https://ia800207.us.archive.org/31/items/VIVERAVIDACAPTULO140/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20140.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 141
+https://ia800204.us.archive.org/7/items/VIVERAVIDACAPTULO141/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20141.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 142
+https://ia800205.us.archive.org/9/items/VIVERAVIDACAPTULO142/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20142.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 143
+https://ia800201.us.archive.org/7/items/VIVERAVIDACAPTULO143/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20143.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 144
+https://ia800208.us.archive.org/25/items/VIVERAVIDACAPTULO144/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20144.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 145
+https://ia800200.us.archive.org/34/items/VIVERAVIDACAPTULO145/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20145.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 146
+https://ia800209.us.archive.org/16/items/VIVERAVIDACAPTULO146/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20146.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 147
+https://ia800204.us.archive.org/24/items/VIVERAVIDACAPTULO147/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20147.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 148
+https://ia800204.us.archive.org/19/items/VIVERAVIDACAPTULO148/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20148.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 149
+https://ia800209.us.archive.org/4/items/VIVERAVIDACAPTULO149/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20149.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 150
+https://ia800201.us.archive.org/22/items/VIVERAVIDACAPTULO150/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20150.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 151
+https://ia800200.us.archive.org/2/items/ViverAVidaCap151/Viver%20a%20Vida%20cap%20151.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 152
+https://ia800206.us.archive.org/10/items/VIVERAVIDACAPITULO152/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20152.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 153
+https://ia800204.us.archive.org/21/items/VIVERAVIDACAPITULO153/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20153.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 154
+https://ia800207.us.archive.org/33/items/VIVERAVIDACAPITULO154/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20154.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 155
+https://ia800205.us.archive.org/8/items/VIVERAVIDACAPITULO155/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20155.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 156
+https://ia800200.us.archive.org/27/items/VIVERAVIDACAPITULO156/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20156.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 157
+https://ia600205.us.archive.org/28/items/VIVERAVIDACAPITULO157/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20157.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 158
+https://ia800206.us.archive.org/1/items/VIVERAVIDACAPITULO158/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20158.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 159
+https://ia800202.us.archive.org/3/items/VIVERAVIDACAPITULO159/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20159.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 160
+https://ia600208.us.archive.org/34/items/VIVERAVIDACAPITULO160/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20160.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 161
+https://ia800207.us.archive.org/17/items/VIVERAVIDACAPITULO161/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20161.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 162
+https://ia600201.us.archive.org/24/items/VIVERAVIDACAPITULO162/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20162.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 163
+https://ia800204.us.archive.org/1/items/VIVERAVIDACAPITULO163/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20163.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 164
+https://ia800207.us.archive.org/30/items/VIVERAVIDACAPITULO164/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20164.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 165
+https://ia800209.us.archive.org/22/items/VIVERAVIDACAPITULO165/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20165.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 166
+https://ia800204.us.archive.org/23/items/VIVERAVIDACAPTULO166/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20166.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 167
+https://ia800208.us.archive.org/0/items/VIVERAVIDACAPTULO167/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20167.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 168
+https://ia800206.us.archive.org/8/items/VIVERAVIDACAPTULO168/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20168.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 169
+https://ia800209.us.archive.org/0/items/VIVERAVIDACAPITULO169/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20169.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 170
+https://ia800201.us.archive.org/22/items/VIVERAVIDACAPITULO170/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20170.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 171
+https://ia800202.us.archive.org/20/items/VIVERAVIDACAPITULO171/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20171.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 172
+https://ia800209.us.archive.org/33/items/VIVERAVIDACAPITULO172/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20172.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 173
+https://ia800204.us.archive.org/5/items/VIVERAVIDACAPITULO173/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20173.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 174
+https://ia800204.us.archive.org/30/items/VIVERAVIDACAPITULO174/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20174.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 175
+https://ia800208.us.archive.org/9/items/VIVERAVIDACAPITULO175/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20175.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 176
+https://ia800208.us.archive.org/26/items/VIVERAVIDACAPITULO176/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20176.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 177
+https://ia800208.us.archive.org/34/items/VIVERAVIDACAPITULO177/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20177.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 178
+https://ia800202.us.archive.org/12/items/VIVERAVIDACAPITULO178/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20178.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 179
+https://ia800202.us.archive.org/23/items/VIVERAVIDACAPITULO179/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20179.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 180
+https://ia800204.us.archive.org/14/items/VIVERAVIDACAPITULO180/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20180.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 181
+https://ia600203.us.archive.org/4/items/VIVERAVIDACAPITULO181/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20181.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 182
+https://ia800203.us.archive.org/32/items/VIVERAVIDACAPITULO182/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20182.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 183
+https://ia800208.us.archive.org/0/items/VIVERAVIDACAPITULO183/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20183.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 184
+https://ia800201.us.archive.org/22/items/VIVERAVIDACAPITULO184/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20184.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 185
+https://ia800208.us.archive.org/8/items/VIVERAVIDACAPITULO185/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20185.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 186
+https://ia800200.us.archive.org/18/items/VIVERAVIDACAPITULO186/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20186.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 187
+https://ia800203.us.archive.org/33/items/VIVERAVIDACAPITULO187/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20187.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 188
+https://ia600202.us.archive.org/35/items/VIVERAVIDACAPITULO188/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20188.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 189
+https://ia800200.us.archive.org/18/items/VIVERAVIDACAPITULO189/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20189.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 190
+https://ia600205.us.archive.org/31/items/VIVERAVIDACAPITULO190/VIVER%20A%20VIDA%20CAP%C3%8DTULO%20190.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 191
+https://ia800201.us.archive.org/18/items/VIVERAVIDACAPTULO191/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20191.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 192
+https://ia600207.us.archive.org/5/items/VIVERAVIDACAPITULO192/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20192.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 193
+https://ia800206.us.archive.org/33/items/VIVERAVIDACAPITULO193/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20193.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 194
+https://ia800206.us.archive.org/15/items/VIVERAVIDACAPITULO194/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20194.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 195
+https://ia600209.us.archive.org/21/items/VIVERAVIDACAPITULO195/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20195.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 196
+https://ia800205.us.archive.org/33/items/VIVERAVIDACAPITULO196/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20196.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 197
+https://ia800207.us.archive.org/6/items/VIVERAVIDACAPITULO197/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20197.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 198
+https://ia800200.us.archive.org/10/items/VIVERAVIDACAPITULO198/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20198.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 199
+https://ia800203.us.archive.org/34/items/VIVERAVIDACAPITULO199/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20199.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 200
+https://ia800205.us.archive.org/9/items/VIVERAVIDACAPITULO200/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20200.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 201
+https://ia800204.us.archive.org/10/items/VIVERAVIDACAPITULO201/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20201.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 202
+https://ia800200.us.archive.org/27/items/VIVERAVIDACAPITULO202/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20202.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 203
+https://ia800209.us.archive.org/27/items/VIVERAVIDACAPITULO203/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20203.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 204
+https://ia800204.us.archive.org/16/items/VIVERAVIDACAPITULO204/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20204.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 205
+https://ia800202.us.archive.org/13/items/VIVERAVIDACAPITULO205/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20205.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 206
+https://ia800205.us.archive.org/7/items/VIVERAVIDACAPITULO206/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20206.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 207
+https://ia800200.us.archive.org/23/items/VIVERAVIDACAPITULO207/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20207.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 208 Penult.Cap.
+https://ia800207.us.archive.org/13/items/VIVERAVIDACAPITULO208/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20208.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6g56qxa" group-title="VIVER A VIDA" , EP 209 Cap.Final
+https://ia800204.us.archive.org/32/items/VIVERAVIDACAPITULO209FIM/VIVER%20A%20VIDA%20-%20CAP%C3%8DTULO%20209%20-%20FIM.mp4?IMDSFULL
+
+
+
+
+
+
+############################NOVELA - VIVER A VIDA#################################
+
+
+
+
+############################NOVELA VAMP#################################
+
+
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 01
+https://ia600504.us.archive.org/13/items/VampCapitulo1/1.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 02
+https://ia600504.us.archive.org/13/items/VampCapitulo2/2.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 03
+https://ia600504.us.archive.org/13/items/VampCapitulo3/3.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 04
+https://ia600504.us.archive.org/13/items/VampCapitulo4/4.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 05
+https://ia600504.us.archive.org/13/items/VampCapitulo5/5.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 06
+https://ia600504.us.archive.org/13/items/VampCapitulo6/6.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 07
+https://ia600504.us.archive.org/13/items/VampCapitulo7/7.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 08
+https://ia600504.us.archive.org/13/items/VampCapitulo8/8.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 09
+https://ia600504.us.archive.org/13/items/VampCapitulo9/9.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 10
+https://ia600504.us.archive.org/13/items/VampCapitulo10/10.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 11
+https://ia600504.us.archive.org/13/items/VampCapitulo11/11.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 12
+https://ia600504.us.archive.org/13/items/VampCapitulo12/12.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 13
+https://ia600504.us.archive.org/13/items/VampCapitulo13/13.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 14
+https://ia600504.us.archive.org/13/items/VampCapitulo14/14.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 15
+https://ia600504.us.archive.org/13/items/VampCapitulo15/15.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 16
+https://ia600504.us.archive.org/13/items/VampCapitulo16/16.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 17
+https://ia600504.us.archive.org/13/items/VampCapitulo17/17.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 18
+https://ia600504.us.archive.org/13/items/VampCapitulo18/18.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 19
+https://ia600504.us.archive.org/13/items/VampCapitulo19/19.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 20
+https://ia600504.us.archive.org/13/items/VampCapitulo20/20.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 21
+https://ia600504.us.archive.org/13/items/VampCapitulo21/21.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 22
+https://ia600504.us.archive.org/13/items/VampCapitulo22/22.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 23
+https://ia600504.us.archive.org/13/items/VampCapitulo23/23.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 24
+https://ia600504.us.archive.org/13/items/VampCapitulo24/24.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 25
+https://ia600504.us.archive.org/13/items/VampCapitulo25/25.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 26
+https://ia600504.us.archive.org/13/items/VampCapitulo26/26.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 27
+https://ia600504.us.archive.org/13/items/VampCapitulo27/27.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 28
+https://ia600504.us.archive.org/13/items/VampCapitulo28/28.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 29
+https://ia600504.us.archive.org/13/items/VampCapitulo29/29.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 30
+https://ia600504.us.archive.org/13/items/VampCapitulo30/30.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 31
+https://ia600504.us.archive.org/13/items/VampCapitulo31/31.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 32
+https://ia600504.us.archive.org/13/items/VampCapitulo32/32.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 33
+https://ia600504.us.archive.org/13/items/VampCapitulo33/33.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 34
+https://ia600504.us.archive.org/13/items/VampCapitulo34/34.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 35
+https://ia600504.us.archive.org/13/items/VampCapitulo35/35.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 36
+https://ia600504.us.archive.org/13/items/VampCapitulo36/36.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 37
+https://ia600504.us.archive.org/13/items/VampCapitulo37/37.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 38
+https://ia600504.us.archive.org/13/items/VampCapitulo38/38.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 39
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 40
+https://ia600504.us.archive.org/13/items/VampCapitulo40/40.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 41
+https://ia600504.us.archive.org/13/items/VampCapitulo41/41.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 42
+https://ia600504.us.archive.org/13/items/VampCapitulo42/42.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 43
+https://ia600504.us.archive.org/13/items/VampCapitulo43/43.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 44
+https://ia600504.us.archive.org/13/items/VampCapitulo44/44.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 45
+https://ia600504.us.archive.org/13/items/VampCapitulo45/45.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 46
+https://ia600504.us.archive.org/13/items/VampCapitulo46/46.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 47
+https://ia600504.us.archive.org/13/items/VampCapitulo47/47.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 48
+https://ia600504.us.archive.org/13/items/VampCapitulo48/48.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 49
+https://ia600504.us.archive.org/13/items/VampCapitulo49/49.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 50
+https://ia600504.us.archive.org/13/items/VampCapitulo50/50.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 51
+https://ia600504.us.archive.org/13/items/VampCapitulo51/51.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 52
+https://ia600504.us.archive.org/13/items/VampCapitulo52/52.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 53
+https://ia600504.us.archive.org/13/items/VampCapitulo53/53.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 54
+https://ia600504.us.archive.org/13/items/VampCapitulo54/54.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 55
+https://ia600504.us.archive.org/13/items/VampCapitulo55/55.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 56
+https://ia600504.us.archive.org/13/items/VampCapitulo56/56.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 57
+https://ia600504.us.archive.org/13/items/VampCapitulo57/57.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 58
+https://ia600504.us.archive.org/13/items/VampCapitulo58/58.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 59
+https://ia600504.us.archive.org/13/items/VampCapitulo59/59.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 60
+https://ia600504.us.archive.org/13/items/VampCapitulo60/60.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 61
+https://ia600504.us.archive.org/13/items/VampCapitulo61/61.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 62
+https://ia600504.us.archive.org/13/items/VampCapitulo62/62.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 63
+https://ia600504.us.archive.org/13/items/VampCapitulo63/63.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 64
+https://ia600504.us.archive.org/13/items/VampCapitulo64/64.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 65
+https://ia600504.us.archive.org/13/items/VampCapitulo65/65.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 66
+https://ia600504.us.archive.org/13/items/VampCapitulo66/66.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 67
+https://ia600504.us.archive.org/13/items/VampCapitulo67/67.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 68
+https://ia600504.us.archive.org/13/items/VampCapitulo68/68.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 69
+https://ia600504.us.archive.org/13/items/VampCapitulo69/69.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 70
+https://ia600504.us.archive.org/13/items/VampCapitulo70/70.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 71
+https://ia600504.us.archive.org/13/items/VampCapitulo71/71.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 72
+https://ia600504.us.archive.org/13/items/VampCapitulo72/72.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 73
+https://ia600504.us.archive.org/13/items/VampCapitulo73/73.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 74
+https://ia600504.us.archive.org/13/items/VampCapitulo74/74.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 75
+https://ia600504.us.archive.org/13/items/VampCapitulo75/75.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 76
+https://ia600504.us.archive.org/13/items/VampCapitulo76/76.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 77
+https://ia600504.us.archive.org/13/items/VampCapitulo77/77.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 78
+https://ia600504.us.archive.org/13/items/VampCapitulo78/78.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 79
+https://ia600504.us.archive.org/13/items/VampCapitulo79/79.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 80
+https://ia600504.us.archive.org/13/items/VampCapitulo80/80.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 81
+https://ia600504.us.archive.org/13/items/VampCapitulo81/81.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 82
+https://ia600504.us.archive.org/13/items/VampCapitulo82/82.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 83
+https://ia600504.us.archive.org/13/items/VampCapitulo83/83.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 84
+https://ia600504.us.archive.org/13/items/VampCapitulo84/84.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 85
+https://ia600504.us.archive.org/13/items/VampCapitulo85/85.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 86
+https://ia600504.us.archive.org/13/items/VampCapitulo86/86.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 87
+https://ia600504.us.archive.org/13/items/VampCapitulo87/87.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 88
+https://ia600504.us.archive.org/13/items/VampCapitulo88/88.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 89
+https://ia600504.us.archive.org/13/items/VampCapitulo89/89.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 90
+https://ia600504.us.archive.org/13/items/VampCapitulo490/90.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 91
+https://ia600504.us.archive.org/13/items/VampCapitulo91/91.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 92
+https://ia600504.us.archive.org/13/items/VampCapitulo92/92.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 93
+https://ia600504.us.archive.org/13/items/VampCapitulo93/93.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 94
+https://ia600504.us.archive.org/13/items/VampCapitulo94/94.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 95
+https://ia600504.us.archive.org/13/items/VampCapitulo95/95.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 96
+https://ia600504.us.archive.org/13/items/VampCapitulo96/96.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 97
+https://ia600504.us.archive.org/13/items/VampCapitulo97/97.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 98
+https://ia600504.us.archive.org/13/items/VampCapitulo98/98.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 99
+https://ia600504.us.archive.org/13/items/VampCapitulo99/99.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 100
+https://ia600504.us.archive.org/13/items/VampCapitulo100/100.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 101
+https://ia600504.us.archive.org/13/items/VampCapitulo101/101.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 102
+https://ia600504.us.archive.org/13/items/VampCapitulo102/102.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 103
+https://ia600504.us.archive.org/13/items/VampCapitulo103/103mp4?LISTASGLAU
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 104
+https://ia600504.us.archive.org/13/items/VampCapitulo104/104.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 105
+https://ia600504.us.archive.org/13/items/VampCapitulo105/105.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 106
+https://ia600504.us.archive.org/13/items/VampCapitulo106/106.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 107
+https://ia600504.us.archive.org/13/items/VampCapitulo107/107.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 108
+https://ia600504.us.archive.org/13/items/VampCapitulo108/108.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP109
+https://ia600504.us.archive.org/13/items/VampCapitulo109/109.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 110
+https://ia600504.us.archive.org/13/items/VampCapitulo110/110.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 111
+https://ia600504.us.archive.org/13/items/VampCapitulo111/111.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 112
+https://ia600504.us.archive.org/13/items/VampCapitulo112/112.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 113
+https://ia600504.us.archive.org/13/items/VampCapitulo113/113/.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 114
+https://ia600504.us.archive.org/13/items/VampCapitulo114/114.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 115
+https://ia600504.us.archive.org/13/items/VampCapitulo115/115.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 116
+https://ia600504.us.archive.org/13/items/VampCapitulo116/116.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 117
+https://ia600504.us.archive.org/13/items/VampCapitulo117/117.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 118
+https://ia600504.us.archive.org/13/items/VampCapitulo118/118.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 119
+https://ia600504.us.archive.org/13/items/VampCapitulo119/119.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 120
+https://ia600504.us.archive.org/13/items/VampCapitulo120/120.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 121
+https://ia600504.us.archive.org/13/items/VampCapitulo121/121.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 122
+https://ia600504.us.archive.org/13/items/VampCapitulo122/122.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 123
+https://ia600504.us.archive.org/13/items/VampCapitulo123/123.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 124
+https://ia600504.us.archive.org/13/items/VampCapitulo124/124.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 125
+https://ia600504.us.archive.org/13/items/VampCapitulo125/125.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 126
+https://ia600504.us.archive.org/13/items/VampCapitulo126/126.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 127
+https://ia600504.us.archive.org/13/items/VampCapitulo127/127.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 128
+https://ia600504.us.archive.org/13/items/VampCapitulo128/128.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 129
+https://ia600504.us.archive.org/13/items/VampCapitulo129/129.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 130
+https://ia600504.us.archive.org/13/items/VampCapitulo130/130.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 131
+https://ia600504.us.archive.org/13/items/VampCapitulo131/131.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 132
+https://ia600504.us.archive.org/13/items/VampCapitulo132/132.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 134
+https://ia600504.us.archive.org/13/items/VampCapitulo134/134.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 135
+https://ia600504.us.archive.org/13/items/VampCapitulo135/135.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 136
+https://ia600504.us.archive.org/13/items/VampCapitulo136/136.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 137
+https://ia600504.us.archive.org/13/items/VampCapitulo137/137.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 138
+https://ia600504.us.archive.org/13/items/VampCapitulo138/138.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 139
+https://ia600504.us.archive.org/13/items/VampCapitulo139/139.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 140
+https://ia600504.us.archive.org/13/items/VampCapitulo140/140.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 141
+https://ia600504.us.archive.org/13/items/VampCapitulo141/141.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 142
+https://ia600504.us.archive.org/13/items/VampCapitulo142/142.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 143
+https://ia600504.us.archive.org/13/items/VampCapitulo143/143.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 144
+https://ia600504.us.archive.org/13/items/VampCapitulo144/144.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 145
+https://ia600504.us.archive.org/13/items/VampCapitulo145/145.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 146
+https://ia600504.us.archive.org/13/items/VampCapitulo146/146.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 147
+https://ia600504.us.archive.org/13/items/VampCapitulo147/147.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 148
+https://ia600504.us.archive.org/13/items/VampCapitulo148/148.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EPP 149
+https://ia600504.us.archive.org/13/items/VampCapitulo149/149.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 150
+https://ia600504.us.archive.org/13/items/VampCapitulo150/150.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 151
+https://ia600504.us.archive.org/13/items/VampCapitulo151/151.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 152
+https://ia600504.us.archive.org/13/items/VampCapitulo152/152.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 153
+https://ia600504.us.archive.org/13/items/VampCapitulo153/153.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 154
+https://ia600504.us.archive.org/13/items/VampCapitulo154/154.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 155
+https://ia600504.us.archive.org/13/items/VampCapitulo155/155.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 156
+https://ia600504.us.archive.org/13/items/VampCapitulo156/156.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 157
+https://ia600504.us.archive.org/13/items/VampCapitulo157/157.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 158
+https://ia600504.us.archive.org/13/items/VampCapitulo158/158.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 159
+https://ia600504.us.archive.org/13/items/VampCapitulo159/159.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 160
+https://ia600504.us.archive.org/13/items/VampCapitulo160/160.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 161
+https://ia600504.us.archive.org/13/items/VampCapitulo161/161.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP162
+https://ia600504.us.archive.org/13/items/VampCapitulo162/162.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 163
+https://ia600504.us.archive.org/13/items/VampCapitulo163/163.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 164
+https://ia600504.us.archive.org/13/items/VampCapitulo164/164.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 165
+https://ia600504.us.archive.org/13/items/VampCapitulo165/165.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 166
+https://ia600504.us.archive.org/13/items/VampCapitulo166/166.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 167
+https://ia600504.us.archive.org/13/items/VampCapitulo167/167.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://goo.gl/kfMW5w" group-title="NOVELA VAMP",VAMP EP 168
+https://ia600504.us.archive.org/13/items/VampCapitulo168/168.mp4?IMDSFULL
+
 
 #EXTINF:-1,[COLOR blue][I][B]-------------------------------------------------------------[/B][/I][/COLOR]
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/mmU3um/024.jpg" group-title="----",[COLOR red][I][B]-------------------------------------------------------------[/B][/I][/COLOR]
@@ -9075,7 +10006,6 @@ https://www.seuanime.com/players/novo/?contentId=ec251c24ffcafc6b
 				
 	
 
-
 #EXTINF:-1,[B][COLOR yellow]<== RADIOS ==>[/COLOR][/B]
 	#EXTINF:-1 tvg-logo="" group-title="RADIOS",[B][COLOR yellow]<== RADIOS ==>[/COLOR][/B]
 		http://0.0.0.0:1234
@@ -9131,6 +10061,521 @@ https://www.seuanime.com/players/novo/?contentId=ec251c24ffcafc6b
 		#EXTINF:-1,THIRD ROCK RADIO MP3 (NASA)
 			#EXTINF:-1, tvg-logo="" group-title="RADIOS",THIRD ROCK RADIO MP3 (NASA)
 				http://rfcmedia2.streamguys1.com/thirdrock.mp3
+
+
+############################RÁDIOS#################################
+
+
+
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Adult Alternative
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-022/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Alt R&B
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-163/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Alternative
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-014/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Brits + Hits
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-154/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Dance / EDM
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-013/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Hip-Hop + R&B
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-005/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Hit List
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-002/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Indie
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-117/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Love Songs
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-049/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Metal
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-015/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Music Choice Max
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-050/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Pop & Country
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-047/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Pop Hits
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-029/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",R&B + Soul
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-010/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Rap
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-011/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Rap 2K
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-165/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Reggae
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-024/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Rock
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-044/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Soft Rock
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-001/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Teen Beats
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-051/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Today's Country
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-003/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Underground Hip-Hop
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-149/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",'70s
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-036/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",'80s
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-038/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",'80s Rock
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-151/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",'90s
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-039/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Classic Alternative
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-146/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Classic Country
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-027/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Classic Dance
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-162/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Classic Metal
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-153/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Classic Rock
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-006/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Country Hits
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-040/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Emo X Screamo
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-164/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Funk
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-161/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Hip-Hop Classics
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-019/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",New Wave
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-166/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Punk
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-152/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",R&B Classics
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-043/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Rock Hits
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-035/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Solid Gold Oldies
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-004/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Throwback Jamz
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-042/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Y2K
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-048/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Latin Jazz
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-157/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Mexicana
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-026/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Musica Urbana
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-034/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Pop Latino
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-041/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Rock Latino
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-155/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Romances
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-031/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Teen Ritmos
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-159/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Tropicales
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-025/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",All Xmas
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-158/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Americana
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-147/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Bluegrass
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-148/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Blues
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-046/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Classical Masterpieces
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-017/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Contemporary Christian
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-016/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Easy Listening
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-009/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Folk
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-156/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Gospel
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-023/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Jazz
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-012/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Light Classical
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-008/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Lounge
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-150/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Opera
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-167/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Party Favorites
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-033/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Singers & Swing
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-018/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Smooth Jazz
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-007/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Sounds of The Seasons
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-032/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Soundscapes
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-045/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Stage & Screen
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-028/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Kids Movie Soundtracks
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-160/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Kidz Only!
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-021/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Toddler Tunes
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-020/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Brazilian Pop
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-135/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",Filipino
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-136/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIOS AMERICANAS",K-Pop
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-134/chunklist.m3u8?IMDSFULL
+
+
+#EXTINF:0 tvg-logo="https://dashradio-files.s3.amazonaws.com/SPECIALBANNERS_APP_WEB/chacha_NEW.png" group-title="RÁDIOS AMERICANAS",Island of Chacha
+https://ice55.securenetsystems.net/DASH95
+
+#EXTINF:0 tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/FIREWORKS/fireworks_324.png" group-title="RÁDIOS AMERICANAS",Fireworks
+https://ice55.securenetsystems.net/DASH67
+
+#EXTINF:0 tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/YOUNGMONEY%20/YM_324.png" group-title="RÁDIOS AMERICANAS",Young Money
+https://ice55.securenetsystems.net/DASH82
+
+#EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/CadilaccMusic.png" group-title="RÁDIOS AMERICANAS",Cadillacc Music
+https://ice55.securenetsystems.net/DASH16
+
+#EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/1AM/NEW1AM/1am_320.png" group-title="RÁDIOS AMERICANAS",1 AM Radio
+https://ice55.securenetsystems.net/DASH75
+
+#EXTINF:0 tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/FUEGO/fuego_324.png" group-title="RÁDIOS AMERICANAS",Fuego
+https://ice55.securenetsystems.net/DASH48
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6ewysxk" group-title="RÁDIOS DE NOTÍCIAS",RÁDIO BANDEIRANTES AM 840 FM 90.9
+https://evpp.mm.uol.com.br/band/radiobandeirantes_sp/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y6ewysxk" group-title="RÁDIOS DE NOTÍCIAS",RÁDIO BANDEIRANTES AM 640 FM 94.9
+https://evpp.mm.uol.com.br/band/radiobandeirantes_poa/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y22j5m9a" group-title="RÁDIOS DE NOTÍCIAS",CBN GRANDES LAGOS 90.9 FM
+https://cbn-sjrp.opic.live/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y4qh5go9" group-title="RÁDIOS DE NOTÍCIAS",RÁDIO BAND NEWS SP 96.9 FM
+https://evpp.mm.uol.com.br/band/bandnewsfm_sp/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5argkh6" group-title="RÁDIOS DE NOTÍCIAS",RÁDIO BAND NEWS FM 90.3
+https://evpp.mm.uol.com.br/band/bandnewsfm_rj/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y3s96owv" group-title="RÁDIOS DE NOTÍCIAS",RÁDIO JORNAL DE RECIFE 780 AM 90.3 FM    
+https://evpp.mm.uol.com.br/ne10/ne10-radiojornal-recife-audio-web.sdp/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0 group-title="RÁDIOS DE JUAZEIRO" tvg-logo="https://tinyurl.com/yxzpszmm" ,RÁDIO WEB JUAZEIRO
+https://s41.maxcast.com.br:8470/live
+
+#EXTINF:0 group-title="RÁDIOS DE JUAZEIRO" tvg-logo="https://tinyurl.com/y29srgjx" ,RÁDIO WEB ÁGUA VIVA DE JUAZEIRO
+http://suaradio1.dyndns.ws:13548/stream
+
+#EXTINF:0 group-title="RÁDIOS DE JUAZEIRO" tvg-logo="https://tinyurl.com/yy9qu3ze" ,RÁDIO JUAZEIRO AM 1190
+http://stm21.srvstm.com:8118/stream
+
+#EXTINF:0 group-title="RÁDIOS DE JUAZEIRO" tvg-logo="https://tinyurl.com/y32mxvrg" ,RÁDIO TRANSRIO 99.9 FM
+http://cast2.hoost.com.br:8027/live
+
+#EXTINF:0 group-title="RÁDIOS DE JUAZEIRO" tvg-logo="https://tinyurl.com/y6tptkk4" ,RÁDIO CIDADE AM 870
+http://r13.ciclano.io:8414/live
+
+#EXTINF:0 group-title="RÁDIOS DE JUAZEIRO" tvg-logo="https://tinyurl.com/y2gc6cnu" ,RÁDIO LIBERDADE CAMPOS 104.9 FM
+http://09.stmip.in:7098/stream
+
+#EXTINF:0 group-title="RÁDIOS DE JUAZEIRO" tvg-logo="https://tinyurl.com/yyh2ommd" ,RÁDIO TROPICAL SAT FM 102.5
+http://v3.directradios.com:9047/stream
+
+#EXTINF:0 group-title="RÁDIOS DE JUAZEIRO" tvg-logo="https://tinyurl.com/y4n3ahmm" ,RÁDIO VITÓRIA FM 104.9
+http://184.154.89.186:8883/stream
+
+#EXTINF:0 group-title="RÁDIOS DE JUAZEIRO" tvg-logo="https://tinyurl.com/y5rl2554" ,RÁDIO 91.9 FM IRACEMA
+https://servidor27-4.brlogic.com:8082/live
+
+
+
+
+
+
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y2oc6bht" group-title="RÁDIOS DE PETROLINA" ,RÁDIO GRANDE RIO FM 100.7
+http://shout35.crossradio.com.br:8058/stream
+
+#EXTINF:0 group-title="RÁDIOS DE PETROLINA" tvg-logo="https://tinyurl.com/yycm3y9l" ,RÁDIO PETROLINA FM 98.3
+http://hd4.matutos.com.br:8324/stream
+
+#EXTINF:0 group-title="RÁDIOS DE PETROLINA" tvg-logo="https://tinyurl.com/yxn68z77" ,REDE BRASIL 106.7 FM
+http://rbc1.directradios.com:8294/stream
+
+#EXTINF:0 group-title="RÁDIOS DE PETROLINA" tvg-logo="https://tinyurl.com/y4sr3hz4" ,RÁDIO GRANDE RIO AM 680
+http://v3.directradios.com:8193/stream
+
+#EXTINF:0 group-title="RÁDIOS DE PETROLINA" tvg-logo="https://tinyurl.com/y67aofof" ,RÁDIO JORNAL FM 90.5
+http://evpp.mm.uol.com.br/ne10/ne10-radiojornal-petrolina-audio-web.sdp/playlist.m3u8
+
+#EXTINF:0 group-title="RÁDIOS DE PETROLINA" tvg-logo="https://tinyurl.com/y5wma3ja" ,RÁDIO PONTE FM 91.5
+http://stm39.conectastm.com:6872/stream
+
+#EXTINF:0 group-title="RÁDIOS DE PETROLINA" tvg-logo="https://tinyurl.com/y2sojgrh" ,RÁDIO RURAL FM 103.1
+http://sv10.hdradios.net:22434/stream
+
+#EXTINF:0 group-title="RÁDIOS DE PETROLINA" tvg-logo="https://tinyurl.com/yy34sru8" ,RÁDIO TABAJARA FM 104.9
+http://stm1.matutos.com.br:9688/stream
+
+#EXTINF:0 group-title="RÁDIOS DE PETROLINA" tvg-logo="https://tinyurl.com/yy4dsqn6" ,RÁDIO SERTÃO ONLINE
+http://74.63.241.109:8396/live
+
+
+
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" ,89 FM A RÁDIO ROCK
+https://ice.fabricahost.com.br/89aradiorocksp
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" ,ANOS 70
+http://192.99.150.31:8241/stream?
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" ,ANOS 80
+http://192.99.150.31:8697/stream?
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" ,ANOS 90
+http://192.99.150.31:8056/stream?
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" ,ANOS 2000
+http://6d9a.webradio.upx.net.br:9940/stream?
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" ,AXÉ
+http://192.99.150.31:8305/stream?
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" ,BOSSA NOVA
+http://6d9a.webradio.upx.net.br:9974/stream?
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" ,BREGA
+http://192.99.150.31:9007/stream?
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" ,ELETRÔNICA
+http://192.99.150.31:9095/stream? 
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" ,FESTA
+http://6d9a.webradio.upx.net.br:9070/stream? 
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" ,FORRÓ
+http://192.99.150.31:9019/stream? 
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" ,FUNK
+http://192.99.150.31:9089/stream? 
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" ,GOSPEL
+http://192.99.150.31:9101/stream? 
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" ,HIP HOP
+http://192.99.150.31:8721/stream? 
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" ,HISTORINHA INFANTIL
+http://192.99.150.31:8371/stream? 
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" ,KIDS
+http://192.99.150.31:9431/stream? 
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" ,JAZZ
+http://192.99.150.31:8042/stream? 
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" ,LOUNGE
+http://6d9a.webradio.upx.net.br:9064/stream? 
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" ,METAL
+http://6d9a.webradio.upx.net.br:9898/stream? 
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" ,MPB
+http://192.99.150.31:8775/stream? 
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" ,MÚSICA CLÁSSICA
+http://6d9a.webradio.upx.net.br:9970/stream? 
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" ,NEW ROCK
+http://6d9a.webradio.upx.net.br:8028/stream? 
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" ,PAGODE
+http://6d9a.webradio.upx.net.br:9061/stream?
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" ,POP HITS
+http://6d9a.webradio.upx.net.br:9046/stream?
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" ,POP ROCK
+http://6d9a.webradio.upx.net.br:8016/stream?
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" ,SERTANEJO UNIVERSITÁRIO
+http://192.99.150.31:9191/stream?
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" ,TRILHAS SONORAS
+http://6d9a.webradio.upx.net.br:9896/stream?  
+ 
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" , SERTANEJO RAIZES
+http://192.99.150.31:9155/stream
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" , RAP NACIONAL
+http://192.99.150.31:8377/stream
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" , REGGAE
+http://192.99.150.31:8715/stream
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" , ROBERTO CARLOS
+http://192.99.150.31:9137/stream
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" , ROCK CLASSICO
+http://192.99.150.31:9125/stream
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" , RODEIO
+http://192.99.150.31:9473/stream
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" , SERTANEJO
+http://192.99.150.31:9485/stream
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" , SMOOTH JAZZ
+http://192.99.150.31:8042/stream
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" , TECHNO
+http://192.99.150.31:8301/stream
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" , TECNO BREGA
+http://192.99.150.31:8989/stream
+#EXTINF:0 tvg-logo="https://tinyurl.com/y5rpt8sb" group-title="RÁDIOS" , STUDIO DO AMOR
+http://192.99.150.31:8962/stream
+
+########################################################### RÁDIOS
+
+
+#EXTINF:0 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio34123_1447066982.jpg" , Radio Povo FM 87.9
+http://149.56.167.236:8079/.ogg
+
+#EXTINF:0 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio10705_1483434697.jpg" , Radio Caicó AM 1290
+http://149.56.167.236:8089/.ogg
+
+#EXTINF:0 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio14387_1439401460.JPG" , Rádio Rural 830 AM
+http://str.radiorural.com:8011/stream
+
+#EXTINF:0 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/md/radio17270_1439401503.JPG" , Rádio Rural 95 FM
+http://str.radiorural.com:8010/live
+
+#EXTINF:0 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/md/radio14642_1516615140.png" , Rádio Solidariedade 106 FM
+http://149.56.167.236:8081/stream
+
+#EXTINF:0 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio14474_1535454461.jpg" , Jovem Pan Seridó
+http://wz3.dnip.com.br/93seridohd/93seridohd.stream/chunklist_w173503393.m3u8
+
+
+
+
+#EXTINF:0 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio14216_1493299107.png" , Rádio Verdes Mares AM 810
+http://srv4.zoeweb.tv:1935/z18-live/stream/chunklist_w483075415.m3u8
+
+#EXTINF:0 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/md/radio11839_1481542862.png" , Rádio Clube 105.5 FM
+http://5940.live.upx.net.br:9082/stream
+
+#EXTINF:0 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio13213_1489754950.png" , Rádio FM O Dia FM 100.5
+http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist.m3u8
+
+#EXTINF:0 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio25654_1466337048.png" , Rádio Coca Cola FM
+rtmp://s.imusicaradios.com.br/imusica_radio/brasil.stream
+
+#EXTINF:0 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio10358_1526480428.jpg" , Rádio Band FM 96.1
+http://evpp.mm.uol.com.br/band/bandfm_sp/chunklist_w1986330582.m3u8
+
+#EXTINF:0 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/md/radio24477_1526479632.jpg" , Rádio Bandnews SP 96.9 FM
+https://evpp.mm.uol.com.br/band/bandnewsfm_sp/chunklist_w574835524.m3u8
+
+#EXTINF:0 group-title="RÁDIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c1/Logotipo_da_BH_FM.png/200px-Logotipo_da_BH_FM.png" , BH FM
+https://stream.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
+
+#EXTINF:0 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/md/radio11886_1439401393.jpg" , Rádio Clube do Pará 690 AM
+http://ice01.kshost.com.br:8000/live
+
+#EXTINF:0 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/md/radio14_1439400387.jpg" , Rádio Itatiaia 610 AM 95.7 FM
+http://1c3e26e6-c938-41ce-a27f-a6535039b307.8903.brasilstream.com.br:8903/stream
+
+#EXTINF:0 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/md/radio8829_1534247256.png" , Radio Jovempan 100.9 FM
+http://16843.live.streamtheworld.com/JP_SP_FMAAC.aac
+
+#EXTINF:0 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio14040_1526481130.jpg" , Rádio Nativa FM 95.3
+http://evpp.mm.uol.com.br/band/nativa_sp/chunklist_w453707469.m3u8
+
+#EXTINF:0 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio10410_1526480127.jpg" , Rádio Bandeirantes AM 840 FM 90.9
+https://evpp.mm.uol.com.br/band/radiobandeirantes_sp/chunklist_w1714639095.m3u8
+
+#EXTINF:0 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio13955_1532353280.png" , Rádio Mix FM 106.3
+http://tuneinmix.crossradio.com.br:8008/stream
+
+#EXTINF:0 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio14742_1503923573.PNG" , Rádio Transamérica Hits FM 95.5
+http://ice11.crossradio.com.br:8206/live.mp3
+
+#EXTINF:0 group-title="RÁDIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/R%C3%A1dio_Globo_logo_2017_vertical.svg/200px-R%C3%A1dio_Globo_logo_2017_vertical.svg.png" , Radio Globo FM
+http://stream.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
+
+#EXTINF:0 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio13176_1484822550.jpg" , Rádio Gaúcha AM 600 FM 93.7
+https://722747t.ha.azioncdn.net/2747t/_definst_/gaucha_rbs.sdp/chunklist_fa6b8cff-486f-42e1-8242-bf0823275256.m3u8
+
+#EXTINF:0 group-title="RÁDIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/49/Logotipo_da_Mix_FM_Jo%C3%A3o_Pessoa.png" , MIX FM - JOÃO PESSOA
+http://158.69.117.161:8016/live
+
+#EXTINF:0 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/md/radio14655_1439401463.JPG" , 104 FM SOUSA
+http://stream.7br.com.br:10018/;
+
+#EXTINF:0 group-title="RÁDIOS" tvg-logo="https://2.bp.blogspot.com/-n6jrftLBkns/T-5QghdGrLI/AAAAAAAAGKc/86f4QMz5i-A/s1600/RADIO_ARAPUAN_FM_CAJAZEIRAS.jpg" , ARAPUAN - PATOS
+http://centova6.ciclanohost.com.br:9312/;stream.nsv
 
 			
 			
