@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 	#EXTINF:-1,Zubi DreamList 
-		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.86 (02/05/2020)
+		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.87 (04/05/2020)
 			http://0.0.0.0:1234
 			
 #EXTINF:-1,[B][COLOR yellow]<== LÍNGUA PORTUGUESA ==>[/COLOR][/B]
@@ -162,155 +162,13 @@
 				
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/nQq4Qb/RECORD_MT_Brasil.jpg" group-title="Brasil",0093 RECORD MT (Brasil)
 				
+			#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",0033 RecordTV Natal
+				https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
+			#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades",0033 RecordTV Manaus
+				https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
 
 		#EXTINF:-1,0034 RTP Arena eSports
 			#EXTINF:-1 group-title="Entretenimento" tvg-id="n/a" tvg-logo="https://image.ibb.co/gx9Ltk/RTP_Arena_e_Sports.png",0034 RTP Arena eSports (Entretenimento)
-
-			
-		#EXTINF:-1,0035 SPORT TV 1 (PORTUGAL)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/fj71ik/SPORT_TV_1_PORTUGAL.png" group-title="Desporto",0035 SPORT TV 1 (Desporto)
-				
-
-		#EXTINF:-1,0036 SPORT TV 2 (PORTUGAL)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/iSUspQ/SPORT_TV_2_PORTUGAL.png" group-title="Desporto",0036 SPORT TV 2 (Desporto)
-				
-
-		#EXTINF:-1,0037 SPORT TV 3 (PORTUGAL)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/gsPmG5/SPORT_TV_3_PORTUGAL.png" group-title="Desporto",0037 SPORT TV 3 (Desporto)
-				
-
-		#EXTINF:-1,0038 SPORT TV 4 (PORTUGAL)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/dnKgik/SPORT_TV_4_PORTUGAL.png" group-title="Desporto",0038 SPORT TV 4 (Desporto)
-				
-
-		#EXTINF:-1,0039 SPORT TV 5 (PORTUGAL)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/jUP8UQ/SPORT_TV_5_PORTUGAL.png" group-title="Desporto",0039 SPORT TV 5 (Desporto)
-				
-			
-		#EXTINF:-1,0040 Benfica TV 1 (PORTUGAL)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/bw2sOk/BENFICA_TV.png" group-title="Desporto",0040 Benfica TV 1 (Desporto)
-				
-
-		#EXTINF:-1,0041 Benfica TV 2 (PORTUGAL)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/bVq6rw/Benfica_TV_2.png" group-title="Desporto",0041 Benfica TV 2 (Desporto)
-
-
-		#EXTINF:-1,0042 SPORTING TV (PORTUGAL)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kU5Mik/SPORTING_TV.png" group-title="Desporto",0042 SPORTING TV (Desporto)
-				
-
-		#EXTINF:-1,0043 FUEL TV HD (PORTUGAL)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/fDCZ3k/FUEL_TV.png" group-title="Desporto",0043 FUEL TV HD (PORTUGAL)
-				
-			
-		#EXTINF:-1,0044 A Bola TV (PORTUGAL)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/bCaF9Q/A_BOLA_TV.png" group-title="Desporto",0044 A Bola TV (Desporto)
-
-
-		#EXTINF:-1,0045 Canal Panda
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/grpYUQ/PANDA.png" group-title="Infantil",0045 Canal Panda (Infantil)
-
-			
-		#EXTINF:-1,0046 Panda Biggs
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/eiEGrw/Panda_Biggs.jpg" group-title="Infantil",0046 Panda Biggs (Infantil)
-
-
-		#EXTINF:-1,0047 Disney Junior
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cmgmik/DISNEY_JUNIOR.png" group-title="Infantil",0047 Disney Junior (Infantil)
-				
-				 
-		#EXTINF:-1,0048 Disney Channel
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/ccycpQ/DISNEY_CHANNEL.png" group-title="Infantil",0048 Disney Channel HD (Infantil)
-				
-
-		#EXTINF:-1,0049 Cartoon Network
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cQGDUQ/CARTOON_NETWORK.png" group-title="Infantil",0049 Cartoon Network (Infantil)
-				
-
-		#EXTINF:-1,0050 Nickelodeon
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/jebUBw/Nickelodeon.png" group-title="Infantil",0050 Nickelodeon (Infantil)
-				
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/jebUBw/Nickelodeon.png" group-title="Infantil",Nickelodeon (Infantil)(Brasil)
-				
-
-		#EXTINF:-1,0051 Jim Jam
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/gF0Hyb/Jim_Jam.png" group-title="Infantil",0051 Jim Jam (Infantil)
-				
-
-		#EXTINF:-1,0052 SIC Kids
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cXPo4G/SIC_Kids.png" group-title="Infantil",0052 SIC Kids (Infantil)*
-				
-
-		#EXTINF:-1,0053 TVCine Top
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/eyjAJb/TVCine_1.png" group-title="Filmes e Series",0053 TVCine Top (Filmes e Series)
-				
-
-		#EXTINF:-1,0054 TVCine Edition
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/deUGrw/TVCine_2.png" group-title="Filmes e Series",0054 TVCine Edition (Filmes e Series)
-
-
-		#EXTINF:-1,0055 TVCine Emotion
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/eYXrPG/TVCine_3.jpg" group-title="Filmes e Series",0055 TVCine Emotion (Filmes e Series)
-
-
-		#EXTINF:-1,0056 TVCine Action
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cAnrPG/TVCine_4.jpg" group-title="Filmes e Series",0056 TVCine Action (Filmes e Series)
-
-
-		#EXTINF:-1,0057 TVSeries (Cancelada)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/csdRrw/TVSeries.jpg" group-title="Filmes e Series",0057 TVSeries (Filmes e Series)
-
-
-		#EXTINF:-1,0058 Hollywood
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/c7XfJb/Hollywood.jpg" group-title="Filmes e Series",0058 Hollywood (Filmes e Series)
-
-
-		#EXTINF:-1,0059 Cinemundo
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/i1bPdb/Cinemundo.jpg" group-title="Filmes e Series",0059 Cinemundo (Filmes e Series)
-
-
-		#EXTINF:-1,0060 Fox
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/nH3e4Q/fox.jpg" group-title="Filmes e Series",0060 FOX HD (Filmes e Series)
-				
-
-		#EXTINF:-1,0061 AXN
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cdpQdk/AXN.png" group-title="Filmes e Series",0061 AXN HD (Brasil)(Filmes e Series)
-				
-
-		#EXTINF:-1,0062 Fox Life
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/hvUzBw/Fox_Life.jpg" group-title="Filmes e Series",0062 FOX LIFE (Filmes e Series)
-				
-
-		#EXTINF:-1,0063 Fox Crime
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kzo1rw/Fox_Crime.jpg" group-title="Filmes e Series",0063 Fox Crime (Filmes e Series)
-
-
-		#EXTINF:-1,0064 FOX Comedy
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/m7rMrw/FOX_Comedy.jpg" group-title="Filmes e Series",0064 FOX Comedy (Filmes e Series)
-				
-
-		#EXTINF:-1,0065 AXN Black
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/jpyjBw/AXN_Black.jpg" group-title="Filmes e Series",0065 AXN Black (Filmes e Series)
-
-
-		#EXTINF:-1,0066 AXN White
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/iRK8yk/axn_white.jpg" group-title="Filmes e Series",0066 AXN White (Filmes e Series)
-
-
-		#EXTINF:-1,0067 MOV
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/nFGRPG/MOV.jpg" group-title="Filmes e Series",0067 MOV (Filmes e Series)
-
-
-		#EXTINF:-1,0068 Syfy
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/ng2fJb/Syfy.jpg" group-title="Filmes e Series",0068 Syfy (Brasil)(Filmes e Series)
-				
-			
-		#EXTINF:-1,0069 MTV (Portugal)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/iOi4db/MTV_Portugal.jpg" group-title="Musica",0069 MTV Portugal (Musica)
-
-
-		#EXTINF:-1,0070 AFRO MUSIC
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/gGsxyb/AFRO_MUSIC.png" group-title="Musica",0070 AFRO MUSIC (Musica)
 
 			
 		#EXTINF:-1,0071 Discovery Channel (Documentarios)(Brasil)
@@ -401,7 +259,9 @@
 				
 		#EXTINF:-1,0092 BAND (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/eJiQtm/BAND.png" group-title="Brasil",0092 BAND (Brasil)
-				
+
+			#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="Variedades",0092 Band - RBA TV (PA)
+				https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 				
 		#EXTINF:-1,0093 Aperipe TV (Brasil)
 			#EXTINF:-1 tvg-logo="" group-title="Brasil",0093 Aperipe TV (Brasil)
@@ -443,10 +303,6 @@
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",0102 FX (Brasil)
 				
 			
-		#EXTINF:-1,0103 DISNEY XD (Infantil)(Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/j7yAb6/DISNEY_XD.png" group-title="Infantil",0103 DISNEY XD (Infantil)(Brasil)
-				
-
 		#EXTINF:-1,0104 Ayoub Gallery (Brasil) (Vendas)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/byyfeQ/Ayoub_Gallery_Brasil.jpg" group-title="Shopping TV",0104 Ayoub Gallery (Brasil) (Vendas)
 				
@@ -542,6 +398,13 @@
 				http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/iQaaJb/SBT.png" group-title="Brasil",0125 SBT MA | IMPERATRIZ (Brasil)
 				http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8
+			#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",0125 SBT Interior SP
+				https://5a1c76baf08c0.streamlock.net/z343-live/z343/playlist.m3u8
+			#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",0125 SBT - TV Jornal Caruaru (PE)
+				http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+			#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",0125 SBT - TV Difusora (MA)
+				https://5a1c76baf08c0.streamlock.net/z438-live/stream/playlist.m3u8
+
 				
 		#EXTINF:-1,0126 TV EDUCATIVA
 			#EXTINF:-1 tvg-logo="" group-title="Brasil",0126 TV EDUCATIVA
@@ -549,6 +412,12 @@
 			#EXTINF:-1 tvg-logo="" group-title="Brasil",0126 TV EDUCATIVA (alternativa)
 				http://rbc.directradios.com:1935/rbc/rbc_720p/playlist.m3u8
 				
+		#EXTINF:-1,0379 TV Arapuan
+			#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Variedades",0379 TV Arapuan HD (PB)
+				https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
+			#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="Variedades",0379 TV Pampa - RedeTV! RS
+				https://stmv1.srvstm.com/maiko7291/maiko7291/playlist.m3u8
+
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Brasil",
 				
@@ -1052,6 +921,46 @@
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/hJ9N4m/006_Desporto.jpg" group-title="Desporto",[B][COLOR yellow]<== Desporto ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 			
+		#EXTINF:-1,0035 SPORT TV 1 (PORTUGAL)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fj71ik/SPORT_TV_1_PORTUGAL.png" group-title="Desporto",0035 SPORT TV 1 (Desporto)
+				
+
+		#EXTINF:-1,0036 SPORT TV 2 (PORTUGAL)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iSUspQ/SPORT_TV_2_PORTUGAL.png" group-title="Desporto",0036 SPORT TV 2 (Desporto)
+				
+
+		#EXTINF:-1,0037 SPORT TV 3 (PORTUGAL)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gsPmG5/SPORT_TV_3_PORTUGAL.png" group-title="Desporto",0037 SPORT TV 3 (Desporto)
+				
+
+		#EXTINF:-1,0038 SPORT TV 4 (PORTUGAL)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dnKgik/SPORT_TV_4_PORTUGAL.png" group-title="Desporto",0038 SPORT TV 4 (Desporto)
+				
+
+		#EXTINF:-1,0039 SPORT TV 5 (PORTUGAL)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jUP8UQ/SPORT_TV_5_PORTUGAL.png" group-title="Desporto",0039 SPORT TV 5 (Desporto)
+				
+			
+		#EXTINF:-1,0040 Benfica TV 1 (PORTUGAL)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bw2sOk/BENFICA_TV.png" group-title="Desporto",0040 Benfica TV 1 (Desporto)
+				
+
+		#EXTINF:-1,0041 Benfica TV 2 (PORTUGAL)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bVq6rw/Benfica_TV_2.png" group-title="Desporto",0041 Benfica TV 2 (Desporto)
+
+
+		#EXTINF:-1,0042 SPORTING TV (PORTUGAL)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kU5Mik/SPORTING_TV.png" group-title="Desporto",0042 SPORTING TV (Desporto)
+				
+
+		#EXTINF:-1,0043 FUEL TV HD (PORTUGAL)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fDCZ3k/FUEL_TV.png" group-title="Desporto",0043 FUEL TV HD (PORTUGAL)
+				
+			
+		#EXTINF:-1,0044 A Bola TV (PORTUGAL)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bCaF9Q/A_BOLA_TV.png" group-title="Desporto",0044 A Bola TV (Desporto)
+
+
 		#EXTINF:-1,0227 Manchester United TV
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/kfUbRw/Manchester_United_TV.png" group-title="Desporto",0227 Manchester United TV
 
@@ -1070,364 +979,346 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/iaAAb5/EUROSPORT_2.jpg" group-title="Desporto",0230 Eurosport 2 (Russo)
 				
 			
-		#EXTINF:-1,Sports Tonight (UK)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/g2K7rG/Sports_Tonight_UK.png" group-title="Desporto",Sports Tonight (UK)
+		#EXTINF:-1,0231 Sports Tonight (UK)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/g2K7rG/Sports_Tonight_UK.png" group-title="Desporto",0231 Sports Tonight (UK)
 				
 
-		#EXTINF:-1,EuroSport News (Ingles)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/jzjWik/EUROSPORT_NEWS.jpg" group-title="Desporto",EuroSport News (Ingles)
-
-
-		#EXTINF:-1,HI Sport HD (Thailand)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/bQ1sQb/HI_Sport_HD_Thailand.jpg" group-title="Desporto",HI Sport HD (Thailand) *sem emissao
+		#EXTINF:-1,0232 HI Sport HD (Thailand)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bQ1sQb/HI_Sport_HD_Thailand.jpg" group-title="Desporto",0232 HI Sport HD (Thailand) *sem emissao
 				
 
-		#EXTINF:-1,BURSA SPORT (Turkish)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/d9VQYk/BURSA_SPORT.jpg" group-title="Desporto",BURSA SPORT
+		#EXTINF:-1,0233 BURSA SPORT (Turkish)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/d9VQYk/BURSA_SPORT.jpg" group-title="Desporto",0233 BURSA SPORT
 				
 
-		#EXTINF:-1,PFC (Espanhol)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/hS5yUQ/PFC.png" group-title="Desporto",PFC (Espanhol)
+		#EXTINF:-1,0234 PFC (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hS5yUQ/PFC.png" group-title="Desporto",0234 PFC (Espanhol)
 
 
-		#EXTINF:-1,Licey tv Sports Latino
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/j1pzeG/Licey_tv.png" group-title="Desporto",Licey tv Sports Latino *so audio
+		#EXTINF:-1,0235 Licey tv (Sports)(Latino)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/j1pzeG/Licey_tv.png" group-title="Desporto",0235 Licey tv (Sports)(Latino)
 				
 
-		#EXTINF:-1,BARCA TV
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/ifza9Q/BARCA_TV.png" group-title="Desporto",BARCA TV
+		#EXTINF:-1,0236 BARCA TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ifza9Q/BARCA_TV.png" group-title="Desporto",0236 BARCA TV
 				
 
-		#EXTINF:-1,Mega (Spanish)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/k5d9eG/Mega.jpg" group-title="Desporto",Mega (Spanish)
+		#EXTINF:-1,0237 Mega TV (Spanish)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/k5d9eG/Mega.jpg" group-title="Desporto",0237 Mega TV (Spanish)
 				
 
-		#EXTINF:-1,DXTV Sport (Argentina)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/m3RC8w/DXTV_Sport_Argentina.jpg" group-title="Desporto",DXTV Sport (Argentina)
+		#EXTINF:-1,0238 DXTV Sport (Argentina)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/m3RC8w/DXTV_Sport_Argentina.jpg" group-title="Desporto",0238 DXTV Sport (Argentina)
 				
 
-		#EXTINF:-1,CBC SPORT (Ingles)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/bzaVTw/Al_hurra_Iraq.png" group-title="Desporto",CBC SPORT (Ingles)
+		#EXTINF:-1,0239 EuroSport News (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jzjWik/EUROSPORT_NEWS.jpg" group-title="Desporto",0239 EuroSport News (Ingles)
 
 
-		#EXTINF:-1,Marca TV (Espanha) (SD) (sports)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/f368kb/Marca_TV_Espanha_SD_sports.png" group-title="Desporto",Marca TV (Espanha) (SD) (sports) *sem emissao
+		#EXTINF:-1,0240 CBC SPORT (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bzaVTw/Al_hurra_Iraq.png" group-title="Desporto",0240 CBC SPORT (Ingles)
+
+
+		#EXTINF:-1,0241 Marca TV (Espanha)(sports)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/f368kb/Marca_TV_Espanha_SD_sports.png" group-title="Desporto",Marca TV (Espanha)(sports)
 
 			
-		#EXTINF:-1,TSN 1 (Ingles)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/gzZRRw/TSN_1.png" group-title="Desporto",TSN 1 (Ingles)
+		#EXTINF:-1,0242 TSN 1 (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gzZRRw/TSN_1.png" group-title="Desporto",0242 TSN 1 (Ingles)
 				
 
-		#EXTINF:-1,TSN 2 (Ingles)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/mQut6w/TSN_2.png" group-title="Desporto",TSN 2 (Ingles)
+		#EXTINF:-1,0243 TSN 2 (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mQut6w/TSN_2.png" group-title="Desporto",0243 TSN 2 (Ingles)
 				
 
-		#EXTINF:-1,TSN 3 (Ingles)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cenD6w/TSN_3.png" group-title="Desporto",TSN 3 (Ingles)
+		#EXTINF:-1,0244 TSN 3 (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cenD6w/TSN_3.png" group-title="Desporto",0244 TSN 3 (Ingles)
 				
 
-		#EXTINF:-1,TSN 4 (Ingles)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/fS27Yb/TSN_4.png" group-title="Desporto",TSN 4 (Ingles)
+		#EXTINF:-1,0245 TSN 4 (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fS27Yb/TSN_4.png" group-title="Desporto",0245 TSN 4 (Ingles)
 				
 
-		#EXTINF:-1,TSN 5 (Ingles)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/ktUhzG/TSN_5.png" group-title="Desporto",TSN 5 (Ingles)
+		#EXTINF:-1,0246 TSN 5 (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ktUhzG/TSN_5.png" group-title="Desporto",0246 TSN 5 (Ingles)
 
 
-		#EXTINF:-1,BT Sport 1 (Ingles)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/dOESPQ/bt_sports_1.png" group-title="Desporto",BT Sport 1 (Ingles)
+		#EXTINF:-1,0247 BT Sport 1 (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dOESPQ/bt_sports_1.png" group-title="Desporto",0247 BT Sport 1 (Ingles)
 				
 
-		#EXTINF:-1,BT Sport 2 (Ingles)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/ha4cPQ/vwxvty1433360911.png" group-title="Desporto",BT Sport 2 (Ingles)
+		#EXTINF:-1,0248 BT Sport 2 (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ha4cPQ/vwxvty1433360911.png" group-title="Desporto",0248 BT Sport 2 (Ingles)
 				
 				
-		#EXTINF:-1,BT Sport 3 (Ingles)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cQPRRw/BT_Sport_3.png" group-title="Desporto",BT Sport 3 (Ingles)
+		#EXTINF:-1,0249 BT Sport 3 (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cQPRRw/BT_Sport_3.png" group-title="Desporto",0249 BT Sport 3 (Ingles)
 				
 				
-		#EXTINF:-1,BT Sport ESPN (Ingles)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/n3ZFKG/BT_Sport_ESPN.png" group-title="Desporto",BT Sport ESPN (Ingles)
-				
-
-		#EXTINF:-1,BT Sport Europe
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",BT Sport Europe
+		#EXTINF:-1,0250 BT Sport ESPN (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/n3ZFKG/BT_Sport_ESPN.png" group-title="Desporto",0250 BT Sport ESPN (Ingles)
 				
 
-		#EXTINF:-1,BT Sport x1 (Ingles)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/gWhXYb/BT_Sport_x1.png" group-title="Desporto",BT x1 (Ingles)
+		#EXTINF:-1,0251 BT Sport Europe
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",0251 BT Sport Europe
 				
 
-		#EXTINF:-1,BT Sport x2 (Ingles)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kEhAKG/BT_Sport_x2.png" group-title="Desporto",BT x2 (Ingles)
+		#EXTINF:-1,0252 BT Sport x1 (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gWhXYb/BT_Sport_x1.png" group-title="Desporto",0252 BT x1 (Ingles)
 				
 
-		#EXTINF:-1,BT Sport x3 (Ingles)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/b0m4eG/BT_Sport_x3.png" group-title="Desporto",BT x3 (Ingles)
+		#EXTINF:-1,0253 BT Sport x2 (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kEhAKG/BT_Sport_x2.png" group-title="Desporto",0253 BT x2 (Ingles)
 				
 
-		#EXTINF:-1,BT Sport x4 (Ingles)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/b0XMRw/BT_Sport_x4.png" group-title="Desporto",BT x4 (Ingles)
+		#EXTINF:-1,0254 BT Sport x3 (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/b0m4eG/BT_Sport_x3.png" group-title="Desporto",0254 BT x3 (Ingles)
 				
 
-		#EXTINF:-1,BT Sport x5 (Ingles)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/hwFxzG/BT_Sport_x5.png" group-title="Desporto",BT x5 (Ingles)
+		#EXTINF:-1,0255 BT Sport x4 (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/b0XMRw/BT_Sport_x4.png" group-title="Desporto",0255 BT x4 (Ingles)
 				
 
-		#EXTINF:-1,SKY SPORTS 1 (Ingles) (HD)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/iwu7zG/SKY_SPORTS_1.jpg" group-title="Desporto",SKY SPORTS 1 (Ingles)
+		#EXTINF:-1,0256 BT Sport x5 (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hwFxzG/BT_Sport_x5.png" group-title="Desporto",0256 BT x5 (Ingles)
 				
 
-		#EXTINF:-1,SKY SPORTS 2 (Ingles)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/nJKUDb/SKY_SPORTS_2.jpg" group-title="Desporto",SKY SPORTS 2 (Ingles)
+		#EXTINF:-1,0257 SKY SPORTS 1 (Ingles)(HD)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iwu7zG/SKY_SPORTS_1.jpg" group-title="Desporto",0257 SKY SPORTS 1 (Ingles)
 				
 
-		#EXTINF:-1,SKY SPORTS 3 (Ingles)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/khmy6w/SKY_SPORTS_3.jpg" group-title="Desporto",SKY SPORTS 3 (Ingles)
+		#EXTINF:-1,0258 SKY SPORTS 2 (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nJKUDb/SKY_SPORTS_2.jpg" group-title="Desporto",0258 SKY SPORTS 2 (Ingles)
 				
 
-		#EXTINF:-1,Sky Sports Cricket
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Sky Sports Cricket
+		#EXTINF:-1,0259 SKY SPORTS 3 (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/khmy6w/SKY_SPORTS_3.jpg" group-title="Desporto",0259 SKY SPORTS 3 (Ingles)
 				
 
-		#EXTINF:-1,Sky Sports ACTION
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Sky Sports ACTION
+		#EXTINF:-1,0260 Sky Sports Cricket
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",0260 Sky Sports Cricket
 				
 
-		#EXTINF:-1,Sky Sports Golf
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Sky Sports Golf
+		#EXTINF:-1,0261 Sky Sports ACTION
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",0261 Sky Sports ACTION
 				
 
-		#EXTINF:-1,Sky Sports Premiere League
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Sky Sports Premiere League
+		#EXTINF:-1,0262 Sky Sports Golf
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",0262 Sky Sports Golf
 				
 
-		#EXTINF:-1,Sky Sports F1
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Sky Sports F1
+		#EXTINF:-1,0263 Sky Sports Premiere League
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",0263 Sky Sports Premiere League
 				
 
-		#EXTINF:-1,Sky Sports Football
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Sky Sports Football
+		#EXTINF:-1,0264 Sky Sports F1
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",0264 Sky Sports F1
 				
 
-		#EXTINF:-1,Sky Sports Arena
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Sky Sports Arena
+		#EXTINF:-1,0265 Sky Sports Arena
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",0265 Sky Sports Arena
 				
 
-		#EXTINF:-1,Sky Sports Mix
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Sky Sports Mix
+		#EXTINF:-1,0266 Sky Sports Mix
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",0266 Sky Sports Mix
 				
 
-		#EXTINF:-1,Sports TV (TUR)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/ndbw65/Sports_TV_TUR.jpg" group-title="Desporto",Sports TV (TUR)
+		#EXTINF:-1,0267 Sports TV (TUR)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ndbw65/Sports_TV_TUR.jpg" group-title="Desporto",0267 Sports TV (TUR)
 				
 
-		#EXTINF:-1,CHELSEA TV (Ingles)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/mgru3k/CHELSEA_TV.png" group-title="Desporto",CHELSEA TV (Ingles)
+		#EXTINF:-1,0268 CHELSEA TV (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mgru3k/CHELSEA_TV.png" group-title="Desporto",0268 CHELSEA TV (Ingles)
 				
 
-		#EXTINF:-1,KHL - Continental Hockey League (Russo)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/bDW4eG/KHL_Continental_Hockey_League.png" group-title="Desporto",KHL - Continental Hockey League (Russo)
+		#EXTINF:-1,0269 KHL - Continental Hockey League (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bDW4eG/KHL_Continental_Hockey_League.png" group-title="Desporto",0269 KHL - Continental Hockey League (Russo)
 
 			
-		#EXTINF:-1,Match! Game HD (Russo)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/edffKG/Match_Game_HD.png" group-title="Desporto",Match! Game HD (Russo)
+		#EXTINF:-1,0270 Match! Game HD (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/edffKG/Match_Game_HD.png" group-title="Desporto",0270 Match! Game HD (Russo)
 
 			
-		#EXTINF:-1,Extreme Sports (Russo)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kHtNYb/Extreme_Sports.png" group-title="Desporto",Extreme Sports (Russo)
+		#EXTINF:-1,0271 Extreme Sports (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kHtNYb/Extreme_Sports.png" group-title="Desporto",0271 Extreme Sports (Russo)
 
 			
-		#EXTINF:-1,Match! Fighter
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/eY586w/Match_Fighter.jpg" group-title="Desporto",Match! Fighter
+		#EXTINF:-1,0272 Match! Fighter
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eY586w/Match_Fighter.jpg" group-title="Desporto",0272 Match! Fighter
 
 			
-		#EXTINF:-1,Boxing TV
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/n9QEeG/Boxing_TV.jpg" group-title="Desporto",Boxing TV
+		#EXTINF:-1,0273 Boxing TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/n9QEeG/Boxing_TV.jpg" group-title="Desporto",0273 Boxing TV
 
 			
-		#EXTINF:-1,Sky Sport News HD (Germany)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/e21HYb/Sky_Sport_News_HD.jpg" group-title="Desporto",Sky Sport News HD (Germany)
+		#EXTINF:-1,0274 Sky Sport News HD (Germany)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/e21HYb/Sky_Sport_News_HD.jpg" group-title="Desporto",0274 Sky Sport News HD (Germany)
 				
 				
-		#EXTINF:-1,Football (Russia)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/bKq5KG/Football.png" group-title="Desporto",Football (Russia)
+		#EXTINF:-1,0275 Football (Russia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bKq5KG/Football.png" group-title="Desporto",0275 Football (Russia)
 
 			
-		#EXTINF:-1,ESPN  
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cUHwRw/ESPN.jpg" group-title="Desporto",ESPN (Espanhol)
+		#EXTINF:-1,0276 ESPN (ESP)(UK)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cUHwRw/ESPN.jpg" group-title="Desporto",0276 ESPN (Espanhol)
 
-			
-		#EXTINF:-1,ESPN 2
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/nQ3mRw/ESPN_2.png" group-title="Desporto",ESPN 2 (Espanhol)
-
-			
-		#EXTINF:-1,ESPN 3
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cW8Wtb/ESPN_3.png" group-title="Desporto",ESPN 3 (Espanhol)
-			
-			
-		#EXTINF:-1,ESPN UK
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cUHwRw/ESPN.jpg" group-title="Desporto",ESPN UK
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cUHwRw/ESPN.jpg" group-title="Desporto",0276 ESPN UK
 				
 			
-		#EXTINF:-1,FOX SPORTS 1 HD
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/hi9Mtb/FOX_SPORTS_1_HD.jpg" group-title="Desporto",FOX SPORTS 1 HD (Brasil)
-				
-			
-		#EXTINF:-1,FOX SPORTS 2 HD
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/nQqGRw/FOX_SPORTS_2_HD.png" group-title="Desporto",FOX SPORTS 2 HD (Espanhol)
-				
-			
-		#EXTINF:-1,FOX SPORTS 3 HD
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/iXy36w/FOX_SPORTS_3_HD.png" group-title="Desporto",FOX SPORTS 3 HD (Espanhol)
+		#EXTINF:-1,0277 ESPN 2
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nQ3mRw/ESPN_2.png" group-title="Desporto",0277 ESPN 2 (Espanhol)
 
 			
-		#EXTINF:-1,Viasat Sport HD
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/jMHrtb/Viasat_Sport_HD.gif" group-title="Desporto",Viasat Sport HD
+		#EXTINF:-1,0278 ESPN 3
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cW8Wtb/ESPN_3.png" group-title="Desporto",0278 ESPN 3 (Espanhol)
+			
+			
+		#EXTINF:-1,0279 FOX SPORTS 1 HD
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hi9Mtb/FOX_SPORTS_1_HD.jpg" group-title="Desporto",0279 FOX SPORTS 1 HD (Brasil)
+				
+			
+		#EXTINF:-1,0280 FOX SPORTS 2 HD
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nQqGRw/FOX_SPORTS_2_HD.png" group-title="Desporto",0280 FOX SPORTS 2 HD (Espanhol)
+				
+			
+		#EXTINF:-1,0281 FOX SPORTS 3 HD
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iXy36w/FOX_SPORTS_3_HD.png" group-title="Desporto",0281 FOX SPORTS 3 HD (Espanhol)
 
 			
-		#EXTINF:-1,MATCH! HD (Russo)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/hMb6Rw/MATCH_HD.png" group-title="Desporto",MATCH! HD (Russo)
+		#EXTINF:-1,0282 Viasat Sport HD
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jMHrtb/Viasat_Sport_HD.gif" group-title="Desporto",0282 Viasat Sport HD
 
 			
-		#EXTINF:-1,MATCH ! ARENA HD (Russo)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/nwSVmw/MATCH_ARENA_HD.jpg" group-title="Desporto",MATCH ! ARENA HD (Russo)
+		#EXTINF:-1,0283 MATCH! HD (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hMb6Rw/MATCH_HD.png" group-title="Desporto",0283 MATCH! HD (Russo)
 
 			
-		#EXTINF:-1,Telecaribe Deportes 2
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/mLmzm6/Telecaribe_Deportes_2.png" group-title="Desporto",Telecaribe Deportes 2
+		#EXTINF:-1,0284 MATCH ! ARENA HD (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nwSVmw/MATCH_ARENA_HD.jpg" group-title="Desporto",0284 MATCH ! ARENA HD (Russo)
+
+			
+		#EXTINF:-1,0285 Telecaribe Deportes 2
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mLmzm6/Telecaribe_Deportes_2.png" group-title="Desporto",0285 Telecaribe Deportes 2
 				
 
-		#EXTINF:-1,FIGHT NETWORK
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/eXRmYm/FIGHT_NETWORK.jpg" group-title="Desporto",FIGHT NETWORK
+		#EXTINF:-1,0286 FIGHT NETWORK
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eXRmYm/FIGHT_NETWORK.jpg" group-title="Desporto",0286 FIGHT NETWORK
 				
 
-		#EXTINF:-1,PAC 12 Bay Area
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/mBi8g6/PAC_12_Bay_Area_Ingles.jpg" group-title="Desporto",PAC 12 Bay Area (Ingles)
+		#EXTINF:-1,0287 PAC 12 Bay Area
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mBi8g6/PAC_12_Bay_Area_Ingles.jpg" group-title="Desporto",0287 PAC 12 Bay Area (Ingles)
 				
 
-		#EXTINF:-1,PAC 12 Los Angeles
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/fQxXr6/PAC_12_Los_Angeles.png" group-title="Desporto",PAC 12 Los Angeles
+		#EXTINF:-1,0288 PAC 12 Los Angeles
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fQxXr6/PAC_12_Los_Angeles.png" group-title="Desporto",0288 PAC 12 Los Angeles
 				
 				
-		#EXTINF:-1,PAC 12 Moutain
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/fzeLB6/PAC_12_Moutain.png" group-title="Desporto",PAC 12 Moutain
-				
-
-		#EXTINF:-1,PAC 12 Network (National)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/dmYQdm/PAC_12_Network_National.jpg" group-title="Desporto",PAC 12 Network (National)
+		#EXTINF:-1,0289 PAC 12 Moutain
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fzeLB6/PAC_12_Moutain.png" group-title="Desporto",0289 PAC 12 Moutain
 				
 
-		#EXTINF:-1,PAC 12 Oregon
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cyMNPR/PAC_12_Oregon.png" group-title="Desporto",PAC 12 Oregon
+		#EXTINF:-1,0290 PAC 12 Network (National)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dmYQdm/PAC_12_Network_National.jpg" group-title="Desporto",0290 PAC 12 Network (National)
 				
 
-		#EXTINF:-1,PAC 12 Washington
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",PAC 12 Washington
+		#EXTINF:-1,0291 PAC 12 Oregon
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cyMNPR/PAC_12_Oregon.png" group-title="Desporto",0291 PAC 12 Oregon
 				
 
-		#EXTINF:-1,SPORTSNET 360
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/k6i2PR/SPORTSNET_360.png" group-title="Desporto",SPORTSNET 360
+		#EXTINF:-1,0292 PAC 12 Washington
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",0292 PAC 12 Washington
 				
 
-		#EXTINF:-1,DXTV 
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/mZyOim/DXTV.png" group-title="Desporto",DXTV 
+		#EXTINF:-1,0293 SPORTSNET 360
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/k6i2PR/SPORTSNET_360.png" group-title="Desporto",0293 SPORTSNET 360
 				
 
-		#EXTINF:-1,beins football 
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/ftmOim/beins_football_logo.png" group-title="Desporto",beins football 
+		#EXTINF:-1,0294 DXTV 
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mZyOim/DXTV.png" group-title="Desporto",0294 DXTV 
 				
 
-		#EXTINF:-1,TRT SPOR HD
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/bE63ZR/TRT_SPOR_HD.png" group-title="Desporto",TRT SPOR HD
+		#EXTINF:-1,0295 beIN SPORTS
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ftmOim/beins_football_logo.png" group-title="Desporto",0295 beIN SPORTS
 				
 
-		#EXTINF:-1,Sevilla FC
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Sevilla FC
+		#EXTINF:-1,0296 TRT SPOR HD
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bE63ZR/TRT_SPOR_HD.png" group-title="Desporto",0296 TRT SPOR HD
 				
 
-		#EXTINF:-1,All Sports (Brasil)
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",All Sports (Brasil)
+		#EXTINF:-1,0297 Sevilla FC
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",0297 Sevilla FC
 				
 
-		#EXTINF:-1,Pinguino TV
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Pinguino TV
+		#EXTINF:-1,0298 All Sports (Brasil)
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",0298 All Sports (Brasil)
+				
+
+		#EXTINF:-1,0299 Pinguino TV
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",0299 Pinguino TV
 				http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
 
-		#EXTINF:-1,MLB Network
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",MLB Network
+		#EXTINF:-1,0300 MLB Network
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",0300 MLB Network
 				
 
-		#EXTINF:-1,KTV Sport Kuwait
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",KTV Sport Kuwait
+		#EXTINF:-1,0301 KTV Sport Kuwait
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",0301 KTV Sport Kuwait
 				
 
-		#EXTINF:-1,Pac 12 Arizona
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Pac 12 Arizona
+		#EXTINF:-1,0302 Pac 12 Arizona
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",0302 Pac 12 Arizona
 				
 
-		#EXTINF:-1,Dubai Sports
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Dubai Sports
+		#EXTINF:-1,0303 AD Sports 1 HD
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/CwGR9Xq/adsports.png" group-title="Desporto",0303 AD Sports 1 HD
 				
 
-		#EXTINF:-1,AD Sports 1 HD
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",AD Sports 1 HD
+		#EXTINF:-1,0304 AD Sports 2 HD
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/CwGR9Xq/adsports.png" group-title="Desporto",0304 AD Sports 2 HD
 				
 
-		#EXTINF:-1,AD Sports 2 HD
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",AD Sports 2 HD
-				
-
-		#EXTINF:-1,Deportiva Las Palmas Televisión
-			#EXTINF:-1 tvg-logo="" group-title="Desporto", Deportiva Las Palmas Televisión
+		#EXTINF:-1,0305 Deportiva Las Palmas Televisión
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",0305 Deportiva Las Palmas Televisión
 				https://5b38ce71f1f00.streamlock.net/8312/8312/chunklist_w387662234.m3u8
 
-		#EXTINF:-1,A Spor Turk
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",A Spor Turk
+		#EXTINF:-1,0306 A Spor Turk
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",0306 A Spor Turk
 				
 
-		#EXTINF:-1,NEW WWF JAPAN
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",NEW WWF JAPAN
+		#EXTINF:-1,0307 NEW WWF JAPAN
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",0307 NEW WWF JAPAN
 				https://aka-amd-njpwworld-hls-live.akamaized.net/hls/video/njpw/njpw_channel01_3/chunklist_DVR.m3u8
 
-		#EXTINF:-1,Abu Dhabi Sports
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/CwGR9Xq/adsports.png" group-title="Desporto",Abu Dhabi Sports SD
-				
-
-		#EXTINF:-1,Abu Dhabi Sports 2
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/CwGR9Xq/adsports.png" group-title="Desporto",Abu Dhabi Sports 2 SD
-				
-
-		#EXTINF:-1,KIX
+		#EXTINF:-1,0308 KIX
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",KIX
 				http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
 
-		#EXTINF:-1,Ovación TV
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Ovación TV
+		#EXTINF:-1,0309 Ovación TV
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",0309 Ovación TV
 				http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
-		#EXTINF:-1,Xsports TV
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Xsports TV
+		#EXTINF:-1,0310 Xsports TV
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",0310 Xsports TV
 				http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 
-		#EXTINF:-1,Monterrico TV
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Monterrico TV
+		#EXTINF:-1,0311 Monterrico TV
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",0311 Monterrico TV
 				http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 
-		#EXTINF:-1,Sport TV Brasil
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Sport TV Brasil
+		#EXTINF:-1,0312 Sport TV Brasil
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",0312 Sport TV Brasil
 				
 
-		#EXTINF:-1,Premier Sports 1
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Premier Sports 1
+		#EXTINF:-1,0313 Premier Sports 1
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",0313 Premier Sports 1
 				
 
-		#EXTINF:-1,Willow HD
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Willow HD
+		#EXTINF:-1,0314 Willow HD
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",0314 Willow HD
 				
 
-		#EXTINF:-1,RED BULL TV
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",RED BULL TV
+		#EXTINF:-1,0315 RED BULL TV
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",0315 RED BULL TV
 				https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?IMDSFULL
 
 		#EXTINF:-1,
@@ -1444,116 +1335,130 @@
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/b6cZ0R/007_Infantil.jpg" group-title="Infantil",[B][COLOR yellow]<== Infantil ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 
-		#EXTINF:-1,Disney Junior
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cmgmik/DISNEY_JUNIOR.png" group-title="Infantil",Disney Junior (Russo)
+		#EXTINF:-1,0045 Canal Panda
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/grpYUQ/PANDA.png" group-title="Infantil",0045 Canal Panda (Infantil)
 
 			
-		#EXTINF:-1,Disney Channel
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/ccycpQ/DISNEY_CHANNEL.png" group-title="Infantil",Disney Channel HD (Espanhol)
+		#EXTINF:-1,0046 Panda Biggs
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eiEGrw/Panda_Biggs.jpg" group-title="Infantil",0046 Panda Biggs (Infantil)
 
-			
-		#EXTINF:-1,Cartoon Network
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cQGDUQ/CARTOON_NETWORK.png" group-title="Infantil",Cartoon Network (Russo) 
 
-			
-		#EXTINF:-1,Nickelodeon
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cyDvR6/Nickelodeon.png" group-title="Infantil",Nickelodeon (Brasil)
+		#EXTINF:-1,0047 Disney Junior
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cmgmik/DISNEY_JUNIOR.png" group-title="Infantil",0047 Disney Junior (Infantil)
 				
-			
-		#EXTINF:-1,Nickelodeon Junior
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cyDvR6/Nickelodeon.png" group-title="Infantil",Nickelodeon Junior (Brasil)
-				
-			
-		#EXTINF:-1,Jim Jam
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kwbRYm/Jim_Jam.gif" group-title="Infantil",Jim Jam (Russo)
-				
-				
-		#EXTINF:-1,Baby TV
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/j2DC66/Baby_TV.jpg" group-title="Infantil",Baby TV
-				
-				
-		#EXTINF:-1,Super RTL
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kadZKR/Super_RTL.jpg" group-title="Infantil",Super RTL (Alemao)
-
-			
-		#EXTINF:-1,Boomerang
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/hnvjm6/Boomerang.jpg" group-title="Infantil",BOOMERANG (Espanhol)
-				
-				
-		#EXTINF:-1,anime TV (Latino)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/gGg15b/anime_TV_Latino.jpg" group-title="Infantil",anime TV (Latino)
+				 
+		#EXTINF:-1,0048 Disney Channel
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ccycpQ/DISNEY_CHANNEL.png" group-title="Infantil",0048 Disney Channel HD (Infantil)
 				
 
-		#EXTINF:-1,Moolt (Russo)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/jXVQR6/Moolt.png" group-title="Infantil",Moolt (Russo)
+		#EXTINF:-1,0049 Cartoon Network
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cQGDUQ/CARTOON_NETWORK.png" group-title="Infantil",0049 Cartoon Network (Infantil)
+				
+
+		#EXTINF:-1,0050 Nickelodeon
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jebUBw/Nickelodeon.png" group-title="Infantil",0050 Nickelodeon (Infantil)
+				
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jebUBw/Nickelodeon.png" group-title="Infantil",Nickelodeon (Infantil)(Brasil)
+				
+
+		#EXTINF:-1,0051 Jim Jam
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gF0Hyb/Jim_Jam.png" group-title="Infantil",0051 Jim Jam (Infantil)
+				
+
+		#EXTINF:-1,0052 SIC Kids
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cXPo4G/SIC_Kids.png" group-title="Infantil",0052 SIC Kids (Infantil)*
+				
+
+		#EXTINF:-1,0316 Nickelodeon Junior
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cyDvR6/Nickelodeon.png" group-title="Infantil",0316 Nickelodeon Junior (Brasil)
+				
+			
+		#EXTINF:-1,0317 Baby TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/j2DC66/Baby_TV.jpg" group-title="Infantil",0317 Baby TV
+				
+				
+		#EXTINF:-1,0318 Super RTL
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kadZKR/Super_RTL.jpg" group-title="Infantil",0318 Super RTL (Alemao)
 
 			
-		#EXTINF:-1,Multimania TV (Russo)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kH98eR/Multimania_TV.jpg" group-title="Infantil",Multimania TV (Russo)
+		#EXTINF:-1,0319 Boomerang
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hnvjm6/Boomerang.jpg" group-title="Infantil",0319 BOOMERANG (Espanhol)
 				
 				
-		#EXTINF:-1,Tiji (Russo)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/gAZkR6/Tiji.png" group-title="Infantil",Tiji (Russo)
-				
-				
-		#EXTINF:-1,Carousel (Russo)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cHVQR6/Carousel.png" group-title="Infantil",Carousel (Russo)
-				
-				
-		#EXTINF:-1,TRT Çocuk (Turco)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/eHjmim/TRT_ocuk.png" group-title="Infantil",TRT CHILD (Turco)
+		#EXTINF:-1,0320 anime TV (Latino)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gGg15b/anime_TV_Latino.jpg" group-title="Infantil",0320 anime TV (Latino)
 				
 
-		#EXTINF:-1,HBO FAMILY
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/fF03UR/HBO_FAMILY.jpg" group-title="Infantil",HBO FAMILY (Espanhol)
+		#EXTINF:-1,0321 Moolt (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jXVQR6/Moolt.png" group-title="Infantil",0321 Moolt (Russo)
+
+			
+		#EXTINF:-1,0322 Multimania TV (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kH98eR/Multimania_TV.jpg" group-title="Infantil",0322 Multimania TV (Russo)
 				
 				
-		#EXTINF:-1,NATGEO KIDS
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/fCgVb6/NATGEO_KIDS.png" group-title="Infantil",NATGEO KIDS (Espanhol)
+		#EXTINF:-1,0323 Tiji (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gAZkR6/Tiji.png" group-title="Infantil",0323 Tiji (Russo)
 				
 				
-		#EXTINF:-1,TOONCAST
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/bFWfb6/TOONCAST.png" group-title="Infantil",TOONCAST (Espanhol)
+		#EXTINF:-1,0324 Carousel (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cHVQR6/Carousel.png" group-title="Infantil",0324 Carousel (Russo)
 				
 				
-		#EXTINF:-1,DISNEY XD 
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/j7yAb6/DISNEY_XD.png" group-title="Infantil",DISNEY XD (Espanhol)
+		#EXTINF:-1,0325 TRT Çocuk (Turco)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eHjmim/TRT_ocuk.png" group-title="Infantil",0325 TRT CHILD (Turco)
+				
+
+		#EXTINF:-1,0326 HBO FAMILY
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fF03UR/HBO_FAMILY.jpg" group-title="Infantil",0326 HBO FAMILY (Espanhol)
 				
 				
-		#EXTINF:-1,RIK (Eslováquia)(Infantil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/jO7gim/RIK.png" group-title="Infantil",RIK (Eslováquia) (Infantil)
+		#EXTINF:-1,0327 NATGEO KIDS
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fCgVb6/NATGEO_KIDS.png" group-title="Infantil",0327 NATGEO KIDS (Espanhol)
+				
+				
+		#EXTINF:-1,0328 TOONCAST
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bFWfb6/TOONCAST.png" group-title="Infantil",0328 TOONCAST (Espanhol)
+				
+				
+		#EXTINF:-1,0103 DISNEY XD (Infantil)(Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/j7yAb6/DISNEY_XD.png" group-title="Infantil",0103 DISNEY XD (Infantil)(Brasil)
+				
+
+		#EXTINF:-1,0329 RIK (Eslováquia)(Infantil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jO7gim/RIK.png" group-title="Infantil",0329 RIK (Eslováquia) (Infantil)
 				http://nn2.joj.sk/hls/rik-540.m3u8
 
-		#EXTINF:-1,Retro Cartoon
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/j9JRG6/Retro_Cartoon.png" group-title="Infantil",Retro Cartoon
+		#EXTINF:-1,0330 Retro Cartoon
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/j9JRG6/Retro_Cartoon.png" group-title="Infantil",0330 Retro Cartoon
 				
 				
-		#EXTINF:-1,Miau Mi
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",Miau Mi
+		#EXTINF:-1,0331 Miau Mi
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",0331 Miau Mi
 				https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 
-		#EXTINF:-1,Gospel Cartoon
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/6Hn35sy/5ce59e5a4f52bbc5c6419fe5a8674447.png" group-title="Infantil",Gospel Cartoon
+		#EXTINF:-1,0332 Gospel Cartoon
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/6Hn35sy/5ce59e5a4f52bbc5c6419fe5a8674447.png" group-title="Infantil",0332 Gospel Cartoon
 				http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=537256410
 
-		#EXTINF:-1,TRT Cocuk (Turco)
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/7WbfzpV/543144.jpg" group-title="Infantil",TRT Cocuk (Turco)
+		#EXTINF:-1,0333 TRT Cocuk (Turco)
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/7WbfzpV/543144.jpg" group-title="Infantil",0333 TRT Cocuk (Turco)
 				
 
-		#EXTINF:-1,Cachipum.tv (Chile)
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",Cachipum.tv (Chile)
+		#EXTINF:-1,0334 Cachipum.tv (Chile)
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",0334 Cachipum.tv (Chile)
 				
 
-		#EXTINF:-1,Locomotion TV
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",Locomotion TV
+		#EXTINF:-1,0335 Locomotion TV
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",0335 Locomotion TV
 				
 
-		#EXTINF:-1,Discovery Kids
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",Discovery Kids
+		#EXTINF:-1,0336 Discovery Kids
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",0336 Discovery Kids
 				
 
-		#EXTINF:-1,ABN KIDS
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",ABN KIDS
+		#EXTINF:-1,0337 ABN KIDS
+			#EXTINF:-1 tvg-logo="" group-title="Infantil",0337 ABN KIDS
 				https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8?ANTONYGTV
 
 		#EXTINF:-1,
@@ -1586,205 +1491,193 @@
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/dDhZ0R/008_Filmes_e_Series.jpg" group-title="Filmes e Series",[B][COLOR yellow]<== Filmes e Series ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 
-		#EXTINF:-1,Fox Movies
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/fjtU3m/Fox_Movies.jpg" group-title="Filmes e Series",Fox Movies (Espanhol)
+		#EXTINF:-1,0053 TVCine Top
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eyjAJb/TVCine_1.png" group-title="Filmes e Series",0053 TVCine Top (Filmes e Series)
 				
-				
-		#EXTINF:-1,Fox
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/nH3e4Q/fox.jpg" group-title="Filmes e Series",FOX HD (Ingles)
-				
-				
-		#EXTINF:-1,AXN
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cdpQdk/AXN.png" group-title="Filmes e Series",AXN HD (Espanhol)
-				
-				
-		#EXTINF:-1,Fox Life
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/hvUzBw/Fox_Life.jpg" group-title="Filmes e Series",FOX LIFE (Ingles)
-				
-				
-		#EXTINF:-1,Fox Crime
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kzo1rw/Fox_Crime.jpg" group-title="Filmes e Series",Fox Crime
+
+		#EXTINF:-1,0054 TVCine Edition
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/deUGrw/TVCine_2.png" group-title="Filmes e Series",0054 TVCine Edition (Filmes e Series)
 
 
-		#EXTINF:-1,FOX Comedy
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/m7rMrw/FOX_Comedy.jpg" group-title="Filmes e Series",FOX Comedy (Espanhol)
+		#EXTINF:-1,0055 TVCine Emotion
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eYXrPG/TVCine_3.jpg" group-title="Filmes e Series",0055 TVCine Emotion (Filmes e Series)
+
+
+		#EXTINF:-1,0056 TVCine Action
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cAnrPG/TVCine_4.jpg" group-title="Filmes e Series",0056 TVCine Action (Filmes e Series)
+
+
+		#EXTINF:-1,0057 TVSeries (Cancelada)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/csdRrw/TVSeries.jpg" group-title="Filmes e Series",0057 TVSeries (Filmes e Series)
+
+
+		#EXTINF:-1,0058 Hollywood
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/c7XfJb/Hollywood.jpg" group-title="Filmes e Series",0058 Hollywood (Filmes e Series)
+
+
+		#EXTINF:-1,0059 Cinemundo
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/i1bPdb/Cinemundo.jpg" group-title="Filmes e Series",0059 Cinemundo (Filmes e Series)
+
+
+		#EXTINF:-1,0060 Fox
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nH3e4Q/fox.jpg" group-title="Filmes e Series",0060 FOX HD (Filmes e Series)
 				
+
+		#EXTINF:-1,0061 AXN
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cdpQdk/AXN.png" group-title="Filmes e Series",0061 AXN HD (Brasil)(Filmes e Series)
 				
-		#EXTINF:-1,AXN Black
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/jpyjBw/AXN_Black.jpg" group-title="Filmes e Series",AXN Black
+
+		#EXTINF:-1,0062 Fox Life
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hvUzBw/Fox_Life.jpg" group-title="Filmes e Series",0062 FOX LIFE (Filmes e Series)
+				
+
+		#EXTINF:-1,0063 Fox Crime
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kzo1rw/Fox_Crime.jpg" group-title="Filmes e Series",0063 Fox Crime (Filmes e Series)
 
 
-		#EXTINF:-1,AXN White
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/iRK8yk/axn_white.jpg" group-title="Filmes e Series",AXN White
+		#EXTINF:-1,0064 FOX Comedy
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/m7rMrw/FOX_Comedy.jpg" group-title="Filmes e Series",0064 FOX Comedy (Filmes e Series)
+				
+
+		#EXTINF:-1,0065 AXN Black
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jpyjBw/AXN_Black.jpg" group-title="Filmes e Series",0065 AXN Black (Filmes e Series)
 
 
-		#EXTINF:-1,MOV
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/nFGRPG/MOV.jpg" group-title="Filmes e Series",MOV
+		#EXTINF:-1,0066 AXN White
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iRK8yk/axn_white.jpg" group-title="Filmes e Series",0066 AXN White (Filmes e Series)
 
 
-		#EXTINF:-1,Syfy
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/ng2fJb/Syfy.jpg" group-title="Filmes e Series",Syfy
+		#EXTINF:-1,0067 MOV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nFGRPG/MOV.jpg" group-title="Filmes e Series",0067 MOV (Filmes e Series)
 
+
+		#EXTINF:-1,0068 Syfy
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ng2fJb/Syfy.jpg" group-title="Filmes e Series",0068 Syfy (Brasil)(Filmes e Series)
+				
 			
-		#EXTINF:-1,AMG
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/eJmP3m/AMG.jpg" group-title="Filmes e Series",AMG (Ingles)
+		#EXTINF:-1,0338 Fox Movies
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fjtU3m/Fox_Movies.jpg" group-title="Filmes e Series",0338 Fox Movies (Espanhol)
+				
+				
+		#EXTINF:-1,0339 AMG
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eJmP3m/AMG.jpg" group-title="Filmes e Series",0339 AMG (Ingles)
 				
 
-		#EXTINF:-1,РУССКИЙ РОМАН (Russo)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/gXoe3m/image.png" group-title="Filmes e Series",РУССКИЙ РОМАН (Russo)
+		#EXTINF:-1,0340 РУССКИЙ РОМАН (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gXoe3m/image.png" group-title="Filmes e Series",0340 РУССКИЙ РОМАН (Russo)
 				
 				
-		#EXTINF:-1,Russkij bestseller (Russo)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/gA8e3m/Russkij_bestseller.png" group-title="Filmes e Series",Russkij bestseller (Russo)
+		#EXTINF:-1,0341 Russkij bestseller (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gA8e3m/Russkij_bestseller.png" group-title="Filmes e Series",0341 Russkij bestseller (Russo)
 				
 				
-		#EXTINF:-1,Russkiy Illusion (Russo)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/jfwcpR/Russkiy_Illusion.png" group-title="Filmes e Series",Russkiy Illusion (Russo)
+		#EXTINF:-1,0342 Russkiy Illusion (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jfwcpR/Russkiy_Illusion.png" group-title="Filmes e Series",0342 Russkiy Illusion (Russo)
 				
 				
-		#EXTINF:-1,Eurokino (Russo)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kCghOm/Eurokino.jpg" group-title="Filmes e Series",Eurokino (Russo)
+		#EXTINF:-1,0343 Eurokino (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kCghOm/Eurokino.jpg" group-title="Filmes e Series",0343 Eurokino (Russo)
 				
 				
-		#EXTINF:-1,FOX SERIES 
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/g8inOm/FOX_SERIES.jpg" group-title="Filmes e Series",FOX SERIES 
+		#EXTINF:-1,0344 HBO
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/je7a9R/HBO.gif" group-title="Filmes e Series",0344 HBO (Espanhol)
 				
 				
-		#EXTINF:-1,HBO
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/je7a9R/HBO.gif" group-title="Filmes e Series",HBO (Espanhol)
+		#EXTINF:-1,0345 HBO 2
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ioybG6/HBO_2.gif" group-title="Filmes e Series",0345 HBO 2 (Espanhol)
 				
 				
-		#EXTINF:-1,HBO 2
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/ioybG6/HBO_2.gif" group-title="Filmes e Series",HBO 2 (Espanhol)
+		#EXTINF:-1,0346 HBO PLUS
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bQ6rim/HBO_PLUS.png" group-title="Filmes e Series",0346 HBO PLUS (Espanhol)
 				
 				
-		#EXTINF:-1,HBO PLUS
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/bQ6rim/HBO_PLUS.png" group-title="Filmes e Series",HBO PLUS (Espanhol)
+		#EXTINF:-1,0347 De Pelicula HD (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/i9HmG6/De_Pelicula_HD.jpg" group-title="Filmes e Series",0347 De Pelicula HD (Espanhol)
 				
 				
-		#EXTINF:-1,De Pelicula HD (Espanhol)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/i9HmG6/De_Pelicula_HD.jpg" group-title="Filmes e Series",De Pelicula HD (Espanhol)
+		#EXTINF:-1,0348 Golden PLus (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ddaOw6/Golden_PLus.png" group-title="Filmes e Series",0348 Golden PLus (Espanhol)
 				
 				
-		#EXTINF:-1,Golden PLus (Espanhol)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/ddaOw6/Golden_PLus.png" group-title="Filmes e Series",Golden PLus (Espanhol)
+		#EXTINF:-1,0349 CINELATINO (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jzhYUR/CINELATINO.jpg" group-title="Filmes e Series",0349 CINELATINO (Espanhol)
 				
 				
-		#EXTINF:-1,CINELATINO (Espanhol)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/jzhYUR/CINELATINO.jpg" group-title="Filmes e Series",CINELATINO (Espanhol)
+		#EXTINF:-1,0350 Cinemax (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fUrtUR/Cinemax.png" group-title="Filmes e Series",0350 Cinemax (Espanhol)
 				
 				
-		#EXTINF:-1,Cinemax (Espanhol)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/fUrtUR/Cinemax.png" group-title="Filmes e Series",Cinemax (Espanhol)
+		#EXTINF:-1,0351 TNT HD
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dAVRim/TNT_HD.jpg" group-title="Filmes e Series",0351 TNT HD (Espanhol)
 				
 				
-		#EXTINF:-1,TNT HD
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/dAVRim/TNT_HD.jpg" group-title="Filmes e Series",TNT HD (Espanhol)
+		#EXTINF:-1,0352 FOX ACTION
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nDy7pR/FOX_ACTION.jpg" group-title="Filmes e Series",0352 FOX ACTION (Espanhol)
 				
 				
-		#EXTINF:-1,FOX ACTION
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/nDy7pR/FOX_ACTION.jpg" group-title="Filmes e Series",FOX ACTION (Espanhol)
+		#EXTINF:-1,0353 FOX CLASSICS HD
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ita1im/FOX_CLASSICS_HD.jpg" group-title="Filmes e Series",0353 FOX CLASSICS HD
 				
 				
-		#EXTINF:-1,FOX CINEMA HD (Espanhol)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/m1KcOm/FOX_CINEMA_HD.jpg" group-title="Filmes e Series",FOX CINEMA HD (Espanhol)
+		#EXTINF:-1,0354 SPACE HD (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/caRrim/SPACE_HD.jpg" group-title="Filmes e Series",0354 SPACE HD (Espanhol)
 				
 				
-		#EXTINF:-1,FOX CLASSICS HD
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/ita1im/FOX_CLASSICS_HD.jpg" group-title="Filmes e Series",FOX CLASSICS HD
+		#EXTINF:-1,0355 FOX CINEMA HD (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/m1KcOm/FOX_CINEMA_HD.jpg" group-title="Filmes e Series",0355 FOX CINEMA HD (Espanhol)
 				
 				
-		#EXTINF:-1,SPACE HD (Espanhol)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/caRrim/SPACE_HD.jpg" group-title="Filmes e Series",SPACE HD (Espanhol)
+		#EXTINF:-1,0356 SONY HD
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jMeGG6/SONY_HD.jpg" group-title="Filmes e Series",0356 SONY HD (Brasil)
 				
 				
-		#EXTINF:-1,SONY HD
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/jMeGG6/SONY_HD.jpg" group-title="Filmes e Series",SONY HD (Brasil)
+		#EXTINF:-1,0357 FX HD
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hKY7pR/FX_HD.jpg" group-title="Filmes e Series",0357 FX HD (Espanhol)
 				
 				
-		#EXTINF:-1,FX HD
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/hKY7pR/FX_HD.jpg" group-title="Filmes e Series",FX HD (Espanhol)
+		#EXTINF:-1,0358 CINE CANAL (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/izKmim/CINE_CANAL.jpg" group-title="Filmes e Series",0358 CINE CANAL (Espanhol)
 				
 				
-		#EXTINF:-1,CINE CANAL (Espanhol)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/izKmim/CINE_CANAL.jpg" group-title="Filmes e Series",CINE CANAL (Espanhol)
+		#EXTINF:-1,0359 FOX FAMILY
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kqzab6/FOX_FAMILY.jpg" group-title="Filmes e Series",0359 FOX FAMILY (Espanhol)
 				
 				
-		#EXTINF:-1,FOX FAMILY
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kqzab6/FOX_FAMILY.jpg" group-title="Filmes e Series",FOX FAMILY (Espanhol)
-				
-				
-		#EXTINF:-1,HBO SIGNATURE
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/jUhiUR/HBO_SIGNATURE.jpg" group-title="Filmes e Series",HBO SIGNATURE (Espanhol)
+		#EXTINF:-1,0360 HBO SIGNATURE
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jUhiUR/HBO_SIGNATURE.jpg" group-title="Filmes e Series",0360 HBO SIGNATURE (Espanhol)
 			
 			
-		#EXTINF:-1,Mello TV
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/DM33GMG/maxresdefault.jpg" group-title="Filmes e Series",Mello TV
+		#EXTINF:-1,0361 Mello TV
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/DM33GMG/maxresdefault.jpg" group-title="Filmes e Series",0361 Mello TV
 				https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8
 
-		#EXTINF:-1,Pop
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/fXzXpq2/pop-logo.jpg" group-title="Filmes e Series",Pop
+		#EXTINF:-1,0362 Pop
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/fXzXpq2/pop-logo.jpg" group-title="Filmes e Series",0362 Pop
 				
 
-		#EXTINF:-1,HOLLYWOOD SWITCH
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",HOLLYWOOD SWITCH
-				
-
-		#EXTINF:-1,HOLLYWOOD SWITCH 5
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",HOLLYWOOD SWITCH 5
-				
-
-		#EXTINF:-1,RAI MOVIE
+		#EXTINF:-1,0363 RAI MOVIE
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",RAI MOVIE
 				http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
-		#EXTINF:-1,Calle 13 (Espanhol)
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Calle 13 (Espanhol)
+		#EXTINF:-1,0364 Calle 13 (Espanhol)
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",0364 Calle 13 (Espanhol)
 				http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
 
-		#EXTINF:-1,Orbit TV
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Orbit TV
+		#EXTINF:-1,0365 Orbit TV
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",0365 Orbit TV
 				
 
-		#EXTINF:-1,Telecine 1
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/eyjAJb/TVCine_1.png" group-title="Filmes e Series",Telecine 1 (Filmes e Series)
-				
-
-		#EXTINF:-1,Telecine Pipoca
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Telecine Pipoca
-				
-
-		#EXTINF:-1,Telecine Touch
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Telecine Touch
-				
-
-		#EXTINF:-1,Telecine ACTION
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Telecine ACTION
-				
-
-		#EXTINF:-1,Telecine Premium
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Telecine Premium
-				
-
-		#EXTINF:-1,Telecine Cult
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Telecine Cult
-				
-
-		#EXTINF:-1,Megapix
+		#EXTINF:-1,0366 Megapix
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Megapix
 				
 
-		#EXTINF:-1,AMC
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",AMC
+		#EXTINF:-1,0367 AMC
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",0367 AMC
 				
 
-		#EXTINF:-1,GOSPEL MOVIES TELEVISION
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",GOSPEL MOVIES TELEVISION
+		#EXTINF:-1,0368 GOSPEL MOVIES TELEVISION
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",0368 GOSPEL MOVIES TELEVISION
 				http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
-
-		#EXTINF:-1,CINE ANTONIO FILMES 24HS
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",CINE ANTONIO FILMES 24HS
-				http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?ANTONYGTV
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",
@@ -1804,54 +1697,60 @@
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/cuAbEm/009_Musica.jpg" group-title="Musica",[B][COLOR yellow]<== Musica ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 	
-		#EXTINF:-1,MTV
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/bTthpR/MTV.png" group-title="Musica",MTV (Norg)
+		#EXTINF:-1,0069 MTV (Portugal)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iOi4db/MTV_Portugal.jpg" group-title="Musica",0069 MTV Portugal (Musica)
+
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bTthpR/MTV.png" group-title="Musica",0069 MTV (Norg)
 				http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/bTthpR/MTV.png" group-title="Musica",MTV HD (Alemanha)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bTthpR/MTV.png" group-title="Musica",0069 MTV HD (Alemanha)
 				http://de1se01.v2beat.live/playlist.m3u8
  
-		#EXTINF:-1,NRJ HITS TV Live (Belgique)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/jUnRim/NRJ.jpg" group-title="Musica",NRJ HITS TV Live (Belgique)
+		#EXTINF:-1,0070 AFRO MUSIC
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gGsxyb/AFRO_MUSIC.png" group-title="Musica",0070 AFRO MUSIC (Musica)
+
+			
+		#EXTINF:-1,0369 NRJ HITS TV Live (Belgique)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jUnRim/NRJ.jpg" group-title="Musica",0369 NRJ HITS TV Live (Belgique)
 				
 
-		#EXTINF:-1,KRONEHIT TV HD (Austria)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/mqp09R/Krone_Hit_TV.png" group-title="Musica",KRONEHIT TV HD (Austria)
+		#EXTINF:-1,0370 KRONEHIT TV HD (Austria)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mqp09R/Krone_Hit_TV.png" group-title="Musica",0370 KRONEHIT TV HD (Austria)
 				https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
-		#EXTINF:-1,MuzZone
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kFsnpR/MuzZone.jpg" group-title="Musica",MuzZone
+		#EXTINF:-1,0371 MuzZone
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kFsnpR/MuzZone.jpg" group-title="Musica",0371 MuzZone
 				
 
-		#EXTINF:-1,Naween
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/czaOUR/Naween.png" group-title="Musica",Naween
+		#EXTINF:-1,0372 Naween
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/czaOUR/Naween.png" group-title="Musica",0372 Naween
 				
 
-		#EXTINF:-1,DJAZZ.tv HD
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/dcs93m/DJAZZ_tv_HD.png" group-title="Musica",DJAZZ.tv HD (Ingles)
+		#EXTINF:-1,0373 DJAZZ.tv HD
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dcs93m/DJAZZ_tv_HD.png" group-title="Musica",0373 DJAZZ.tv HD (Ingles)
 
 
-		#EXTINF:-1,MCM POP
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/b3HsOm/MCM_POP.png" group-title="Musica",MCM POP (Frances)
+		#EXTINF:-1,0374 MCM POP
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/b3HsOm/MCM_POP.png" group-title="Musica",0374 MCM POP (Frances)
 
 
-		#EXTINF:-1,MCM TOP
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/dzG8w6/MCM_TOP.png" group-title="Musica",MCM TOP (Frances)
+		#EXTINF:-1,0375 MCM TOP
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dzG8w6/MCM_TOP.png" group-title="Musica",0375 MCM TOP (Frances)
 
 
-		#EXTINF:-1,TV POP (Espanhol)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/m40wim/TV_POP.jpg" group-title="Musica",TV POP (Espanhol)
+		#EXTINF:-1,0376 TV POP (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/m40wim/TV_POP.jpg" group-title="Musica",0376 TV POP (Espanhol)
 				
 
-		#EXTINF:-1,Planeta Online TV (Bulgarian) (music)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cUGcTw/Planeta_Online_TV_Bulgarian_music.png" group-title="Musica",Planeta Online TV (Bulgarian) (music)
+		#EXTINF:-1,0377 Planeta Online TV (Bulgarian)(music)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cUGcTw/Planeta_Online_TV_Bulgarian_music.png" group-title="Musica",0377 Planeta Online TV (Bulgarian)(music)
 				
 
-		#EXTINF:-1,MEZZO
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kPVXpR/MEZZO.gif" group-title="Musica",MEZZO (Frances)
+		#EXTINF:-1,0378 MEZZO
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kPVXpR/MEZZO.gif" group-title="Musica",0378 MEZZO (Frances)
 
 
-		#EXTINF:-1,Trace TV
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kHNHOm/Trace_TV.jpg" group-title="Musica",Trace TV (Frances)
+		#EXTINF:-1,0380 Trace TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kHNHOm/Trace_TV.jpg" group-title="Musica",0380 Trace TV (Frances)
 
 
 		#EXTINF:-1,Muz TV (Music) (Russia)
@@ -2462,6 +2361,10 @@ EXTINF:-1 tvg-logo="https://www.ezshield.com/wp-content/uploads/images/different
 		#EXTINF:-1,Williams Stream (INGLES )
 			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Williams_Street.png" group-title="24/7",Williams Stream (INGLES )
 				http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
+
+		#EXTINF:-1,CINE ANTONIO FILMES 24HS
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",CINE ANTONIO FILMES 24HS
+				http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?ANTONYGTV
 
 
 
