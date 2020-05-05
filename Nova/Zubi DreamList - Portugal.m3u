@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 	#EXTINF:-1,Zubi DreamList 
-		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.87 (04/05/2020)
+		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.88 (05/05/2020)
 			http://0.0.0.0:1234
 			
 #EXTINF:-1,[B][COLOR yellow]<== LÍNGUA PORTUGUESA ==>[/COLOR][/B]
@@ -113,10 +113,6 @@
 			#EXTINF:-1 group-title="Informacao" tvg-id="ARTV.pt" tvg-logo="https://image.ibb.co/ejOftk/ARTV.png",0022 ARTV (Informacao)
 				
 
-		#EXTINF:-1,0023 Record News
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/fHqjtk/Record_News.png" group-title="Informacao",0023 Record News (Informacao)
-				
-
 		#EXTINF:-1,0024 SIC Mulher
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/hkCVYk/SIC_Mulher.png" group-title="Entretenimento",0024 SIC Mulher (Entretenimento)
 				
@@ -199,6 +195,10 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/ftdQER/ESEC_TV.jpg" group-title="Regionais",0077 ESEC TV (Regionais)
 				
 				
+		#EXTINF:-1,0023 Record News
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fHqjtk/Record_News.png" group-title="Informacao",0023 Record News (Informacao)
+				https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
+
 		#EXTINF:-1,0078 AMAZON SAT (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/edCmZQ/amazon_sat.png" tvg-id="" tvg-name=" group-title="Brasil",0078 AMAZON SAT (Brasil)
 				
@@ -228,8 +228,8 @@
 				
 				
 		#EXTINF:-1,0085 REDE BRASIL (Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/mSzVjG/REDE_BRASIL.png" group-title="Brasil",0085 REDE BRASIL (Brasil)
-				
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mSzVjG/REDE_BRASIL.png" group-title="Brasil",0085 Rede Brasil (SP)(Brasil)
+				https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 				
 		#EXTINF:-1,0086 Pocos Tv (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/iXK3G5/Pocos_Tv_Brasil.png" group-title="Brasil",0086 Pocos Tv (Brasil)
@@ -418,6 +418,18 @@
 			#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="Variedades",0379 TV Pampa - RedeTV! RS
 				https://stmv1.srvstm.com/maiko7291/maiko7291/playlist.m3u8
 
+		#EXTINF:-1,0458 TV Gazeta (SP)
+			#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title="Variedades",0458 TV Gazeta (SP)
+				http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
+			
+		#EXTINF:-1,0459 Brasil Oeste (MT)
+			#EXTINF:-1 tvg-logo="" group-title="Brasil",Brasil Oeste (MT)
+				https://5d2c98775bafe.streamlock.net/8104/8104/playlist.m3u8
+			
+		#EXTINF:-1,0460 TV Baiana - Cultura
+			#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvbaiana.png" group-title="Brasil",0460 TV Baiana - Cultura
+				http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
+			
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Brasil",
 				
@@ -454,7 +466,9 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/f925eQ/CNN.png" group-title="Informacao",0127 CNN (Ingles)
 				http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8?IMDSFULL
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/fDeTYm/CNN_Chile.jpg" group-title="Informacao",CNN Chile
-				
+
+			#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cnn.jpg" group-title="Informacao",0127 CNN BRASIL
+				https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 
 		#EXTINF:-1,0128 CBS NEWS HD
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cVrDm5/CBSN.jpg" group-title="Informacao",0128 CBS NEWS HD (Informacao)
@@ -1753,313 +1767,309 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/kHNHOm/Trace_TV.jpg" group-title="Musica",0380 Trace TV (Frances)
 
 
-		#EXTINF:-1,Muz TV (Music) (Russia)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/fK7zQb/Muz_TV_Music_Russia.jpg" group-title="Musica",Muz TV (Music) (Russia)
+		#EXTINF:-1,0381 Muz TV (Music)(Russia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fK7zQb/Muz_TV_Music_Russia.jpg" group-title="Musica",0381 Muz TV (Music)(Russia)
 				
 
-		#EXTINF:-1,Radio Monte Carlo TV
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/eovCB5/MONTECARLO_MUS_C.jpg" group-title="Musica",Radio Monte Carlo TV
+		#EXTINF:-1,0382 Radio Monte Carlo TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eovCB5/MONTECARLO_MUS_C.jpg" group-title="Musica",0382 Radio Monte Carlo TV
 				
 			
-		#EXTINF:-1,Banat Tv (Romania)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/iYpQUQ/Banat_Tv_Romania.jpg" group-title="Musica",Banat Tv (Romania)
+		#EXTINF:-1,0383 Banat Tv (Romania)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iYpQUQ/Banat_Tv_Romania.jpg" group-title="Musica",0383 Banat Tv (Romania)
 				
 			
-		#EXTINF:-1,klipkar tv (Netherlands)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cRpHpR/klipkar_tv.jpg" group-title="Musica",klipkar tv (Netherlands)
+		#EXTINF:-1,0384 klipkar tv (Netherlands)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cRpHpR/klipkar_tv.jpg" group-title="Musica",0384 klipkar tv (Netherlands)
 				
 			
-		#EXTINF:-1,Heart TV (UK)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/fW6xpR/Heart_TV.png" group-title="Musica",Heart TV (UK)
+		#EXTINF:-1,0385 Heart TV (UK)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fW6xpR/Heart_TV.png" group-title="Musica",0385 Heart TV (UK)
 				
 
-		#EXTINF:-1,m2o tv
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/eSuYUR/m2o_tv.jpg" group-title="Musica",m2o tv
+		#EXTINF:-1,0386 m2o tv
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eSuYUR/m2o_tv.jpg" group-title="Musica",0386 m2o tv
 				http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
 				
-		#EXTINF:-1,Melody Channel
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/ePzYUR/Melody_Channel.png" group-title="Musica",Melody Channel
+		#EXTINF:-1,0387 Melody Channel
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ePzYUR/Melody_Channel.png" group-title="Musica",0387 Melody Channel
 				http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 				
-		#EXTINF:-1,OneTV (Arg)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/hA8cpR/OneTV.png" group-title="Musica",OneTV (Arg)
+		#EXTINF:-1,0388 OneTV (Arg)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hA8cpR/OneTV.png" group-title="Musica",0388 OneTV (Arg)
 				
 
-		#EXTINF:-1,Retro TV
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/hFKauQ/retro_music.png" group-title="Musica",Retro TV
+		#EXTINF:-1,0389 Retro TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hFKauQ/retro_music.png" group-title="Musica",0389 Retro TV
 				http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
-		#EXTINF:-1,Vibee
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/btSj3m/Vibee.jpg" group-title="Musica",Vibee
+		#EXTINF:-1,0390 Vibee
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/btSj3m/Vibee.jpg" group-title="Musica",0390 Vibee
 				
 
-		#EXTINF:-1,MAD TV (Greece)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/mLwcOm/MAD_TV.png" group-title="Musica",MAD TV (Greece)
+		#EXTINF:-1,0391 MAD TV (Greece)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mLwcOm/MAD_TV.png" group-title="Musica",0391 MAD TV (Greece)
 				
 
-		#EXTINF:-1,VIRGIN TV (Ingles)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/nKNqb6/VIRGIN_TV.png" group-title="Musica" tvg-logo="https://image.ibb.co/jVTAdk/virgin.png",VIRGIN TV (Ingles)
+		#EXTINF:-1,0392 VIRGIN TV (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nKNqb6/VIRGIN_TV.png" group-title="Musica" tvg-logo="https://image.ibb.co/jVTAdk/virgin.png",0392 VIRGIN TV (Ingles)
 				
 
-		#EXTINF:-1,HITV (Russo)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kMrmim/HITV.jpg" group-title="Musica" tvg-logo="",HITV (Russo)
+		#EXTINF:-1,0393 HITV (Russo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kMrmim/HITV.jpg" group-title="Musica" tvg-logo="",0393 HITV (Russo)
 				
 
-		#EXTINF:-1,NL:Q
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/nbitUR/Q.jpg" group-title="Musica" tvg-logo="",NL:Q
+		#EXTINF:-1,0394 NL:Q
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nbitUR/Q.jpg" group-title="Musica" tvg-logo="",0394 NL:Q
 				
 
-		#EXTINF:-1,Slam TV
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/n9JDw6/Slam_TV.jpg" group-title="Musica" tvg-logo="",Slam TV
+		#EXTINF:-1,0395 Slam TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/n9JDw6/Slam_TV.jpg" group-title="Musica" tvg-logo="",0395 Slam TV
 				
 
-		#EXTINF:-1,La - Minor
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/iTdDw6/La_Minor.png" group-title="Musica" tvg-logo="",La - Minor
+		#EXTINF:-1,0396 La - Minor
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iTdDw6/La_Minor.png" group-title="Musica" tvg-logo="",0396 La - Minor
 				
 				
-		#EXTINF:-1,VH1 Classic
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/fVG59R/VH1_Classic.png" group-title="Musica" tvg-logo="",VH1 Classic
+		#EXTINF:-1,0397 VH1 Classic
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fVG59R/VH1_Classic.png" group-title="Musica" tvg-logo="",0397 VH1 Classic
 				
 				
-		#EXTINF:-1,TRT Muzik
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/iKespR/TRT_Muzik.png" group-title="Musica" tvg-logo="",TRT Muzik
-				
-
-		#EXTINF:-1,Europa Plus TV
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kpcWG6/Europa_Plus_TV.png" group-title="Musica" tvg-logo="",Europa Plus TV
-				
-				
-		#EXTINF:-1,Capital TV (UK)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/eSBDUR/Capital_TV.png" group-title="Musica",Capital TV (UK)
+		#EXTINF:-1,0398 TRT Muzik
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iKespR/TRT_Muzik.png" group-title="Musica" tvg-logo="",0398 TRT Muzik
 				
 
-		#EXTINF:-1,Music Choice - Brits Hits
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Brits Hits
-				
-
-		#EXTINF:-1,Music Choice - Dance/EDM
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Dance/EDM
-				
-
-		#EXTINF:-1,Music Choice - Hip-Hop And R&B
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Hip-Hop And R&B
+		#EXTINF:-1,0399 Europa Plus TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kpcWG6/Europa_Plus_TV.png" group-title="Musica" tvg-logo="",0399 Europa Plus TV
 				
 				
-		#EXTINF:-1,Music Choice - Hit List
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Hit List
-				
-				
-		#EXTINF:-1,Music Choice - Indie
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Indie
-				
-				
-		#EXTINF:-1,Music Choice - Kidz Only!
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Kidz Only!
-				
-				
-		#EXTINF:-1,Music Choice - Metal
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Metal
-				
-				
-		#EXTINF:-1,Music Choice - Mexicana
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Mexicana
-				
-				
-		#EXTINF:-1,Music Choice - Musica Urbana
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Musica Urbana
-				
-				
-		#EXTINF:-1,Music Choice - Pop & Country
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Pop & Country
-				
-				
-		#EXTINF:-1,Music Choice - Pop Hits
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Pop Hits
-				
-				
-		#EXTINF:-1,Music Choice - Pop Latino
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Pop Latino
-				
-				
-		#EXTINF:-1,Music Choice - R&B Soul
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - R&B Soul
-				
-				
-		#EXTINF:-1,Music Choice - Rap
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Rap
-				
-				
-		#EXTINF:-1,Music Choice - Rap 2K
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Rap 2K
-				
-				
-		#EXTINF:-1,Music Choice - Rock
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Rock
-				
-				
-		#EXTINF:-1,Music Choice - Teen Beats
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Teen Beats
-				
-				
-		#EXTINF:-1,Music Choice - Throwback Jamz
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Throwback Jamz
-				
-				
-		#EXTINF:-1,Music Choice - Today
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Today
-				
-				
-		#EXTINF:-1,Music Choice - Toddler Tunes
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Toddler Tunes
-				
-				
-		#EXTINF:-1,Music Choice - Tropicales
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Tropicales
-				
-				
-		#EXTINF:-1,Music Choice - Y2K
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Y2K
-				
-				
-		#EXTINF:-1,Music Choice - Play
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",Music Choice - Play
-				
-				
-		#EXTINF:-1,CONCERT CHANEL HD (Espanhol)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/huTz3m/CONCERT_CHANEL_HD.png" group-title="Musica" tvg-logo="",CONCERT CHANEL HD (Espanhol)
-				
-				
-		#EXTINF:-1,MTV HITS
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/maFnOm/MTV_HITS.png" group-title="Musica" tvg-logo="",MTV HITS (Espanhol)
-				
-				
-		#EXTINF:-1,RADIOLA (Espanhol)(Colombia)(Musica)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cEd2pR/RADIOLA.png" group-title="Musica" tvg-logo="",RADIOLA (Espanhol)(Colombia)(Musica)
-				
-				
-		#EXTINF:-1,VH1 HD
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/faSHOm/VH1_HD.jpg" group-title="Musica" tvg-logo="",VH1 HD (Espanhol)
-				
-				
-		#EXTINF:-1,DJing Animation
-			#EXTINF:-1 tvg-logo="" group-title="Musica",DJing Animation
-				https://www.djing.com/tv/animation.m3u8
-
-		#EXTINF:-1,DJing Classics
-			#EXTINF:-1 tvg-logo="" group-title="Musica",DJing Classics
-				https://www.djing.com/tv/classics.m3u8
-
-		#EXTINF:-1,DJing Electro Rock
-			#EXTINF:-1 tvg-logo="" group-title="Musica",DJing Electro Rock
-				https://www.djing.com/tv/session_electro-rock.m3u8
-
-		#EXTINF:-1,DJing Main
-			#EXTINF:-1 tvg-logo="" group-title="Musica",DJing Main
-				https://www.djing.com/tv/live.m3u8
-
-		#EXTINF:-1,DJing Summer Vibes
-			#EXTINF:-1 tvg-logo="" group-title="Musica",DJing Summer Vibes
-				https://www.djing.com/tv/session_summer-vibes.m3u8
-
-		#EXTINF:-1,DJing Underground
-			#EXTINF:-1 tvg-logo="" group-title="Musica",DJing Underground
-				https://www.djing.com/tv/underground.m3u8
-
-		#EXTINF:-1,DJING DANCE FLOOR
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/dVxAtm/DJING_DANCE_FLOOR.gif" group-title="Musica" tvg-logo="",DJING DANCE FLOOR
-				http://www.djing.com/tv/dancefloor.m3u8
-
-		#EXTINF:-1,California Music Channel
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",California Music Channel
-				
-
-		#EXTINF:-1,U TV Live
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",U TV Live
-				
-
-		#EXTINF:-1,AE Radio Tv
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",AE Radio Tv
-				http://edge1.cl.grupoz.cl/aeradio/live/chunklist_w678069134.m3u8
-
-		#EXTINF:-1,NIU Tv
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",NIU Tv
-				
-
-		#EXTINF:-1,The Country Network
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",The Country Network
-				
-
-		#EXTINF:-1,Company TV
-			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="https://i.ibb.co/g31Qds3/20180420-promo-company-tv-splash.jpg",Company TV
-				rtmp://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p
-
-		#EXTINF:-1,Capital TV
-			#EXTINF:-1 tvg-logo="" group-title="Musica",Capital TV
+		#EXTINF:-1,0400 Capital TV (UK)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eSBDUR/Capital_TV.png" group-title="Musica",0400 Capital TV (UK)
 				http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 
-		#EXTINF:-1,Deejay TV
-			#EXTINF:-1 tvg-logo="" group-title="Musica",Deejay TV
+		#EXTINF:-1,0401 Music Choice - Brits Hits
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",0401 Music Choice - Brits Hits
+				
+
+		#EXTINF:-1,0402 Music Choice - Dance/EDM
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",0402 Music Choice - Dance/EDM
+				
+
+		#EXTINF:-1,0403 Music Choice - Hip-Hop And R&B
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",0403 Music Choice - Hip-Hop And R&B
+				
+				
+		#EXTINF:-1,0404 Music Choice - Hit List
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",0404 Music Choice - Hit List
+				
+				
+		#EXTINF:-1,0405 Music Choice - Indie
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",0405 Music Choice - Indie
+				
+				
+		#EXTINF:-1,0406 Music Choice - Kidz Only!
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",0406 Music Choice - Kidz Only!
+				
+				
+		#EXTINF:-1,0407 Music Choice - Metal
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",0407 Music Choice - Metal
+				
+				
+		#EXTINF:-1,0408 Music Choice - Mexicana
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",0408 Music Choice - Mexicana
+				
+				
+		#EXTINF:-1,0409 Music Choice - Musica Urbana
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",0409 Music Choice - Musica Urbana
+				
+				
+		#EXTINF:-1,0410 Music Choice - Pop & Country
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",0410 Music Choice - Pop & Country
+				
+				
+		#EXTINF:-1,0411 Music Choice - Pop Hits
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",0411 Music Choice - Pop Hits
+				
+				
+		#EXTINF:-1,0412 Music Choice - Pop Latino
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",0412 Music Choice - Pop Latino
+				
+				
+		#EXTINF:-1,0413 Music Choice - R&B Soul
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",0413 Music Choice - R&B Soul
+				
+				
+		#EXTINF:-1,0414 Music Choice - Rap
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",0414 Music Choice - Rap
+				
+				
+		#EXTINF:-1,0415 Music Choice - Rap 2K
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",0415 Music Choice - Rap 2K
+				
+				
+		#EXTINF:-1,0416 Music Choice - Rock
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",0416 Music Choice - Rock
+				
+				
+		#EXTINF:-1,0417 Music Choice - Teen Beats
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",0417 Music Choice - Teen Beats
+				
+				
+		#EXTINF:-1,0418 Music Choice - Throwback Jamz
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",0418 Music Choice - Throwback Jamz
+				
+				
+		#EXTINF:-1,0419 Music Choice - Today
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",0419 Music Choice - Today
+				
+				
+		#EXTINF:-1,0420 Music Choice - Toddler Tunes
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",0420 Music Choice - Toddler Tunes
+				
+				
+		#EXTINF:-1,0421 Music Choice - Tropicales
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",0421 Music Choice - Tropicales
+				
+				
+		#EXTINF:-1,0422 Music Choice - Y2K
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",0422 Music Choice - Y2K
+				
+				
+		#EXTINF:-1,0423 Music Choice - Play
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",0423 Music Choice - Play
+				
+				
+		#EXTINF:-1,0424 CONCERT CHANEL HD (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/huTz3m/CONCERT_CHANEL_HD.png" group-title="Musica" tvg-logo="",0424 CONCERT CHANEL HD (Espanhol)
+				
+				
+		#EXTINF:-1,0425 MTV HITS
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/maFnOm/MTV_HITS.png" group-title="Musica" tvg-logo="",0425 MTV HITS (Espanhol)
+				
+				
+		#EXTINF:-1,0426 RADIOLA (Espanhol)(Colombia)(Musica)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cEd2pR/RADIOLA.png" group-title="Musica" tvg-logo="",0426 RADIOLA (Espanhol)(Colombia)(Musica)
+				
+				
+		#EXTINF:-1,0427 VH1 HD
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/faSHOm/VH1_HD.jpg" group-title="Musica" tvg-logo="",0427 VH1 HD (Espanhol)
+				
+				
+		#EXTINF:-1,0428 DJing Animation
+			#EXTINF:-1 tvg-logo="" group-title="Musica",0428 DJing Animation
+				https://www.djing.com/tv/animation.m3u8
+
+		#EXTINF:-1,0429 DJing Classics
+			#EXTINF:-1 tvg-logo="" group-title="Musica",0429 DJing Classics
+				https://www.djing.com/tv/classics.m3u8
+
+		#EXTINF:-1,0430 DJing Electro Rock
+			#EXTINF:-1 tvg-logo="" group-title="Musica",0430 DJing Electro Rock
+				https://www.djing.com/tv/session_electro-rock.m3u8
+
+		#EXTINF:-1,0431 DJing Main
+			#EXTINF:-1 tvg-logo="" group-title="Musica",0431 DJing Main
+				https://www.djing.com/tv/live.m3u8
+
+		#EXTINF:-1,0432 DJing Summer Vibes
+			#EXTINF:-1 tvg-logo="" group-title="Musica",0432 DJing Summer Vibes
+				https://www.djing.com/tv/session_summer-vibes.m3u8
+
+		#EXTINF:-1,0433 DJing Underground
+			#EXTINF:-1 tvg-logo="" group-title="Musica",0433 DJing Underground
+				https://www.djing.com/tv/underground.m3u8
+
+		#EXTINF:-1,0434 DJING DANCE FLOOR
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dVxAtm/DJING_DANCE_FLOOR.gif" group-title="Musica" tvg-logo="",0434 DJING DANCE FLOOR
+				http://www.djing.com/tv/dancefloor.m3u8
+
+		#EXTINF:-1,0435 California Music Channel
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",0435 California Music Channel
+				
+
+		#EXTINF:-1,0436 U TV Live
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",0436 U TV Live
+				
+
+		#EXTINF:-1,0437 AE Radio Tv
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",0437 AE Radio Tv
+				http://edge1.cl.grupoz.cl/aeradio/live/chunklist_w678069134.m3u8
+
+		#EXTINF:-1,0438 NIU Tv
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",0438 NIU Tv
+				
+
+		#EXTINF:-1,0439 The Country Network
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",0439 The Country Network
+				
+
+		#EXTINF:-1,0440 Company TV
+			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="https://i.ibb.co/g31Qds3/20180420-promo-company-tv-splash.jpg",0440 Company TV
+				rtmp://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p
+
+		#EXTINF:-1,0441 Deejay TV
+			#EXTINF:-1 tvg-logo="" group-title="Musica",0441 Deejay TV
 				http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
 
-		#EXTINF:-1,MagentaMusik 360
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/j3PP2RC/LS89GC9.png" group-title="Musica",MagentaMusik 360
+		#EXTINF:-1,0442 MagentaMusik 360
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/j3PP2RC/LS89GC9.png" group-title="Musica",0442 MagentaMusik 360
 				
 
-		#EXTINF:-1,Radio Italia TV
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/Qkf9nWN/logo-radioitalia-web2016.png" group-title="Musica",Radio Italia TV
+		#EXTINF:-1,0443 Radio Italia TV
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/Qkf9nWN/logo-radioitalia-web2016.png" group-title="Musica",0443 Radio Italia TV
 				http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 
-		#EXTINF:-1,la mega mundial
-			#EXTINF:-1 tvg-logo="" group-title="Musica",la mega mundial
+		#EXTINF:-1,0444 la mega mundial
+			#EXTINF:-1 tvg-logo="" group-title="Musica",0444 la mega mundial
 				http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 
-		#EXTINF:-1,MUSIK BOX
-			#EXTINF:-1 tvg-logo="" group-title="Musica",MUSIK BOX
+		#EXTINF:-1,0445 MUSIK BOX
+			#EXTINF:-1 tvg-logo="" group-title="Musica",0445 MUSIK BOX
 				
 
-		#EXTINF:-1,Bblack! Caribbean
-			#EXTINF:-1 tvg-logo="" group-title="Musica",Bblack! Caribbean
+		#EXTINF:-1,0446 Bblack! Caribbean
+			#EXTINF:-1 tvg-logo="" group-title="Musica",0446 Bblack! Caribbean
 				
 
-		#EXTINF:-1,Deutsches Musik Fernsehen
-			#EXTINF:-1 tvg-logo="" group-title="Musica",Deutsches Musik Fernsehen
+		#EXTINF:-1,0447 Deutsches Musik Fernsehen
+			#EXTINF:-1 tvg-logo="" group-title="Musica",0447 Deutsches Musik Fernsehen
 				http://tv.artcom-venture.de:1322/dmf/tv.m3u8
 
-		#EXTINF:-1,Duga TV
-			#EXTINF:-1 tvg-logo="" group-title="Musica",Duga TV
+		#EXTINF:-1,0448 Duga TV
+			#EXTINF:-1 tvg-logo="" group-title="Musica",0448 Duga TV
 				http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
 
-		#EXTINF:-1,Music Top
-			#EXTINF:-1 tvg-logo="" group-title="Musica",Music Top
+		#EXTINF:-1,0449 Music Top
+			#EXTINF:-1 tvg-logo="" group-title="Musica",0449 Music Top
 				http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
-		#EXTINF:-1,Portal Foxmix
-			#EXTINF:-1 tvg-logo="" group-title="Musica",Portal Foxmix
+		#EXTINF:-1,0450 Portal Foxmix
+			#EXTINF:-1 tvg-logo="" group-title="Musica",0450 Portal Foxmix
 				http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 
-		#EXTINF:-1,Top Latino
-			#EXTINF:-1 tvg-logo="" group-title="Musica",Top Latino
+		#EXTINF:-1,0451 Top Latino
+			#EXTINF:-1 tvg-logo="" group-title="Musica",0451 Top Latino
 				http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
 
-		#EXTINF:-1,ONE 0
-			#EXTINF:-1 tvg-logo="" group-title="Musica",ONE 0
+		#EXTINF:-1,0452 ONE 0
+			#EXTINF:-1 tvg-logo="" group-title="Musica",0452 ONE 0
 				http://rtmp.one.by:1200
 
-		#EXTINF:-1,ONE 1 HD
-			#EXTINF:-1 tvg-logo="" group-title="Musica",ONE 1 HD
+		#EXTINF:-1,0453 ONE 1 HD
+			#EXTINF:-1 tvg-logo="" group-title="Musica",0453 ONE 1 HD
 				http://rtmp.one.by:1300
 
-		#EXTINF:-1,ONE 4 HD
-			#EXTINF:-1 tvg-logo="" group-title="Musica",ONE 4 HD
+		#EXTINF:-1,0454 ONE 4 HD
+			#EXTINF:-1 tvg-logo="" group-title="Musica",0454 ONE 4 HD
 				http://rtmp.one.by:2300
 
-		#EXTINF:-1,Telemusica HD (Latino)
-			#EXTINF:-1 tvg-logo="" group-title="Musica",Telemusica HD (Latino)
+		#EXTINF:-1,0455 Telemusica HD (Latino)
+			#EXTINF:-1 tvg-logo="" group-title="Musica",0455 Telemusica HD (Latino)
 				rtmp://186.155.200.118:1935/live/Televitrola
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Musica",
-				
+		#EXTINF:-1,0457 Sexy KpopTV
+			#EXTINF:-1 tvg-logo="" group-title="Musica",0457 Sexy KpopTV
+				https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoar/chunklist.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Musica",
@@ -2079,8 +2089,8 @@
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/jxcHLR/010_Documentarios.jpg" group-title="Documentarios",[B][COLOR yellow]<== Documentarios ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 	
-		#EXTINF:-1,ANIMAL PLANET LIVE
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/i6xOw6/ANIMAL_PLANET_LIVE.png" group-title="Documentarios",ANIMAL PLANET LIVE (Brasil)
+		#EXTINF:-1,0456 ANIMAL PLANET LIVE
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/i6xOw6/ANIMAL_PLANET_LIVE.png" group-title="Documentarios",0456 ANIMAL PLANET LIVE (Brasil)
 				
 				
 		#EXTINF:-1,Discovery Channel (Ingles)
