@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 	#EXTINF:-1,Zubi DreamList 
-		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.88 (05/05/2020)
+		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.89 (06/05/2020)
 			http://0.0.0.0:1234
 			
 #EXTINF:-1,[B][COLOR yellow]<== LÍNGUA PORTUGUESA ==>[/COLOR][/B]
@@ -83,28 +83,6 @@
 			#EXTINF:-1 group-title="Generalistas" tvg-id="tvc.pt" tvg-logo="https://image.ibb.co/iYFRYk/TV_Cabo_Verde.jpg",0015 TV Cabo Verde(Generalistas)
 				
 
-		#EXTINF:-1,0016 RTP 3
-			#EXTINF:-1 group-title="Informacao" tvg-id="rtpn.pt" tvg-logo="https://image.ibb.co/gsFtDk/RTP_3.png",0016 RTP 3 (Informacao)
-				
-
-		#EXTINF:-1,0017 SIC Noticias
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/nicxPQ/SIC_Noticias.png" group-title="Informacao",0017 SIC Noticias (Informacao)
-				http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/nicxPQ/SIC_Noticias.png" group-title="Informacao",0017 SIC Noticias (-1)(Informacao)
-				http://live.impresa.pt/live/sicnot/sicnot.m3u8
-
-		#EXTINF:-1,0018 TVI 24
-			#EXTINF:-1 group-title="Informacao" tvg-id="TVI24.pt" tvg-logo="https://image.ibb.co/g2oVtk/TVI_24.png",0018 TVI 24 (Informacao)
-				
-
-		#EXTINF:-1,0019 CM TV
-			#EXTINF:-1 group-title="Informacao" tvg-name="CM TV" audio-track="pt" tvg-logo="https://image.ibb.co/cLCC65/CM_TV.jpg",0019 CM TV (Informacao)
-				
-
-		#EXTINF:-1,0020 Economico TV
-			#EXTINF:-1 group-title="Informacao" tvg-id="EconomicaTV.pt" tvg-logo="https://image.ibb.co/kLXem5/Economico_TV.png",0020 Economico TV (Informacao)
-
-
 		#EXTINF:-1,0021 Localvisão TV
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/ebo6m5/Localvis_o_TV.jpg" group-title="Informacao",0021 Localvisão TV (Informacao)
 
@@ -113,38 +91,8 @@
 			#EXTINF:-1 group-title="Informacao" tvg-id="ARTV.pt" tvg-logo="https://image.ibb.co/ejOftk/ARTV.png",0022 ARTV (Informacao)
 				
 
-		#EXTINF:-1,0024 SIC Mulher
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/hkCVYk/SIC_Mulher.png" group-title="Entretenimento",0024 SIC Mulher (Entretenimento)
-				
-
-		#EXTINF:-1,0025 SIC Caras
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/dxMDm5/SIC_Caras.png" group-title="Entretenimento",0025 SIC Caras (Entretenimento)
-				
-
-		#EXTINF:-1,0026 SIC Radical
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/jwMVdk/Sic_radical.png" group-title="Entretenimento",0026 SIC Radical (Entretenimento)
-				http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/jwMVdk/Sic_radical.png" group-title="Entretenimento",0026 SIC Radical (Entretenimento)
-				
-
-		#EXTINF:-1,0027 TVI Ficcao
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/mPNVYk/TVI_Ficcao.jpg" group-title="Entretenimento",0027 TVI Ficcao (Entretenimento)
-				
-
-		#EXTINF:-1,0028 TVI Reality
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/hcr2r5/TVI_Reality.jpg" group-title="Entretenimento",0028 TVI Reality (Entretenimento)
-				
-
-		#EXTINF:-1,0029 Canal Q
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/nbdU9Q/Canal_Q.jpg" group-title="Entretenimento",0029 Canal Q (Entretenimento)
-
-
 		#EXTINF:-1,0030 TV Globo
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cM5LG5/TV_Globo.jpg" group-title="Entretenimento",0030 TV Globo (Entretenimento)
-
-
-		#EXTINF:-1,0031 24 Kitchen
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/bSKxw5/24_Kitchen.jpg" group-title="Entretenimento",0031 24 Kitchen (Entretenimento)
 
 
 		#EXTINF:-1,0032 GLOBO PREMIUM
@@ -163,26 +111,6 @@
 			#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades",0033 RecordTV Manaus
 				https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
 
-		#EXTINF:-1,0034 RTP Arena eSports
-			#EXTINF:-1 group-title="Entretenimento" tvg-id="n/a" tvg-logo="https://image.ibb.co/gx9Ltk/RTP_Arena_e_Sports.png",0034 RTP Arena eSports (Entretenimento)
-
-			
-		#EXTINF:-1,0071 Discovery Channel (Documentarios)(Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/nFrZ65/Discovery_channel.png" group-title="Documentarios",0071 Discovery Channel (Documentarios)(Brasil)
-				http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w1942549659.m3u8?IMDSFULL
-
-		#EXTINF:-1,0072 National Geographic
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cFQZdb/National_Geographic.gif" group-title="Documentarios",0072 National Geographic (Documentarios)
-				
-
-		#EXTINF:-1,0073 Historia
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cEZAJb/Historia.jpg" group-title="Documentarios",0073 Historia (Documentarios)
-
-			
-		#EXTINF:-1,0074 Odisseia
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/iwOy4G/Odisseia.jpg" group-title="Documentarios",0074 Odisseia (Documentarios)
-
-
 		#EXTINF:-1,0075 Agueda TV
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cvVjdb/Agueda_TV.png" group-title="Regionais",0075 Agueda TV (Regionais)
 
@@ -195,10 +123,6 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/ftdQER/ESEC_TV.jpg" group-title="Regionais",0077 ESEC TV (Regionais)
 				
 				
-		#EXTINF:-1,0023 Record News
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/fHqjtk/Record_News.png" group-title="Informacao",0023 Record News (Informacao)
-				https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
-
 		#EXTINF:-1,0078 AMAZON SAT (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/edCmZQ/amazon_sat.png" tvg-id="" tvg-name=" group-title="Brasil",0078 AMAZON SAT (Brasil)
 				
@@ -282,69 +206,21 @@
 		#EXTINF:-1,0097 TV CULTURA (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/eB6Fdm/TV_CULTURA_Brasil.png" group-title="Brasil",0097 TV CULTURA PA (Brasil)
 				http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
-			
-		#EXTINF:-1,0098 TV NA ILHA (Brasil)(FILMES E SERIES)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/h3SKpR/TV_NA_ILHA.jpg" group-title="Brasil",0098 TV NA ILHA (Brasil)(FILMES E SERIES)
-				
-			
-		#EXTINF:-1,0099 Cine Sky (Brasil)(FILMES E SERIES)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/io5YG6/Cine_Sky.png" group-title="Brasil",0099 Cine Sky (Brasil)(FILMES E SERIES)
-				
+			#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="Pública",0097 Cultura Pará
+				http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
+			#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/catve.png" group-title="Pública",0097 Catve - Cultura (PR)
+				https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
+			#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logotipo_da_tv_itararc3a9.png" group-title="Pública",0097 TV Itararé - Cultura (PB)
+				http://stream.tvitarare.com.br/hls/site/site.m3u8
 			
 		#EXTINF:-1,0100 TVU - TV Universitária - Recife-PE (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/nGd8zR/TVU_TV_Universit_ria_Recife_PE_Brasil.jpg" group-title="Brasil",0100 TVU - TV Universitária - Recife-PE (Brasil)
-				
-			
-		#EXTINF:-1,0101 UNIVERSAL CHANNEL (Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/fu50dm/UNIVERSAL_CHANNEL.jpg" group-title="Filmes e Series",0101 UNIVERSAL CHANNEL (Brasil)
-				
-			
-		#EXTINF:-1,0102 FX (Brasil)
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",0102 FX (Brasil)
-				
-			
-		#EXTINF:-1,0104 Ayoub Gallery (Brasil) (Vendas)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/byyfeQ/Ayoub_Gallery_Brasil.jpg" group-title="Shopping TV",0104 Ayoub Gallery (Brasil) (Vendas)
 				
 			
 		#EXTINF:-1,0105 Canal do Boi (Brasil) (Vendas)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/bNNgKQ/Canal_do_Boi_Brasil.png" group-title="Shopping TV",0105 Canal do Boi (Brasil) (Vendas)
 				
 
-		#EXTINF:-1,0106 TV APARECIDA (Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/dqt9Bw/TV_APARECIDA.jpg" group-title="Religioso",0106 TV APARECIDA (Brasil)(Religioso)
-				
-
-		#EXTINF:-1,0107 REDE VIDA (Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/e4ddeR/REDE_VIDA_Brasil.jpg" group-title="Religioso",0107 REDE VIDA (Brasil)(Religioso)
-				
-
-		#EXTINF:-1,0108 REDE GOSPEL (Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cE0vjG/Igreja_REDE_GOSPEL.png" group-title="Religioso",0108 REDE GOSPEL (Brasil)(Religioso)
-				
-				
-		#EXTINF:-1,0109 CANÇÃO NOVA (Brasil) 
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/czcn65/Cancao_Nova.png" group-title="Religioso",0109 CANÇÃO NOVA (Brasil)(Religioso)
-				http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_540_av-p.m3u8?sd=10&rebase=on
-				
-		#EXTINF:-1,0110 Novo Canal (Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kjyc9Q/Novo_Canal_Brasil.jpg" group-title="Religioso",0110 Novo Canal (Brasil)(Religioso)
-				
-
-		#EXTINF:-1,0111 CANAL EXECUTIVO (BRASIL) (Igreja Adventista do Sétimo Dia)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/fzqJJw/CANAL_EXECUTIVO_BRASIL_Igreja_Adventista_do_S_timo_Dia.png" group-title="Religioso",0111 CANAL EXECUTIVO (BRASIL) (Igreja Adventista do Sétimo Dia)(Religioso)
-				http://stream.novotempo.com:1935/tv/executivo.smil/live.m3u8
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/fzqJJw/CANAL_EXECUTIVO_BRASIL_Igreja_Adventista_do_S_timo_Dia.png" group-title="Religioso",0111 CANAL EXECUTIVO (BRASIL) (Igreja Adventista do Sétimo Dia) (Alternativa)(Religioso)
-				http://stream.novotempo.com:1935/tv/executivo.stream/live.m3u8
-			
-		#EXTINF:-1,0112 CJC (Brasil) (Christian)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/fSHqyw/CJC_RJ_Brasil_Christian.jpg" group-title="Religioso",0112 CJC RJ (Brasil) (Christian)(Religioso)
-				
-				
-		#EXTINF:-1,0113 IMPD TV SP (Envagelica) (Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/e26iJw/IMPD_TV_SP_Envagelica_Brasil.png" group-title="Religioso",0113 IMPD TV SP (Envagelica)(Brasil)(Religioso)
-				
-			
 		#EXTINF:-1,0114 Rede Atividade
 			#EXTINF:-1 tvg-logo="" group-title="Brasil",0114 Rede Atividade
 				
@@ -430,9 +306,9 @@
 			#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvbaiana.png" group-title="Brasil",0460 TV Baiana - Cultura
 				http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
 			
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Brasil",
-				
+		#EXTINF:-1,0461 Paraná Turismo
+			#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_redeparanaeducativa.png" group-title="Pública",0461 Paraná Turismo
+				http://200.189.113.201/hls/tve.m3u8
 			
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Brasil",
@@ -460,6 +336,32 @@
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/jsjiAR/004_Informacao.png" group-title="Informacao",[B][COLOR yellow]<== Informacao ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 	
+		#EXTINF:-1,0016 RTP 3
+			#EXTINF:-1 group-title="Informacao" tvg-id="rtpn.pt" tvg-logo="https://image.ibb.co/gsFtDk/RTP_3.png",0016 RTP 3 (Informacao)
+				
+
+		#EXTINF:-1,0017 SIC Noticias
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nicxPQ/SIC_Noticias.png" group-title="Informacao",0017 SIC Noticias (Informacao)
+				http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nicxPQ/SIC_Noticias.png" group-title="Informacao",0017 SIC Noticias (-1)(Informacao)
+				http://live.impresa.pt/live/sicnot/sicnot.m3u8
+
+		#EXTINF:-1,0018 TVI 24
+			#EXTINF:-1 group-title="Informacao" tvg-id="TVI24.pt" tvg-logo="https://image.ibb.co/g2oVtk/TVI_24.png",0018 TVI 24 (Informacao)
+				
+
+		#EXTINF:-1,0019 CM TV
+			#EXTINF:-1 group-title="Informacao" tvg-name="CM TV" audio-track="pt" tvg-logo="https://image.ibb.co/cLCC65/CM_TV.jpg",0019 CM TV (Informacao)
+				
+
+		#EXTINF:-1,0020 Economico TV
+			#EXTINF:-1 group-title="Informacao" tvg-id="EconomicaTV.pt" tvg-logo="https://image.ibb.co/kLXem5/Economico_TV.png",0020 Economico TV (Informacao)
+
+
+		#EXTINF:-1,0023 Record News
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fHqjtk/Record_News.png" group-title="Informacao",0023 Record News (Informacao)
+				https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
+
 		#EXTINF:-1,0127 CNN
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/f925eQ/CNN.png" group-title="Informacao",0127 CNN (Ingles)
 				http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8?IMDSFULL
@@ -641,7 +543,7 @@
 				
 		#EXTINF:-1,0167 Weather Channel 
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/bBqGRw/Weather_Channel.png" group-title="Informacao",0167 Weather Channel 
-				
+				http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 				
 		#EXTINF:-1,0168 Channel 8 - Krasnoyarsk Territory (Russia)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cmGjDb/Channel_8.jpg" group-title="Informacao",0168 Channel 8 - Krasnoyarsk Territory (Russia)
@@ -819,6 +721,36 @@
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/hf6VqR/005_Entretenimento.jpg" group-title="Entretenimento",[B][COLOR yellow]<== Entretenimento ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 	
+		#EXTINF:-1,0024 SIC Mulher
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hkCVYk/SIC_Mulher.png" group-title="Entretenimento",0024 SIC Mulher (Entretenimento)
+				
+
+		#EXTINF:-1,0025 SIC Caras
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dxMDm5/SIC_Caras.png" group-title="Entretenimento",0025 SIC Caras (Entretenimento)
+				
+
+		#EXTINF:-1,0026 SIC Radical
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jwMVdk/Sic_radical.png" group-title="Entretenimento",0026 SIC Radical (Entretenimento)
+				http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jwMVdk/Sic_radical.png" group-title="Entretenimento",0026 SIC Radical (Entretenimento)
+				
+
+		#EXTINF:-1,0027 TVI Ficcao
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mPNVYk/TVI_Ficcao.jpg" group-title="Entretenimento",0027 TVI Ficcao (Entretenimento)
+				
+
+		#EXTINF:-1,0028 TVI Reality
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hcr2r5/TVI_Reality.jpg" group-title="Entretenimento",0028 TVI Reality (Entretenimento)
+				
+
+		#EXTINF:-1,0029 Canal Q
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nbdU9Q/Canal_Q.jpg" group-title="Entretenimento",0029 Canal Q (Entretenimento)
+
+
+		#EXTINF:-1,0031 24 Kitchen
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bSKxw5/24_Kitchen.jpg" group-title="Entretenimento",0031 24 Kitchen (Entretenimento)
+
+
 		#EXTINF:-1,0203 A&E
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/kj3Lmw/A_E.png" group-title="Entretenimento",0203 A&E (Espanhol)
 
@@ -967,10 +899,6 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/kU5Mik/SPORTING_TV.png" group-title="Desporto",0042 SPORTING TV (Desporto)
 				
 
-		#EXTINF:-1,0043 FUEL TV HD (PORTUGAL)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/fDCZ3k/FUEL_TV.png" group-title="Desporto",0043 FUEL TV HD (PORTUGAL)
-				
-			
 		#EXTINF:-1,0044 A Bola TV (PORTUGAL)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/bCaF9Q/A_BOLA_TV.png" group-title="Desporto",0044 A Bola TV (Desporto)
 
@@ -1475,9 +1403,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",0337 ABN KIDS
 				https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8?ANTONYGTV
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",
-				
+		#EXTINF:-1,0462 Kuriakos Kids
+			#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="Infantil",0462 Kuriakos Kids
+				http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",
@@ -1505,6 +1433,14 @@
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/dDhZ0R/008_Filmes_e_Series.jpg" group-title="Filmes e Series",[B][COLOR yellow]<== Filmes e Series ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 
+		#EXTINF:-1,0098 TV NA ILHA (Brasil)(FILMES E SERIES)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/h3SKpR/TV_NA_ILHA.jpg" group-title="Brasil",0098 TV NA ILHA (Brasil)(FILMES E SERIES)
+				
+			
+		#EXTINF:-1,0099 Cine Sky (Brasil)(FILMES E SERIES)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/io5YG6/Cine_Sky.png" group-title="Brasil",0099 Cine Sky (Brasil)(FILMES E SERIES)
+				
+			
 		#EXTINF:-1,0053 TVCine Top
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/eyjAJb/TVCine_1.png" group-title="Filmes e Series",0053 TVCine Top (Filmes e Series)
 				
@@ -1567,6 +1503,14 @@
 
 		#EXTINF:-1,0068 Syfy
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/ng2fJb/Syfy.jpg" group-title="Filmes e Series",0068 Syfy (Brasil)(Filmes e Series)
+				
+			
+		#EXTINF:-1,0101 UNIVERSAL CHANNEL (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fu50dm/UNIVERSAL_CHANNEL.jpg" group-title="Filmes e Series",0101 UNIVERSAL CHANNEL (Brasil)
+				
+			
+		#EXTINF:-1,0102 FX (Brasil)
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",0102 FX (Brasil)
 				
 			
 		#EXTINF:-1,0338 Fox Movies
@@ -2089,76 +2033,72 @@
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/jxcHLR/010_Documentarios.jpg" group-title="Documentarios",[B][COLOR yellow]<== Documentarios ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 	
+		#EXTINF:-1,0071 Discovery Channel (Documentarios)(Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nFrZ65/Discovery_channel.png" group-title="Documentarios",0071 Discovery Channel (Documentarios)(Brasil)
+				http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w1942549659.m3u8?IMDSFULL
+
+		#EXTINF:-1,0072 National Geographic
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cFQZdb/National_Geographic.gif" group-title="Documentarios",0072 National Geographic (Documentarios)
+				rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+
+		#EXTINF:-1,0073 Historia
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cEZAJb/Historia.jpg" group-title="Documentarios",0073 Historia (Documentarios)
+
+			
+		#EXTINF:-1,0074 Odisseia
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iwOy4G/Odisseia.jpg" group-title="Documentarios",0074 Odisseia (Documentarios)
+
+
 		#EXTINF:-1,0456 ANIMAL PLANET LIVE
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/i6xOw6/ANIMAL_PLANET_LIVE.png" group-title="Documentarios",0456 ANIMAL PLANET LIVE (Brasil)
 				
 				
-		#EXTINF:-1,Discovery Channel (Ingles)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/nFrZ65/Discovery_channel.png" group-title="Documentarios",Discovery Channel (Brasil)
+		#EXTINF:-1,0463 Discovery Science (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iNAXpR/Discovery_Science.jpg" group-title="Documentarios"0463 Discovery Science  (Ingles)
 				
 				
-		#EXTINF:-1,Discovery Science (Ingles)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/iNAXpR/Discovery_Science.jpg" group-title="Documentarios",Discovery Science  (Ingles)
-				
-				
-		#EXTINF:-1,National Geographic
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cFQZdb/National_Geographic.gif" group-title="Documentarios",National Geographic (Chines)
-				rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
-				
-		#EXTINF:-1,National Geographic Wild
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/dHFhpR/National_Geographic_Wild.png" group-title="Documentarios",National Geographic Wild (Ingles)
+		#EXTINF:-1,0464 National Geographic Wild
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dHFhpR/National_Geographic_Wild.png" group-title="Documentarios",0464 National Geographic Wild (Ingles)
 				
 
-		#EXTINF:-1,Historia
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cEZAJb/Historia.jpg" group-title="Documentarios",Historia (AMERICA)(Ingles)
-				
-
-		#EXTINF:-1,Historia 2
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/m2Tfb6/Historia_2.jpg" group-title="Documentarios",Historia 2 (Espanhol)
+		#EXTINF:-1,0465 Historia 2
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/m2Tfb6/Historia_2.jpg" group-title="Documentarios",0465 Historia 2 (Espanhol)
 				
 				
-		#EXTINF:-1,History Lab
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/Sf8hdj1/History-Lab-il-canale-digitale-dedicato-alla-storia-e-alla-memoria-galleryfull.jpg" group-title="Documentarios",History Lab (itl)
+		#EXTINF:-1,0466 History Lab
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/Sf8hdj1/History-Lab-il-canale-digitale-dedicato-alla-storia-e-alla-memoria-galleryfull.jpg" group-title="Documentarios",0466 History Lab (itl)
 				rtmp://wma10.fluidstream.net:1935/HistoryLab/livestream
 				
-		#EXTINF:-1,Odisseia
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/iwOy4G/Odisseia.jpg" group-title="Documentarios",Odisseia
-
-
-		#EXTINF:-1,Investigation Discovery (Ingles)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/nFgV9R/Investigation_Discovery.png" group-title="Documentarios",Investigation Discovery (Ingles)
+		#EXTINF:-1,0467 Investigation Discovery (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nFgV9R/Investigation_Discovery.png" group-title="Documentarios",0467 Investigation Discovery (Ingles)
 				
 
-		#EXTINF:-1,Zooпарк
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/b9Vwim/Zoo.png" group-title="Documentarios",Zooпарк
+		#EXTINF:-1,0468 Zooпарк
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/b9Vwim/Zoo.png" group-title="Documentarios",0468 Zooпарк
 				
 				
-		#EXTINF:-1,DISCOVERY H&H (Ingles)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/m5Q1G6/DISCOVERY_H_H.jpg" group-title="Documentarios",DISCOVERY H&H (Espanhol)
+		#EXTINF:-1,0469 DISCOVERY H&H (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/m5Q1G6/DISCOVERY_H_H.jpg" group-title="Documentarios",0469 DISCOVERY H&H (Espanhol)
 				
 				
-		#EXTINF:-1,DISCOVERY CIVIZATION 
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/jiD5b6/DISCOVERY_CIVIZATION.png" group-title="Documentarios",DISCOVERY CIVIZATION (Espanhol)
+		#EXTINF:-1,0470 DISCOVERY CIVIZATION
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jiD5b6/DISCOVERY_CIVIZATION.png" group-title="Documentarios",0470 DISCOVERY CIVIZATION (Espanhol)
 				
 				
-		#EXTINF:-1,DISCOVERY THEATER HD
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/he0Jw6/DISCOVERY_THEATER_HD.gif" group-title="Documentarios",DISCOVERY THEATER HD (Espanhol)
+		#EXTINF:-1,0471 DISCOVERY THEATER HD
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/he0Jw6/DISCOVERY_THEATER_HD.gif" group-title="Documentarios",0471 DISCOVERY THEATER HD (Espanhol)
 				
 				
-		#EXTINF:-1,DISCOVERY WORLD
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/bX0wim/DISCOVERY_WORLD.jpg" group-title="Documentarios",DISCOVERY WORLD (Espanhol)
+		#EXTINF:-1,0472 DISCOVERY WORLD
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bX0wim/DISCOVERY_WORLD.jpg" group-title="Documentarios",0472 DISCOVERY WORLD (Espanhol)
 				
 				
-		#EXTINF:-1,DISCOVERY SHED (Ingles)
-			#EXTINF:-1 tvg-logo="" group-title="Documentarios",DISCOVERY SHED (Ingles)
+		#EXTINF:-1,0473 DISCOVERY SHED (Ingles)
+			#EXTINF:-1 tvg-logo="" group-title="Documentarios",0473 DISCOVERY SHED (Ingles)
 				
 
-		#EXTINF:-1,Weather Channel (Canada)
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/QkgzRLM/H00wiqw.jpg" group-title="Documentarios",Weather Channel (Canada)
-				http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-
-		#EXTINF:-1,TEC TV (Educação) (Argentina)
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/tQKS8tL/263px-TEC-TV-2012-logo.png" group-title="Documentarios",TEC TV (Educação) (Argentina)
+		#EXTINF:-1,0474 TEC TV (Educação)(Argentina)
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/tQKS8tL/263px-TEC-TV-2012-logo.png" group-title="Documentarios",TEC TV (Educação)(Argentina)
 				
 
 		#EXTINF:-1,
@@ -2183,34 +2123,34 @@
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/b3Atum/011_CARS_AUTO.jpg" group-title="CARS & AUTO",[B][COLOR yellow]<== CARS & AUTO ==>[/COLOR][/B]
 		http://0.0.0.0:1234		
 		
-		#EXTINF:-1,Fuel TV
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/fDCZ3k/FUEL_TV.png" group-title="CARS & AUTO",Fuel TV
+		#EXTINF:-1,0043 FUEL TV HD (PORTUGAL)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fDCZ3k/FUEL_TV.png" group-title="CARS & AUTO",0043 FUEL TV HD (PORTUGAL)
+				
+			
+		#EXTINF:-1,0475 MOTORSPORT.TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dheWik/MOTORSPORT_TV.png" group-title="CARS & AUTO",0475 MOTORSPORT.TV
 
 
-		#EXTINF:-1,MOTORSPORT.TV
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/dheWik/MOTORSPORT_TV.png" group-title="CARS & AUTO",MOTORSPORT.TV
-
-
-		#EXTINF:-1,AUTO PLUS (Russia)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kH5U3m/AUTO_PLUS.jpg" group-title="CARS & AUTO",AUTO PLUS (Russia)
+		#EXTINF:-1,0476 AUTO PLUS (Russia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kH5U3m/AUTO_PLUS.jpg" group-title="CARS & AUTO",0476 AUTO PLUS (Russia)
 				
 				
-		#EXTINF:-1,DISCOVERY TURBO
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/dYQh66/DISCOVERY_TURBO.png" group-title="CARS & AUTO",DISCOVERY TURBO (Brasil)
+		#EXTINF:-1,0477 DISCOVERY TURBO
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dYQh66/DISCOVERY_TURBO.png" group-title="CARS & AUTO",0477 DISCOVERY TURBO (Brasil)
 				
 				
-		#EXTINF:-1,Automoto
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/goB9Om/Automoto.jpg" group-title="CARS & AUTO",Automoto
+		#EXTINF:-1,0478 Automoto
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/goB9Om/Automoto.jpg" group-title="CARS & AUTO",0478 Automoto
 				http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+				
+		#EXTINF:-1,0479 Garage TV
+			#EXTINF:-1 tvg-logo="" group-title="CARS & AUTO",0479 Garage TV
+				http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 				
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="CARS & AUTO",
 				
-				
-		#EXTINF:-1,Garage TV
-			#EXTINF:-1 tvg-logo="" group-title="CARS & AUTO",Garage TV
-				http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
-				
+
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="CARS & AUTO",
 				
@@ -2221,78 +2161,78 @@
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/cQjsn6/012_Tem_ticos.jpg" group-title="Temáticos",[B][COLOR yellow]<== Temáticos ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 
-		#EXTINF:-1,DOGTV (Ingles)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/mgywYm/DOGTV.png" group-title="Temáticos",DOGTV (Ingles)
-
-
-		#EXTINF:-1,TOROTV (Espanhol)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/i8RdeR/TOROTV.jpg" group-title="Temáticos",TOROTV (Espanhol)
-
-
-		#EXTINF:-1,Der aktionaer tv (Alemao) (Economico)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/dUv98k/Der_aktionaer_tv_Alemao_Economico.jpg" group-title="Temáticos",Der aktionaer tv (Alemao) (Economico)
-				
-
-		#EXTINF:-1,NASA TV PUBLIC (Ingles)
-			#EXTINF:-1 tvg-logo="" group-title="Temáticos" tvg-id="n/a" tvg-logo="https://image.ibb.co/fTumYk/NASA_TV_PUBLIC.jpg",NASA TV PUBLIC (Ingles)
-
-
-		#EXTINF:-1,NASA TV MEDIA (Ingles)
-			#EXTINF:-1 tvg-logo="" group-title="Temáticos" tvg-id="n/a" tvg-logo="https://image.ibb.co/dkdwYk/NASA_TV_MEDIA.jpg",NASA TV MEDIA (Ingles)
+		#EXTINF:-1,0034 RTP Arena eSports
+			#EXTINF:-1 group-title="Entretenimento" tvg-id="n/a" tvg-logo="https://image.ibb.co/gx9Ltk/RTP_Arena_e_Sports.png",0034 RTP Arena eSports (Entretenimento)
 
 			
-		#EXTINF:-1,World Fashion Channel (Russo)(Moda)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/e2SJeR/World_Fashion_Channel.jpg" group-title="Temáticos",World Fashion Channel (Russo)(Moda)
+		#EXTINF:-1,0480 DOGTV (Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mgywYm/DOGTV.png" group-title="Temáticos",0480 DOGTV (Ingles)
+
+
+		#EXTINF:-1,0481 TOROTV (Espanhol)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/i8RdeR/TOROTV.jpg" group-title="Temáticos",0481 TOROTV (Espanhol)
+
+
+		#EXTINF:-1,0482 Der aktionaer tv (Alemao)(Economico)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dUv98k/Der_aktionaer_tv_Alemao_Economico.jpg" group-title="Temáticos",0482 Der aktionaer tv (Alemao)(Economico)
 				
 
-		#EXTINF:-1,WORLD FASHION (AMERICA)(Ingles)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/jJMK4R/WORLD_FASHION_AMERICA_Ingles.png" group-title="Entretenimento",WORLD FASHIONWORLD FASHION (AMERICA)(Ingles)
+		#EXTINF:-1,0483 NASA TV PUBLIC (Ingles)
+			#EXTINF:-1 tvg-logo="" group-title="Temáticos" tvg-id="n/a" tvg-logo="https://image.ibb.co/fTumYk/NASA_TV_PUBLIC.jpg",0483 NASA TV PUBLIC (Ingles)
+
+
+		#EXTINF:-1,0484 NASA TV MEDIA (Ingles)
+			#EXTINF:-1 tvg-logo="" group-title="Temáticos" tvg-id="n/a" tvg-logo="https://image.ibb.co/dkdwYk/NASA_TV_MEDIA.jpg",0484 NASA TV MEDIA (Ingles)
+
+			
+		#EXTINF:-1,0485 World Fashion Channel (Russo)(Moda)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/e2SJeR/World_Fashion_Channel.jpg" group-title="Temáticos",0485 World Fashion Channel (Russo)(Moda)
 				
 
-		#EXTINF:-1,tbtyp (Turismo)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/fUnNB5/tbtyp_Turismo.jpg" group-title="Temáticos",tbtyp (Turismo)
+		#EXTINF:-1,0486 WORLD FASHION (AMERICA)(Ingles)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jJMK4R/WORLD_FASHION_AMERICA_Ingles.png" group-title="Entretenimento",0486 WORLD FASHIONWORLD FASHION (AMERICA)(Ingles)
 				
 
-		#EXTINF:-1,University of California TV (Educação)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/n6UiVb/University_of_California_TV_Educa_o.png" group-title="Temáticos",University of California TV (Educação)
+		#EXTINF:-1,0487 tbtyp (Turismo)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fUnNB5/tbtyp_Turismo.jpg" group-title="Temáticos",0487 tbtyp (Turismo)
+				
+
+		#EXTINF:-1,0488 University of California TV (Educação)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/n6UiVb/University_of_California_TV_Educa_o.png" group-title="Temáticos",0488 University of California TV (Educação)
 				 
 
-		#EXTINF:-1,Gameshow (Gameplays)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/bv2ODm/Gameshow.gif" group-title="Temáticos",Gameshow (Gameplays)
+		#EXTINF:-1,0489 Gameshow (Gameplays)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bv2ODm/Gameshow.gif" group-title="Temáticos",0489 Gameshow (Gameplays)
 				
 
-		#EXTINF:-1,COMCAST
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/j4FDeR/COMCAST.png" group-title="Temáticos",COMCAST (720p)
+		#EXTINF:-1,0490 COMCAST
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/j4FDeR/COMCAST.png" group-title="Temáticos",0490 COMCAST (720p)
 				http://cmc-i.akamaihd.net/hls/live/201845/launch/04.m3u8
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/j4FDeR/COMCAST.png" group-title="Temáticos",COMCAST (1080p)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/j4FDeR/COMCAST.png" group-title="Temáticos",0490 COMCAST (1080p)
 				http://cmc-i.akamaihd.net/hls/live/201845/launch/05.m3u8
 			
-		#EXTINF:-1,InfoWars
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/bSK0R6/InfoWars.jpg" group-title="Temáticos",InfoWars
+		#EXTINF:-1,0491 InfoWars
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bSK0R6/InfoWars.jpg" group-title="Temáticos",0491 InfoWars
 				
 			
-		#EXTINF:-1,Runway Fashion
-			#EXTINF:-1 tvg-logo="" group-title="Temáticos",Runway Fashion
+		#EXTINF:-1,0492 Runway Fashion
+			#EXTINF:-1 tvg-logo="" group-title="Temáticos",0492 Runway Fashion
 				
 
-		#EXTINF:-1,Travel HD
-			#EXTINF:-1 tvg-logo="" group-title="Temáticos",Travel HD
+		#EXTINF:-1,0493 Travel HD
+			#EXTINF:-1 tvg-logo="" group-title="Temáticos",0493 Travel HD
 				http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 
-		#EXTINF:-1,Silence TV
-			#EXTINF:-1 tvg-logo="" group-title="Temáticos",Silence TV
+		#EXTINF:-1,0494 Silence TV
+			#EXTINF:-1 tvg-logo="" group-title="Temáticos",0494 Silence TV
 				
 
-		#EXTINF:-1,HD Media 3D
-			#EXTINF:-1 tvg-logo="" group-title="Temáticos",HD Media 3D
+		#EXTINF:-1,0495 HD Media 3D
+			#EXTINF:-1 tvg-logo="" group-title="Temáticos",0495 HD Media 3D
 				
 
-		#EXTINF:-1,KinoMenu HD (Trailers)
-			#EXTINF:-1 tvg-logo="" group-title="Temáticos",KinoMenu HD (Trailers)
-				
-
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Temáticos",
+		#EXTINF:-1,0496 KinoMenu HD (Trailers)
+			#EXTINF:-1 tvg-logo="" group-title="Temáticos",0496 KinoMenu HD (Trailers)
 				
 
 		#EXTINF:-1,
@@ -2314,66 +2254,50 @@
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Temáticos",
 				
-
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Temáticos",
-				
-
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Temáticos",
-				
-
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Temáticos",
-				
-
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Temáticos",
-				
-
 			
 
-EXTINF:-1 tvg-logo="https://www.ezshield.com/wp-content/uploads/images/differentiators/24-7-icon.png" group-title=, 24/7 (INGLES )
+#EXTINF:-1,[B][COLOR yellow]<== 24/7 ==>[/COLOR][/B]
+	EXTINF:-1 tvg-logo="https://www.ezshield.com/wp-content/uploads/images/differentiators/24-7-icon.png" group-title=, 24/7
 		http://0.0.0.0:1234
 
-		#EXTINF:-1,Black Jesus (INGLES )
-			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://when-will.net/images/artikel/2015/september/Black-Jesus.jpg" group-title="24/7",Black Jesus (INGLES )
+		#EXTINF:-1,0497 Black Jesus (INGLES)
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://when-will.net/images/artikel/2015/september/Black-Jesus.jpg" group-title="24/7",0497 Black Jesus (INGLES)
 				http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
 
-		#EXTINF:-1,Mr. Pickles (INGLES )
-			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/SgoRKIpGIs0/maxresdefault.jpg" group-title="24/7",Mr. Pickles (INGLES )
+		#EXTINF:-1,0498 Mr. Pickles (INGLES)
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/SgoRKIpGIs0/maxresdefault.jpg" group-title="24/7",0498 Mr. Pickles (INGLES)
 				http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
 
-		#EXTINF:-1,Off The Air (INGLES )
-			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4974.jpg" group-title="24/7",Off The Air (INGLES )
+		#EXTINF:-1,0499 Off The Air (INGLES)
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4974.jpg" group-title="24/7",0499 Off The Air (INGLES)
 				http://adultswim-vodlive.cdn.turner.com/off-the-air/stream.m3u8
 
-		#EXTINF:-1,Rick and Morty (INGLES )
-			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://userscontent2.emaze.com/images/3aad53e1-b1ed-4615-b73f-5da38c50f186/b6e7a922-ea23-4d64-aaa1-47f1ad5ce794.png" group-title="24/7",Rick and Morty (INGLES )
+		#EXTINF:-1,0500 Rick and Morty (INGLES)
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://userscontent2.emaze.com/images/3aad53e1-b1ed-4615-b73f-5da38c50f186/b6e7a922-ea23-4d64-aaa1-47f1ad5ce794.png" group-title="24/7",0500 Rick and Morty (INGLES)
 				http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 
-		#EXTINF:-1,Squidbillies (INGLES )
-			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/d6/8c/dd/d68cdd473f7a56f574b7514e24fbc1ce.jpg" group-title="24/7",Squidbillies (INGLES )
+		#EXTINF:-1,0501 Squidbillies (INGLES)
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/d6/8c/dd/d68cdd473f7a56f574b7514e24fbc1ce.jpg" group-title="24/7",0501 Squidbillies (INGLES)
 				https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
 
-		#EXTINF:-1,The Eric Andre Show (INGLES )
-			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/theericandreshow/images/6/69/The_Eric_Andre_Logo.png" group-title="24/7",The Eric Andre Show (INGLES )
+		#EXTINF:-1,0502 The Eric Andre Show (INGLES)
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/theericandreshow/images/6/69/The_Eric_Andre_Logo.png" group-title="24/7",0502 The Eric Andre Show (INGLES)
 				http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
 
-		#EXTINF:-1,The Venture Bros. (INGLES )
-			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4835.jpg" group-title="24/7",The Venture Bros. (INGLES )
+		#EXTINF:-1,0503 The Venture Bros. (INGLES)
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4835.jpg" group-title="24/7",0503 The Venture Bros. (INGLES)
 				http://adultswim-vodlive.cdn.turner.com/the-venture-bros/stream.m3u8
 
-		#EXTINF:-1,Tim and Eric (INGLES )
-			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4874.png" group-title="24/7",Tim and Eric (INGLES )
+		#EXTINF:-1,0504 Tim and Eric (INGLES)
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4874.png" group-title="24/7",0504 Tim and Eric (INGLES)
 				http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
 
-		#EXTINF:-1,Williams Stream (INGLES )
-			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Williams_Street.png" group-title="24/7",Williams Stream (INGLES )
+		#EXTINF:-1,0505 Williams Stream (INGLES)
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Williams_Street.png" group-title="24/7",Williams Stream (INGLES)
 				http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 
-		#EXTINF:-1,CINE ANTONIO FILMES 24HS
-			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",CINE ANTONIO FILMES 24HS
+		#EXTINF:-1,0506 CINE ANTONIO FILMES 24HS
+			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",0506 CINE ANTONIO FILMES 24HS
 				http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?ANTONYGTV
 
 
@@ -2382,60 +2306,64 @@ EXTINF:-1 tvg-logo="https://www.ezshield.com/wp-content/uploads/images/different
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/bBftum/014_Shopping_TV.jpg" group-title="Shopping TV",[B][COLOR yellow]<== Shopping TV ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 
-		#EXTINF:-1,BUY HOME TV (Russia)(Vendas)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/gKwEm6/BUY_HOME_TV.png" group-title="Shopping TV",BUY HOME TV (Russo)(Vendas)
+		#EXTINF:-1,0104 Ayoub Gallery (Brasil) (Vendas)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/byyfeQ/Ayoub_Gallery_Brasil.jpg" group-title="Shopping TV",0104 Ayoub Gallery (Brasil) (Vendas)
+				
+			
+		#EXTINF:-1,0507 BUY HOME TV (Russia)(Vendas)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gKwEm6/BUY_HOME_TV.png" group-title="Shopping TV",0507 BUY HOME TV (Russo)(Vendas)
 				
 
- 		#EXTINF:-1,Telemilano Tele TV (Italian)(Vendas)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/b3kuB5/Telemilano_Tele_TV_Italian_Vendas.jpg" group-title="Shopping TV",Telemilano Tele TV (Italian)(Televendas)
+ 		#EXTINF:-1,0508 Telemilano Tele TV (Italian)(Vendas)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/b3kuB5/Telemilano_Tele_TV_Italian_Vendas.jpg" group-title="Shopping TV",0508 Telemilano Tele TV (Italian)(Televendas)
 				
 				
-		#EXTINF:-1,QVC Beauty & Style (Vendas)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/iQtieR/QVC_Beauty_Style.png" group-title="Vendas",QVC Beauty & Style (Vendas)
-				
-
-		#EXTINF:-1,QVC DE Plus (Vendas)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/h2sgYm/QVC_DE_Plus.png" group-title="Vendas",QVC DE Plus (Vendas)
+		#EXTINF:-1,0509 QVC Beauty & Style (Vendas)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iQtieR/QVC_Beauty_Style.png" group-title="Vendas",0509 QVC Beauty & Style (Vendas)
 				
 
-		#EXTINF:-1,Shop Channel (Vendas)(Japão)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/haxODm/Shop_Channel.jpg" group-title="Vendas",Shop Channel (Vendas)(Japão)
+		#EXTINF:-1,0510 QVC DE Plus (Vendas)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/h2sgYm/QVC_DE_Plus.png" group-title="Vendas",0510 QVC DE Plus (Vendas)
+				
+
+		#EXTINF:-1,0511 Shop Channel (Vendas)(Japão)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/haxODm/Shop_Channel.jpg" group-title="Vendas",0511 Shop Channel (Vendas)(Japão)
 				http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 
-		#EXTINF:-1,TSC - Online Shopping for Canadians
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/chQUKR/Shop_Channel.png" group-title="Vendas",TSC - Online Shopping for Canadians
+		#EXTINF:-1,0512 TSC - Online Shopping for Canadians
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/chQUKR/Shop_Channel.png" group-title="Vendas",0512 TSC - Online Shopping for Canadians
 				
 
-		#EXTINF:-1,Japan Channel DX
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cti8eR/Japan_Channel_DX.jpg" group-title="Vendas",Japan Channel DX
+		#EXTINF:-1,0513 Japan Channel DX
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cti8eR/Japan_Channel_DX.jpg" group-title="Vendas",0513 Japan Channel DX
 				http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
 
-		#EXTINF:-1,Shop 24 (Russia)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kiw5R6/Shop_24.jpg" group-title="Vendas",Shop 24 (Russia)
+		#EXTINF:-1,0514 Shop 24 (Russia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kiw5R6/Shop_24.jpg" group-title="Vendas",0514 Shop 24 (Russia)
 				
 				
-		#EXTINF:-1,TVSN (Vendas) 
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/hmmTeR/TVSN.jpg" group-title="Vendas",TVSN (Vendas) 
+		#EXTINF:-1,0515 TVSN (Vendas) 
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hmmTeR/TVSN.jpg" group-title="Vendas",0515 TVSN (Vendas) 
 				http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
 
-		#EXTINF:-1,HSE 24 EXTRA 
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/i3FX66/HSE_24_EXTRA.png" group-title="Vendas",HSE 24 EXTRA 
+		#EXTINF:-1,0516 HSE 24 EXTRA 
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/i3FX66/HSE_24_EXTRA.png" group-title="Vendas",0516 HSE 24 EXTRA 
 				
 
-		#EXTINF:-1,HSE 24
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/itOwYm/HSE_24.png" group-title="Vendas",HSE 24
+		#EXTINF:-1,0517 HSE 24
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/itOwYm/HSE_24.png" group-title="Vendas",0517 HSE 24
 				
 
-		#EXTINF:-1,Japanet Channel DX
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/Zf5H96K/jp-japanet-channel-dx.jpg" group-title="Vendas",Japanet Channel DX
+		#EXTINF:-1,0518 Japanet Channel DX
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/Zf5H96K/jp-japanet-channel-dx.jpg" group-title="Vendas",0518 Japanet Channel DX
 				http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
 
-		#EXTINF:-1,The Shopping Channel (Canada) (Vendas)
-			#EXTINF:-1 tvg-logo="" group-title="Vendas",The Shopping Channel (Canada) (Vendas)
+		#EXTINF:-1,0519 The Shopping Channel (Canada)(Vendas)
+			#EXTINF:-1 tvg-logo="" group-title="Vendas",0519 The Shopping Channel (Canada)(Vendas)
 				http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 
-		#EXTINF:-1,Shopping Channel (ISRAEL)
-			#EXTINF:-1 tvg-logo="" group-title="Vendas",Shopping Channel (ISRAEL)
+		#EXTINF:-1,0520 Shopping Channel (ISRAEL)
+			#EXTINF:-1 tvg-logo="" group-title="Vendas",0520 Shopping Channel (ISRAEL)
 				rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
 
 		#EXTINF:-1,
@@ -2456,8 +2384,8 @@ EXTINF:-1 tvg-logo="https://www.ezshield.com/wp-content/uploads/images/different
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/cNyeZm/015_Religioso.jpg" group-title="Religioso",[B][COLOR yellow]<== Religioso ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 
-		#EXTINF:-1,Enlace Dominicano TV (Costa Rica) (Christian)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/mLHWMG/Enlace_Dominicano_TV_Costa_Rica_Christian.jpg" group-title="Religioso",Enlace Dominicano TV (Costa Rica) (Christian)
+		#EXTINF:-1,0521 Enlace Dominicano TV (Costa Rica)(Christian)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mLHWMG/Enlace_Dominicano_TV_Costa_Rica_Christian.jpg" group-title="Religioso",0521 Enlace Dominicano TV (Costa Rica)(Christian)
 				
 				 
 		#EXTINF:-1,ENLACE JUVENIL (Costa Rica) (Christian)
@@ -2574,6 +2502,40 @@ EXTINF:-1 tvg-logo="https://www.ezshield.com/wp-content/uploads/images/different
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",TV APARECIDA 
 				https://caikron.com.br:8082/tvap/tvap/playlist.m3u8?IMDSFULL
 
+		#EXTINF:-1,0106 TV APARECIDA (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dqt9Bw/TV_APARECIDA.jpg" group-title="Religioso",0106 TV APARECIDA (Brasil)(Religioso)
+				
+
+		#EXTINF:-1,0107 REDE VIDA (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/e4ddeR/REDE_VIDA_Brasil.jpg" group-title="Religioso",0107 REDE VIDA (Brasil)(Religioso)
+				
+
+		#EXTINF:-1,0108 REDE GOSPEL (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cE0vjG/Igreja_REDE_GOSPEL.png" group-title="Religioso",0108 REDE GOSPEL (Brasil)(Religioso)
+				
+				
+		#EXTINF:-1,0109 CANÇÃO NOVA (Brasil) 
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/czcn65/Cancao_Nova.png" group-title="Religioso",0109 CANÇÃO NOVA (Brasil)(Religioso)
+				http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_540_av-p.m3u8?sd=10&rebase=on
+				
+		#EXTINF:-1,0110 Novo Canal (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kjyc9Q/Novo_Canal_Brasil.jpg" group-title="Religioso",0110 Novo Canal (Brasil)(Religioso)
+				
+
+		#EXTINF:-1,0111 CANAL EXECUTIVO (BRASIL) (Igreja Adventista do Sétimo Dia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fzqJJw/CANAL_EXECUTIVO_BRASIL_Igreja_Adventista_do_S_timo_Dia.png" group-title="Religioso",0111 CANAL EXECUTIVO (BRASIL) (Igreja Adventista do Sétimo Dia)(Religioso)
+				http://stream.novotempo.com:1935/tv/executivo.smil/live.m3u8
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fzqJJw/CANAL_EXECUTIVO_BRASIL_Igreja_Adventista_do_S_timo_Dia.png" group-title="Religioso",0111 CANAL EXECUTIVO (BRASIL) (Igreja Adventista do Sétimo Dia) (Alternativa)(Religioso)
+				http://stream.novotempo.com:1935/tv/executivo.stream/live.m3u8
+			
+		#EXTINF:-1,0112 CJC (Brasil) (Christian)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fSHqyw/CJC_RJ_Brasil_Christian.jpg" group-title="Religioso",0112 CJC RJ (Brasil) (Christian)(Religioso)
+				
+				
+		#EXTINF:-1,0113 IMPD TV SP (Envagelica) (Brasil)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/e26iJw/IMPD_TV_SP_Envagelica_Brasil.png" group-title="Religioso",0113 IMPD TV SP (Envagelica)(Brasil)(Religioso)
+				
+			
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",
 				
