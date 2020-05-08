@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 	#EXTINF:-1,Zubi DreamList 
-		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="Zubi DreamList",Zubi DreamList V_0.89 (06/05/2020)
+		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="",Zubi DreamList V_0.90 (08/05/2020)
 			http://0.0.0.0:1234
 			
 #EXTINF:-1,[B][COLOR yellow]<== LÍNGUA PORTUGUESA ==>[/COLOR][/B]
@@ -2388,123 +2388,119 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/mLHWMG/Enlace_Dominicano_TV_Costa_Rica_Christian.jpg" group-title="Religioso",0521 Enlace Dominicano TV (Costa Rica)(Christian)
 				
 				 
-		#EXTINF:-1,ENLACE JUVENIL (Costa Rica) (Christian)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/fLrY1G/ENLACE_JUVENIL_Costa_Rica_Christian.jpg" group-title="Religioso",ENLACE JUVENIL (Costa Rica) (Christian)
+		#EXTINF:-1,0522 ENLACE JUVENIL (Costa Rica)(Christian)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/fLrY1G/ENLACE_JUVENIL_Costa_Rica_Christian.jpg" group-title="Religioso",0522 ENLACE JUVENIL (Costa Rica)(Christian)
 				
-							
-		#EXTINF:-1,logos tv (Espanha)
-			#EXTINF:-1 group-title="Religioso" tvg-id="" "tvg-logo="https://image.ibb.co/dksR3k/logos_tv_espa_a.jpg",logos tv (Espanha)
+					
+		#EXTINF:-1,0523 logos tv (Espanha)
+			#EXTINF:-1 group-title="Religioso" tvg-id="" "tvg-logo="https://image.ibb.co/dksR3k/logos_tv_espa_a.jpg",0523 logos tv (Espanha)
 				rtmp://streamer1.streamhost.org/salive/GMIalfam
 
-		#EXTINF:-1,4E TV (Greek) (Orthodox)
-			#EXTINF:-1 group-title="Religioso" tvg-id="" "tvg-logo="https://image.ibb.co/eZ329Q/4_E_TV_Greek_Orthodox.jpg",4E TV (Greek) (Orthodox)
+		#EXTINF:-1,0524 4E TV (Greek)(Orthodox)
+			#EXTINF:-1 group-title="Religioso" tvg-id="" "tvg-logo="https://image.ibb.co/eZ329Q/4_E_TV_Greek_Orthodox.jpg",0524 4E TV (Greek)(Orthodox)
 				rtmp://82.192.84.30:1935/live/myStream.sdp
 
-		#EXTINF:-1,Alfa Omega TV (Romanian)(Christian)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/ccpEOk/Alfa_Omega_TV_Romanian_Christian.png" group-title="Religioso",Alfa Omega TV (Romanian)(Christian)
+		#EXTINF:-1,0525 Alfa Omega TV (Romanian)(Christian)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ccpEOk/Alfa_Omega_TV_Romanian_Christian.png" group-title="Religioso",0525 Alfa Omega TV (Romanian)(Christian)
 				http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
 
-		#EXTINF:-1,CBS (Koreia Sul) (Christian)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cC5Br5/CBS_Koreia_Sul_Christian.png" group-title="Religioso",CBS (Koreia Sul) (Christian)
+		#EXTINF:-1,0526 CBS (Koreia Sul)(Christian)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cC5Br5/CBS_Koreia_Sul_Christian.png" group-title="Religioso",0526 CBS (Koreia Sul)(Christian)
 				rtmp://cbs-live.gscdn.com/cbs-live/cbs-live.stream
 				
-		#EXTINF:-1,TV 7 Plus (Finland)(Christian)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/iSxJeR/TV_7_Plus.jpg" group-title="Religioso",TV 7 Plus (Finland)(Christian)
+		#EXTINF:-1,0527 TV 7 Plus (Finland)(Christian)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iSxJeR/TV_7_Plus.jpg" group-title="Religioso",0527 TV 7 Plus (Finland)(Christian)
 				
 				
-		#EXTINF:-1,Nour TV (United Arab Emirates)(persian)(sunni Islamic)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/e26iJw/IMPD_TV_SP_Envagelica_Brasil.png" group-title="Religioso",Nour TV (United Arab Emirates)(persian)(sunni Islamic)
+		#EXTINF:-1,0528 Nour TV (United Arab Emirates)(persian)(sunni Islamic)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/e26iJw/IMPD_TV_SP_Envagelica_Brasil.png" group-title="Religioso",0528 Nour TV (United Arab Emirates)(persian)(sunni Islamic)
 				
 				
-		#EXTINF:-1,Hope channel (Poland)(Seventh-day Adventist)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cCRTeR/Hope_channel.jpg" group-title="Religioso",Hope channel (Poland)(Seventh-day Adventist)
+		#EXTINF:-1,0529 Hope channel (Poland)(Seventh-day Adventist)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cCRTeR/Hope_channel.jpg" group-title="Religioso",0529 Hope channel (Poland)(Seventh-day Adventist)
 				http://rtmp.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cCRTeR/Hope_channel.jpg" group-title="Religioso",Hope channel (Poland)(Seventh-day Adventist)(1)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cCRTeR/Hope_channel.jpg" group-title="Religioso",0529 Hope channel (Poland)(Seventh-day Adventist)(1)
 				https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on 
 				
-		#EXTINF:-1,Trinity TV (English)(Christian)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/dCxteR/Trinity_TV.png" group-title="Religioso",Trinity TV (English)(Christian)
+		#EXTINF:-1,0530 Trinity TV (English)(Christian)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dCxteR/Trinity_TV.png" group-title="Religioso",0530 Trinity TV (English)(Christian)
 				
 
-		#EXTINF:-1,Mekkah HD (Muslim)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/eOsRzR/Mekkah_HD.png" group-title="Religioso",Mekkah HD (Muslim)
+		#EXTINF:-1,0531 Mekkah HD (Muslim)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eOsRzR/Mekkah_HD.png" group-title="Religioso",0531 Mekkah HD (Muslim)
 				
 			
-		#EXTINF:-1,Sunnah Live HD (Muslim)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cDtMYm/Sunnah_Live_HD.jpg" group-title="Religioso",Sunnah Live HD (Muslim)
+		#EXTINF:-1,0532 Sunnah Live HD (Muslim)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cDtMYm/Sunnah_Live_HD.jpg" group-title="Religioso",0532 Sunnah Live HD (Muslim)
 				
 			
-		#EXTINF:-1,PUSH TV
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/gQYftm/PUSH_TV.jpg" group-title="Religioso",PUSH TV
+		#EXTINF:-1,0533 PUSH TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gQYftm/PUSH_TV.jpg" group-title="Religioso",0533 PUSH TV
 				
 
-		#EXTINF:-1,Al Minbar
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/dTkag6/Al_Minbar.gif" group-title="Religioso",Al Minbar
+		#EXTINF:-1,0534 Al Minbar
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dTkag6/Al_Minbar.gif" group-title="Religioso",0534 Al Minbar
 				
 
-		#EXTINF:-1,UCSG
-			#EXTINF:-1 tvg-logo="" group-title="Religioso",UCSG
+		#EXTINF:-1,0535 UCSG
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",0535 UCSG
 				http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
 
-		#EXTINF:-1,CTV (Ortodoxa Copta)
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/10vpvPq/logo-ctv.jpg" group-title="Religioso",CTV (Ortodoxa Copta)
+		#EXTINF:-1,0536 CTV (Ortodoxa Copta)
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/10vpvPq/logo-ctv.jpg" group-title="Religioso",0536 CTV (Ortodoxa Copta)
 				http://media4.smc-host.com:1935/ctvchannel.tv/ctv.smil/playlist.m3u8
 
-		#EXTINF:-1,Esperanza TV (cristão) (espanhol)
-			#EXTINF:-1 tvg-logo="" group-title="Religioso",Esperanza TV (cristão) (espanhol)
+		#EXTINF:-1,0537 Esperanza TV (cristão)(espanhol)
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",0537 Esperanza TV (cristão)(espanhol)
 				http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
 
-		#EXTINF:-1,RED ADVENIR (cristão) (Bolivia)
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/QnPWNCb/images.jpg" group-title="Religioso",RED ADVENIR (cristão) (Bolivia)
+		#EXTINF:-1,0538 RED ADVENIR (cristão)(Bolivia)
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/QnPWNCb/images.jpg" group-title="Religioso",0538 RED ADVENIR (cristão)(Bolivia)
 				http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
 
-		#EXTINF:-1,CBN Español (cristão)
-			#EXTINF:-1 tvg-logo="" group-title="Religioso",CBN Español (cristão)
-				http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
-
-		#EXTINF:-1,Extrema TV
-			#EXTINF:-1 tvg-logo="" group-title="Religioso",Extrema TV
+		#EXTINF:-1,0539 Extrema TV
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",0539 Extrema TV
 				http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-		#EXTINF:-1,Himlen TV7 (cristão)
-			#EXTINF:-1 tvg-logo="" group-title="Religioso",Himlen TV7 (cristão)
+		#EXTINF:-1,0540 Himlen TV7 (cristão)
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",0540 Himlen TV7 (cristão)
 				http://vod.tv7.fi:1935/tv7-se/_definst_/mp4:tv7-se.stream_360p/playlist.m3u8
 
-		#EXTINF:-1,The Impact Network (cristão)
-			#EXTINF:-1 tvg-logo="" group-title="Religioso",The Impact Network (cristão)
+		#EXTINF:-1,0541 CBN Español (cristão)
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",0541 CBN Español (cristão)
+				http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+
+		#EXTINF:-1,0542 The Impact Network (cristão)
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",0542 The Impact Network (cristão)
 				http://206.190.141.27:1935/live/impact/playlist.m3u8
 
-		#EXTINF:-1,Tv Novo Tempo
-			#EXTINF:-1 tvg-logo="" group-title="Religioso",Tv Novo Tempo
+		#EXTINF:-1,0543 Tv Novo Tempo
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",0543 Tv Novo Tempo
 				http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
 
-		#EXTINF:-1,Rede Super
-			#EXTINF:-1 tvg-logo="" group-title="Religioso",Rede Super
+		#EXTINF:-1,0544 Rede Super
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",0544 Rede Super
 				http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?PEDROJUNIORTUTORIAIS
 
-		#EXTINF:-1,Boa Vontade
-			#EXTINF:-1 tvg-logo="" group-title="Religioso",Boa Vontade
+		#EXTINF:-1,0545 Boa Vontade
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",0545 Boa Vontade
 				http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8?PEDROJUNIORTUTORIAIS
 
-		#EXTINF:-1,TV Verdade
-			#EXTINF:-1 tvg-logo="" group-title="Religioso",TV Verdade
+		#EXTINF:-1,0546 TV Verdade
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",0546 TV Verdade
 				http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-		#EXTINF:-1,TV Terceiro Anjo
-			#EXTINF:-1 tvg-logo="" group-title="Religioso",TV Terceiro Anjo
+		#EXTINF:-1,0547 TV Terceiro Anjo
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",0547 TV Terceiro Anjo
 				http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-		#EXTINF:-1,EVANGELIZAR PR
-			#EXTINF:-1 tvg-logo="" group-title="Religioso",EVANGELIZAR PR
+		#EXTINF:-1,0548 EVANGELIZAR PR
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",0548 EVANGELIZAR PR
 				http://flash32k.crossdigital.com.br/evangelizar/tv/chunklist_w1578717857.m3u8?IMDSFULL
-
-		#EXTINF:-1,TV APARECIDA 
-			#EXTINF:-1 tvg-logo="" group-title="Religioso",TV APARECIDA 
-				https://caikron.com.br:8082/tvap/tvap/playlist.m3u8?IMDSFULL
 
 		#EXTINF:-1,0106 TV APARECIDA (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/dqt9Bw/TV_APARECIDA.jpg" group-title="Religioso",0106 TV APARECIDA (Brasil)(Religioso)
-				
+				https://caikron.com.br:8082/tvap/tvap/playlist.m3u8?IMDSFULL
 
 		#EXTINF:-1,0107 REDE VIDA (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/e4ddeR/REDE_VIDA_Brasil.jpg" group-title="Religioso",0107 REDE VIDA (Brasil)(Religioso)
@@ -2550,12 +2546,12 @@
 
 				
 
-#EXTINF:-1,[B][COLOR yellow]<== Podcasts ==>[/COLOR][/B]
+#EXTINF:-1,[B][COLOR yellow]<== Podcasts TV ==>[/COLOR][/B]
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/mH0yS6/016_Podcasts.png" group-title="Podcasts",[B][COLOR yellow]<== Podcasts ==>[/COLOR][/B]
 		
 		
-		#EXTINF:-1,TWiT.tv
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/mE8wYm/TWiT_tv.png" group-title="Podcasts",TWiT.tv
+		#EXTINF:-1,0576 TWiT.tv
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mE8wYm/TWiT_tv.png" group-title="Podcasts TV",0576 TWiT.tv
 
 
 
@@ -2563,92 +2559,92 @@
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/d9jgfR/017_Africa.jpg" group-title="Africa",[B][COLOR yellow]<== Africa ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 
-		#EXTINF:-1,CNA-SAT (Nord Africaine)(protestant Christian)(Arabic)(Berber)(French)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cOpNuQ/CNA_SAT_Nord_Africaine.jpg" group-title="Africa",CNA-SAT (Nord Africaine)(protestant Christian)(Arabic)(Berber)(French)
+		#EXTINF:-1,0549 CNA-SAT (Nord Africaine)(protestant Christian)(Arabic)(Berber)(French)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cOpNuQ/CNA_SAT_Nord_Africaine.jpg" group-title="Africa",0549 CNA-SAT (Nord Africaine)(protestant Christian)(Arabic)(Berber)(French)
 				rtmp://str81.creacast.com:80/cna/live.sdp
 			
-		#EXTINF:-1,DIASPORA 24 (Senegal)(French)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKSGkb/DIASPORA24_Africa.png" group-title="Africa",DIASPORA 24 (Senegal)(French)
+		#EXTINF:-1,0550 DIASPORA 24 (Senegal)(French)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKSGkb/DIASPORA24_Africa.png" group-title="Africa",0550 DIASPORA 24 (Senegal)(French)
 				
 			
-		#EXTINF:-1,NollyMax (Africa)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/bWVAtm/NollyMax.png" group-title="Africa",NollyMax (Africa)
+		#EXTINF:-1,0551 NollyMax (Africa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bWVAtm/NollyMax.png" group-title="Africa",0551 NollyMax (Africa)
 				
 			
-		#EXTINF:-1,AntvShows (Africa)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/h3gTeR/Antv_Shows.jpg" group-title="Africa",AntvShows (Africa)
+		#EXTINF:-1,0552 AntvShows (Africa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/h3gTeR/Antv_Shows.jpg" group-title="Africa",0552 AntvShows (Africa)
 				
 			
-		#EXTINF:-1,DIXA TV (Africa)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/gOGBzR/DIXA_TV.jpg" group-title="Africa",DIXA TV (Africa)
+		#EXTINF:-1,0553 DIXA TV (Africa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gOGBzR/DIXA_TV.jpg" group-title="Africa",0553 DIXA TV (Africa)
 				
 			
-		#EXTINF:-1,NNT (Africa)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/iLLoeR/NNT.jpg" group-title="Africa",NNT (Africa)
+		#EXTINF:-1,0554 NNT (Africa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/iLLoeR/NNT.jpg" group-title="Africa",0554 NNT (Africa)
 				
 			
-		#EXTINF:-1,BAM TV (Africa)(English)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/gCrTeR/BAM_TV.jpg" group-title="Africa",BAM TV (Africa)(English)
+		#EXTINF:-1,0555 BAM TV (Africa)(English)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gCrTeR/BAM_TV.jpg" group-title="Africa",0555 BAM TV (Africa)(English)
 				
 			
-		#EXTINF:-1,AllDay (Africa)(English)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cpNvR6/AllDay.jpg" group-title="Africa",AllDay (Africa)(English)
+		#EXTINF:-1,0556 AllDay (Africa)(English)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cpNvR6/AllDay.jpg" group-title="Africa",0556 AllDay (Africa)(English)
 				
 			
-		#EXTINF:-1,AfroMovies TV (Africa)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/evvoeR/Afro_Movies_TV.jpg" group-title="Africa",AfroMovies TV (Africa)
+		#EXTINF:-1,0557 AfroMovies TV (Africa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/evvoeR/Afro_Movies_TV.jpg" group-title="Africa",0557 AfroMovies TV (Africa)
 				
 			
-		#EXTINF:-1,French Africa TV (Africa)(French)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/en35tm/French_Africa_TV.jpg" group-title="Africa",French Africa TV (Africa)(French)
+		#EXTINF:-1,0558 French Africa TV (Africa)(French)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/en35tm/French_Africa_TV.jpg" group-title="Africa",0558 French Africa TV (Africa)(French)
 				
 			
-		#EXTINF:-1,MMC (Africa)(music)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/h3eBYm/MMC.jpg" group-title="Africa",MMC (Africa)
+		#EXTINF:-1,0559 MMC (Africa)(music)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/h3eBYm/MMC.jpg" group-title="Africa",0559 MMC (Africa)
 				
 			
-		#EXTINF:-1,Tripple L (Africa)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/ht1x66/Tripple_L.jpg" group-title="Africa",Tripple L (Africa)
+		#EXTINF:-1,0560 Tripple L (Africa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ht1x66/Tripple_L.jpg" group-title="Africa",0560 Tripple L (Africa)
 				
 			
-		#EXTINF:-1,Ghallywood Movies (Africa)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/bXZ6zR/Ghallywood_Movies.jpg" group-title="Africa",Ghallywood Movies (Africa)
+		#EXTINF:-1,0561 Ghallywood Movies (Africa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bXZ6zR/Ghallywood_Movies.jpg" group-title="Africa",0561 Ghallywood Movies (Africa)
 				
 			
-		#EXTINF:-1,Aroya TV (Africa)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/mvgQtm/Aroya_TV.jpg" group-title="Africa",Aroya TV (Africa)
+		#EXTINF:-1,0562 Aroya TV (Africa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mvgQtm/Aroya_TV.jpg" group-title="Africa",0562 Aroya TV (Africa)
 				
 			
-		#EXTINF:-1,CCTV (Africa)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/j6batm/CCTV.jpg" group-title="Africa",CCTV (Africa)
+		#EXTINF:-1,0563 CCTV (Africa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/j6batm/CCTV.jpg" group-title="Africa",0563 CCTV (Africa)
 				
 			
-		#EXTINF:-1,GNT (Africa)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cQpH66/GNT.jpg" group-title="Africa",GNT (Africa)
+		#EXTINF:-1,0564 GNT (Africa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cQpH66/GNT.jpg" group-title="Africa",0564 GNT (Africa)
 				
 			
-		#EXTINF:-1,Quoque TV (Africa)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cqLqR6/Quoque_TV.jpg" group-title="Africa",Quoque TV (Africa)
+		#EXTINF:-1,0565 Quoque TV (Africa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cqLqR6/Quoque_TV.jpg" group-title="Africa",0565 Quoque TV (Africa)
 				
 			
-		#EXTINF:-1,ETC (Africa)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/nksbzR/ETC.jpg" group-title="Africa",ETC (Africa)
+		#EXTINF:-1,0566 ETC (Africa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nksbzR/ETC.jpg" group-title="Africa",0566 ETC (Africa)
 				
 			
-		#EXTINF:-1,SARM TV (Africa)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/d424m6/SARM_TV.jpg" group-title="Africa",SARM TV (Africa)
+		#EXTINF:-1,0567 SARM TV (Africa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/d424m6/SARM_TV.jpg" group-title="Africa",0567 SARM TV (Africa)
 				
 			
-		#EXTINF:-1,TAFT TV (Africa)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/d985tm/TAFT_TV.jpg" group-title="Africa",TAFT TV (Africa)
+		#EXTINF:-1,0568 TAFT TV (Africa)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/d985tm/TAFT_TV.jpg" group-title="Africa",0568 TAFT TV (Africa)
 				
 
-		#EXTINF:-1,RTV - Rwanda
-			#EXTINF:-1 tvg-logo="" group-title="Africa",RTV - Rwanda
+		#EXTINF:-1,0569 RTV - Rwanda
+			#EXTINF:-1 tvg-logo="" group-title="Africa",0569 RTV - Rwanda
 				http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
 			
-		#EXTINF:-1,Vision 4
-			#EXTINF:-1 tvg-logo="" group-title="Africa",Vision 4
+		#EXTINF:-1,0570 Vision 4
+			#EXTINF:-1 tvg-logo="" group-title="Africa",0570 Vision 4
 				http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
 			
 		#EXTINF:-1,
@@ -2661,16 +2657,16 @@
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/gJ09Zm/Albania.png" group-title="Albania",[B][COLOR yellow]<== Albania ==>[/COLOR][/B]
 		
 		
-		#EXTINF:-1,JUG TV (Albanian)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/f3KEr5/JUG_TV_Albanian.png" tvg-id="" tvg-name=" group-title="Albanian",JUG TV (Albanian)
+		#EXTINF:-1,0571 JUG TV (Albanian)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/f3KEr5/JUG_TV_Albanian.png" tvg-id="" tvg-name=" group-title="Albanian",0571 JUG TV (Albanian)
 				
  
-		#EXTINF:-1,ROKUM TV (Albanian)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/neSw65/ROKUM_TV.png" group-title="Albanian",ROKUM TV (Albanian)
+		#EXTINF:-1,0572 ROKUM TV (Albanian)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/neSw65/ROKUM_TV.png" group-title="Albanian",0572 ROKUM TV (Albanian)
 				
  
-		#EXTINF:-1,Albanian TV of America
-			#EXTINF:-1 tvg-logo="" group-title="Albanian",Albanian TV of America
+		#EXTINF:-1,0557 Albanian TV of America
+			#EXTINF:-1 tvg-logo="" group-title="Albanian",0573 Albanian TV of America
 				
 				
 		#EXTINF:-1,
@@ -2695,112 +2691,108 @@
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/c1bBfR/Alemanha.gif" group-title="Alemanha",[B][COLOR yellow]<== Alemanha ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 	
-		#EXTINF:-1,NDR HD (Alemao)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/eN2xDk/NDR_HD_Alemao.jpg" tvg-id="" tvg-name=" group-title="Alemanha",NDR HD (Alemao)
+		#EXTINF:-1,0574 NDR HD (Alemao)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/eN2xDk/NDR_HD_Alemao.jpg" tvg-id="" tvg-name=" group-title="Alemanha",0574 NDR HD (Alemao)
 				http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
  
- 		#EXTINF:-1,BLK Regional TV (Germany)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/jMsLUQ/BLK_Regional_TV_Germany.png" tvg-id="" tvg-name=" group-title="Alemanha",BLK Regional TV (Germany)
+ 		#EXTINF:-1,0575 BLK Regional TV (Germany)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/jMsLUQ/BLK_Regional_TV_Germany.png" tvg-id="" tvg-name=" group-title="Alemanha",0575 BLK Regional TV (Germany)
 				rtmp://62.113.210.250/medienasa-live/BLKonline_high
 
- 		#EXTINF:-1,BW FAMİLY TV (Germany)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/k4Ne65/BW_FAM_LY_TV_Alemao.png" tvg-id="" tvg-name=" group-title="Alemanha",BW FAMİLY TV (Germany)
+ 		#EXTINF:-1,0577 BW FAMİLY TV (Germany)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/k4Ne65/BW_FAM_LY_TV_Alemao.png" tvg-id="" tvg-name=" group-title="Alemanha",0577 BW FAMİLY TV (Germany)
 				
 
- 		#EXTINF:-1,Elbekanal Schönebeck (Germany)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/g0vyJk/Elbekanal_Sch_nebeck_Germany.jpg" tvg-id="" tvg-name=" group-title="Alemanha",Elbekanal Schönebeck (Germany)
+ 		#EXTINF:-1,0578 Elbekanal Schönebeck (Germany)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/g0vyJk/Elbekanal_Sch_nebeck_Germany.jpg" tvg-id="" tvg-name=" group-title="Alemanha",0578 Elbekanal Schönebeck (Germany)
 				rtmp://62.113.210.250/medienasa-live/elbe_high
 
-		#EXTINF:-1,FİLSTALWELLE (Germany)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/nOyJJk/F_LSTALWELLE_German.png" tvg-id="" tvg-name=" group-title="Alemanha",FİLSTALWELLE (Germany)
+		#EXTINF:-1,0579 FİLSTALWELLE (Germany)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nOyJJk/F_LSTALWELLE_German.png" tvg-id="" tvg-name=" group-title="Alemanha",0579 FİLSTALWELLE (Germany)
 				
 				
- 		#EXTINF:-1,HALLE TV (Germany)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/comKr5/HALLE_TV_Germany.png" tvg-id="" tvg-name=" group-title="Alemanha",HALLE TV (Germany)
+ 		#EXTINF:-1,0580 HALLE TV (Germany)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/comKr5/HALLE_TV_Germany.png" tvg-id="" tvg-name=" group-title="Alemanha",0580 HALLE TV (Germany)
 				rtmp://62.113.210.250/medienasa-live/tvhalle_high
 
- 		#EXTINF:-1,Alex Berlin (German)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kZvER5/Alex_Berlin_German.jpg" group-title="Alemanha",Alex Berlin (German)
+ 		#EXTINF:-1,0581 Alex Berlin (German)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kZvER5/Alex_Berlin_German.jpg" group-title="Alemanha",0581 Alex Berlin (German)
 				
 
-		#EXTINF:-1,WDR (Germany)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/mzHXPR/WDR.png" tvg-id="" tvg-name=" group-title="Alemanha",WDR (Germany)
+		#EXTINF:-1,0582 WDR (Germany)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mzHXPR/WDR.png" tvg-id="" tvg-name=" group-title="Alemanha",0582 WDR (Germany)
 				http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 				
-		#EXTINF:-1,WDR Fernsehen
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/zFwZFjx/1200px-Wdr-fernsehen-logo-2016-svg.png" tvg-id="" tvg-name=" group-title="Alemanha",WDR Fernsehen
+		#EXTINF:-1,0583 WDR Fernsehen
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/zFwZFjx/1200px-Wdr-fernsehen-logo-2016-svg.png" tvg-id="" tvg-name=" group-title="Alemanha",0583 WDR Fernsehen
 				http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 				
-		#EXTINF:-1,HR Fernsehen (Germany)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/i9FGJm/hr_Germany.png" tvg-id="" tvg-name=" group-title="Alemanha",HR Fernsehen (Germany)
+		#EXTINF:-1,0584 HR Fernsehen (Germany)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/i9FGJm/hr_Germany.png" tvg-id="" tvg-name=" group-title="Alemanha",0584 HR Fernsehen (Germany)
 				http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
 				
-		#EXTINF:-1,1-2-3 TV (Germany)(Vendas)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/mLKhr6/1_2_3_TV_Germany.png" tvg-id="" tvg-name=" group-title="Vendas",1-2-3 TV (Germany)(Vendas)
+		#EXTINF:-1,0585 1-2-3 TV (Germany)(Vendas)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/mLKhr6/1_2_3_TV_Germany.png" tvg-id="" tvg-name=" group-title="Vendas",0585 1-2-3 TV (Germany)(Vendas)
 				http://123tv.cdn.ses-ps.com/index.m3u8
 				
-		#EXTINF:-1,bliz (Germany)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/bKYvdm/bliz.png" tvg-id="" tvg-name=" group-title="Alemanha",bliz (Germany)
+		#EXTINF:-1,0586 bliz (Germany)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bKYvdm/bliz.png" tvg-id="" tvg-name=" group-title="Alemanha",0586 bliz (Germany)
 				
 				
-		#EXTINF:-1, Welt der Wunder [Alemanha]
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cLwhb6/Welt_der_Wunder_Alemanha.jpg" tvg-id="" tvg-name=" group-title="Alemanha", Welt der Wunder [Alemanha]
+		#EXTINF:-1,0587 Welt der Wunder [Alemanha]
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cLwhb6/Welt_der_Wunder_Alemanha.jpg" tvg-id="" tvg-name=" group-title="Alemanha",0587 Welt der Wunder [Alemanha]
 				
 				
-		#EXTINF:-1, TV Oberfranken [Alemanha] 
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/n4iTG6/TV_Oberfranken_Alemanha.png" tvg-id="" tvg-name=" group-title="Alemanha", TV Oberfranken [Alemanha] 
+		#EXTINF:-1,0588 TV Oberfranken [Alemanha] 
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/n4iTG6/TV_Oberfranken_Alemanha.png" tvg-id="" tvg-name=" group-title="Alemanha",0588 TV Oberfranken [Alemanha] 
 				http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
 				
-		#EXTINF:-1, EOTV [Alemanha]
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/byOg3m/EOTV_Alemanha.jpg" tvg-id="" tvg-name=" group-title="Alemanha", EOTV [Alemanha]
+		#EXTINF:-1,0589 EOTV [Alemanha]
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/byOg3m/EOTV_Alemanha.jpg" tvg-id="" tvg-name=" group-title="Alemanha",0589 EOTV [Alemanha]
 				
 				
-		#EXTINF:-1, Baden TV [Alemanha] 
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/hBDW3m/Baden_TV_Alemanha.jpg" tvg-id="" tvg-name=" group-title="Alemanha", Baden TV [Alemanha] 
+		#EXTINF:-1,0590 Baden TV [Alemanha]
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hBDW3m/Baden_TV_Alemanha.jpg" tvg-id="" tvg-name=" group-title="Alemanha",0590 Baden TV [Alemanha] 
 				http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 				
-		#EXTINF:-1,INTV
-			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha",INTV 
+		#EXTINF:-1,0591 INTV
+			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha",0591 INTV
 				
 				
-		#EXTINF:-1,Br HD
-			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha",Br HD
+		#EXTINF:-1,0592 Br HD
+			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha",0592 Br HD
 				
 				
-		#EXTINF:-1, Berlin tv
-			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha", Berlin tv
+		#EXTINF:-1,0593 Berlin tv
+			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha",0593 Berlin tv
 				
 				
-		#EXTINF:-1,Isar TV
-			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha",Isar TV
+		#EXTINF:-1,0594 Isar TV
+			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha",0594 Isar TV
 				http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
 				
-		#EXTINF:-1, MDF.1
-			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha", MDF.1
+		#EXTINF:-1,0595 MDF.1
+			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha",0595 MDF.1
 				http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
 				
-		#EXTINF:-1,Oberpfalz TV
-			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha",Oberpfalz TV
+		#EXTINF:-1,0596 Oberpfalz TV
+			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha",0596 Oberpfalz TV
 				http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/master.m3u8
 				
-		#EXTINF:-1, RFO HD
-			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha", RFO HD
+		#EXTINF:-1,0597 RFO HD
+			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha",0597 RFO HD
 				http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
 				
-		#EXTINF:-1, RTL
-			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha", RTL
-				
-				
-		#EXTINF:-1, TV Touring Wurzburg
-			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha", TV Touring Wurzburg
+		#EXTINF:-1,0598 TV Touring Wurzburg
+			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha",0598 TV Touring Wurzburg
 				http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8
 				
-		#EXTINF:-1, TVA Ostbayern
-			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha", TVA Ostbayern
+		#EXTINF:-1,0599 TVA Ostbayern
+			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha",0599 TVA Ostbayern
 				http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8
 				
-		#EXTINF:-1, Tirol TV
-			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha", Tirol TV
+		#EXTINF:-1,0600 Tirol TV
+			#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=" group-title="Alemanha",0600 Tirol TV
 				http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
 				
 		#EXTINF:-1, 
@@ -2813,12 +2805,12 @@
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/ePj8S6/Austria.jpg" group-title="Austria",[B][COLOR yellow]<== Austria ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 	
-		#EXTINF:-1,FS1
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kY0bYm/FS1.png" tvg-id="" tvg-name=" group-title="Austria",FS1
+		#EXTINF:-1,0601 FS1
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kY0bYm/FS1.png" tvg-id="" tvg-name=" group-title="Austria",0601 FS1
 				http://stream.fs1.tv:8080/hls/webstream.m3u8
 
-		#EXTINF:-1,Austria 24TV (Austria)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/dqSj8w/Austria_24_TV_Austria.png" tvg-id="" tvg-name=" group-title="Austria",Austria 24TV (Austria)
+		#EXTINF:-1,0602 Austria 24TV (Austria)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dqSj8w/Austria_24_TV_Austria.png" tvg-id="" tvg-name=" group-title="Austria",0602 Austria 24TV (Austria)
 				rtmp://streaming.austria24.tv/live/stream_360p
 
 		#EXTINF:-1,
@@ -2842,16 +2834,16 @@
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/bYS1fR/Ar_bia_Saudita.png" group-title="Arábia Saudita",[B][COLOR yellow]<== Arábia Saudita ==>[/COLOR][/B]
 		
 
-		#EXTINF:-1,rotana cinema (Arabic) (Saudi Arabia)
-			#EXTINF:-1 tvg-logo="" group-title="Arábia Saudita",rotana cinema (Arabic) (Saudi Arabia)
+		#EXTINF:-1,0603 rotana cinema (Arabic)(Saudi Arabia)
+			#EXTINF:-1 tvg-logo="" group-title="Arábia Saudita",0603 rotana cinema (Arabic)(Saudi Arabia)
 				
 
-		#EXTINF:-1,rotana khalijiah (Arabic) (Saudi Arabia)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/dNXqtm/rotana_khalijiah.png" group-title="Arábia Saudita",rotana khalijiah (Arabic) (Saudi Arabia)
+		#EXTINF:-1,0604 rotana khalijiah (Arabic)(Saudi Arabia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dNXqtm/rotana_khalijiah.png" group-title="Arábia Saudita",rotana khalijiah (Arabic)(Saudi Arabia)
 				
 
-		#EXTINF:-1,rotana masrya (Arabic) (Saudi Arabia)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/e4j3Dm/rotana_masrya.jpg" group-title="Arábia Saudita",rotana masrya (Arabic) (Saudi Arabia)
+		#EXTINF:-1,0605 rotana masrya (Arabic)(Saudi Arabia)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/e4j3Dm/rotana_masrya.jpg" group-title="Arábia Saudita",0605 rotana masrya (Arabic)(Saudi Arabia)
 				
 
 		#EXTINF:-1,
@@ -2868,8 +2860,8 @@
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/dJvXn6/Armenia.png" group-title="Armenia",[B][COLOR yellow]<== Armenia ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 
-		#EXTINF:-1,Sputnik (arménio)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kqDaUQ/Sputnik.png" group-title="Armenia",Sputnik (arménio)
+		#EXTINF:-1,0606 Sputnik (arménio)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kqDaUQ/Sputnik.png" group-title="Armenia",0606 Sputnik (arménio)
 				http://hls.goodgame.ru/hls/33226.m3u8?version=2
 
 
@@ -2878,87 +2870,83 @@
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/fmGSLR/Argentina.png" group-title="Argentina",[B][COLOR yellow]<== Argentina ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 
-		#EXTINF:-1,eitb.eus (Argentina)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/hmLbYm/eitb_eus.jpg" group-title="Argentina",eitb.eus (Argentina)
+		#EXTINF:-1,0607 eitb.eus (Argentina)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hmLbYm/eitb_eus.jpg" group-title="Argentina",0607 eitb.eus (Argentina)
 				http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 
-		#EXTINF:-1,ISAT (Espanhol) (Argentina)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/nCorzR/ISAT.png" group-title="Argentina",ISAT (Espanhol) (Argentina)
+		#EXTINF:-1,0608 ISAT (Espanhol)(Argentina)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/nCorzR/ISAT.png" group-title="Argentina",0608 ISAT (Espanhol)(Argentina)
 				
 				
-		#EXTINF:-1,MASCHIC HD (Espanhol) (Argentina)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/hQ9mYm/MASCHIC_HD.png" group-title="Argentina",MASCHIC HD (Espanhol) (Argentina)
+		#EXTINF:-1,0609 MASCHIC HD (Espanhol)(Argentina)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hQ9mYm/MASCHIC_HD.png" group-title="Argentina",0609 MASCHIC HD (Espanhol)(Argentina)
 				
 				
-		#EXTINF:-1,PASIONES HD (Espanhol) (Argentina)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/cPvAtm/PASIONES_HD.jpg" group-title="Argentina",PASIONES HD (Espanhol) (Argentina)
+		#EXTINF:-1,0610 PASIONES HD (Espanhol)(Argentina)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/cPvAtm/PASIONES_HD.jpg" group-title="Argentina",0610 PASIONES HD (Espanhol)(Argentina)
 				
 				
-		#EXTINF:-1,Canal 26 
-			#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 26 
+		#EXTINF:-1,0611 Canal 26 
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",0611 Canal 26 
 				http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
-			#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 26 (Alternativa)
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",0611 Canal 26 (Alternativa)
 				http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?chile.m3u8
 
-		#EXTINF:-1,TLX
-			#EXTINF:-1 tvg-logo="" group-title="Argentina",TLX
+		#EXTINF:-1,0612 TLX
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",0612 TLX
 				http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
 
-		#EXTINF:-1,Canal 2 Telpin Tv
-			#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 2 Telpin Tv
+		#EXTINF:-1,0613 Canal 2 Telpin Tv
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",0613 Canal 2 Telpin Tv
 				
 
-		#EXTINF:-1,Canal 4 Jujuy
-			#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 4 Jujuy
+		#EXTINF:-1,0614 Canal 4 Jujuy
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",0614 Canal 4 Jujuy
 				
 
-		#EXTINF:-1,Multivisión Federal (Argentina) (Espanhol)
-			#EXTINF:-1 tvg-logo="" group-title="Argentina",Multivisión Federal (Argentina) (Espanhol)
+		#EXTINF:-1,0615 Multivisión Federal (Argentina)(Espanhol)
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",0615 Multivisión Federal (Argentina)(Espanhol)
 				http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
-		#EXTINF:-1,5TV Corrientes
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/3sYWvTR/5tv-Corrientes.png" group-title="Argentina",5TV Corrientes
+		#EXTINF:-1,0616 5TV Corrientes
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/3sYWvTR/5tv-Corrientes.png" group-title="Argentina",0616 5TV Corrientes
 				http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
 
-		#EXTINF:-1,Aire de Santa Fe
-			#EXTINF:-1 tvg-logo="" group-title="Argentina",Aire de Santa Fe
+		#EXTINF:-1,0617 Aire de Santa Fe
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",0617 Aire de Santa Fe
 				
 
-		#EXTINF:-1,Channel 10 – Río Negro
-			#EXTINF:-1 tvg-logo="" group-title="Argentina",Channel 10 – Río Negro
+		#EXTINF:-1,0618 Channel 10 – Río Negro
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",0618 Channel 10 – Río Negro
 				http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 
-		#EXTINF:-1,Canal 3 Pinamar
-			#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 3 Pinamar
+		#EXTINF:-1,0619 Canal 3 Pinamar
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",0619 Canal 3 Pinamar
 				
 
-		#EXTINF:-1,Canal 4 Posadas
-			#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 4 Posadas
+		#EXTINF:-1,0620 Canal 4 Posadas
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",0620 Canal 4 Posadas
 				http://184.154.28.210:1935/canal4/canal4/live.m3u8
 
-		#EXTINF:-1,Canal 9 Comodoro Rivadavia
-			#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 9 Comodoro Rivadavia
+		#EXTINF:-1,0621 Canal 9 Comodoro Rivadavia
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",0621 Canal 9 Comodoro Rivadavia
 				
 
-		#EXTINF:-1,Canal 9 Salta
-			#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 9 Salta
+		#EXTINF:-1,0622 Canal 9 Salta
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",0622 Canal 9 Salta
 				http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
-		#EXTINF:-1,Canal Local Olavarria
-			#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal Local Olavarria
+		#EXTINF:-1,0623 Canal Local Olavarria
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",0623 Canal Local Olavarria
 				http://186.0.180.11:1935/festival/mp4:festival/playlist.m3u8
 
-		#EXTINF:-1,Medios Rioja
-			#EXTINF:-1 tvg-logo="" group-title="Argentina",Medios Rioja
+		#EXTINF:-1,0624 Medios Rioja
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",0624 Medios Rioja
 				http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8
 
-		#EXTINF:-1,Telered
-			#EXTINF:-1 tvg-logo="" group-title="Argentina",Telered
+		#EXTINF:-1,0625 Telered
+			#EXTINF:-1 tvg-logo="" group-title="Argentina",0625 Telered
 				http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
-
-		#EXTINF:-1,Telpin TV Canal 2 HD
-			#EXTINF:-1 tvg-logo="" group-title="Argentina",Telpin TV Canal 2 HD
-				
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Argentina",
@@ -2974,16 +2962,16 @@
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/itTP0R/Belgica.jpg" group-title="Belgica",[B][COLOR yellow]<== Belgica ==>[/COLOR][/B]
 		
 	
-		#EXTINF:-1,AC TV (Belgica)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/gbKfRG/AC_TV_Belgica.jpg" group-title="Belgica",AC TV (Belgica)
+		#EXTINF:-1,0626 AC TV (Belgica)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gbKfRG/AC_TV_Belgica.jpg" group-title="Belgica",0626 AC TV (Belgica)
 				
 				
-		#EXTINF:-1,ATV Antwerpen (Belgica)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/hjBN66/ATV_Antwerpen.jpg" group-title="Belgica",ATV Antwerpen (Belgica)
+		#EXTINF:-1,0627 ATV Antwerpen (Belgica)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hjBN66/ATV_Antwerpen.jpg" group-title="Belgica",0627 ATV Antwerpen (Belgica)
 				
 				
-		#EXTINF:-1,TV OOST (Belgica)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/ieqbYm/TV_OOST.jpg" group-title="Belgica",TV OOST (Belgica)
+		#EXTINF:-1,0628 TV OOST (Belgica)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ieqbYm/TV_OOST.jpg" group-title="Belgica",0628 TV OOST (Belgica)
 				
 	
 
@@ -2992,11 +2980,11 @@
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/fCqF76/BOLIVIA.png" group-title="BOLIVIA",[B][COLOR yellow]<== BOLIVIA ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 		
-		#EXTINF:-1,GLIZ (Espanhol) (BOLIVIA)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/gEaqR6/GLIZ.jpg" group-title="BOLIVIA",GLIZ (Espanhol) (BOLIVIA)
+		#EXTINF:-1,0629 GLIZ (Espanhol)(BOLIVIA)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/gEaqR6/GLIZ.jpg" group-title="BOLIVIA",0629 GLIZ (Espanhol)(BOLIVIA)
 				
-		#EXTINF:-1,ATB
-			#EXTINF:-1 tvg-logo="" group-title="BOLIVIA",ATB
+		#EXTINF:-1,0630 ATB
+			#EXTINF:-1 tvg-logo="" group-title="BOLIVIA",0630 ATB
 				http://stmv1.questreaming.com/atb/atb/playlist.m3u8
 				
 		#EXTINF:-1,
@@ -3021,8 +3009,8 @@
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/eidP0R/Bulgaria.png" group-title="Bulgaria",[B][COLOR yellow]<== Bulgaria ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 
-		#EXTINF:-1,Travel TV
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/djLktm/Travel_TV.jpg" group-title="Bulgaria",Travel TV
+		#EXTINF:-1,0631 Travel TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/djLktm/Travel_TV.jpg" group-title="Bulgaria",0631 Travel TV
 				http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 
 		#EXTINF:-1,
@@ -3035,20 +3023,20 @@
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/fJPmEm/Canada.png" group-title="Canada",[B][COLOR yellow]<== Canada ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 
-		#EXTINF:-1,CPAC (CANADA)(Parliament)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/c95Pm6/CPAC.jpg" group-title="Canadian TV",CPAC (CANADA)(Parliament)
+		#EXTINF:-1,0632 CPAC (CANADA)(Parliament)
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/c95Pm6/CPAC.jpg" group-title="Canadian TV",0632 CPAC (CANADA)(Parliament)
 				
 
-		#EXTINF:-1,2UE Sydney
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/BzmRzdL/c300.png" group-title="Canadian TV",2UE Sydney
+		#EXTINF:-1,0633 2UE Sydney
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/BzmRzdL/c300.png" group-title="Canadian TV",0633 2UE Sydney
 				
 
-		#EXTINF:-1,3AW Melbourne
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/BZ5RVcc/3awlogo.jpg" group-title="Canadian TV",3AW Melbourne
+		#EXTINF:-1,0634 3AW Melbourne
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/BZ5RVcc/3awlogo.jpg" group-title="Canadian TV",0634 3AW Melbourne
 				http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
 
-		#EXTINF:-1,4BC Brisbane
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/2sfXJRS/4bc-brisbane.png" group-title="Canadian TV",4BC Brisbane
+		#EXTINF:-1,0635 4BC Brisbane
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/2sfXJRS/4bc-brisbane.png" group-title="Canadian TV",0635 4BC Brisbane
 				http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
 
 		#EXTINF:-1,
@@ -3073,8 +3061,8 @@
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/cv0ZZm/Caribbean.jpg" group-title="Caribbean",[B][COLOR yellow]<== Caribbean ==>[/COLOR][/B]
 		
 		
-		#EXTINF:-1,Cinestrean TV
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/bBJGzR/Cinestrean_TV.jpg" group-title="Caribbean TV",Cinestrean TV
+		#EXTINF:-1,0636 Cinestrean TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bBJGzR/Cinestrean_TV.jpg" group-title="Caribbean TV",0636 Cinestrean TV
 
 
 
@@ -3082,8 +3070,8 @@
 	#EXTINF:-1 tvg-logo="https://i.ibb.co/wBRJ7Ms/vlajka-k-lodi-cr.jpg" group-title="Chéquia",[B][COLOR yellow]<== Chéquia ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 	
-		#EXTINF:-1,Elektrika TV
-			#EXTINF:-1 tvg-logo="https://i.ibb.co/k5LZZ93/elektrika-tv.jpg" group-title="Chéquia",Elektrika TV
+		#EXTINF:-1,0637 Elektrika TV
+			#EXTINF:-1 tvg-logo="https://i.ibb.co/k5LZZ93/elektrika-tv.jpg" group-title="Chéquia",0637 Elektrika TV
 				http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
 
 		#EXTINF:-1,
