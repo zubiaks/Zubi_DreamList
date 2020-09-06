@@ -1,68 +1,16 @@
 ﻿#EXTM3U
 	#EXTINF:-1,Zubi DreamList 
-		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="",Zubi DreamList V_0.91 (04/09/2020)
+		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="",Zubi DreamList V_0.92 (06/09/2020)
 			http://0.0.0.0:1234
+
+#EXTM3U url-tvg="https://ptiptv.tk/guia.xml"
 			
 #EXTINF:-1,[B][COLOR yellow]<== LÍNGUA PORTUGUESA ==>[/COLOR][/B]
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/hrOd4G/Portuguese_Flag.jpg" group-title="LÍNGUA PORTUGUESA",[B][COLOR yellow]<== LÍNGUA PORTUGUESA ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rtysxv1466191624.png/medium",RTP 1 
-http://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/' 
-
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yvttxv1466191438.png/medium",RTP 2 
-http://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/' 
-
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/cdi6t51487621667.png/medium",TVI 
-http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/KodiPortugal.pt.m3u8 
-
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/cdi6t51487621667.png/medium",TVI [Alternativa] 
-http://video-live.iol.pt:1935/live_tvi/LIVE_TVI-1/KodiPortugal.pt.m3u8 
-
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/medium",SIC NOTÍCIAS 
-http://live.impresa.pt/live/sicnot/sicnot540p.m3u8 
-
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/medium",SIC NOTÍCIAS [Alternativa] 
-http://live.impresa.pt/live/sicnot/sicnot.m3u8 
-
-#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvtqyy1461670745.png/medium",RTP3 
-http://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/' 
-
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png/medium",TVI24 
-http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/KodiPortugal.pt.m3u8 
-
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png/medium",TVI24 [Alternativa] 
-http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/KodiPortugal.pt.m3u8 
-
-#EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png/medium",EURONEWS PT 
-http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/27-live.m3u8 
-
-#EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png/medium",EURONEWS PT [Alternativa] 
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp 
-
-#EXTINF:-1 tvg-id="sicradical.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ustqwy1436891230.png/medium",SIC RADICAL 
-http://live.impresa.pt/live/sicrad/sicrad540p.m3u8 
-
-#EXTINF:-1 tvg-id="sicradical.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ustqwy1436891230.png/medium",SIC RADICAL[Alternativa] 
-http://live.impresa.pt/live/sicrad/sicrad.m3u8 
-
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png/medium",RTP AÇORES 
-http://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/' 
-
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png/medium",RTP ÁFRICA 
-http://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/' 
-
-#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xwquyw1438185975.png/medium",RTP INTERNACIONAL 
-http://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/' 
-
-#EXTINF:-1 tvg-id="RTPMadeira.pt"tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png/medium",RTP MADEIRA 
-http://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/' 
-
-#EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="http://www.thelogodb.com/images/media/logo/ysyyxw1438185870.png/medium",RTP MEMÓRIA 
-http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/' 
 
 
-	
 		#EXTINF:-1,0001 RTP 1
 			#EXTINF:-1 group-title="Generalistas" tvg-name="rtp1.pt" audio-track="pt" tvg-logo="https://image.ibb.co/n5vOUQ/RTP_1.png",0001 - RTP 1 (Generalistas)
 				
@@ -83,7 +31,7 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-A
 
 		#EXTINF:-1,0004 TVI
 			#EXTINF:-1 group-title="Generalistas"  tvg-name="tvi.pt" audio-track="pt" tvg-logo="https://image.ibb.co/gx1rG5/TVI.png",0004 TVI (Generalistas)
-				
+				https://ptiptv.tk/tvi.m3u8?TkgSocBadRYPxlBUAGGLSFMHYlE
 			#EXTINF:-1 group-title="Generalistas"  tvg-name="tvi.pt" audio-track="pt" tvg-logo="https://image.ibb.co/gx1rG5/TVI.png",0004 TVI (Alternativa)(Generalistas)
 
 
@@ -152,8 +100,12 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-A
 
 
 		#EXTINF:-1,0022 ARTV
-			#EXTINF:-1 group-title="Informacao" tvg-id="ARTV.pt" tvg-logo="https://image.ibb.co/ejOftk/ARTV.png",0022 ARTV (Informacao)
-				
+			#EXTINF:-1 group-title="Informacao" tvg-id="ARTV" tvg-logo="https://image.ibb.co/ejOftk/ARTV.png",0022 ARTV (Informacao)
+				https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8
+
+		#EXTINF:-1,KURIAKOS TV
+			#EXTINF:-1 group-title="Informacao" tvg-id="ARTV.pt" tvg-logo="",KURIAKOS TV
+				http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
 
 		#EXTINF:-1,0030 TV Globo
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cM5LG5/TV_Globo.jpg" group-title="Entretenimento",0030 TV Globo (Entretenimento)
@@ -221,7 +173,7 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-A
 				
 		#EXTINF:-1,0085 REDE BRASIL (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/mSzVjG/REDE_BRASIL.png" group-title="Brasil",0085 Rede Brasil (SP)(Brasil)
-				
+				http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
 				
 		#EXTINF:-1,0086 Pocos Tv (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/iXK3G5/Pocos_Tv_Brasil.png" group-title="Brasil",0086 Pocos Tv (Brasil)
@@ -609,7 +561,7 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-A
 
 		#EXTINF:-1,0018 TVI 24
 			#EXTINF:-1 group-title="Informacao" tvg-id="TVI24.pt" tvg-logo="https://image.ibb.co/g2oVtk/TVI_24.png",0018 TVI 24 (Informacao)
-				
+				https://ptiptv.tk/tvi24.m3u8?TkgSocBadRYPxlBUAGGLSFMHYlE
 
 		#EXTINF:-1,0019 CM TV
 			#EXTINF:-1 group-title="Informacao" tvg-name="CM TV" audio-track="pt" tvg-logo="https://image.ibb.co/cLCC65/CM_TV.jpg",0019 CM TV (Informacao)
@@ -641,7 +593,9 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-A
 					
 		#EXTINF:-1,0130 Euronews
 			#EXTINF:-1 group-title="Informacao" tvg-logo="https://image.ibb.co/ceSqtk/Euronews.png",0130 Euronews (Russo)
-				
+				https://ptiptv.tk/euronews-pt.m3u8?TkgSocBadRYPxlBUAGGLSFMHYlE
+			#EXTINF:-1 tvg-id="EURN" tvg-logo="https://ptiptv.tk/logo?i=EURNI" tvg-language="en" group-title="News",Euronews 🇬🇧
+				https://ptiptv.tk/euronews.m3u8?TkgSocBadRYPxlBUAGGLSFMHYlE
 
 		#EXTINF:-1,0131 Canale 7 (News)(Italia)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/h1Dvmw/Canale_7.png" group-title="Informacao",0131 Canale 7 (News)(Italia)
@@ -649,7 +603,7 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-A
 
 		#EXTINF:-1,0132 Sky News
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/fiXYik/Sky_News.jpg" group-title="Informacao",0132 Sky News (Ingles)
-
+				http://skynews-go-hls.ak-cdn.skydvn.com/skynews/1404/latest.m3u8
 
 		#EXTINF:-1,01333 Sky TG24 (Italian)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/erJQUQ/Sky_TG24_Italian.png" group-title="Informacao",01333 Sky TG24 (Italian)
@@ -683,7 +637,7 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-A
 
 		#EXTINF:-1,0140 RaiNews24 (Italiano)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/fjGSuQ/RAI_NEWS.png" group-title="Informacao",0140 RaiNews24 (Italiano)
-				
+				http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 
 		#EXTINF:-1,0141 Phoenix InfoNews
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/hzgGok/Phoenix_Info_News.png" group-title="Informacao",0141 Phoenix InfoNews (Chines)
@@ -691,7 +645,7 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-A
 
 		#EXTINF:-1,0142 TVE 24h
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/eLtb65/TVE_24h.png" group-title="Informacao",0142 TVE 24h (Espanhol)
-				
+				http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 
 		#EXTINF:-1,0143 ANN TV (Arabe)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/nwR5UQ/ANN_TV_Arabe.jpg" group-title="Informacao",0143 ANN TV (Arabe)
@@ -763,7 +717,9 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-A
 		#EXTINF:-1,0158 BLOOMBERG News (News)(English)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/hUiAyw/BLOOMBERG_News_News_English.png" group-title="Informacao",0158 BLOOMBERG News (News)(English)
 				http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-			
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/hUiAyw/BLOOMBERG_News_News_English.png" group-title="Informacao",0158 BLOOMBERG News (News)(English)
+				https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+				
 		#EXTINF:-1,0159 Star Maza (News) (India)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/jbDvmw/Star_Maza.jpg" group-title="Informacao",0159 Star Maza (News) (India)
 				
@@ -782,7 +738,7 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-A
 
 		#EXTINF:-1,0163 NHK WORLD HD (Japão)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/hyiEDb/NHK_WORLD.png" group-title="Informacao",0163 NHK WORLD HD (Japão)
-				
+				http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 				
 		#EXTINF:-1,0164 Deutsche Welle [Alemanha]
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/bO0NzG/DW_HD.png" group-title="Informacao",0164 Deutsche Welle [Alemanha] (English)
@@ -843,10 +799,16 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-A
 		#EXTINF:-1,0176 CGTN 1
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",0176 CGTN 1
 				https://livees.cgtn.com/1000e/prog_index.m3u8
+			#EXTINF:-1 tvg-id="CGTN" tvg-logo="https://ptiptv.tk/logo?i=CGTN" tvg-language="en" group-title="News",CGTN (en)
+				http://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 				
 		#EXTINF:-1,0177 CGTN 2
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",0177 CGTN 2
 				http://live.cgtn.com/cctv-e.m3u8
+
+		#EXTINF:-1,CGTN Documentary (en)
+			#EXTINF:-1 tvg-id="CGTNDHD" tvg-logo="" tvg-language="en" group-title="Informacao",CGTN Documentary (en)
+				http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 				
 		#EXTINF:-1,0178 Tv Uno
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",0178 Tv Uno
@@ -960,6 +922,18 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-A
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",Mir 24 [Russia]
 				http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 				
+		#EXTINF:-1,CNA (Singapore)
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",CNA (Singapore)
+				https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",
+				
+				
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Informacao",
+				
+				
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",
 				
@@ -998,7 +972,7 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-A
 
 		#EXTINF:-1,0027 TVI Ficcao
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/mPNVYk/TVI_Ficcao.jpg" group-title="Entretenimento",0027 TVI Ficcao (Entretenimento)
-				
+				https://ptiptv.tk/tvi-direct.m3u8?TkgSocBadRYPxlBUAGGLSFMHYlE
 
 		#EXTINF:-1,0028 TVI Reality
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/hcr2r5/TVI_Reality.jpg" group-title="Entretenimento",0028 TVI Reality (Entretenimento)
@@ -1040,14 +1014,14 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-A
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/io3jeG/Travel_Channel_1.png" group-title="Entretenimento",0209 Travel Channel +1
 
 
-		#EXTINF:-1,0210 Fashion TV (HD)
+		#EXTINF:-1,0210 Fashion TV
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/kVrWRw/Fashion_TV.gif" group-title="Entretenimento",0210 Fashion TV
 				https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/dQszDb/Fashion_TV_HD.jpg" group-title="Entretenimento",Fashion TV HD (Ingles)
-				
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/dQszDb/Fashion_TV_HD.jpg" group-title="Entretenimento",Fashion TV Paris
+				http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
 			
-		#EXTINF:-1,0211 Fashion TV BRIDAL
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kVrWRw/Fashion_TV.gif" group-title="Entretenimento",0211 Fashion TV BRIDAL
+		#EXTINF:-1,0211 Fashion TV Midnight Secrets
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/kVrWRw/Fashion_TV.gif" group-title="Entretenimento",0211 Fashion TV Midnight Secrets
 				http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 			
 		#EXTINF:-1,0212 Fashion TV PG13
@@ -1588,7 +1562,7 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-A
 
 		#EXTINF:-1,0049 Cartoon Network
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cQGDUQ/CARTOON_NETWORK.png" group-title="Infantil",0049 Cartoon Network (Infantil)
-				
+				http://188.35.9.11:21151/udp/185f
 
 		#EXTINF:-1,0050 Nickelodeon
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/jebUBw/Nickelodeon.png" group-title="Infantil",0050 Nickelodeon (Infantil)
@@ -1700,13 +1674,16 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-A
 			#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="Infantil",0462 Kuriakos Kids
 				http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",
-				
+		#EXTINF:-1,Zig Zag
+			#EXTINF:-1 tvg-id="ZIGZAG" tvg-logo="https://ptiptv.tk/logo?i=ZIGZAG" group-title="Infantil",Zig Zag
+				https://ptiptv.tk/zigzag.m3u8
+			#EXTINF:-1 tvg-id="ZIGZAG" tvg-logo="https://ptiptv.tk/logo?i=ZIGZAG" group-title="Kids" catchup="default" catchup-source="https://ptiptv.tk/catchup/ZIGZAG?t=${start}&TkgSocBadRYPxlBUAGGLSFMHYlE",Zig Zag
+				https://ptiptv.tk/zigzag.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F85.0.4183.83+Safari%2F537.36+Edg%2F85.0.564.44
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Infantil",
-				
+		#EXTINF:-1,#EstudoEmCasa
+			#EXTINF:-1 tvg-id="ESTUDO" tvg-logo="https://ptiptv.tk/logo?i=ESTUDO" group-title="Kids" catchup="default" catchup-source="https://ptiptv.tk/catchup/ESTUDO?t=${start}&TkgSocBadRYPxlBUAGGLSFMHYlE",#EstudoEmCasa
+				https://ptiptv.tk/estudo.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F85.0.4183.83+Safari%2F537.36+Edg%2F85.0.564.44
+	
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",
@@ -2308,6 +2285,14 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-A
 			#EXTINF:-1 tvg-logo="" group-title="Musica",0457 Sexy KpopTV
 				
 
+		#EXTINF:-1,Radio Freccia
+			#EXTINF:-1 tvg-logo="" group-title="Musica",Radio Freccia
+				https://rtl-radio-stream-thron.akamaized.net/live-video/video2/ngrp:video2/chunklist_b1196000.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Musica",
+				
+
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Musica",
 				
@@ -2516,9 +2501,9 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-A
 			#EXTINF:-1 tvg-logo="" group-title="Temáticos",0493 Travel HD
 				http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 
-		#EXTINF:-1,0494 Silence TV
-			#EXTINF:-1 tvg-logo="" group-title="Temáticos",0494 Silence TV
-				
+		#EXTINF:-1,0494 Silence TV WORLD
+			#EXTINF:-1 tvg-logo="" group-title="Temáticos",0494 Silence TV WORLD
+				http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 
 		#EXTINF:-1,0495 HD Media 3D
 			#EXTINF:-1 tvg-logo="" group-title="Temáticos",0495 HD Media 3D
@@ -2864,6 +2849,38 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-A
 		#EXTINF:-1,SOBRENATURAL TV
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",SOBRENATURAL TV
 				http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+
+		#EXTINF:-1,U Channel (Indonésia)
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",U Channel (Indonésia)
+				http://119.235.249.58:1935/uchannel/live/playlist.m3u8
+
+		#EXTINF:-1,Wesal TV (Sunni Islamic) (saudi arabia)
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",Wesal TV (Sunni Islamic) (saudi arabia)
+				http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
+
+		#EXTINF:-1,Revelation TV
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",Revelation TV
+				http://rtv.cdn.mangomolo.com/rtv/smil:rtv.stream.smil/playlist.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",
+				
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",
@@ -3497,6 +3514,18 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-A
 			#EXTINF:-1 tvg-logo="https://i.imgur.com/dmHjzfS.png" group-title="Chile",TELE ISLAS SD
 				http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 
+		#EXTINF:-1,CANAL EP (CHILE)
+			#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/el_pinguino_cl_zpsvhkttrc0.png" group-title="Chile",CANAL EP (CHILE)
+				http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Chile",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Chile",
+				
+
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Chile",
 				
@@ -3541,10 +3570,6 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-A
 
 		#EXTINF:-1,RTHK 32 (Hong Kong)
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/TtjmZkt/220px-RTHK-TV-32-svg.png" group-title="China",RTHK 32 (Hong Kong)
-				
-
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="China",
 				
 
 		#EXTINF:-1,
@@ -3604,9 +3629,9 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-A
 			#EXTINF:-1 tvg-logo="" group-title="Colômbia",Teleislas (Regional)
 				http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Colômbia",
-				
+		#EXTINF:-1,CARACOL TV (COL)
+			#EXTINF:-1 tvg-logo="" group-title="Colômbia",CARACOL TV (COL)
+				https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Colômbia",
@@ -3886,7 +3911,7 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-A
 				
 		#EXTINF:-1,TV GALICIA
 			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/mHd0tm/TV_GALICIA.jpg",TV GALICIA
-				
+				http://europa-crtvg.flumotion.com/playlist.m3u8
 				
 		#EXTINF:-1,TELEMADRID (Espanha)
 			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/cM1Oym/TELEMADRID_Espanha.png",TELEMADRID (Espanha)
@@ -5288,9 +5313,38 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-A
 
 		#EXTINF:-1, (Russia)
 			#EXTINF:-1 tvg-logo="" group-title="Russia", (Russia)
+
+
+				
+#EXTINF:-1,[B][COLOR yellow]<== Singapore ==>[/COLOR][/B]
+	#EXTINF:-1 tvg-logo="" group-title="Singapore",[B][COLOR yellow]<== Singapore ==>[/COLOR][/B]
+		http://0.0.0.0:1234
+
+		#EXTINF:-1,Mediacorp 8
+			#EXTINF:-1 tvg-logo="" group-title="Singapore",Mediacorp 8
+				http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/330
+
+		#EXTINF:-1,Mediacorp 5
+			#EXTINF:-1 tvg-logo="" group-title="Singapore",Mediacorp 5
+				http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/329
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Singapore",
 				
 
-
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Singapore",
+				
+			
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Singapore",
+				
+			
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Singapore",
+				
+			
+			
 
 #EXTINF:-1,[B][COLOR yellow]<== Suica ==>[/COLOR][/B]
 	#EXTINF:-1 tvg-logo="https://i.ibb.co/j3FtDBs/image.jpg" group-title="Suica",[B][COLOR yellow]<== Suica ==>[/COLOR][/B]
@@ -5450,9 +5504,9 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-A
 			#EXTINF:-1 tvg-logo="" group-title="Umited Kingdom",UTV 
 				
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Umited Kingdom",
-				
+		#EXTINF:-1,Venus TV
+			#EXTINF:-1 tvg-logo="" group-title="Umited Kingdom",Venus TV
+				http://45.77.90.56:8080/hls/mystream.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Umited Kingdom",
@@ -5647,9 +5701,11 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-A
 				
 
 		#EXTINF:-1,Telesur
-			#EXTINF:-1 tvg-logo="" group-title="Venezuela",Telesur
+			#EXTINF:-1 tvg-logo="https://www.telesurtv.net/english/pages/Especiales/EN-Vzla-DECIDE/images/teleSUR-Logo2013-horizontal.png" group-title="Venezuela",Telesur
 				http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-
+			#EXTINF:-1 tvg-logo="https://www.telesurtv.net/english/pages/Especiales/EN-Vzla-DECIDE/images/teleSUR-Logo2013-horizontal.png" group-title="Venezuela",Telesur (1)
+				https://streaming.openmultimedia.biz/blive/ngrp:balta.stream_all/playlist.m3u8
+				
 		#EXTINF:-1,antares tv
 			#EXTINF:-1 tvg-logo="" group-title="Venezuela",antares tv
 				
@@ -9845,6 +9901,18 @@ https://ia600504.us.archive.org/13/items/VampCapitulo168/168.mp4?IMDSFULL
 		#EXTINF:-1,Radio Antena 1
 			#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="https://image.ibb.co/dOJUZm/Radio_Antena_1.jpg", Rádio Antena 1
 				http://radiocast.rtp.pt/antena180a.mp3
+			#EXTINF:-1 tvg-id="RDP1" tvg-logo="https://ptiptv.tk/logo?i=RDP1" group-title="Entertainment",Antena 1 (aud)
+				http://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8?DVR
+
+		#EXTINF:-1,Radio Antena 2
+			#EXTINF:0, tvg-logo="https://image.ibb.co/kxbium/Radio_Antena_2.jpg" group-title="RADIOS PORTUGUESAS", Radio Antena 2
+				http://radiocast.rtp.pt/antena280a.mp3
+			#EXTINF:-1 tvg-id="RDP2" tvg-logo="https://ptiptv.tk/logo?i=RDP2" group-title="Entertainment",Antena 2 (aud)
+				http://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8?DVR
+
+		#EXTINF:-1,Radio Antena 3
+			#EXTINF:-1 tvg-id="RDP3" tvg-logo="https://image.ibb.co/euY2n6/Radio_Antena_3.jpg" group-title="Entertainment",Antena 3 (aud)
+				http://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8?DVR
 
 		#EXTINF:-1,Mais Kizomba
 			#EXTINF:-1, tvg-logo="https://image.ibb.co/khxTS6/Mais_Kizomba.png" group-title="RADIOS PORTUGUESAS", Mais Kizomba
@@ -9874,18 +9942,10 @@ https://ia600504.us.archive.org/13/items/VampCapitulo168/168.mp4?IMDSFULL
 			#EXTINF:-1, tvg-logo="https://image.ibb.co/c9mGEm/HIPER_FM.jpg" group-title="RADIOS PORTUGUESAS", HIPER FM
 				
 
-		#EXTINF:-1,Radio Antena 2
-			#EXTINF:0, tvg-logo="https://image.ibb.co/kxbium/Radio_Antena_2.jpg" group-title="RADIOS PORTUGUESAS", Radio Antena 2
-				http://radiocast.rtp.pt/antena280a.mp3
-		
-		#EXTINF:-1,Radio Antena 3
-			#EXTINF:0, tvg-logo="https://image.ibb.co/euY2n6/Radio_Antena_3.jpg" group-title="RADIOS PORTUGUESAS", Radio Antena 3
-				
-			 
 		#EXTINF:-1,Radio Comercial
 			#EXTINF:0, tvg-logo="https://image.ibb.co/bPnj0R/Radio_Comercial.jpg" group-title="RADIOS PORTUGUESAS", Radio Comercial
-				http://mcrscast.mcr.iol.pt/comercial.mp3
-			 
+				
+
 		#EXTINF:-1,Radio RFM
 			#EXTINF:0, tvg-logo="https://image.ibb.co/hKFREm/Radio_RFM.png" group-title="RADIOS PORTUGUESAS", Radio RFM
 
@@ -9896,7 +9956,7 @@ https://ia600504.us.archive.org/13/items/VampCapitulo168/168.mp4?IMDSFULL
 			 
 		#EXTINF:-1,Radio Cidade FM
 			#EXTINF:0, tvg-logo="https://image.ibb.co/nqT7LR/Radio_Cidade_FM.png" group-title="RADIOS PORTUGUESAS", Radio Cidade FM
-				http://mcrscast.mcr.iol.pt/cidadefm
+				
 		
 		#EXTINF:-1,Radio Renascença
 			#EXTINF:0, tvg-logo="https://image.ibb.co/fqPQ76/Radio_Renascen_a.jpg" group-title="RADIOS PORTUGUESAS", Radio Renascença
@@ -9921,6 +9981,65 @@ https://ia600504.us.archive.org/13/items/VampCapitulo168/168.mp4?IMDSFULL
 		#EXTINF:-1,Rádio Quântica
 			#EXTINF:0, tvg-logo="" group-title="RADIOS PORTUGUESAS",Rádio Quântica
 				
+		#EXTINF:-1,Antena 1 Açores (aud)
+			#EXTINF:-1 tvg-id="RDP1AC" tvg-logo="https://ptiptv.tk/logo?i=RDP1AC" group-title="Entertainment",Antena 1 Açores (aud)
+				http://streaming-live-app.rtp.pt/liveradio/antena1acores80a/playlist.m3u8?DVR
+
+		#EXTINF:-1,Antena 1 Madeira (aud)
+			#EXTINF:-1 tvg-id="RDP1MD" tvg-logo="https://ptiptv.tk/logo?i=RDP1MD" group-title="Entertainment",Antena 1 Madeira (aud)
+				http://streaming-live-app.rtp.pt/liveradio/antena1madeira80a/playlist.m3u8?DVR
+
+		#EXTINF:-1,Antena 3 Madeira (aud)
+			#EXTINF:-1 tvg-id="RDP3MD" tvg-logo="https://ptiptv.tk/logo?i=RDP3MD" group-title="Entertainment",Antena 3 Madeira (aud)
+				http://streaming-live-app.rtp.pt/liveradio/antena3madeira80a/playlist.m3u8?DVR
+
+		#EXTINF:-1,RDP Internacional (aud)
+			#EXTINF:-1 tvg-id="RDPI" tvg-logo="https://ptiptv.tk/logo?i=RDPI" group-title="Entertainment",RDP Internacional (aud)
+				http://streaming-live-app.rtp.pt/liveradio/rdpint80a/playlist.m3u8?DVR
+
+		#EXTINF:-1,RDP África (aud)
+			#EXTINF:-1 tvg-id="RDPA" tvg-logo="https://ptiptv.tk/logo?i=RDPA" group-title="Entertainment",RDP África (aud)
+				http://streaming-live-app.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8?DVR
+
+		#EXTINF:-1,Antena 1 Memória (aud)
+			#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP1M" group-title="Entertainment",Antena 1 Memória (aud)
+				http://streaming-live-app.rtp.pt/liveradio/antena1memoria80a/playlist.m3u8?DVR
+
+		#EXTINF:-1,Antena 1 Lusitânia (aud)
+			#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP1L" group-title="Music",Antena 1 Lusitânia (aud)
+				http://streaming-live-app.rtp.pt/liveradio/lusitania80a/playlist.m3u8?DVR
+
+		#EXTINF:-1,Antena 1 Vida (aud)
+			#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP1V" group-title="Entertainment",Antena 1 Vida (aud)
+				http://streaming-live-app.rtp.pt/liveradio/vida80a/playlist.m3u8?DVR
+
+		#EXTINF:-1,Antena 1 Fado (aud)
+			#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP1F" group-title="Music",Antena 1 Fado (aud)
+				http://streaming-live-app.rtp.pt/liveradio/antena1fado80a/playlist.m3u8?DVR
+
+		#EXTINF:-1,Antena 2 Jazzin’ (aud)
+			#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP2J" group-title="Music",Antena 2 Jazzin’ (aud)
+				http://streaming-live-app.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8?DVR
+
+		#EXTINF:-1,Antena 2 Ópera (aud)
+			#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP2O" group-title="Music",Antena 2 Ópera (aud)
+				http://streaming-live-app.rtp.pt/liveradio/antena2opera80a/playlist.m3u8?DVR
+
+		#EXTINF:-1,Rádio ZigZag (aud)
+			#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=ZIGZAGR" group-title="Kids",Rádio ZigZag (aud)
+				http://streaming-live-app.rtp.pt/liveradio/zigzag80a/playlist.m3u8?DVR
+
+		#EXTINF:-1,Rádio Observador (aud)
+			#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=OBSRV" group-title="News",Rádio Observador (aud)
+				http://streamingv2.shoutcast.com/observador_64.aac
+
+		#EXTINF:-1,SBSR FM (aud)
+			#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=SBSRFM" group-title="Music",SBSR FM (aud)
+				http://centova.radios.pt/proxy/435?mp=/stream
+
+		#EXTINF:-1,Rádio MEO Sudoeste (aud)
+			#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RMSW" group-title="Music",Rádio MEO Sudoeste (aud)
+				http://centova.radios.pt/proxy/495?mp=/stream
 
 
 
@@ -10675,25 +10794,30 @@ http://centova6.ciclanohost.com.br:9312/;stream.nsv
 			#EXTINF:-1 tvg-logo="" group-title="VOD XXX",Squirt de teen
 				http://cdn.servitubes.com/videos/e/e/6/1/f/ee61f46e421e18382ff152b4cdc74c413236429a.mp4
 			
-#EXTINF:0 tvg-logo="https://i.imgur.com/j0X1dRk.png" group-title="ADULTOS(+18)",XXX-Babes 17
-http://finevids.xxx/get_file/1/3d6feb808a0edfcedea916dfbed0f428/82000/82103/82103.mp4?IMDSFULL
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/j0X1dRk.png" group-title="ADULTOS(+18)",XXX-Babes 18
-http://finevids.xxx/get_file/1/197767f6be9c3d33665cde6f29d4f8fb/81000/81697/81697.mp4?IMDSFULL
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/j0X1dRk.png" group-title="ADULTOS(+18)",XXX-Babes 19
-http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4?IMDSFULL
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/j0X1dRk.png" group-title="ADULTOS(+18)",XXX-Babes 2
-http://anysex.com/get_file/1/fbb2fa94aaba78f34860bbaad1e245c2/202000/202080/202080.mp4?IMDSFULL
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/j0X1dRk.png" group-title="ADULTOS(+18)",XXX-Babes 20
-http://finevids.xxx/get_file/1/0a0b117bc9a6a1ed64c0ced9cedc4f0c/81000/81667/81667.mp4?IMDSFULL
+			#EXTINF:0 tvg-logo="https://i.imgur.com/j0X1dRk.png" group-title="ADULTOS(+18)",XXX-Babes 17
+				http://finevids.xxx/get_file/1/3d6feb808a0edfcedea916dfbed0f428/82000/82103/82103.mp4?IMDSFULL
 
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="VOD XXX",
-				
+			#EXTINF:0 tvg-logo="https://i.imgur.com/j0X1dRk.png" group-title="ADULTOS(+18)",XXX-Babes 18
+				http://finevids.xxx/get_file/1/197767f6be9c3d33665cde6f29d4f8fb/81000/81697/81697.mp4?IMDSFULL
+
+
+			#EXTINF:0 tvg-logo="https://i.imgur.com/j0X1dRk.png" group-title="ADULTOS(+18)",XXX-Babes 19
+				http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4?IMDSFULL
+
+		
+			#EXTINF:0 tvg-logo="https://i.imgur.com/j0X1dRk.png" group-title="ADULTOS(+18)",XXX-Babes 2
+				http://anysex.com/get_file/1/fbb2fa94aaba78f34860bbaad1e245c2/202000/202080/202080.mp4?IMDSFULL
+
+
+			#EXTINF:0 tvg-logo="https://i.imgur.com/j0X1dRk.png" group-title="ADULTOS(+18)",XXX-Babes 20
+				http://finevids.xxx/get_file/1/0a0b117bc9a6a1ed64c0ced9cedc4f0c/81000/81667/81667.mp4?IMDSFULL
+
+
+		#EXTINF:-1,Naughty America - I Have a Wife (Allie Nicole)
+			#EXTINF:-1 tvg-logo="" group-title="VOD XXX",Naughty America - I Have a Wife (Allie Nicole)
+				https://videos.xxxziz.com/media/videos/h264/4267_480p.mp4
 			
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="VOD XXX",
