@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 	#EXTINF:-1,Zubi DreamList 
-		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="",Zubi DreamList V_0.94 (12/09/2020)
+		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="",Zubi DreamList V_0.95 (15/09/2020)
 			http://0.0.0.0:1234
 
 #EXTM3U url-tvg="https://ptiptv.tk/guia.xml"
@@ -25,7 +25,8 @@
 				
 		#EXTINF:-1,0003 SIC
 			#EXTINF:-1 group-title="Generalistas" tvg-id="sic.pt" tvg-logo="https://image.ibb.co/mGcbik/SIC.png",0003 SIC  (Generalistas)
-				http://live.impresa.pt/live/sic/sic540p.m3u8
+				#EXTVLCOPT:network-caching=1000
+					http://live.impresa.pt/live/sic/sic540p.m3u8
 			#EXTINF:-1 group-title="Generalistas" tvg-id="sic.pt" tvg-logo="https://image.ibb.co/mGcbik/SIC.png",0003 SIC (Alternativa)(Generalistas)
 				http://live.impresa.pt/live/sic/sic.m3u8
 
@@ -99,8 +100,8 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/ebo6m5/Localvis_o_TV.jpg" group-title="Informacao",0021 Localvisão TV (Informacao)
 				
 
-		#EXTINF:-1,Macau
-			#EXTINF:-1 tvg-logo="" group-title="",Macau
+		#EXTINF:-1,TDM - Teledifusão de Macau
+			#EXTINF:-1 tvg-logo="" group-title="",TDM - Teledifusão de Macau
 				https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 
 		#EXTINF:-1,0022 ARTV
@@ -671,9 +672,11 @@
 			#EXTINF:-1 group-title="Informacao" tvg-name="CM TV" audio-track="pt" tvg-logo="https://image.ibb.co/cLCC65/CM_TV.jpg",0019 CM TV (Informacao)
 				
 
-		#EXTINF:-1,0020 Economico TV
-			#EXTINF:-1 group-title="Informacao" tvg-id="EconomicaTV.pt" tvg-logo="https://image.ibb.co/kLXem5/Economico_TV.png",0020 Economico TV (Informacao)
-
+		#EXTINF:-1,cbn news
+			#EXTINF:-1 group-title="Informacao" tvg-id="EconomicaTV.pt" tvg-logo="",cbn news
+				http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+			#EXTINF:-1 group-title="Informacao" tvg-id="EconomicaTV.pt" tvg-logo="",cbn news
+				http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 
 		#EXTINF:-1,0023 Record News
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/fHqjtk/Record_News.png" group-title="Informacao",0023 Record News (Informacao)
@@ -1214,6 +1217,10 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/gq9hzG/Gong.png" group-title="Entretenimento",0224 Gong (Frances)(Anime)(Drama)(K-pop)(e-Sports)
 				http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
 
+		#EXTINF:-1,GONG Max
+			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",GONG Max
+				http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+			
 		#EXTINF:-1,0225 TBD
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/Wycmv49/Tbd-logo.png" group-title="Entretenimento",0225 TBD
 				http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
@@ -1222,9 +1229,21 @@
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/NrqWVPd/streaming-adult.png" group-title="Entretenimento",0226 Adult Swim Live
 				
 			
-		#EXTINF:-1,HD FASHIO STILE
-			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",HD FASHIO STILE
+		#EXTINF:-1,HD Fashion & Lifestyle TV
+			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",HD Fashion & Lifestyle TV
 				http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
+			
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",
+				
+			
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",
+				
+			
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",
+				
 			
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",
@@ -1644,8 +1663,8 @@
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",0315 RED BULL TV
 				https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?IMDSFULL
 
-		#EXTINF:-1,CDO
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",CDO
+		#EXTINF:-1,CDO - Canal del Deporte Olímpico
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",CDO - Canal del Deporte Olímpico
 				http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 
 		#EXTINF:-1,ALL KASS SPORTS 1
@@ -1684,9 +1703,11 @@
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",RTE SPORTS
 				https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",
-				
+		#EXTINF:-1,Dubai Racing
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",Dubai Racing
+				http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+			#EXTINF:-1 tvg-logo="" group-title="Desporto",Dubai Racing
+				http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",
@@ -1834,7 +1855,7 @@
 
 		#EXTINF:-1,0334 Cachipum.tv (Chile)
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",0334 Cachipum.tv (Chile)
-				
+				http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist.m3u8
 
 		#EXTINF:-1,0335 LOCOMOTION TV
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",0335 Locomotion TV
@@ -2254,9 +2275,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",RETRÔ PLUS TV
 				https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
-		#EXTINF:-1,The Retro Channel
-			#EXTINF:-1 tvg-logo="" group-title="Musica",The Retro Channel
-			
+		#EXTINF:-1,7TV Murcia
+			#EXTINF:-1 tvg-logo="" group-title="Musica",7TV Murcia
+				http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
 
 		#EXTINF:-1,0390 Vibee
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/btSj3m/Vibee.jpg" group-title="Musica",0390 Vibee
@@ -2497,7 +2518,9 @@
 		#EXTINF:-1,0450 Portal Foxmix
 			#EXTINF:-1 tvg-logo="" group-title="Musica",0450 Portal Foxmix
 				http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-
+			#EXTINF:-1 tvg-logo="" group-title="Musica",0450 Portal FoxMix | HD
+				http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+				
 		#EXTINF:-1,0451 Top Latino
 			#EXTINF:-1 tvg-logo="" group-title="Musica",0451 Top Latino
 				
@@ -2578,17 +2601,21 @@
 			#EXTINF:-1 tvg-logo="" group-title="Musica",ROCK TV
 				http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8
 
-		#EXTINF:-1,CMC MUSIC
-			#EXTINF:-1 tvg-logo="" group-title="Musica",CMC MUSIC
+		#EXTINF:-1,CMC - California Music CHANEL
+			#EXTINF:-1 tvg-logo="" group-title="Musica",CMC - California Music CHANEL
 				https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
+			#EXTINF:-1 tvg-logo="" group-title="Musica",CMC - California Music CHANEL
+				http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream0.m3u8
 
-		#EXTINF:-1,CMC 2
-			#EXTINF:-1 tvg-logo="" group-title="Musica",CMC 2
+		#EXTINF:-1,CMC - Country Music Channel
+			#EXTINF:-1 tvg-logo="" group-title="Musica",CMC - Country Music Channel
 				https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+			#EXTINF:-1 tvg-logo="" group-title="Musica",CMC - Country Music Channel
+				http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Musica",
-				
+		#EXTINF:-1,Teleritmo (MEXICO)
+			#EXTINF:-1 tvg-logo="https://i.imgur.com/897e9wy.png" group-title="Musica",Teleritmo (MEXICO)
+				http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Musica",
@@ -2840,9 +2867,9 @@
 			#EXTINF:-1 tvg-logo="" group-title="Temáticos",ESA Web TV
 				http://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Temáticos",
-				
+		#EXTINF:-1,Cazavision
+			#EXTINF:-1 tvg-logo="" group-title="Temáticos",Cazavision
+				https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
 			
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Temáticos",
@@ -3020,7 +3047,7 @@
 				 
 		#EXTINF:-1,0522 ENLACE JUVENIL (Costa Rica)(Christian)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/fLrY1G/ENLACE_JUVENIL_Costa_Rica_Christian.jpg" group-title="Religioso",0522 ENLACE JUVENIL (Costa Rica)(Christian)
-				
+				http://api.new.livestream.com/accounts/4885740/events/2294538/live.m3u8
 					
 		#EXTINF:-1,0523 logos tv (Espanha)
 			#EXTINF:-1 group-title="Religioso" tvg-id="" "tvg-logo="https://image.ibb.co/dksR3k/logos_tv_espa_a.jpg",0523 logos tv (Espanha)
@@ -3306,13 +3333,87 @@
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",Rede Premium TV
 				https://slbps-sambatech.akamaized.net/live/3410%2C8879%2C12263efc906e7f003af8490bfe3c4941%3Bbase64np%3BeUxpdAC7dOnee8E%21/amlst%3AeUyRbR3wcejBO03M/chunklist.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Religioso",
-				
+		#EXTINF:-1,ReformaTV
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",ReformaTV
+				http://livestreamcdn.net:1935/ReformaTV/smil:ReformaTV.smil/chunklist_w1662381270_b1300000_slen.m3u8
 
-		#EXTINF:-1,
-			#EXTINF:-1 tvg-logo="" group-title="Religioso",
-				
+		#EXTINF:-1,rtv vida
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",rtv vida
+				http://178.32.53.254/radiovida/livestream/chunklist.m3u8
+
+		#EXTINF:-1,REEDIFICANDO LOS MUROS CAIDOS RADIO
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",REEDIFICANDO LOS MUROS CAIDOS RADIO
+				http://ca1.ministeriotv.com:1935/262/262/chunklist_w1777282906.m3u8
+
+		#EXTINF:-1,CTN INT.
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",CTN INT.
+				http://va1.ministeriotv.com:1936/48_rp/smil:48.smil/chunklist_w1816794543_b1556000_slesp.m3u8
+
+		#EXTINF:-1,CTNi
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",CTNi
+				http://184.164.158.202:1936/48/smil:48.smil/chunklist_w840077962_b1564000_sleng.m3u8
+
+		#EXTINF:-1,CDM Internacional
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",CDM Internacional
+				http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
+
+		#EXTINF:-1,Comunion TV
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",Comunion TV
+				http://50.30.37.36:1935/live/smil:MyStream.smil/chunklist.m3u8
+
+		#EXTINF:-1,Red Advenir
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",Red Advenir
+				http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/chunklist.m3u8?wowzasessionid=1788782041
+
+		#EXTINF:-1,iglesia ebenezer honduras
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",iglesia ebenezer honduras
+				http://hds4.worldkast.com/ebenezertv2/ngrp:ebenezertv2_all/playlist.m3u8
+
+		#EXTINF:-1,gospel channel
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",gospel channel
+				http://sip-live.hds.adaptive.level3.net/hls-live/omega-gospel/_definst_/live.m3u8
+
+		#EXTINF:-1,ctn hd
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",ctn hd
+				http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8
+
+		#EXTINF:-1,genesis tv.
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",genesis tv.
+				http://201.144.184.98:1935/genesis/smil:television.smil/chunklist.m3u8
+
+		#EXTINF:-1,Aliento
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",Aliento
+				http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",Aliento
+				http://livestreamcdn.net:1935/AlientoSD/AlientoSD/playlist.m3u8
+
+		#EXTINF:-1,TELEMILENIO
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",TELEMILENIO
+				http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
+
+		#EXTINF:-1,TU ALTAR RADIO 105.7
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",TU ALTAR RADIO 105.7
+				http://ph1.ministeriotv.com:1936/56/stream/playlist.m3u8
+
+		#EXTINF:-1,RADIO Y TV CRISTO SANA Y RESTAURA
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",RADIO Y TV CRISTO SANA Y RESTAURA
+				http://ph1.ministeriotv.com:1936/1625/stream/playlist.m3u8?ixtla
+
+		#EXTINF:-1,RADIO NUEVA VIDA
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",RADIO NUEVA VIDA
+				http://radio.ministeriotv.com:8042/stream.mp3
+
+		#EXTINF:-1,canal tct
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",canal tct
+				http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHLS/playlist.m3u8
+
+		#EXTINF:-1,its supernatural network
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",its supernatural network
+				http://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/master.m3u8
+
+		#EXTINF:-1,FUEGOTV
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",FUEGOTV
+				http://184.173.181.2:1935/8020/8020/playlist.m3u8
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",
@@ -4157,6 +4258,18 @@
 			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Costa Rica",COLOSAL TV
 				http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
+		#EXTINF:-1,Ticavision
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Zkfw06k.jpg" group-title="Costa Rica",Ticavision
+				http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Costa Rica",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Costa Rica",
+				
+
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Costa Rica",
 				
@@ -4181,6 +4294,26 @@
 
 		#EXTINF:-1,TV Chosun
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/hYu5Ab/TV_Chosun.jpg" group-title="Coreia Sul",TV Chosun
+				
+
+		#EXTINF:-1,KBS World
+			#EXTINF:-1 tvg-logo="" group-title="Coreia Sul",KBS World
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Coreia Sul",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Coreia Sul",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Coreia Sul",
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="Coreia Sul",
 				
 
 		#EXTINF:-1,
@@ -4423,7 +4556,7 @@
 			
 		#EXTINF:-1,CANAL 10 EMPORDA (Espanha)(Catalunha)
 			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/dBqXOm/CANAL_10_EMPORDA.png",CANAL 10 EMPORDA (Espanha)(Catalunha)
-				
+				http://ventdelnord.tv:8080/escala/directe.m3u8
 				
 		#EXTINF:-1,TV GALICIA
 			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/mHd0tm/TV_GALICIA.jpg",TV GALICIA
@@ -4435,7 +4568,7 @@
 				
 		#EXTINF:-1,LA OTRA (Espanha)
 			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/fSgCr6/LA_OTRA_Espanha.png",LA OTRA (Espanha)
-				
+				http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
 				
 		#EXTINF:-1,NEOX (Espanha)
 			#EXTINF:-0 group-title="Espanha" tvg-logo="https://image.ibb.co/kawgJm/NEOX_Espanha.png",NEOX (Espanha)
@@ -4483,14 +4616,24 @@
 				
 		#EXTINF:-1,Canal 4 Tenerife (Espanha)(Tenerife)
 			#EXTINF:-0 group-title="Espanha" tvg-logo="",Canal 4 Tenerife (Espanha)(Tenerife)
-				
+				https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
 				
 		#EXTINF:-1,Marti (Espanha)
 			#EXTINF:-0 group-title="Espanha" tvg-logo="",Marti (Espanha)
 				http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 				
-		#EXTINF:-1,ETB SAT (Espanha)
-			#EXTINF:-0 group-title="Espanha" tvg-logo="",ETB SAT (Espanha)
+		#EXTINF:-1,ETB 1 (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="",ETB 1 (Espanha)
+				http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-p.m3u8
+
+		#EXTINF:-1,ETB 2 (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="",ETB 2 (Espanha)
+				http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-p.m3u8
+
+		#EXTINF:-1,EITB.EUS (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="",EITB.EUS (Espanha)
+				http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
+			#EXTINF:-0 group-title="Espanha" tvg-logo="",ETB Sat (Espanha)
 				http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 				
 		#EXTINF:-1,7 Murcia (Espanha)
@@ -4546,7 +4689,7 @@
 				http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 				
 		#EXTINF:-1,LEBRIJA TV (Espanha)
-			#EXTINF:-0 group-title="Espanha" tvg-logo="",LEBRIJA TV (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="http://i.imgur.com/OKXbIr9.png",LEBRIJA TV (Espanha)
 				http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 				
 		#EXTINF:-1,RTVCE (Espanha)
@@ -4560,6 +4703,30 @@
 		#EXTINF:-1,HISPAN TV (Espanha)
 			#EXTINF:-0 group-title="Espanha" tvg-logo="",HISPAN TV (Espanha)
 				https://live.hispantv.com/live/smil:live.smil/playlist.m3u8
+				
+		#EXTINF:-1,TV Galicia America (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="https://i.imgur.com/jl1Nnd4.png",TV Galicia America (Espanha)
+				http://america-crtvg.flumotion.com/playlist.m3u8
+				
+		#EXTINF:-1,Calle 13 (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="",Calle 13 (Espanha)
+				http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
+				
+		#EXTINF:-1,ALCARRIA TV (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="",ALCARRIA TV (Espanha)
+				
+				
+		#EXTINF:-1,Lasuper TV (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="",Lasuper TV (Espanha)
+				http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
+				
+		#EXTINF:-1,Onda Cadiz (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="",Onda Cadiz (Espanha)
+				http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
+				
+		#EXTINF:-1, (Espanha)
+			#EXTINF:-0 group-title="Espanha" tvg-logo="", (Espanha)
+				
 				
 		#EXTINF:-1, (Espanha)
 			#EXTINF:-0 group-title="Espanha" tvg-logo="", (Espanha)
@@ -4781,6 +4948,22 @@
 
 		#EXTINF:-1,TSi
 			#EXTINF:-1 tvg-logo="" group-title="HONDURAS", TSi
+				
+
+		#EXTINF:-1,Teleceiba Canal 7
+			#EXTINF:-1 tvg-logo="https://i.imgur.com/vWyTg5L.png" group-title="HONDURAS", Teleceiba Canal 7
+				http://190.11.224.14:8134/liveevent.m3u8
+
+		#EXTINF:-1,TEN Honduras
+			#EXTINF:-1 tvg-logo="https://i.imgur.com/TgSeikY.png" group-title="HONDURAS", TEN Honduras
+				http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="HONDURAS", 
+				
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="HONDURAS", 
 				
 
 		#EXTINF:-1,
@@ -5326,6 +5509,8 @@
 		#EXTINF:-1,Telemax (Spanish)(Mexico)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/bU4hQb/Telemax_Spanish_Mexico.png" group-title="Mexico",Telemax (Spanish)(Mexico)
 				http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bU4hQb/Telemax_Spanish_Mexico.png" group-title="Mexico",Telemax (Spanish)(Mexico)
+				http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
 	
 		#EXTINF:-1,Azteca 13 MX
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/d71Wim/Azteca_13_MX.png" group-title="Mexico",Azteca 13 MX
@@ -5376,16 +5561,16 @@
 				
 
 		#EXTINF:-1,RCG 1
-			#EXTINF:-1 tvg-logo="" group-title="Mexico",RCG 1 SD
+			#EXTINF:-1 tvg-logo="https://i.imgur.com/NsPz9Tr.png" group-title="Mexico",RCG 1 SD
 				http://wowzacontrol.com:1936/stream34/stream34/playlist.m3u8
 
 		#EXTINF:-1,RCG 2
-			#EXTINF:-1 tvg-logo="" group-title="Mexico",RCG 2
-				
+			#EXTINF:-1 tvg-logo="https://i.imgur.com/hxpSI0R.png" group-title="Mexico",RCG 2
+				http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 
 		#EXTINF:-1,RCG 3
-			#EXTINF:-1 tvg-logo="" group-title="Mexico",RCG 3
-				
+			#EXTINF:-1 tvg-logo="https://i.imgur.com/LEBQ8B5.png" group-title="Mexico",RCG 3
+				http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 				
 		#EXTINF:-1,RTQ Queretaro
 			#EXTINF:-1 tvg-logo="" group-title="Mexico",RTQ Queretaro
@@ -5739,10 +5924,18 @@
 
 #EXTINF:-1,[B][COLOR yellow]<== República Checa ==>[/COLOR][/B]
 	#EXTINF:-1 tvg-logo="" group-title="República Checa",[B][COLOR yellow]<== República Checa ==>[/COLOR][/B]
-		
+		http://0.0.0.0:1234
 	
 		#EXTINF:-1,CGTRK Grozny
 			#EXTINF:-1 tvg-logo="" group-title="República Checa",CGTRK Grozny
+				
+
+		#EXTINF:-1,MICROVISION HD
+			#EXTINF:-1 tvg-logo="" group-title="República Checa",MICROVISION HD
+				http://190.103.183.24:1935/live/MicroHD/media_w1864019893.m3u8
+
+		#EXTINF:-1,
+			#EXTINF:-1 tvg-logo="" group-title="República Checa",
 				
 
 		#EXTINF:-1,
@@ -8089,6 +8282,8 @@
 			#EXTINF:-1 tvg-logo="" group-title="VOD",
 				
 				
+#EXTINF:0,PT: Joao Ratão [1940] - Filme Português com Vasco Santana
+https://www.youtube.com/watch?v=XEKaYMaW-Ng				
 			
 				
 #EXTINF:-1,[B][COLOR yellow]<== VOD Kids ==>[/COLOR][/B]
@@ -8204,7 +8399,28 @@
             #EXTINF:-1 tvg-logo="" group-title="VOD Kids",DRAGON BALL Z - O HOMEM MAIS FORTE DO MUNDO
                 https://www.youtube.com/watch?v=guMk-tau16E
 
-
+#EXTINF:-1 group-title="Animação" tvg-logo="https://filmspot.com.pt/images/filmes/posters/big/1000219_pt.jpg",ABELHA MAIA: OS JOGOS DO MEL (áudio PT-PT)
+https://cld.pt/dl/download/10aeeee8-e41a-4fb0-a375-fd892057fb07/Abelha%20Maia.MP4
+#EXTINF:-1 group-title="Animação" tvg-logo="https://filmspot.com.pt/images/filmes/posters/big/466876_pt.jpg",PATRULHA DE GNOMOS (áudio PT-PT)
+https://cld.pt/dl/download/fca28c70-d514-4002-b10f-9e50b2f57731/Patrulha.De.Gnomos.2018.avi
+#EXTINF:-1 group-title="Animação" tvg-logo="https://filmspot.com.pt/images/filmes/posters/big/364689_pt.jpg",FERDINANDO (áudio PT-PT)
+https://cld.pt/dl/download/a977be8d-cbe6-4c7f-a963-df5a84146f6d/Ferdinand.2017.1080p.PTPT.mkv.MP4
+#EXTINF:-1 group-title="Animação" tvg-logo="https://filmspot.com.pt/images/filmes/posters/big/346648_pt.jpg",PADDINGTON 2 (áudio PT-PT)
+https://cld.pt/dl/download/5c2a5484-7f61-450d-b46c-bedcdb115575/Paddington.2.2017.1080p.BluRay.X264-AMIABLE.MP4
+#EXTINF:-1 group-title="Animação" tvg-logo="https://filmspot.com.pt/images/filmes/posters/big/355547_pt.jpg",A ESTRELA DE NATAL (áudio PT-PT)
+https://cld.pt/dl/download/2511486e-e352-4626-8797-51f91a59ba7f/A.Estrela.de.Natal_720p.MP4
+#EXTINF:-1 group-title="Animação" tvg-logo="https://filmspot.com.pt/images/filmes/posters/big/354912_pt.jpg",COCO (áudio PT-PT)
+https://cld.pt/dl/download/acc74050-8096-4a2f-b44e-07e18b97b0d0/Coco%20%28PT-PT%29.avi
+#EXTINF:-1 group-title="Animação" tvg-logo="https://filmspot.com.pt/images/filmes/posters/big/335777_pt.jpg",O GANGUE DO PARQUE 2 (áudio PT-PT)
+https://cld.pt/dl/download/0b17dd97-0ab4-475d-befd-dcad5cd7eef1/O%20Gangue%20do%20Parque%202.mp4
+#EXTINF:-1 group-title="Animação" tvg-logo="https://filmspot.com.pt/images/filmes/posters/big/278154_pt.jpg",A IDADE DO GELO 5: O BIG BANG (áudio PT-PT)
+https://cld.pt/dl/download/9b2184fc-d9de-4450-aed4-49242a321a07/Ice.Age.Collision.Course.2016.PT.ENG.720p.BluRay.x264-iFT.mkv.MP4
+#EXTINF:-1 group-title="Animação" tvg-logo="https://www.tugaflix.com/imagens/1faa8dc5a76b309fc1d608bbb5421c5d.jpg",A IDADE DO GELO 3: DESPERTAR DOS DINOSSAUROS (áudio PT-PT)
+https://cld.pt/dl/download/0ba43024-621c-4998-bdfb-24850ae40614/A.Idade.do.Gelo.3.Despertar.dos.Dinossauros.2009.PT.ENG.720p.BluRay.x264-iNViNCiBLE.mkv.MP4
+#EXTINF:-1 group-title="Animação" tvg-logo="https://www.tugaflix.com/imagens/7f2fb20dc45150de010d972e1ad63d29.jpg",A IDADE DO GELO 2: DESCONGELADOS (áudio PT-PT)
+https://cld.pt/dl/download/28faa63e-8f98-4aec-ba01-75bc7793a57a/A.Idade.do.Gelo.2.Descongelados.2006.PT.ENG.720p.BluRay.x264-iNViNCiBLE.mkv.MP4
+#EXTINF:-1 group-title="Animação" tvg-logo="https://ia.media-imdb.com/images/M/MV5BMmYxZWY2NzgtYzJjZC00MDFmLTgxZTctMjRiYjdjY2FhODg3XkEyXkFqcGdeQXVyNjk1Njg5NTA@. V1 .jpg",A IDADE DO GELO (áudio PT-PT)
+https://cld.pt/dl/download/7a0dc253-3a8f-4ac2-b659-84ffb363231b/A.Idade.do.Gelo.2002.PT.ENG.720p.BluRay.x264-iNViNCiBLE.mkv.MP4
 
 
 
@@ -9730,6 +9946,63 @@ https://ia801203.us.archive.org/9/items/GUERRAEPAZEPISODIO18FINAL/GUERRA%20E%20P
 
 
 ############################MINI SÉRIE - GUERRA E PAZ#################################
+
+# Eixo do Mal
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 29/03/2019
+http://videos.impresa.pt/sicnot/2019-03-29/7cb2750d-1216-4d67-a750-c6aa6c562bcf_eixo-do-mal-28-03/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 05/04/2019
+http://videos.impresa.pt/sicnot/2019-04-05/415a36e7-9719-47ae-8df1-eab77dff1f3a_eixo-do-mal-04-04-2019/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 12/04/2019
+http://videos.impresa.pt/sicnot/2019-04-12/4895ff03-6656-4195-b442-4694ff7fd510_eixo-do-mal-11-04-2019/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 20/04/2019
+http://videos.impresa.pt/sicnot/2019-04-20/8a222be1-6c48-4d0a-80a8-9ad9659c359e_eixo-do-mal-18-04-2019-pgm_19hv00265383/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 25/04/2019
+http://videos.impresa.pt/sicnot/2019-04-26/0ccf32b5-42c3-492c-9a3f-687ec3ad001f_eixo-do-mal-25-04-2019/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 02/05/2019
+http://videos.impresa.pt/sicnot/2019-05-03/6800b08e-b39f-4674-b82d-15996a390912_eixo-do-mal-02-05-2019_0/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 10/05/2019
+http://videos.impresa.pt/sicnot/2019-05-10/852882b0-e0df-4874-b3b3-becac47b1742_eixo-do-mal-09.05_19hv00322232/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 17/05/2019
+https://videos.impresa.pt/sicnot/2019-05-17/ee37f323-4472-4b8a-b997-ace46fb70dd8_eixo-do-mal-16-05-2019/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 26/05/2019
+https://videos.impresa.pt/sicnot/2019-05-30/de93325b-ce0c-45be-8dea-67f5b75aacfd_eixo-do-mal-26-05-2019/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 30/05/2019
+https://videos.impresa.pt/sicnot/2019-05-31/3d695d45-5396-4072-905c-a66c73760de8_eixo-do-mal-30-05-2019/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 6/06/2019
+https://videos.impresa.pt/sicnot/2019-06-07/7f75dc8b-c54d-4f43-af60-016fcc07aedf_eixo-do-mal-0606_19hv00407549/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 14/06/2019
+https://videos.impresa.pt/sicnot/2019-06-14/70f3dc55-02e1-40a9-94c6-c5d4a3ef9211_eixo-do-mal-1306-pgm/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 21/06/2019
+https://videos.impresa.pt/sicnot/2019-06-21/cb50ed99-7081-4e08-93f5-59b07efe4991_eixo-do-mal-2006_19hv00443740/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 28/06/2019
+https://videos.impresa.pt/sicnot/2019-06-28/d1d75347-7cdb-4f00-b170-20bcd1d40917_eixo-do-mal-27-06-2019-pgm_19hv00461284/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 5/07/2019
+https://videos.impresa.pt/sicnot/2019-07-05/0360f4af-77f6-4a73-a6b7-c1a340801715_eixo-do-mal-04-07-2019/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 11/07/2019
+https://videos.impresa.pt/sicnot/2019-07-12/ce0731e6-c7db-46c9-8f61-c868942172e0_eixo-do-mal-11-07-2019/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 19/07/2019
+https://videos.impresa.pt/sicnot/2019-07-19/11311fc0-d97e-426e-9758-6eaa750f4fd0_eixo-do-mal-pgm-1807/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 25/07/2019
+https://videos.impresa.pt/sicnot/2019-07-26/06ab9a0e-ff89-48c4-b971-8aee42430074_eixo-do-mal-2507-pgm_19hv00528160/net_wide
+
 
 
 
