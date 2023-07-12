@@ -1,12 +1,26 @@
 ﻿#EXTM3U
 	#EXTINF:-1,Zubi DreamList 
-		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="",Zubi DreamList V_1.00 (13/07/2023)
+		#EXTINF:-1 tvg-logo="https://image.ibb.co/fMHLqR/002_ZUbi.png" group-title="",Zubi DreamList V_0.97 (06/03/2021)
 			http://0.0.0.0:1234
 
-#EXTINF:-1,LÍNGUA PORTUGUESA
+#EXTINF:-1,[B][COLOR yellow]<== LÍNGUA PORTUGUESA ==>[/COLOR][/B]
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/hrOd4G/Portuguese_Flag.jpg" group-title="LÍNGUA PORTUGUESA",[B][COLOR yellow]<== LÍNGUA PORTUGUESA ==>[/COLOR][/B]
 		http://0.0.0.0:1234
 
+
+
+		#EXTINF:-1,0001 RTP 1
+			#EXTINF:-1 group-title="Generalistas" tvg-name="rtp1.pt" audio-track="pt" tvg-logo="https://image.ibb.co/n5vOUQ/RTP_1.png",0001 - RTP 1 (Generalistas)
+				
+			#EXTINF:-1 group-title="Generalistas" tvg-name="rtp1.pt" audio-track="pt" tvg-logo="https://image.ibb.co/n5vOUQ/RTP_1.png",0001 - RTP 1 (Alternativa)(Generalistas)
+				
+				
+		#EXTINF:-1,0002 RTP 2
+			#EXTINF:-1 group-title="Generalistas" tvg-name="rtp2.pt" audio-track="pt" tvg-logo="https://image.ibb.co/bX7L9Q/RTP_2.png",0002 - RTP 2  (Generalistas)
+				
+			#EXTINF:-1 group-title="Generalistas" tvg-name="rtp2.pt" audio-track="pt" tvg-logo="https://image.ibb.co/bX7L9Q/RTP_2.png",0002 - RTP 2 (Alternativa)(Generalistas)
+				
+				
 		#EXTINF:-1,0003 SIC
 			#EXTINF:-1 group-title="Generalistas" tvg-id="sic.pt" tvg-logo="https://image.ibb.co/mGcbik/SIC.png",0003 SIC  (Generalistas)
 				#EXTVLCOPT:network-caching=1000
