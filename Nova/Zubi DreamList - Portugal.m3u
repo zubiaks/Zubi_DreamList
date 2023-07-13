@@ -1659,7 +1659,7 @@
 
 		#EXTINF:-1,0049 Cartoon Network
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cQGDUQ/CARTOON_NETWORK.png" group-title="Infantil",0049 Cartoon Network (Infantil)
-				http://188.35.9.11:21151/udp/185f
+				
 
 		#EXTINF:-1,0050 Nickelodeon
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/jebUBw/Nickelodeon.png" group-title="Infantil",0050 Nickelodeon (Infantil)
@@ -1733,7 +1733,7 @@
 
 		#EXTINF:-1,0329 RIK (Eslováquia)(Infantil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/jO7gim/RIK.png" group-title="Infantil",0329 RIK (Eslováquia) (Infantil)
-				http://nn2.joj.sk/hls/rik-540.m3u8
+				
 
 		#EXTINF:-1,0330 Retro Cartoon
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/j9JRG6/Retro_Cartoon.png" group-title="Infantil",0330 Retro Cartoon
@@ -1745,7 +1745,7 @@
 
 		#EXTINF:-1,0332 Gospel Cartoon
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/6Hn35sy/5ce59e5a4f52bbc5c6419fe5a8674447.png" group-title="Infantil",0332 Gospel Cartoon
-				https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/playlist.m3u8
+				
 
 		#EXTINF:-1,0333 TRT Cocuk (Turco)
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/7WbfzpV/543144.jpg" group-title="Infantil",0333 TRT Cocuk (Turco)
@@ -1753,7 +1753,7 @@
 
 		#EXTINF:-1,0334 Cachipum.tv (Chile)
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",0334 Cachipum.tv (Chile)
-				http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist.m3u8
+				
 
 		#EXTINF:-1,0335 LOCOMOTION TV
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",0335 Locomotion TV
@@ -1765,22 +1765,16 @@
 
 		#EXTINF:-1,0337 ABN KIDS
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",0337 ABN KIDS
-				https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8?ANTONYGTV
+				
 
 		#EXTINF:-1,0462 Kuriakos Kids
 			#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="Infantil",0462 Kuriakos Kids
-				http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
+				
 
 		#EXTINF:-1,Zig Zag
 			#EXTINF:-1 tvg-id="ZIGZAG" tvg-logo="https://ptiptv.tk/logo?i=ZIGZAG" group-title="Infantil",Zig Zag
-				https://ptiptv.tk/zigzag.m3u8
-			#EXTINF:-1 tvg-id="ZIGZAG" tvg-logo="https://ptiptv.tk/logo?i=ZIGZAG" group-title="Kids" catchup="default" catchup-source="https://ptiptv.tk/catchup/ZIGZAG?t=${start}&TkgSocBadRYPxlBUAGGLSFMHYlE",Zig Zag
-				https://ptiptv.tk/zigzag.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F85.0.4183.83+Safari%2F537.36+Edg%2F85.0.564.44
+				
 
-		#EXTINF:-1,#EstudoEmCasa
-			#EXTINF:-1 tvg-id="ESTUDO" tvg-logo="https://ptiptv.tk/logo?i=ESTUDO" group-title="Kids" catchup="default" catchup-source="https://ptiptv.tk/catchup/ESTUDO?t=${start}&TkgSocBadRYPxlBUAGGLSFMHYlE",#EstudoEmCasa
-				https://ptiptv.tk/estudo.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F85.0.4183.83+Safari%2F537.36+Edg%2F85.0.564.44
-	
 		#EXTINF:-1,TV KID MAIS
 			#EXTINF:-1 tvg-logo="http://uploaddeimagens.com.br/images/001/576/969/full/tv_kid_mais.png" group-title="Brasil",TV KID MAIS
 				http://tv01.logicahost.com.br:1935/tvkidmais/tvkidmais/live.m3u8
