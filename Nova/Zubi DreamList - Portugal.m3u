@@ -4,7 +4,7 @@
 			http://0.0.0.0:1234
 
 #EXTINF:-1,LÍNGUA PORTUGUESA
-	#EXTINF:-1 tvg-logo="https://image.ibb.co/hrOd4G/Portuguese_Flag.jpg" group-title="LÍNGUA PORTUGUESA",[B][COLOR yellow]<== LÍNGUA PORTUGUESA ==>[/COLOR][/B]
+	#EXTINF:-1 tvg-logo="https://image.ibb.co/hrOd4G/Portuguese_Flag.jpg" group-title="LÍNGUA PORTUGUESA",(LÍNGUA PORTUGUESA)
 		http://0.0.0.0:1234
 
 		#EXTINF:-1,TV MOÇAMBIQUE (PT)
