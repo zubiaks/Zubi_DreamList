@@ -91,7 +91,7 @@
 
 		#EXTINF:-1,KURIAKOS TV
 			#EXTINF:-1 group-title="Informacao" tvg-id="ARTV.pt" tvg-logo="",KURIAKOS TV
-				http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
+
 
 		#EXTINF:-1,0030 TV Globo
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cM5LG5/TV_Globo.jpg" group-title="Entretenimento",0030 TV Globo (Entretenimento)
@@ -111,7 +111,7 @@
 			#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",0033 RecordTV Natal
 				
 			#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades",0033 RecordTV Manaus
-				https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+
 
 		#EXTINF:-1,0075 Agueda TV
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cvVjdb/Agueda_TV.png" group-title="Regionais",0075 Agueda TV (Regionais)
@@ -168,13 +168,9 @@
 				
 				
 		#EXTINF:-1,0087 TV Brasil (Brasil)
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/nqnZ8w/TV_Brasil_Brasil.jpg" group-title="Brasil",0087 TV Brasil (Brasil)
-				http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 			#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-2jDO8jlXQmXI65DFYeZZwox_kT0pSzbKRHA=s900-mo-c-c0xffffffff-rj-k-no" group-title="TV ABERTA",  TV BRASIL HD (GO)
 				http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
-			#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-2jDO8jlXQmXI65DFYeZZwox_kT0pSzbKRHA=s900-mo-c-c0xffffffff-rj-k-no" group-title="TV ABERTA",  TV BRASIL
-				http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
-				
+
 		#EXTINF:-1,0088 ANTV – TV Andradas (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/ftnbow/ANTV_TV_Andradas_Brasil.jpg" group-title="Brasil",0088 ANTV – TV Andradas (Brasil)
 				
@@ -191,12 +187,12 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/b8VAR6/REDE_TV.jpg" group-title="Brasil",0091 REDE TV (Brasil)
 				
 			#EXTINF:-1 tvg-logo="" group-title="Brasil",REDE TV 2 (Brasil)
-				https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=7485000014348485000
+				
 
 		#EXTINF:-1,0092 BAND (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/eJiQtm/BAND.png" group-title="Brasil",0092 BAND (Brasil)
 				
-			#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="Variedades",0092 Band - RBA TV (PA)
+			#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="Variedades",0092 Band RBA TV (PA)
 				https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 				
 		#EXTINF:-1,0093 Aperipe TV (Brasil)
