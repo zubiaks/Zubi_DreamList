@@ -847,11 +847,11 @@
 				
 		#EXTINF:-1,0180 NBC 4 News (Washington DC)
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",0180 NBC 4 News (Washington DC)
-				https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
+				
 				
 		#EXTINF:-1,0181 NBC 5 News (Chicago)
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/m9N8HMw/wgntv.png" group-title="Informacao",0181 NBC 5 News (Chicago)
-				http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
+				
 				
 		#EXTINF:-1,0182 NBC 11 News (Bay Area)
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/dQZFgQd/14551.jpg" group-title="Informacao",0182 NBC 11 News (Bay Area)
@@ -859,7 +859,7 @@
 				
 		#EXTINF:-1,0183 NBC News Connecticut
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",0183 NBC News Connecticut
-				http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+				
 				
 		#EXTINF:-1,0184 RTL (LUX)
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/74bxXZ8/RTL-Tele-Luxembourg.png" group-title="Informacao",0184 RTL (LUX)
@@ -887,7 +887,7 @@
 				
 		#EXTINF:-1,0190 Radio y Televisión Martí (Cuba)
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",0190 Radio y Televisión Martí (Cuba)
-				http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+				
 				
 		#EXTINF:-1,0191 Canal 4 (Espanha)
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/g7RKsv6/index.png" group-title="Informacao",0191 Canal 4 (Espanha)
@@ -895,15 +895,15 @@
 				
 		#EXTINF:-1,0192 Milenio Televisión 
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",0192 Milenio Televisión 
-				http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+				
 
 		#EXTINF:-1,0193 BFM Paris
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/0nGZsLc/langfr-170px-BFM-Paris-logo-2016-svg.png" group-title="Informacao",0193 BFM Paris
-				http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/master.m3u8
+				
 				
 		#EXTINF:-1,0194 teleSUR
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",0194 teleSUR
-				https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
+				
 				
 		#EXTINF:-1,0195 Digi 24 (Romanian)
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",0195 Digi 24 (Romanian)
@@ -927,11 +927,11 @@
 				
 		#EXTINF:-1,0200 Palestin Today
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",0200 Palestin Today
-				http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
+				
 				
 		#EXTINF:-1,0201 TV JORNAL LIMEIRA
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",0201 TV JORNAL LIMEIRA
-				http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8
+				
 				
 		#EXTINF:-1,0202 Catve HD
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",0202 Catve HD
@@ -939,11 +939,11 @@
 				
 		#EXTINF:-1,CANAL 26 HD
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",CANAL 26 HD
-				http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1713125811_b2628000_sleng.m3u8
+				
 				
 		#EXTINF:-1,CANAL PROVINCIAL SD (Argentina)
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",CANAL PROVINCIAL SD (Argentina)
-				http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+				
 				
 		#EXTINF:-1,Mir 24 [Russia]
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",Mir 24 [Russia]
@@ -955,31 +955,27 @@
 				
 		#EXTINF:-1,Al-Khalij TV
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",Al-Khalij TV
-				http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
+				
 				
 		#EXTINF:-1,TVL Brasil
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",TVL Brasil
-				https://5c483b9d1019c.streamlock.net/8238/8238/playlist-480p.m3u8
+				
 				
 		#EXTINF:-1,CCTV
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",CCTV
-				https://cctvcnchwh5ca.v.cdn20.com/live/cctv1_2/index.m3u8?contentid=2820180516001
-			#EXTINF:-1 tvg-logo="" group-title="Informacao",CCTV
-				https://cctvcnchwh5ca.v.cdn20.com/live/cctv13_2/index.m3u8?contentid=2820180516001
+				
 				
 		#EXTINF:-1,98 NEWS
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",98 NEWS
-				https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/chunklist.m3u8
+				
 				
 		#EXTINF:-1,CBN NOTICIAS
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",CBN NOTICIAS (SP)
-				https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-			#EXTINF:-1 tvg-logo="" group-title="Informacao",CBN NOTICIAS (RJ)
-				https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+				
 				
 		#EXTINF:-1,tele bärn
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",tele bärn
-				https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+				
 				
 		#EXTINF:-1,26 HD
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",26 HD
@@ -987,11 +983,11 @@
 				
 		#EXTINF:-1,BFM TV
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",BFM TV
-				https://str81.creacast.com/grandlilletv/high/playlist.m3u8
+				
 				
 		#EXTINF:-1,alsace 20
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",alsace 20
-				http://live.alsace20.fr/live/alsace20/alsace20/playlist.m3u8
+				
 				
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Informacao",
@@ -1075,21 +1071,17 @@
 
 		#EXTINF:-1,0210 Fashion TV
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/kVrWRw/Fashion_TV.gif" group-title="Entretenimento",0210 Fashion TV
-				https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+				
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/dQszDb/Fashion_TV_HD.jpg" group-title="Entretenimento",Fashion TV Paris
 				http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
 			
 		#EXTINF:-1,0211 Fashion TV Midnight Secrets
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/kVrWRw/Fashion_TV.gif" group-title="Entretenimento",0211 Fashion TV Midnight Secrets
-				http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+				
 			
 		#EXTINF:-1,0212 Fashion TV PG13
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/kVrWRw/Fashion_TV.gif" group-title="Entretenimento",0212 Fashion TV PG13
 				
-			
-		#EXTINF:-1,0213 Fashion TV PG16
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/kVrWRw/Fashion_TV.gif" group-title="Entretenimento",0213 Fashion TV PG16
-				http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
 			
 		#EXTINF:-1,0214 FOOD NETWORK
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/dDuPeG/FOOD_NETWORK.jpg" group-title="Entretenimento",0214 FOOD NETWORK
@@ -1149,7 +1141,7 @@
 			
 		#EXTINF:-1,HD Fashion & Lifestyle TV
 			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",HD Fashion & Lifestyle TV
-				http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
+				
 			
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Entretenimento",
@@ -1227,8 +1219,6 @@
 
 		#EXTINF:-1,0228 Real Madrid TV
 			#EXTINF:-1 group-title="Desporto" tvg-id="RMTV.pt" tvg-logo="https://image.ibb.co/miocpQ/REAL_MADRID_TV.png",0228 Real Madrid TV
-				http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/master.m3u8
-			#EXTINF:-1 group-title="Desporto" tvg-id="RMTV.pt" tvg-logo="https://image.ibb.co/miocpQ/REAL_MADRID_TV.png",0228 Real Madrid TV (Alternativa)
 				
 
 		#EXTINF:-1,0229 Eurosport 1 HD
@@ -1547,11 +1537,11 @@
 
 		#EXTINF:-1,0307 NEW WWF JAPAN
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",0307 NEW WWF JAPAN
-				https://aka-amd-njpwworld-hls-live.akamaized.net/hls/video/njpw/njpw_channel01_3/chunklist_DVR.m3u8
+				
 
 		#EXTINF:-1,0308 KIX
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",KIX
-				http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+				
 
 		#EXTINF:-1,0309 Ovación TV
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",0309 Ovación TV
@@ -1587,35 +1577,33 @@
 
 		#EXTINF:-1,ALL KASS SPORTS 1
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",ALL KASS SPORTS 1
-				http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+				
 
 		#EXTINF:-1,ALL KASS SPORTS 2
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",ALL KASS SPORTS 2
-				http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+				
 
 		#EXTINF:-1,ALL KASS SPORTS 3
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",ALL KASS SPORTS 3
-				http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+				
 
 		#EXTINF:-1,ALL KASS SPORTS 4
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",ALL KASS SPORTS 4
-				http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+				
 
 		#EXTINF:-1,ALL KASS SPORTS 5
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",ALL KASS SPORTS 5
-				http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+				
 
 		#EXTINF:-1,CEV TV
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",CEV TV
-				https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+				
 
 		#EXTINF:-1,RTE SPORTS
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",RTE SPORTS
-				https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+				
 
 		#EXTINF:-1,Dubai Racing
-			#EXTINF:-1 tvg-logo="" group-title="Desporto",Dubai Racing
-				http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
 			#EXTINF:-1 tvg-logo="" group-title="Desporto",Dubai Racing
 				http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
 
