@@ -7,14 +7,78 @@
 	#EXTINF:-1 tvg-logo="https://image.ibb.co/hrOd4G/Portuguese_Flag.jpg" group-title="LÍNGUA PORTUGUESA",(LÍNGUA PORTUGUESA)
 		http://0.0.0.0:1234
 
-		#EXTINF:-1,TV MOÇAMBIQUE (PT)
-			#EXTINF:-1 group-title="Generalistas" tvg-id="tvc.pt" tvg-logo="",TV MOÇAMBIQUE (PT)
-				http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_w1330919236_b714000_slpor.m3u8
+		#EXTINF:-1,0001 RTP 1
+			#EXTINF:-1 group-title="Generalistas" tvg-name="rtp1.pt" audio-track="pt" tvg-logo="https://image.ibb.co/n5vOUQ/RTP_1.png",0001 - RTP 1 (Generalistas)
+				
+				
+		#EXTINF:-1,0002 RTP 2
+			#EXTINF:-1 group-title="Generalistas" tvg-name="rtp2.pt" audio-track="pt" tvg-logo="https://image.ibb.co/bX7L9Q/RTP_2.png",0002 - RTP 2  (Generalistas)
+				
+				
+		#EXTINF:-1,0003 SIC
+			#EXTINF:-1 group-title="Generalistas" tvg-id="sic.pt" tvg-logo="https://image.ibb.co/mGcbik/SIC.png",0003 SIC  (Generalistas)
+				
 
+		#EXTINF:-1,0004 TVI
+			#EXTINF:-1 group-title="Generalistas"  tvg-name="tvi.pt" audio-track="pt" tvg-logo="https://image.ibb.co/gx1rG5/TVI.png",0004 TVI (Generalistas)
+				
+
+		#EXTINF:-1,0005 RTP Memoria
+			#EXTINF:-1 group-title="Generalistas" tvg-logo="https://image.ibb.co/eHA7pQ/RTP_Memoria.png",0005 RTP Memoria (Generalistas)
+				
+				
+		#EXTINF:-1,0006 RTP Madeira
+			#EXTINF:-1 group-title="Generalistas" tvg-id="RTPMadeira.pt" tvg-logo="https://image.ibb.co/mHnZKQ/RTP_Madeira.png",0006 RTP Madeira (Generalistas)
+				
+				
+		#EXTINF:-1,0007 RTP Acores
+			#EXTINF:-1 group-title="Generalistas" tvg-id="RTPAcores.pt" tvg-logo="https://image.ibb.co/feRmik/RTP_Acores.png",0007 RTP Acores (Generalistas)
+				
+			
+		#EXTINF:-1,0008 PORTO Canal
+			#EXTINF:-1 group-title="Generalistas" tvg-id="PortoCanal.pt" tvg-logo="https://image.ibb.co/gjrV9Q/PORTO_Canal.png",0008 PORTO Canal (Generalistas)
+				
+
+		#EXTINF:-1,0009 RTP Africa
+			#EXTINF:-1 group-title="Generalistas" tvg-id="RTPAfrica.pt" tvg-logo="https://image.ibb.co/mS9BG5/RTP_Africa.png",0009 RTP Africa (Generalistas)*
+				
+
+		#EXTINF:-1,0010 RTP Internacional 
+			#EXTINF:-1 group-title="Generalistas" tvg-id="RTPInternacional.pt" tvg-logo="https://image.ibb.co/gT07pQ/RTP_Internacional.png",0010 RTP Internacional (Generalistas)
+				
+			
+		#EXTINF:-1,0011 SIC Internacional
+			#EXTINF:-1 group-title="Generalistas" tvg-id="" tvg-logo="https://image.ibb.co/g3Urm6/SIC_Internacional.png",0011 SIC Internacional (Generalistas)
+				
+			
+		#EXTINF:-1,0012 TVI Africa
+			#EXTINF:-1 group-title="Generalistas" tvg-id="TVIAfrica.pt" tvg-logo="https://image.ibb.co/kKLFR5/TVI_Africa.png",0012 TVI Africa (Generalistas)
+				
+			
+		#EXTINF:-1,0013 TVI Internacional
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/bCVQeQ/TVI_Internacional.png" group-title="Generalistas",0013 TVI Internacional (Generalistas)
+
+			
+		#EXTINF:-1,0014 TPA Internacional (Angola)
+			#EXTINF:-1 group-title="Generalistas" tvg-id="TPA" tvg-logo="https://image.ibb.co/iYwTeQ/TPA_Internacional.png",0014 TPA Internacional (Generalistas)
+
+
+		#EXTINF:-1,0015 TV Cabo Verde (Cabo Verde)
+			#EXTINF:-1 group-title="Generalistas" tvg-id="tvc.pt" tvg-logo="https://image.ibb.co/iYFRYk/TV_Cabo_Verde.jpg",0015 TV Cabo Verde(Generalistas)
+				
 		#EXTINF:-1,TV MOCAMBIQUE INTERNACIONAL (PT) 
 			#EXTINF:-1 group-title="Generalistas" tvg-id="tvc.pt" tvg-logo="http://online.tvm.co.mz/site/public/images/flat_1.png",*TV MOCAMBIQUE INTERNACIONAL (PT)
 				http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_w768465874_b714000_slpor.m3u8
 				
+
+		#EXTINF:-1,TV MOÇAMBIQUE (PT)
+			#EXTINF:-1 group-title="Generalistas" tvg-id="tvc.pt" tvg-logo="",TV MOÇAMBIQUE (PT)
+				http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_w1330919236_b714000_slpor.m3u8
+
+		#EXTINF:-1,0021 Localvisão TV
+			#EXTINF:-1 tvg-logo="https://image.ibb.co/ebo6m5/Localvis_o_TV.jpg" group-title="Informacao",0021 Localvisão TV (Informacao)
+				
+
 		#EXTINF:-1,TDM - Teledifusão de Macau
 			#EXTINF:-1 tvg-logo="" group-title="",TDM - Teledifusão de Macau
 				https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
