@@ -85,7 +85,7 @@
 
 		#EXTINF:-1,0022 ARTV
 			#EXTINF:-1 group-title="Informacao" tvg-id="ARTV" tvg-logo="https://image.ibb.co/ejOftk/ARTV.png",0022 ARTV (Informacao)
-				https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8
+				
 
 		#EXTINF:-1,KURIAKOS TV
 			#EXTINF:-1 group-title="Informacao" tvg-id="ARTV.pt" tvg-logo="",KURIAKOS TV
