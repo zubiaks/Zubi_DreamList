@@ -65,6 +65,12 @@
 
 		#EXTINF:-1,0015 TV Cabo Verde (Cabo Verde)
 			#EXTINF:-1 group-title="Generalistas" tvg-id="tvc.pt" tvg-logo="https://image.ibb.co/iYFRYk/TV_Cabo_Verde.jpg",0015 TV Cabo Verde(Generalistas)
+
+
+		#EXTINF:-1,TDM - Teledifusão de Macau
+			#EXTINF:-1 tvg-logo="" group-title="",TDM - Teledifusão de Macau
+				https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+
 				
 		#EXTINF:-1,TV MOCAMBIQUE INTERNACIONAL (PT) 
 			#EXTINF:-1 group-title="Generalistas" tvg-id="tvc.pt" tvg-logo="http://online.tvm.co.mz/site/public/images/flat_1.png",*TV MOCAMBIQUE INTERNACIONAL (PT)
@@ -78,10 +84,6 @@
 		#EXTINF:-1,0021 Localvisão TV
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/ebo6m5/Localvis_o_TV.jpg" group-title="Informacao",0021 Localvisão TV (Informacao)
 				
-
-		#EXTINF:-1,TDM - Teledifusão de Macau
-			#EXTINF:-1 tvg-logo="" group-title="",TDM - Teledifusão de Macau
-				https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 
 		#EXTINF:-1,0022 ARTV
 			#EXTINF:-1 group-title="Informacao" tvg-id="ARTV" tvg-logo="https://image.ibb.co/ejOftk/ARTV.png",0022 ARTV (Informacao)
