@@ -73,7 +73,7 @@
 
 				
 		#EXTINF:-1,TV MOCAMBIQUE INTERNACIONAL (PT) 
-			#EXTINF:-1 group-title="Generalistas" tvg-id="tvc.pt" tvg-logo="http://online.tvm.co.mz/site/public/images/flat_1.png",*TV MOCAMBIQUE INTERNACIONAL (PT)
+			#EXTINF:-1 group-title="Generalistas" tvg-id="tvc.pt" tvg-logo="http://online.tvm.co.mz/site/public/images/flat_1.png",TV MOCAMBIQUE INTERNACIONAL (PT)
 				http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_w768465874_b714000_slpor.m3u8
 				
 
