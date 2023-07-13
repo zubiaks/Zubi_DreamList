@@ -355,11 +355,12 @@
 			#EXTINF:-1 tvg-logo="" group-title="Brasil",ITU TV
 				
 			
-		#EXTINF:-1,NOVA ERA TV
-			#EXTINF:-1 tvg-logo="" group-title="Brasil",NOVA ERA TV
+		#EXTINF:-1,0543 Tv Novo Tempo (Envagelica)(Brasil)
+			#EXTINF:-1 tvg-logo="" group-title="Brasil",Tv Novo Tempo (Envagelica)(Brasil)
 				http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-			#EXTINF:-1 tvg-logo="" group-title="Brasil",NOVA ERA TV (Alt 1)
+			#EXTINF:-1 tvg-logo="" group-title="Brasil",Tv Novo Tempo (Envagelica)(Brasil)(Alt 1)
 				https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+
 		#EXTINF:-1,PORTAL NEWS WEB TV
 			#EXTINF:-1 tvg-logo="" group-title="Brasil",PORTAL NEWS WEB TV
 				
@@ -1781,7 +1782,7 @@
 			
 		#EXTINF:-1,KIDS TV (Brasil)
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",KIDS TV (Brasil)
-				http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
+				
 
 		#EXTINF:-1,TV KIDS
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",TV KIDS
@@ -1793,7 +1794,7 @@
 				
 		#EXTINF:-1,DESENHOS ANIMADOS 2
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",DESENHOS ANIMADOS 2
-				https://stmv6.srvstm.com/leandro9908/leandro9908/playlist.m3u8
+				
 
 		#EXTINF:-1,SÉRIES DE AVENTURA
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",SÉRIES DE AVENTURA
@@ -1801,7 +1802,7 @@
 
 		#EXTINF:-1,3abnKids.TV
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",3abnKids.TV
-				https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+				
 				
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Infantil",
@@ -2007,7 +2008,7 @@
 			
 		#EXTINF:-1,0361 Mello TV
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/DM33GMG/maxresdefault.jpg" group-title="Filmes e Series",0361 Mello TV
-				https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8
+				
 
 		#EXTINF:-1,0362 Pop
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/fXzXpq2/pop-logo.jpg" group-title="Filmes e Series",0362 Pop
@@ -2039,11 +2040,11 @@
 
 		#EXTINF:-1,CINE TV
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",CINE TV
-				http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
+				
 
 		#EXTINF:-1,TV SERIES
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV SERIES
-				https://stmv4.srvstm.com/tvserie/tvserie/playlist.m3u8
+				
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",
@@ -2075,7 +2076,7 @@
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/iOi4db/MTV_Portugal.jpg" group-title="Musica",0069 MTV Portugal (Musica)
 
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/bTthpR/MTV.png" group-title="Musica",0069 MTV (Norg)
-				http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+				
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/bTthpR/MTV.png" group-title="Musica",0069 MTV HD (Alemanha)
 				http://de1se01.v2beat.live/playlist.m3u8
  
@@ -2149,7 +2150,7 @@
 
 		#EXTINF:-1,0386 m2o tv
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/eSuYUR/m2o_tv.jpg" group-title="Musica",0386 m2o tv
-				http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
+				
 
 		#EXTINF:-1,0387 Melody Channel
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/ePzYUR/Melody_Channel.png" group-title="Musica",0387 Melody Channel
@@ -2169,7 +2170,7 @@
 
 		#EXTINF:-1,7TV Murcia
 			#EXTINF:-1 tvg-logo="" group-title="Musica",7TV Murcia
-				http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
+				
 
 		#EXTINF:-1,0390 Vibee
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/btSj3m/Vibee.jpg" group-title="Musica",0390 Vibee
@@ -2213,7 +2214,7 @@
 				
 		#EXTINF:-1,0400 Capital TV (UK)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/eSBDUR/Capital_TV.png" group-title="Musica",0400 Capital TV (UK)
-				http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+				
 
 		#EXTINF:-1,0401 Music Choice - Brits Hits
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cKR8w6/Music_Choice.jpg" group-title="Musica" tvg-logo="",0401 Music Choice - Brits Hits
@@ -2357,7 +2358,7 @@
 
 		#EXTINF:-1,0437 AE Radio Tv
 			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",0437 AE Radio Tv
-				http://edge1.cl.grupoz.cl/aeradio/live/chunklist_w678069134.m3u8
+				
 
 		#EXTINF:-1,0438 NIU Tv
 			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="",0438 NIU Tv
@@ -2369,11 +2370,11 @@
 
 		#EXTINF:-1,0440 Company TV
 			#EXTINF:-1 tvg-logo="" group-title="Musica" tvg-logo="https://i.ibb.co/g31Qds3/20180420-promo-company-tv-splash.jpg",0440 Company TV
-				rtmp://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p
+				
 
 		#EXTINF:-1,0441 Deejay TV
 			#EXTINF:-1 tvg-logo="" group-title="Musica",0441 Deejay TV
-				http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
+				
 
 		#EXTINF:-1,0442 MagentaMusik 360
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/j3PP2RC/LS89GC9.png" group-title="Musica",0442 MagentaMusik 360
@@ -2381,11 +2382,11 @@
 
 		#EXTINF:-1,0443 Radio Italia TV
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/Qkf9nWN/logo-radioitalia-web2016.png" group-title="Musica",0443 Radio Italia TV
-				http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+				
 
 		#EXTINF:-1,0444 la mega mundial
 			#EXTINF:-1 tvg-logo="" group-title="Musica",0444 la mega mundial
-				http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+				
 
 		#EXTINF:-1,0445 MUSIK BOX
 			#EXTINF:-1 tvg-logo="" group-title="Musica",0445 MUSIK BOX
@@ -2397,21 +2398,21 @@
 
 		#EXTINF:-1,0447 Deutsches Musik Fernsehen
 			#EXTINF:-1 tvg-logo="" group-title="Musica",0447 Deutsches Musik Fernsehen
-				http://tv.artcom-venture.de:1322/dmf/tv.m3u8
+				
 
 		#EXTINF:-1,0448 Duga TV
 			#EXTINF:-1 tvg-logo="" group-title="Musica",0448 Duga TV
-				http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
+				
 
 		#EXTINF:-1,0449 Music Top
 			#EXTINF:-1 tvg-logo="" group-title="Musica",0449 Music Top
-				http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+				
 
 		#EXTINF:-1,0450 Portal Foxmix
 			#EXTINF:-1 tvg-logo="" group-title="Musica",0450 Portal Foxmix
-				http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+				
 			#EXTINF:-1 tvg-logo="" group-title="Musica",0450 Portal FoxMix | HD
-				http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+				
 				
 		#EXTINF:-1,0451 Top Latino
 			#EXTINF:-1 tvg-logo="" group-title="Musica",0451 Top Latino
@@ -2447,7 +2448,7 @@
 
 		#EXTINF:-1,TV Duga+
 			#EXTINF:-1 tvg-logo="" group-title="Musica",TV Duga+
-				http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
+				
 
 		#EXTINF:-1,Ócko
 			#EXTINF:-1 tvg-logo="" group-title="Musica",Ócko
@@ -2459,25 +2460,23 @@
 
 		#EXTINF:-1,RockTV
 			#EXTINF:-1 tvg-logo="" group-title="Musica",RockTV
-				https://fms-https1.mediadirect.ro/live3/_definst_/rocktv/playlist.m3u8
+				
 
 		#EXTINF:-1,RETRÔ MUSIC
-			#EXTINF:-1 tvg-logo="" group-title="Musica",RETRÔ MUSIC
-				http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w1820117447.m3u8
 			#EXTINF:-1 tvg-logo="" group-title="Musica",RETRÔ MUSIC
 				http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
 
 		#EXTINF:-1,1HD MUSIC TELEVISION
 			#EXTINF:-1 tvg-logo="" group-title="Musica",1HD MUSIC TELEVISION
-				http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
+				
 
 		#EXTINF:-1,GOSPEL MUSIC TV
 			#EXTINF:-1 tvg-logo="" group-title="Musica",GOSPEL MUSIC TV
-				https://stmv6.srvstm.com/gmusic/gmusic/playlist.m3u8
+				
 
 		#EXTINF:-1,TOP TV
 			#EXTINF:-1 tvg-logo="" group-title="Musica",TOP TV
-				https://5d23bdca513db.streamlock.net:443/8006/8006/playlist.m3u8
+				
 
 		#EXTINF:-1,ITS INTERNACIONAIS
 			#EXTINF:-1 tvg-logo="" group-title="Musica",ITS INTERNACIONAIS
@@ -2485,23 +2484,19 @@
 
 		#EXTINF:-1,U TV
 			#EXTINF:-1 tvg-logo="" group-title="Musica",U TV
-				https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
+				
 
 		#EXTINF:-1,ROCK TV
 			#EXTINF:-1 tvg-logo="" group-title="Musica",ROCK TV
-				http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8
+				
 
 		#EXTINF:-1,CMC - California Music CHANEL
 			#EXTINF:-1 tvg-logo="" group-title="Musica",CMC - California Music CHANEL
-				https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
-			#EXTINF:-1 tvg-logo="" group-title="Musica",CMC - California Music CHANEL
-				http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream0.m3u8
+				
 
 		#EXTINF:-1,CMC - Country Music Channel
 			#EXTINF:-1 tvg-logo="" group-title="Musica",CMC - Country Music Channel
-				https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-			#EXTINF:-1 tvg-logo="" group-title="Musica",CMC - Country Music Channel
-				http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
+				
 
 		#EXTINF:-1,Teleritmo (MEXICO)
 			#EXTINF:-1 tvg-logo="https://i.imgur.com/897e9wy.png" group-title="Musica",Teleritmo (MEXICO)
@@ -2540,12 +2535,10 @@
 		#EXTINF:-1,0071 Discovery Channel (Documentarios)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/nFrZ65/Discovery_channel.png" group-title="Documentarios",0071 Discovery Channel (Documentarios)(Brasil)
 				http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w1942549659.m3u8?IMDSFULL
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/nFrZ65/Discovery_channel.png" group-title="Documentarios",0071 Discovery Channel (Documentarios)(Brasil)
-				https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8
 				
 		#EXTINF:-1,0072 National Geographic
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cFQZdb/National_Geographic.gif" group-title="Documentarios",0072 National Geographic (Documentarios)
-				rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+				
 
 		#EXTINF:-1,0073 Historia
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cEZAJb/Historia.jpg" group-title="Documentarios",0073 Historia (Documentarios)
@@ -2573,7 +2566,7 @@
 				
 		#EXTINF:-1,0466 HISTORY LAB (ITÁLIA)
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/Sf8hdj1/History-Lab-il-canale-digitale-dedicato-alla-storia-e-alla-memoria-galleryfull.jpg" group-title="Documentarios",0466 HISTORY LAB (ITÁLIA)
-				rtmp://wma10.fluidstream.net:1935/HistoryLab/livestream
+				
 				
 		#EXTINF:-1,0467 Investigation Discovery (Ingles)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/nFgV9R/Investigation_Discovery.png" group-title="Documentarios",0467 Investigation Discovery (Ingles)
@@ -2643,7 +2636,7 @@
 				
 		#EXTINF:-1,0477 DISCOVERY TURBO
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/dYQh66/DISCOVERY_TURBO.png" group-title="CARS & AUTO",0477 DISCOVERY TURBO (Brasil)
-				https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
+				
 				
 		#EXTINF:-1,0478 Automoto
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/goB9Om/Automoto.jpg" group-title="CARS & AUTO",0478 Automoto
@@ -2651,7 +2644,7 @@
 				
 		#EXTINF:-1,0479 Garage TV
 			#EXTINF:-1 tvg-logo="" group-title="CARS & AUTO",0479 Garage TV
-				http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+				
 				
 		#EXTINF:-1,100AUTOMOTO TV
 			#EXTINF:-1 tvg-logo="http://s3.vefire.ru/l/250x150/ru/100AutoMoto.png" group-title="CARS & AUTO",100AUTOMOTO TV
@@ -2713,9 +2706,9 @@
 
 		#EXTINF:-1,0490 COMCAST
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/j4FDeR/COMCAST.png" group-title="Temáticos",0490 COMCAST (720p)
-				http://cmc-i.akamaihd.net/hls/live/201845/launch/04.m3u8
+				
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/j4FDeR/COMCAST.png" group-title="Temáticos",0490 COMCAST (1080p)
-				http://cmc-i.akamaihd.net/hls/live/201845/launch/05.m3u8
+				
 			
 		#EXTINF:-1,0491 InfoWars
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/bSK0R6/InfoWars.jpg" group-title="Temáticos",0491 InfoWars
@@ -2731,7 +2724,7 @@
 
 		#EXTINF:-1,0494 Silence TV WORLD
 			#EXTINF:-1 tvg-logo="" group-title="Temáticos",0494 Silence TV WORLD
-				http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+				
 
 		#EXTINF:-1,0495 HD Media 3D
 			#EXTINF:-1 tvg-logo="" group-title="Temáticos",0495 HD Media 3D
@@ -2743,11 +2736,11 @@
 
 		#EXTINF:-1,Psychic Today
 			#EXTINF:-1 tvg-logo="" group-title="Temáticos",Psychic Today
-				https://www.youtube.com/user/PsychicToday/live
+				
 
 		#EXTINF:-1,Expoza Travel
 			#EXTINF:-1 tvg-logo="" group-title="Temáticos",Expoza Travel
-				https://www.youtube.com/user/ExpozaTravel/live
+				
 
 		#EXTINF:-1,canal bang
 			#EXTINF:-1 tvg-logo="" group-title="Temáticos",canal bang
@@ -2755,11 +2748,11 @@
 
 		#EXTINF:-1,ESA Web TV
 			#EXTINF:-1 tvg-logo="" group-title="Temáticos",ESA Web TV
-				http://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
+				
 
 		#EXTINF:-1,Cazavision
 			#EXTINF:-1 tvg-logo="" group-title="Temáticos",Cazavision
-				https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
+				
 			
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Temáticos",
@@ -2789,7 +2782,7 @@
 
 		#EXTINF:-1,0499 Off The Air (INGLES)
 			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4974.jpg" group-title="24/7",0499 Off The Air (INGLES)
-				http://adultswim-vodlive.cdn.turner.com/off-the-air/stream.m3u8
+				
 
 		#EXTINF:-1,0500 Rick and Morty (INGLES)
 			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://userscontent2.emaze.com/images/3aad53e1-b1ed-4615-b73f-5da38c50f186/b6e7a922-ea23-4d64-aaa1-47f1ad5ce794.png" group-title="24/7",0500 Rick and Morty (INGLES)
@@ -2805,15 +2798,15 @@
 
 		#EXTINF:-1,0503 The Venture Bros. (INGLES)
 			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4835.jpg" group-title="24/7",0503 The Venture Bros. (INGLES)
-				http://adultswim-vodlive.cdn.turner.com/the-venture-bros/stream.m3u8
+				
 
 		#EXTINF:-1,0504 Tim and Eric (INGLES)
 			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4874.png" group-title="24/7",0504 Tim and Eric (INGLES)
-				http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
+				
 
 		#EXTINF:-1,0505 Williams Stream (INGLES)
 			#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Williams_Street.png" group-title="24/7",Williams Stream (INGLES)
-				http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
+				
 
 		#EXTINF:-1,0506 CINE ANTONIO FILMES 24HS
 			#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",0506 CINE ANTONIO FILMES 24HS
@@ -2871,7 +2864,7 @@
 				
 		#EXTINF:-1,0515 TVSN (Vendas) 
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/hmmTeR/TVSN.jpg" group-title="Vendas",0515 TVSN (Vendas) 
-				http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
+				
 
 		#EXTINF:-1,0516 HSE 24 EXTRA 
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/i3FX66/HSE_24_EXTRA.png" group-title="Vendas",0516 HSE 24 EXTRA 
@@ -2883,7 +2876,7 @@
 
 		#EXTINF:-1,0518 Japanet Channel DX
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/Zf5H96K/jp-japanet-channel-dx.jpg" group-title="Vendas",0518 Japanet Channel DX
-				http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+				
 
 		#EXTINF:-1,0519 The Shopping Channel (Canada)(Vendas)
 			#EXTINF:-1 tvg-logo="" group-title="Vendas",0519 The Shopping Channel (Canada)(Vendas)
@@ -2907,7 +2900,7 @@
 
 		#EXTINF:-1,Cruise 1st TV
 			#EXTINF:-1 tvg-logo="" group-title="Vendas",Cruise 1st TV
-				https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
+				
 
 		#EXTINF:-1,
 			#EXTINF:-1 tvg-logo="" group-title="Vendas",
@@ -2937,7 +2930,7 @@
 				 
 		#EXTINF:-1,0522 ENLACE JUVENIL (Costa Rica)(Christian)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/fLrY1G/ENLACE_JUVENIL_Costa_Rica_Christian.jpg" group-title="Religioso",0522 ENLACE JUVENIL (Costa Rica)(Christian)
-				http://api.new.livestream.com/accounts/4885740/events/2294538/live.m3u8
+				
 					
 		#EXTINF:-1,0523 logos tv (Espanha)
 			#EXTINF:-1 group-title="Religioso" tvg-id="" "tvg-logo="https://image.ibb.co/dksR3k/logos_tv_espa_a.jpg",0523 logos tv (Espanha)
@@ -2953,7 +2946,7 @@
 
 		#EXTINF:-1,0526 CBS (Koreia Sul)(Christian)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/cC5Br5/CBS_Koreia_Sul_Christian.png" group-title="Religioso",0526 CBS (Koreia Sul)(Christian)
-				rtmp://cbs-live.gscdn.com/cbs-live/cbs-live.stream
+				
 				
 		#EXTINF:-1,0527 TV 7 Plus (Finland)(Christian)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/iSxJeR/TV_7_Plus.jpg" group-title="Religioso",0527 TV 7 Plus (Finland)(Christian)
@@ -2989,7 +2982,7 @@
 
 		#EXTINF:-1,0535 UCSG
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",0535 UCSG
-				http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+				
 
 		#EXTINF:-1,0536 CTV (Ortodoxa Copta)
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/10vpvPq/logo-ctv.jpg" group-title="Religioso",0536 CTV (Ortodoxa Copta)
@@ -2997,7 +2990,7 @@
 
 		#EXTINF:-1,0537 Esperanza TV (cristão)(espanhol)
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",0537 Esperanza TV (cristão)(espanhol)
-				http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
+				
 
 		#EXTINF:-1,0538 RED ADVENIR (cristão)(Bolivia)
 			#EXTINF:-1 tvg-logo="https://i.ibb.co/QnPWNCb/images.jpg" group-title="Religioso",0538 RED ADVENIR (cristão)(Bolivia)
@@ -3013,21 +3006,15 @@
 
 		#EXTINF:-1,0541 CBN Español (cristão)
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",0541 CBN Español (cristão)
-				http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+				
 
 		#EXTINF:-1,0542 The Impact Network (cristão)
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",0542 The Impact Network (cristão)
-				http://206.190.141.27:1935/live/impact/playlist.m3u8
-
-		#EXTINF:-1,0543 Tv Novo Tempo (Envagelica) (Brasil)
-			#EXTINF:-1 tvg-logo="" group-title="Religioso",0543 Tv Novo Tempo (RS) (Envagelica) (Brasil)
-				http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
-			#EXTINF:-1 tvg-logo="" group-title="Religioso",0543 Tv Novo Tempo (SP) (Envagelica) (Brasil)
-				http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8
+				
 
 		#EXTINF:-1,0544 Rede Super
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",0544 Rede Super
-				http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?PEDROJUNIORTUTORIAIS
+				
 
 		#EXTINF:-1,0545 Boa Vontade
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",0545 Boa Vontade (CATÓLICOS)
@@ -3035,7 +3022,7 @@
 
 		#EXTINF:-1,0546 TV Verdade
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",0546 TV Verdade
-				http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8?PEDROJUNIORTUTORIAIS
+				
 
 		#EXTINF:-1,0547 TV Terceiro Anjo (EVANGÉLICOS)
 			#EXTINF:-1 tvg-logo="http://admin.terceiroanjo.com/wp-content/uploads/2013/12/Logo-Terceiro-Anjo-Branco-700.png" group-title="Religioso",0547 TV Terceiro Anjo HD (EVANGÉLICOS)
@@ -3047,7 +3034,7 @@
 				
 		#EXTINF:-1,0106 TV APARECIDA (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/dqt9Bw/TV_APARECIDA.jpg" group-title="Religioso",0106 TV APARECIDA (Brasil)(Religioso)
-				http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
+				
 
 		#EXTINF:-1,0107 REDE VIDA (Brasil)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/e4ddeR/REDE_VIDA_Brasil.jpg" group-title="Religioso",0107 REDE VIDA (Brasil)(Religioso)
@@ -3067,9 +3054,7 @@
 
 		#EXTINF:-1,0111 CANAL EXECUTIVO (BRASIL) (Igreja Adventista do Sétimo Dia)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/fzqJJw/CANAL_EXECUTIVO_BRASIL_Igreja_Adventista_do_S_timo_Dia.png" group-title="Religioso",0111 CANAL EXECUTIVO (BRASIL) (Igreja Adventista do Sétimo Dia)(Religioso)
-				http://stream.novotempo.com:1935/tv/executivo.smil/live.m3u8
-			#EXTINF:-1 tvg-logo="https://image.ibb.co/fzqJJw/CANAL_EXECUTIVO_BRASIL_Igreja_Adventista_do_S_timo_Dia.png" group-title="Religioso",0111 CANAL EXECUTIVO (BRASIL) (Igreja Adventista do Sétimo Dia) (Alternativa)(Religioso)
-				http://stream.novotempo.com:1935/tv/executivo.stream/live.m3u8
+				
 			
 		#EXTINF:-1,0112 CJC (Brasil) (Christian)
 			#EXTINF:-1 tvg-logo="https://image.ibb.co/fSHqyw/CJC_RJ_Brasil_Christian.jpg" group-title="Religioso",0112 CJC RJ (Brasil) (Christian)(Religioso)
@@ -3085,7 +3070,7 @@
 
 		#EXTINF:-1,CATHOLIC TV HD (USA)
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",CATHOLIC TV HD (USA)
-				http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/index_1_av-p.m3u8
+				
 
 		#EXTINF:-1,REDE MÃO AMIGA
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",REDE MÃO AMIGA (EVANGÉLICOS)
@@ -3093,24 +3078,24 @@
 
 		#EXTINF:-1,TV CI (EVANGÉLICOS)
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",TV CI (EVANGÉLICOS)
-				http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8
+				
 
 		#EXTINF:-1,TV MANA 1 - BOAS NOVAS HD (PT) (EVANGÉLICOS)
 			#EXTINF:-1 tvg-logo="http://tvmana1.com/img/logo_tv_mana_1.png" group-title="Religioso",TV MANA 1 - BOAS NOVAS HD (PT) (EVANGÉLICOS)
-				http://csvl04.manasat.com:1935/tvmana/tvmana2/chunklist_w51468928.m3u8
+				
 
 		#EXTINF:-1,MANA SAT - IGREJA ONLINE LISBOA HD (PT) (EVANGÉLICOS)
 			#EXTINF:-1 tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/10/igreja-online.jpg" group-title="Religioso",MANA SAT - IGREJA ONLINE LISBOA HD (PT) (EVANGÉLICOS)
-				http://csvl04.manasat.com:1935/igronline/igronline2/chunklist_w1945580782.m3u8
+				
 
 		#EXTINF:-1,REDE SUPER (MG) (EVANGÉLICOS)
 			#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3b/Logo_da_Rede_Super.png" group-title="Religioso",REDE SUPER (MG) (EVANGÉLICOS)
-				http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+				
 
 		#EXTINF:-1,FONTE TV
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",FONTE TV
 				http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
-			#EXTINF:-1 tvg-logo="" group-title="Religioso",FONTE TV
+			#EXTINF:-1 tvg-logo="" group-title="Religioso",FONTE TV (alt 1)
 				http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
 
 		#EXTINF:-1,SOBRENATURAL TV
@@ -3119,35 +3104,35 @@
 
 		#EXTINF:-1,U Channel (Indonésia)
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",U Channel (Indonésia)
-				http://119.235.249.58:1935/uchannel/live/playlist.m3u8
+				
 
 		#EXTINF:-1,Wesal TV (Sunni Islamic) (saudi arabia)
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",Wesal TV (Sunni Islamic) (saudi arabia)
-				http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
+				
 
 		#EXTINF:-1,Revelation TV
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",Revelation TV
-				http://rtv.cdn.mangomolo.com/rtv/smil:rtv.stream.smil/playlist.m3u8
+				
 
 		#EXTINF:-1,Noor TV
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",Noor TV
-				https://ls1.serverdump.com/stream3.m3u8
+				
 
 		#EXTINF:-1,MTA 1
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",MTA 1
-				https://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/index_1700_av-p.m3u8?sd=10&rebase=on
+				
 
 		#EXTINF:-1,MTA 2
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",MTA 2
-				https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/index_1100_av-p.m3u8?sd=10&rebase=on
+				
 
 		#EXTINF:-1,MTA 3
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",MTA 3
-				https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_2400_av-p.m3u8?sd=10&rebase=on
+				
 
 		#EXTINF:-1,MTA Africa
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",MTA Africa
-				https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/index_3000_av-p.m3u8?sd=10&rebase=on
+				
 
 		#EXTINF:-1,Faith World TV
 			#EXTINF:-1 tvg-logo="" group-title="Religioso",Faith World TV
